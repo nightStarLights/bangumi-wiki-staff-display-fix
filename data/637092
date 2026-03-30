@@ -1,0 +1,29 @@
+{
+  "subjectId": 637092,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        { "ref": "p:1", "as": "奈奈" }
+      ],
+      "composer": [
+        { "ref": "p:40239" }
+      ],
+      "arranger": {
+        "main": [
+          { "ref": "p:40239" }
+        ],
+        "strings": [
+          { "ref": "p:48658" }
+        ]
+      },
+      "instrument": {
+        "guitar": [
+          { "ref": "p:89334" }
+        ]
+      },
+      "guitar_tech": [
+        { "ref": "n:人物名A" }
+      ]
+    }
+  }
+}
