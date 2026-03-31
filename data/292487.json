@@ -1,8 +1,11 @@
 {
   "subjectId": 292487,
   "rawPatches": {
-    "composer": "作曲: 佐藤元気(1.1)",
-    "arranger": "编曲: 佐藤元気(1.1)",
-    "instrument": "乐器-Bass：樋田竜太(1.1)\n乐器-Guitars：樋田竜太(1.1)\n乐器-Keyboards：佐々木聡作(1.1)、観世朱雀(1.1)"
+    "editor": "作曲: 佐藤元気(1.1)\n编曲: 佐藤元気(1.1)\n乐器-Bass：樋田竜太(1.1)\n乐器-Guitars：樋田竜太(1.1)\n乐器-Keyboards：佐々木聡作(1.1)、観世朱雀(1.1)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-03-31T18:56:07.803Z"
   }
 }
