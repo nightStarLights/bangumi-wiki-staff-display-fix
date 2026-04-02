@@ -1,28 +1,6 @@
 {
   "subjectId": 637846,
   "trackCredits": {
-    "1.1": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:64862",
-            "text": "muyu"
-          }
-        }
-      ]
-    },
-    "1.2": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "夜間同好会"
-          }
-        }
-      ]
-    },
     "1.3": {
       "artist": [
         {
@@ -56,28 +34,6 @@
         }
       ]
     },
-    "1.6": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "凍傷のエト"
-          }
-        }
-      ]
-    },
-    "1.7": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:90399",
-            "text": "右角"
-          }
-        }
-      ]
-    },
     "1.8": {
       "artist": [
         {
@@ -88,65 +44,14 @@
           }
         }
       ]
-    },
-    "1.9": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:74364",
-            "text": "Gyr0"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:65556",
-            "text": "KBSNK"
-          }
-        }
-      ]
-    },
-    "1.10": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:65904",
-            "text": "サツキ"
-          }
-        }
-      ]
-    },
-    "1.11": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:90398",
-            "text": "微円"
-          }
-        }
-      ]
-    },
-    "1.12": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:88094",
-            "text": "irukanotane"
-          }
-        }
-      ]
     }
   },
   "rawPatches": {
-    "editor": "艺术家：muyu(1.1)、夜間同好会(1.2)、hakuna(1.3)、サタスコ(1.4)、柚木みとり(1.5)、凍傷のエト(1.6)、右角(1.7)、結サ(1.8)、Gyr0(1.9)、KBSNK(1.9)、サツキ(1.10)、微円(1.11)、irukanotane(1.12)"
+    "editor": "艺术家：hakuna(1.3)、サタスコ(1.4)、柚木みとり(1.5)、、結サ(1.8)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-02T03:26:08.330Z"
+    "submittedAt": "2026-04-02T05:24:47.709Z"
   }
 }
