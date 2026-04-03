@@ -1,0 +1,33 @@
+{
+  "subjectId": 639416,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7924",
+            "text": "USAO"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Joe Fight"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：USAO(1)\n编曲：Joe Fight(1)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-03T18:46:38.447Z"
+  }
+}
