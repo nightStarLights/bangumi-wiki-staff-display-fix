@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:69354",
             "text": "うさおりーぬ"
           }
         }
@@ -15,7 +15,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:69354",
             "text": "うさおりーぬ"
           }
         }
@@ -24,14 +24,14 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:69354",
             "text": "うさおりーぬ"
           }
         },
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:73993",
             "text": "りり"
           }
         }
@@ -40,14 +40,14 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:69354",
             "text": "うさおりーぬ"
           }
         },
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:73993",
             "text": "りり"
           }
         }
@@ -58,7 +58,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:69354",
             "text": "うさおりーぬ"
           }
         }
@@ -67,7 +67,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:69354",
             "text": "うさおりーぬ"
           }
         }
@@ -76,14 +76,14 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:69354",
             "text": "うさおりーぬ"
           }
         },
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:73993",
             "text": "りり"
           }
         }
@@ -92,14 +92,14 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:69354",
             "text": "うさおりーぬ"
           }
         },
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:73993",
             "text": "りり"
           }
         }
@@ -110,7 +110,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:69354",
             "text": "うさおりーぬ"
           }
         }
@@ -119,7 +119,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:69354",
             "text": "うさおりーぬ"
           }
         }
@@ -130,7 +130,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:69354",
             "text": "うさおりーぬ"
           }
         }
@@ -139,7 +139,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:69354",
             "text": "うさおりーぬ"
           }
         }
@@ -150,8 +150,8 @@
     "editor": "作曲、编曲：うさおりーぬ(1,2,3,4)\n艺术家、作词：うさおりーぬ(1,2)、りり(1,2)"
   },
   "_meta": {
-    "submittedBy": "907749",
-    "submittedUserGroup": 10,
-    "submittedAt": "2026-04-04T15:13:27.590Z"
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-04T16:37:47.235Z"
   }
 }
