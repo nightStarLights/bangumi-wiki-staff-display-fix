@@ -1,0 +1,478 @@
+{
+  "subjectId": 639581,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "klkkl"
+          }
+        }
+      ]
+    },
+    "1.25": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "klkkl"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Anemone"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Anemone"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Helsinchu"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "やの"
+          }
+        }
+      ]
+    },
+    "1.15": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "やの"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "チュン棚田"
+          }
+        }
+      ]
+    },
+    "1.35": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "チュン棚田"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:90399",
+            "text": "右角"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "helwi_"
+          }
+        }
+      ]
+    },
+    "1.31": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "helwi_"
+          }
+        }
+      ]
+    },
+    "1.34": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "helwi_"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "misaka_v0u0v"
+          }
+        }
+      ]
+    },
+    "1.21": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "misaka_v0u0v"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "真空管"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "sota"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "斜路"
+          }
+        }
+      ]
+    },
+    "1.30": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "斜路"
+          }
+        }
+      ]
+    },
+    "1.13": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "作田恒星"
+          }
+        }
+      ]
+    },
+    "1.14": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "unten"
+          }
+        }
+      ]
+    },
+    "1.33": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "unten"
+          }
+        }
+      ]
+    },
+    "1.39": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "unten"
+          }
+        }
+      ]
+    },
+    "1.16": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "アルキドP"
+          }
+        }
+      ]
+    },
+    "1.38": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "アルキドP"
+          }
+        }
+      ]
+    },
+    "1.17": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "乃々野ねね"
+          }
+        }
+      ]
+    },
+    "1.19": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "乃々野ねね"
+          }
+        }
+      ]
+    },
+    "1.24": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "乃々野ねね"
+          }
+        }
+      ]
+    },
+    "1.36": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "乃々野ねね"
+          }
+        }
+      ]
+    },
+    "1.18": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "g"
+          }
+        }
+      ]
+    },
+    "1.20": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67419",
+            "text": "竹馬あお"
+          }
+        }
+      ]
+    },
+    "1.41": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67419",
+            "text": "竹馬あお"
+          }
+        }
+      ]
+    },
+    "1.22": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "パペ"
+          }
+        }
+      ]
+    },
+    "1.23": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "あんどう"
+          }
+        }
+      ]
+    },
+    "1.26": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Nagara"
+          }
+        }
+      ]
+    },
+    "1.27": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "さめこうもり"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "×"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "六葉"
+          }
+        }
+      ]
+    },
+    "1.28": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Salica"
+          }
+        }
+      ]
+    },
+    "1.29": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ririwo"
+          }
+        }
+      ]
+    },
+    "1.32": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "にとろ"
+          }
+        }
+      ]
+    },
+    "1.37": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ilori"
+          }
+        }
+      ]
+    },
+    "1.40": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "名乃ぱんち"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：klkkl(1,25)、Anemone(2,3)、Helsinchu(4)、やの(5,15)、チュン棚田(6,35)、右角(7)、helwi_(8,31,34)、misaka_v0u0v(9,21)、真空管(10)、sota(11)、斜路(12,30)、作田恒星(13)、unten(14,33,39)、アルキドP(16,38)、乃々野ねね(17,19,24,36)、g(18)、竹馬あお(20,41)、パペ(22)、あんどう(23)、Nagara(26)、さめこうもり(27)、×(27)、六葉(27)、Salica(28)、Ririwo(29)、にとろ(32)、ilori(37)、名乃ぱんち(40)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-04T13:32:24.380Z"
+  }
+}
