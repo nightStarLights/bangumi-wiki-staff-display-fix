@@ -1,0 +1,108 @@
+{
+  "subjectId": 639658,
+  "trackCredits": {
+    "1.8": {
+      "artist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": "p:14631",
+            "text": "COSIO"
+          },
+          "person": {
+            "ref": "p:14631",
+            "text": "小塩広和"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86730",
+            "text": "hasu"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ikeさん"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "karu.海野和子♪"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Lil'B"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "SAWAMMY"
+          }
+        }
+      ]
+    },
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "SHU"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "神坂なおや"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：COSIO (小塩広和)(8)、hasu(5)、ikeさん(4)、karu.海野和子♪(3)、Lil'B(6)、SAWAMMY(7)、SHU(1)、神坂なおや(2)"
+  },
+  "_meta": {
+    "submittedBy": "907749",
+    "submittedUserGroup": 10,
+    "submittedAt": "2026-04-04T19:29:59.257Z",
+    "reviewedBy": "sakarin",
+    "reviewedUserGroup": 11,
+    "reviewedAt": "2026-04-04T19:39:58.316Z"
+  }
+}
