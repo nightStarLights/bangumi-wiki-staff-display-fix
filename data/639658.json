@@ -6,11 +6,11 @@
         {
           "type": "alias_person",
           "alias": {
-            "ref": null,
+            "ref": "p:14631",
             "text": "COSIO"
           },
           "person": {
-            "ref": null,
+            "ref": "p:14631",
             "text": "小塩広和"
           }
         }
@@ -21,7 +21,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:86730",
             "text": "hasu"
           }
         }
@@ -100,6 +100,9 @@
   "_meta": {
     "submittedBy": "907749",
     "submittedUserGroup": 10,
-    "submittedAt": "2026-04-04T19:29:59.257Z"
+    "submittedAt": "2026-04-04T19:29:59.257Z",
+    "reviewedBy": "sakarin",
+    "reviewedUserGroup": 11,
+    "reviewedAt": "2026-04-04T19:33:16.690Z"
   }
 }
