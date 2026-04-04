@@ -6,14 +6,14 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:69354",
             "text": "うさおりーぬ"
           }
         },
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:73993",
             "text": "りり"
           }
         }
@@ -22,8 +22,26 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:73993",
             "text": "りり"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69354",
+            "text": "うさおりーぬ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69354",
+            "text": "うさおりーぬ"
           }
         }
       ]
@@ -33,14 +51,14 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:69354",
             "text": "うさおりーぬ"
           }
         },
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:73993",
             "text": "りり"
           }
         }
@@ -49,8 +67,26 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:73993",
             "text": "りり"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69354",
+            "text": "うさおりーぬ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69354",
+            "text": "うさおりーぬ"
           }
         }
       ]
@@ -60,15 +96,42 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:69354",
             "text": "うさおりーぬ"
           }
         },
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:73993",
             "text": "りり"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69354",
+            "text": "うさおりーぬ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69354",
+            "text": "うさおりーぬ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69354",
+            "text": "うさおりーぬ"
           }
         }
       ]
@@ -78,8 +141,8 @@
     "editor": "艺术家：うさおりーぬ(1,2,3)、りり(1,2,3)\n作词：りり(1,2)\n作曲、编曲：うさおりーぬ(1,2)\n作词、作曲、编曲：うさおりーぬ(3)"
   },
   "_meta": {
-    "submittedBy": "907749",
-    "submittedUserGroup": 10,
-    "submittedAt": "2026-04-04T14:09:25.182Z"
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-04T17:45:02.448Z"
   }
 }
