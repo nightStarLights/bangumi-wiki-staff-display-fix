@@ -1,0 +1,94 @@
+{
+  "subjectId": 639593,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "悠花ユカ (悠花)"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "悠花ユカ (悠花)"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "折倉俊則"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "悠花ユカ (悠花)"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "折倉俊則"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "悠花ユカ (悠花)"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "悠花ユカ (悠花)"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Dav"
+          },
+          "inst": "Guitar."
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "作词：悠花ユカ (悠花)(1,4,5,6)\n作曲：折倉俊則(4)、悠花ユカ (悠花)(4)\n编曲：折倉俊則(4)\n作曲、编曲：Lamb(1)、MAYA AKAI(6)、Yuy(5)\n作词、作曲、编曲：Katto(3)、相葉まこと(2)\n乐器-Guitar.：Dav(3)"
+  },
+  "_meta": {
+    "submittedBy": "907749",
+    "submittedUserGroup": 10,
+    "submittedAt": "2026-04-04T14:36:39.261Z"
+  }
+}
