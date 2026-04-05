@@ -1,0 +1,281 @@
+{
+  "subjectId": 548889,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": "p:33579",
+            "text": "モモキエイジ"
+          },
+          "person": {
+            "ref": "p:33579",
+            "text": "八城雄太"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:20262",
+            "text": "佐藤貴文"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10089",
+            "text": "EFFY"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15243",
+            "text": "藤本記子"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9254",
+            "text": "堀江晶太"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9254",
+            "text": "堀江晶太"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11243",
+            "text": "唐沢美帆"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:29783",
+            "text": "新田目翔"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:29783",
+            "text": "新田目翔"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11243",
+            "text": "唐沢美帆"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9254",
+            "text": "堀江晶太"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9254",
+            "text": "堀江晶太"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8790",
+            "text": "原田篤"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:35883",
+            "text": "半田翼"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:35883",
+            "text": "半田翼"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:26902",
+            "text": "宮崎まゆ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "KOH"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "KOH"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:40033",
+            "text": "MEG.ME"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6979",
+            "text": "矢鴇つかさ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6979",
+            "text": "矢鴇つかさ"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71577",
+            "text": "mekakushe"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9062",
+            "text": "松坂康司"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9575",
+            "text": "佐高陵平"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11238",
+            "text": "辻純更"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66763",
+            "text": "塩原大貴"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66763",
+            "text": "塩原大貴"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "作词：モモキエイジ(1)、藤本記子(2)、唐沢美帆(3,7)、原田篤(4)、宮崎まゆ(5)、MEG.ME(6)、mekakushe(8)、辻純更(9)\n作曲：佐藤貴文(1)、堀江晶太(2,7)、新田目翔(3)、半田翼(4)、KOH(5)、矢鴇つかさ(6)、松坂康司(8)、塩原大貴(9)\n编曲：EFFY(1)、堀江晶太(2,7)、新田目翔(3)、半田翼(4)、KOH(5)、矢鴇つかさ(6)、佐高陵平(8)、塩原大貴(9)"
+  },
+  "_meta": {
+    "submittedBy": "907749",
+    "submittedUserGroup": 10,
+    "submittedAt": "2026-04-05T12:52:52.312Z",
+    "reviewedBy": "sakarin",
+    "reviewedUserGroup": 11,
+    "reviewedAt": "2026-04-05T13:01:16.224Z"
+  }
+}
