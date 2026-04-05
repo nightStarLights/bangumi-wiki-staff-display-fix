@@ -1,0 +1,28 @@
+{
+  "subjectId": 593124,
+  "trackCredits": {
+    "1.3": {
+      "arranger": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "OD"
+          },
+          "person": {
+            "ref": null,
+            "text": "岡村大輔"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "ARRANGER:OD(岡村大輔) (3)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-05T13:21:58.540Z"
+  }
+}
