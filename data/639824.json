@@ -7,7 +7,7 @@
           "type": "person",
           "person": {
             "ref": null,
-            "text": "MaiR"
+            "text": "MaiR3"
           }
         }
       ]
@@ -47,11 +47,14 @@
     }
   },
   "rawPatches": {
-    "editor": "艺术家：MaiR(2)、キョンシーのCiちゃん(4)、松永依織(3)、夕月ティア(5)"
+    "editor": "艺术家：MaiR3(2)、キョンシーのCiちゃん(4)、松永依織(3)、夕月ティア(5)"
   },
   "_meta": {
     "submittedBy": "907749",
     "submittedUserGroup": 10,
-    "submittedAt": "2026-04-05T14:15:35.943Z"
+    "submittedAt": "2026-04-05T14:15:35.943Z",
+    "updatedBy": "907749",
+    "updatedUserGroup": 10,
+    "updatedAt": "2026-04-05T14:40:31.031Z"
   }
 }
