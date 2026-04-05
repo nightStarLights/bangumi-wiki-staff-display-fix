@@ -1,7 +1,7 @@
 {
   "subjectId": 593124,
   "trackCredits": {
-    "1.3": {
+    "1.1": {
       "arranger": [
         {
           "type": "alias_person",
@@ -18,11 +18,11 @@
     }
   },
   "rawPatches": {
-    "editor": "ARRANGER:OD(岡村大輔) (3)"
+    "editor": "arranger: OD(岡村大輔) (1)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-05T13:21:58.540Z"
+    "submittedAt": "2026-04-05T13:23:26.449Z"
   }
 }
