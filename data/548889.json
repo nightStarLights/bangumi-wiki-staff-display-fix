@@ -4,10 +4,14 @@
     "1.1": {
       "lyricist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
+          "type": "alias_person",
+          "alias": {
+            "ref": "p:33579",
             "text": "モモキエイジ"
+          },
+          "person": {
+            "ref": "p:33579",
+            "text": "八城雄太"
           }
         }
       ],
@@ -15,7 +19,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:20262",
             "text": "佐藤貴文"
           }
         }
@@ -24,7 +28,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:10089",
             "text": "EFFY"
           }
         }
@@ -35,7 +39,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:15243",
             "text": "藤本記子"
           }
         }
@@ -44,7 +48,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:9254",
             "text": "堀江晶太"
           }
         }
@@ -53,7 +57,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:9254",
             "text": "堀江晶太"
           }
         }
@@ -64,7 +68,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:11243",
             "text": "唐沢美帆"
           }
         }
@@ -73,7 +77,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:29783",
             "text": "新田目翔"
           }
         }
@@ -82,7 +86,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:29783",
             "text": "新田目翔"
           }
         }
@@ -93,7 +97,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:11243",
             "text": "唐沢美帆"
           }
         }
@@ -102,7 +106,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:9254",
             "text": "堀江晶太"
           }
         }
@@ -111,7 +115,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:9254",
             "text": "堀江晶太"
           }
         }
@@ -122,7 +126,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:8790",
             "text": "原田篤"
           }
         }
@@ -131,7 +135,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:35883",
             "text": "半田翼"
           }
         }
@@ -140,7 +144,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:35883",
             "text": "半田翼"
           }
         }
@@ -151,7 +155,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:26902",
             "text": "宮崎まゆ"
           }
         }
@@ -180,7 +184,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:40033",
             "text": "MEG.ME"
           }
         }
@@ -189,7 +193,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:6979",
             "text": "矢鴇つかさ"
           }
         }
@@ -198,7 +202,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:6979",
             "text": "矢鴇つかさ"
           }
         }
@@ -209,7 +213,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:71577",
             "text": "mekakushe"
           }
         }
@@ -218,7 +222,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:9062",
             "text": "松坂康司"
           }
         }
@@ -227,7 +231,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:9575",
             "text": "佐高陵平"
           }
         }
@@ -238,7 +242,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:11238",
             "text": "辻純更"
           }
         }
@@ -247,7 +251,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:66763",
             "text": "塩原大貴"
           }
         }
@@ -256,7 +260,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:66763",
             "text": "塩原大貴"
           }
         }
@@ -269,6 +273,9 @@
   "_meta": {
     "submittedBy": "907749",
     "submittedUserGroup": 10,
-    "submittedAt": "2026-04-05T12:52:52.312Z"
+    "submittedAt": "2026-04-05T12:52:52.312Z",
+    "reviewedBy": "sakarin",
+    "reviewedUserGroup": 11,
+    "reviewedAt": "2026-04-05T12:53:13.208Z"
   }
 }
