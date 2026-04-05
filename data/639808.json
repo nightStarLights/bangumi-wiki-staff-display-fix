@@ -1,0 +1,35 @@
+{
+  "subjectId": 639808,
+  "trackCredits": {
+    "1.2": {
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "るーざ"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "るーざ"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "Mixing: るーざ(2,4)"
+  },
+  "_meta": {
+    "submittedBy": "1233756",
+    "submittedUserGroup": 10,
+    "submittedAt": "2026-04-05T15:49:37.085Z"
+  }
+}
