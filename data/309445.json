@@ -10,10 +10,28 @@
             "text": "test"
           }
         }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "test"
+          }
+        }
       ]
     },
     "1.2": {
       "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "test"
+          }
+        }
+      ],
+      "arranger": [
         {
           "type": "person",
           "person": {
@@ -32,6 +50,15 @@
             "text": "test"
           }
         }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "test"
+          }
+        }
       ]
     },
     "1.4": {
@@ -43,18 +70,41 @@
             "text": "test"
           }
         }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "test"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "test"
+          }
+        }
       ]
     }
   },
   "rawPatches": {
-    "editor": "composer: test (1.1-4)\narrnager: test (1.1-4)"
+    "editor": "composer: test (1.1-4)\narranger: test (1.1-5)"
   },
   "_meta": {
     "submittedBy": "1233756",
     "submittedUserGroup": 10,
     "submittedAt": "2026-04-07T12:56:17.293Z",
-    "updatedBy": "1233756",
-    "updatedUserGroup": 10,
-    "updatedAt": "2026-04-07T12:57:19.105Z"
+    "updatedBy": "sakarin",
+    "updatedUserGroup": 11,
+    "updatedAt": "2026-04-07T12:57:58.472Z",
+    "reviewedBy": "sakarin",
+    "reviewedUserGroup": 11,
+    "reviewedAt": "2026-04-07T12:57:58.472Z"
   }
 }
