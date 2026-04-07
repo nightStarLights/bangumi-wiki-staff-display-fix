@@ -33,14 +33,28 @@
           }
         }
       ]
+    },
+    "1.4": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "test"
+          }
+        }
+      ]
     }
   },
   "rawPatches": {
-    "editor": "composer: test (1.1,1.2,1.3)"
+    "editor": "composer: test (1.1-4)\narrnager: test (1.1-4)"
   },
   "_meta": {
     "submittedBy": "1233756",
     "submittedUserGroup": 10,
-    "submittedAt": "2026-04-07T12:56:17.293Z"
+    "submittedAt": "2026-04-07T12:56:17.293Z",
+    "updatedBy": "1233756",
+    "updatedUserGroup": 10,
+    "updatedAt": "2026-04-07T12:57:19.105Z"
   }
 }
