@@ -1,0 +1,290 @@
+{
+  "subjectId": 7515,
+  "trackCredits": {
+    "1.2": {
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5761",
+            "text": "霜月はるか"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5761",
+            "text": "霜月はるか"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5761",
+            "text": "霜月はるか"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5761",
+            "text": "霜月はるか"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:67697",
+            "text": "藤野由佳"
+          },
+          "inst": "Accordion"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:83253",
+            "text": "田中真理"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:83261",
+            "text": "Gakkie"
+          },
+          "inst": "Percussion"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:83259",
+            "text": "山口佳名子"
+          },
+          "inst": "Violin"
+        }
+      ]
+    },
+    "1.6": {
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5761",
+            "text": "霜月はるか"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6510",
+            "text": "志方あきこ"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5761",
+            "text": "霜月はるか"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6042",
+            "text": "みとせのりこ"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "alias_instrument_credit",
+          "alias": {
+            "ref": "p:11570",
+            "text": "Dani"
+          },
+          "person": {
+            "ref": "p:11570",
+            "text": "迎谷彰信"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "alias_instrument_credit",
+          "alias": {
+            "ref": "p:11570",
+            "text": "Dani"
+          },
+          "person": {
+            "ref": "p:11570",
+            "text": "迎谷彰信"
+          },
+          "inst": "Bass"
+        }
+      ]
+    },
+    "1.9": {
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6042",
+            "text": "みとせのりこ"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "alias_instrument_credit",
+          "alias": {
+            "ref": "p:31861",
+            "text": "H.バレー キングベアード"
+          },
+          "person": {
+            "ref": "p:31861",
+            "text": "熊谷尚信"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:83257",
+            "text": "ゑいじ"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:83262",
+            "text": "Achmedd銛"
+          },
+          "inst": "Percussion"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:83260",
+            "text": "ペ コーヰチ"
+          },
+          "inst": "Bass"
+        },
+        {
+          "type": "alias_instrument_credit",
+          "alias": {
+            "ref": "p:32172",
+            "text": "イナヲ"
+          },
+          "person": {
+            "ref": "p:32172",
+            "text": "鷹茂イナヲ"
+          },
+          "inst": "Drum"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:83263",
+            "text": "JUNK"
+          },
+          "inst": "演奏"
+        }
+      ]
+    },
+    "1.10": {
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6042",
+            "text": "みとせのりこ"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6042",
+            "text": "みとせのりこ"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:83258",
+            "text": "壷井彰久"
+          },
+          "inst": "Violin"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:3456",
+            "text": "柳英一郎"
+          },
+          "inst": "Bass"
+        }
+      ]
+    },
+    "1.11": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:66113",
+            "text": "太田光宏"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "alias_instrument_credit",
+          "alias": {
+            "ref": "p:11570",
+            "text": "Dani"
+          },
+          "person": {
+            "ref": "p:11570",
+            "text": "迎谷彰信"
+          },
+          "inst": "Bass"
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "声乐：霜月はるか(2,3,4,5,6,7)、志方あきこ(6)、みとせのりこ(8,9,10,12)\n乐器-Accordion：藤野由佳(5)\n乐器-Guitar：田中真理(5)、Dani(8)、H.バレー キングベアード(9)、ゑいじ(9)、太田光宏(11)\n乐器-Percussion：Gakkie(5)、Achmedd銛(9)\n乐器-Violin：山口佳名子(5)、壷井彰久(12)\n乐器-Bass：Dani(8,11)、ペ コーヰチ(9)、柳英一郎(12)\n乐器-Drum：イナヲ(9)\n乐器-演奏：JUNK(9)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-07T17:16:27.119Z"
+  }
+}
