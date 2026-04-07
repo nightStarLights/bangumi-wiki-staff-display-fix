@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:5761",
             "text": "霜月はるか"
           }
         }
@@ -17,7 +17,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:5761",
             "text": "霜月はるか"
           }
         }
@@ -28,7 +28,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:5761",
             "text": "霜月はるか"
           }
         }
@@ -39,7 +39,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:5761",
             "text": "霜月はるか"
           }
         }
@@ -84,14 +84,14 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:5761",
             "text": "霜月はるか"
           }
         },
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:6510",
             "text": "志方あきこ"
           }
         }
@@ -102,7 +102,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:5761",
             "text": "霜月はるか"
           }
         }
@@ -113,25 +113,33 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:6042",
             "text": "みとせのりこ"
           }
         }
       ],
       "instrument": [
         {
-          "type": "instrument_credit",
-          "person": {
-            "ref": null,
+          "type": "alias_instrument_credit",
+          "alias": {
+            "ref": "p:11570",
             "text": "Dani"
+          },
+          "person": {
+            "ref": "p:11570",
+            "text": "迎谷彰信"
           },
           "inst": "Guitar"
         },
         {
-          "type": "instrument_credit",
-          "person": {
-            "ref": null,
+          "type": "alias_instrument_credit",
+          "alias": {
+            "ref": "p:11570",
             "text": "Dani"
+          },
+          "person": {
+            "ref": "p:11570",
+            "text": "迎谷彰信"
           },
           "inst": "Bass"
         }
@@ -142,17 +150,21 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:6042",
             "text": "みとせのりこ"
           }
         }
       ],
       "instrument": [
         {
-          "type": "instrument_credit",
-          "person": {
-            "ref": null,
+          "type": "alias_instrument_credit",
+          "alias": {
+            "ref": "p:31861",
             "text": "H.バレー キングベアード"
+          },
+          "person": {
+            "ref": "p:31861",
+            "text": "熊谷尚信"
           },
           "inst": "Guitar"
         },
@@ -181,10 +193,14 @@
           "inst": "Bass"
         },
         {
-          "type": "instrument_credit",
-          "person": {
-            "ref": null,
+          "type": "alias_instrument_credit",
+          "alias": {
+            "ref": "p:32172",
             "text": "イナヲ"
+          },
+          "person": {
+            "ref": "p:32172",
+            "text": "鷹茂イナヲ"
           },
           "inst": "Drum"
         },
@@ -203,7 +219,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:6042",
             "text": "みとせのりこ"
           }
         }
@@ -214,7 +230,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:6042",
             "text": "みとせのりこ"
           }
         }
@@ -249,10 +265,14 @@
           "inst": "Guitar"
         },
         {
-          "type": "instrument_credit",
-          "person": {
-            "ref": null,
+          "type": "alias_instrument_credit",
+          "alias": {
+            "ref": "p:11570",
             "text": "Dani"
+          },
+          "person": {
+            "ref": "p:11570",
+            "text": "迎谷彰信"
           },
           "inst": "Bass"
         }
@@ -265,6 +285,9 @@
   "_meta": {
     "submittedBy": "1233756",
     "submittedUserGroup": 10,
-    "submittedAt": "2026-04-07T17:51:44.462Z"
+    "submittedAt": "2026-04-07T17:51:44.462Z",
+    "updatedBy": "1233756",
+    "updatedUserGroup": 10,
+    "updatedAt": "2026-04-07T17:52:09.010Z"
   }
 }
