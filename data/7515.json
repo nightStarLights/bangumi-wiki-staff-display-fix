@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:5761",
+            "ref": null,
             "text": "霜月はるか"
           }
         }
@@ -17,7 +17,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:5761",
+            "ref": null,
             "text": "霜月はるか"
           }
         }
@@ -28,7 +28,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:5761",
+            "ref": null,
             "text": "霜月はるか"
           }
         }
@@ -39,7 +39,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:5761",
+            "ref": null,
             "text": "霜月はるか"
           }
         }
@@ -84,14 +84,14 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:5761",
+            "ref": null,
             "text": "霜月はるか"
           }
         },
         {
           "type": "person",
           "person": {
-            "ref": "p:6510",
+            "ref": null,
             "text": "志方あきこ"
           }
         }
@@ -102,7 +102,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:5761",
+            "ref": null,
             "text": "霜月はるか"
           }
         }
@@ -113,33 +113,25 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:6042",
+            "ref": null,
             "text": "みとせのりこ"
           }
         }
       ],
       "instrument": [
         {
-          "type": "alias_instrument_credit",
-          "alias": {
+          "type": "instrument_credit",
+          "person": {
             "ref": null,
             "text": "Dani"
-          },
-          "person": {
-            "ref": "p:11570",
-            "text": "迎谷彰信"
           },
           "inst": "Guitar"
         },
         {
-          "type": "alias_instrument_credit",
-          "alias": {
+          "type": "instrument_credit",
+          "person": {
             "ref": null,
             "text": "Dani"
-          },
-          "person": {
-            "ref": "p:11570",
-            "text": "迎谷彰信"
           },
           "inst": "Bass"
         }
@@ -150,21 +142,17 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:6042",
+            "ref": null,
             "text": "みとせのりこ"
           }
         }
       ],
       "instrument": [
         {
-          "type": "alias_instrument_credit",
-          "alias": {
+          "type": "instrument_credit",
+          "person": {
             "ref": null,
             "text": "H.バレー キングベアード"
-          },
-          "person": {
-            "ref": "p:31861",
-            "text": "熊谷尚信"
           },
           "inst": "Guitar"
         },
@@ -193,14 +181,10 @@
           "inst": "Bass"
         },
         {
-          "type": "alias_instrument_credit",
-          "alias": {
+          "type": "instrument_credit",
+          "person": {
             "ref": null,
             "text": "イナヲ"
-          },
-          "person": {
-            "ref": "p:32172",
-            "text": "鷹茂イナヲ"
           },
           "inst": "Drum"
         },
@@ -219,7 +203,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:6042",
+            "ref": null,
             "text": "みとせのりこ"
           }
         }
@@ -230,7 +214,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:6042",
+            "ref": null,
             "text": "みとせのりこ"
           }
         }
@@ -265,14 +249,10 @@
           "inst": "Guitar"
         },
         {
-          "type": "alias_instrument_credit",
-          "alias": {
+          "type": "instrument_credit",
+          "person": {
             "ref": null,
             "text": "Dani"
-          },
-          "person": {
-            "ref": "p:11570",
-            "text": "迎谷彰信"
           },
           "inst": "Bass"
         }
@@ -286,8 +266,11 @@
     "submittedBy": "1233756",
     "submittedUserGroup": 10,
     "submittedAt": "2026-04-07T17:51:44.462Z",
-    "updatedBy": "1233756",
-    "updatedUserGroup": 10,
-    "updatedAt": "2026-04-07T17:54:40.645Z"
+    "updatedBy": "sakarin",
+    "updatedUserGroup": 11,
+    "updatedAt": "2026-04-07T20:07:53.225Z",
+    "reviewedBy": "sakarin",
+    "reviewedUserGroup": 11,
+    "reviewedAt": "2026-04-07T20:07:53.225Z"
   }
 }
