@@ -122,7 +122,7 @@
         {
           "type": "alias_instrument_credit",
           "alias": {
-            "ref": "p:11570",
+            "ref": null,
             "text": "Dani"
           },
           "person": {
@@ -134,7 +134,7 @@
         {
           "type": "alias_instrument_credit",
           "alias": {
-            "ref": "p:11570",
+            "ref": null,
             "text": "Dani"
           },
           "person": {
@@ -159,7 +159,7 @@
         {
           "type": "alias_instrument_credit",
           "alias": {
-            "ref": "p:31861",
+            "ref": null,
             "text": "H.バレー キングベアード"
           },
           "person": {
@@ -195,7 +195,7 @@
         {
           "type": "alias_instrument_credit",
           "alias": {
-            "ref": "p:32172",
+            "ref": null,
             "text": "イナヲ"
           },
           "person": {
@@ -267,7 +267,7 @@
         {
           "type": "alias_instrument_credit",
           "alias": {
-            "ref": "p:11570",
+            "ref": null,
             "text": "Dani"
           },
           "person": {
@@ -288,6 +288,6 @@
     "submittedAt": "2026-04-07T17:51:44.462Z",
     "updatedBy": "1233756",
     "updatedUserGroup": 10,
-    "updatedAt": "2026-04-07T17:52:09.010Z"
+    "updatedAt": "2026-04-07T17:54:40.645Z"
   }
 }
