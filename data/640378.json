@@ -1,0 +1,37 @@
+{
+  "subjectId": 640378,
+  "trackCredits": {
+    "1.2": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Isaya"
+          },
+          "inst": "ギター"
+        }
+      ]
+    },
+    "1.5": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Isaya"
+          },
+          "inst": "ギター"
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "乐器-ギター：Isaya(2,5)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-08T16:05:42.257Z"
+  }
+}
