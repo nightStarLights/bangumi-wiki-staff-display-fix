@@ -120,28 +120,28 @@
       ],
       "instrument": [
         {
-          "type": "alias_instrument_credit",
-          "alias": {
-            "ref": null,
-            "text": "Dani"
-          },
-          "person": {
-            "ref": "p:11570",
-            "text": "迎谷彰信"
-          },
-          "inst": "Guitar"
+          "parts": [
+            "Dani",
+            " (",
+            {
+              "ref": "p:11570",
+              "text": "迎谷彰信"
+            },
+            ")",
+            " (Guitar)"
+          ]
         },
         {
-          "type": "alias_instrument_credit",
-          "alias": {
-            "ref": null,
-            "text": "Dani"
-          },
-          "person": {
-            "ref": "p:11570",
-            "text": "迎谷彰信"
-          },
-          "inst": "Bass"
+          "parts": [
+            "Dani",
+            " (",
+            {
+              "ref": "p:11570",
+              "text": "迎谷彰信"
+            },
+            ")",
+            " (Bass)"
+          ]
         }
       ]
     },
@@ -157,16 +157,16 @@
       ],
       "instrument": [
         {
-          "type": "alias_instrument_credit",
-          "alias": {
-            "ref": null,
-            "text": "H.バレー キングベアード"
-          },
-          "person": {
-            "ref": "p:31861",
-            "text": "熊谷尚信"
-          },
-          "inst": "Guitar"
+          "parts": [
+            "H.バレー キングベアード",
+            " (",
+            {
+              "ref": "p:31861",
+              "text": "熊谷尚信"
+            },
+            ")",
+            " (Guitar)"
+          ]
         },
         {
           "type": "instrument_credit",
@@ -193,16 +193,16 @@
           "inst": "Bass"
         },
         {
-          "type": "alias_instrument_credit",
-          "alias": {
-            "ref": null,
-            "text": "イナヲ"
-          },
-          "person": {
-            "ref": "p:32172",
-            "text": "鷹茂イナヲ"
-          },
-          "inst": "Drum"
+          "parts": [
+            "イナヲ",
+            " (",
+            {
+              "ref": "p:32172",
+              "text": "鷹茂イナヲ"
+            },
+            ")",
+            " (Drum)"
+          ]
         },
         {
           "type": "instrument_credit",
@@ -265,26 +265,32 @@
           "inst": "Guitar"
         },
         {
-          "type": "alias_instrument_credit",
-          "alias": {
-            "ref": null,
-            "text": "Dani"
-          },
-          "person": {
-            "ref": "p:11570",
-            "text": "迎谷彰信"
-          },
-          "inst": "Bass"
+          "parts": [
+            "Dani",
+            " (",
+            {
+              "ref": "p:11570",
+              "text": "迎谷彰信"
+            },
+            ")",
+            " (Bass)"
+          ]
         }
       ]
     }
   },
   "rawPatches": {
-    "editor": "声乐：霜月はるか(2,3,4,5,6,7)、志方あきこ(6)、みとせのりこ(8,9,10,12)\n乐器-Accordion：藤野由佳(5)\n乐器-Guitar：田中真理(5)、Dani(8)、H.バレー キングベアード(9)、ゑいじ(9)、太田光宏(11)\n乐器-Percussion：Gakkie(5)、Achmedd銛(9)\n乐器-Violin：山口佳名子(5)、壷井彰久(12)\n乐器-Bass：Dani(8,11)、ペ コーヰチ(9)、柳英一郎(12)\n乐器-Drum：イナヲ(9)\n乐器-演奏：JUNK(9)"
+    "editor": "声乐：霜月はるか(2,3,4,5,6,7)、志方あきこ(6)、みとせのりこ(8,9,10,12)\n乐器-Accordion：藤野由佳(5)\n乐器-Guitar：田中真理(5)、Dani (迎谷彰信)(8)、H.バレー キングベアード (熊谷尚信)(9)、ゑいじ(9)、太田光宏(11)\n乐器-Percussion：Gakkie(5)、Achmedd銛(9)\n乐器-Violin：山口佳名子(5)、壷井彰久(12)\n乐器-Bass：Dani (迎谷彰信)(8,11)、ペ コーヰチ(9)、柳英一郎(12)\n乐器-Drum：イナヲ (鷹茂イナヲ)(9)\n乐器-演奏：JUNK(9)"
   },
   "_meta": {
-    "submittedBy": "sakarin",
-    "submittedUserGroup": 11,
-    "submittedAt": "2026-04-08T18:41:13.284Z"
+    "submittedBy": "1233756",
+    "submittedUserGroup": 10,
+    "submittedAt": "2026-04-08T19:00:40.435Z",
+    "updatedBy": "sakarin",
+    "updatedUserGroup": 11,
+    "updatedAt": "2026-04-08T19:35:54.336Z",
+    "reviewedBy": "sakarin",
+    "reviewedUserGroup": 11,
+    "reviewedAt": "2026-04-08T19:35:54.336Z"
   }
 }
