@@ -1,0 +1,24 @@
+{
+  "subjectId": 616897,
+  "trackCredits": {
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "James Landino"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "artist:James Landino(4)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-08T10:15:44.802Z"
+  }
+}
