@@ -2,23 +2,90 @@
   "subjectId": 640328,
   "trackCredits": {
     "1.1": {
-      "mixing": [
+      "artist": [
         {
           "type": "person",
           "person": {
-            "ref": null,
-            "text": "すずやすず"
+            "ref": "p:91466",
+            "text": "七狼さくや"
           }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91466",
+            "text": "七狼さくや"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            "HINODE (",
+            {
+              "ref": "p:64798",
+              "text": "ヒノデ"
+            },
+            ")"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            "HINODE (",
+            {
+              "ref": "p:64798",
+              "text": "ヒノデ"
+            },
+            ")"
+          ]
         }
       ]
     },
     "1.2": {
-      "mixing": [
+      "artist": [
         {
           "type": "person",
           "person": {
-            "ref": null,
-            "text": "すずやすず"
+            "ref": "p:91466",
+            "text": "七狼さくや"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91466",
+            "text": "七狼さくや"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91467",
+            "text": "Ki.tSu.né"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91467",
+            "text": "Ki.tSu.né"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91467",
+            "text": "Ki.tSu.né"
           }
         }
       ]
@@ -30,6 +97,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-08T11:47:07.326Z"
+    "submittedAt": "2026-04-08T11:47:16.015Z"
   }
 }
