@@ -1,0 +1,103 @@
+{
+  "subjectId": 640384,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Mori Umi"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Jouder Min"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Yousora"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Mori Umi"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "31 Guitar"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "31 Guitar"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Jouder Min"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "31 Guitar"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "31 Guitar"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "作词：Mori Umi(1,2)\n混音：Jouder Min(1,3)、31 Guitar(2,4)\n母带制作：31 Guitar(2,4)\n乐器-Guitar：Yousora(1)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-08T17:03:38.496Z"
+  }
+}
