@@ -1,0 +1,35 @@
+{
+  "subjectId": 640328,
+  "trackCredits": {
+    "1.1": {
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "すずやすず"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "すずやすず"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "混音：すずやすず(1,2)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-08T11:47:07.326Z"
+  }
+}
