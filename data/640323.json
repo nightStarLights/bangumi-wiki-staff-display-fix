@@ -1,7 +1,96 @@
 {
   "subjectId": 640323,
   "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5919",
+            "text": "仲村芽衣子"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5919",
+            "text": "仲村芽衣子"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            "ALNEAR (",
+            {
+              "ref": "p:5920",
+              "text": "琉姫アルナ"
+            },
+            ")"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            "ALNEAR (",
+            {
+              "ref": "p:5920",
+              "text": "琉姫アルナ"
+            },
+            ")"
+          ]
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:43550",
+            "text": "Shibayan"
+          }
+        }
+      ]
+    },
     "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5919",
+            "text": "仲村芽衣子"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5919",
+            "text": "仲村芽衣子"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:43778",
+            "text": "森本貴大"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:43778",
+            "text": "森本貴大"
+          }
+        }
+      ],
       "instrument": [
         {
           "type": "instrument_credit",
@@ -14,6 +103,42 @@
       ]
     },
     "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5919",
+            "text": "仲村芽衣子"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5919",
+            "text": "仲村芽衣子"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:43778",
+            "text": "森本貴大"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:43778",
+            "text": "森本貴大"
+          }
+        }
+      ],
       "instrument": [
         {
           "type": "instrument_credit",
@@ -24,6 +149,305 @@
           "inst": "Guitar"
         }
       ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5919",
+            "text": "仲村芽衣子"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5919",
+            "text": "仲村芽衣子"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64797",
+            "text": "Paspal"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64797",
+            "text": "Paspal"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:43550",
+            "text": "Shibayan"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5919",
+            "text": "仲村芽衣子"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5919",
+            "text": "仲村芽衣子"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71257",
+            "text": "spikin"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71257",
+            "text": "spikin"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7638",
+            "text": "水夏える"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5919",
+            "text": "仲村芽衣子"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5919",
+            "text": "仲村芽衣子"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7638",
+            "text": "水夏える"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7638",
+            "text": "水夏える"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5919",
+            "text": "仲村芽衣子"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5919",
+            "text": "仲村芽衣子"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71796",
+            "text": "Coma"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71796",
+            "text": "Coma"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5919",
+            "text": "仲村芽衣子"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5919",
+            "text": "仲村芽衣子"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65405",
+            "text": "Sakamiya"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65405",
+            "text": "Sakamiya"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5919",
+            "text": "仲村芽衣子"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5919",
+            "text": "仲村芽衣子"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            "しの (",
+            {
+              "ref": "p:32739",
+              "text": "篠原瑞希"
+            },
+            ")"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            "しの (",
+            {
+              "ref": "p:32739",
+              "text": "篠原瑞希"
+            },
+            ")"
+          ]
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:43550",
+            "text": "Shibayan"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5919",
+            "text": "仲村芽衣子"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5919",
+            "text": "仲村芽衣子"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7638",
+            "text": "水夏える"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7638",
+            "text": "水夏える"
+          }
+        }
+      ]
     }
   },
   "rawPatches": {
@@ -32,6 +456,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-08T11:24:34.170Z"
+    "submittedAt": "2026-04-08T11:24:36.716Z"
   }
 }
