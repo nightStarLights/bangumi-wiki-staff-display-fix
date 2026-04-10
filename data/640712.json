@@ -1,45 +1,6 @@
 {
   "subjectId": 640712,
   "trackCredits": {
-    "1.1": {
-      "lyricist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "有馬ゆき"
-          }
-        }
-      ],
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "北島優実"
-          }
-        }
-      ],
-      "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "北島優実"
-          }
-        }
-      ],
-      "instrument": [
-        {
-          "type": "instrument_credit",
-          "person": {
-            "ref": null,
-            "text": "nemu"
-          },
-          "inst": "Drum"
-        }
-      ]
-    },
     "1.2": {
       "lyricist": [
         {
@@ -76,6 +37,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-10T16:01:07.342Z"
+    "submittedAt": "2026-04-10T16:01:10.401Z"
   }
 }
