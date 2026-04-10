@@ -48,18 +48,17 @@
     "1.5": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "シロメ"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "原祥太"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "シロメ"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "原祥太"
+            }
+          ]
         }
       ]
     },
@@ -186,11 +185,11 @@
     }
   },
   "rawPatches": {
-    "editor": "艺术家：宮沢らも(1)、うえだなおふみ(2)、越前(3)、理科棚(4)、シロメ(5)、原祥太(5)、帰国子女(6)、佐々木虚像(7)、satoruohno(8)、零進法(9)、山下憶良(10)、Tezka(11)、yaginiwa(12)、Guernica Helvetica(13)、tacoミ(14)、∩Ο∪Ο!(15)、みけたはな(16)"
+    "editor": "艺术家：宮沢らも(1)、うえだなおふみ(2)、越前(3)、理科棚(4)、シロメ feat.原祥太(5)、帰国子女(6)、佐々木虚像(7)、satoruohno(8)、零進法(9)、山下憶良(10)、Tezka(11)、yaginiwa(12)、Guernica Helvetica(13)、tacoミ(14)、∩Ο∪Ο!(15)、みけたはな(16)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-10T18:38:47.261Z"
+    "submittedAt": "2026-04-10T18:39:09.757Z"
   }
 }
