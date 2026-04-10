@@ -1,0 +1,74 @@
+{
+  "subjectId": 640607,
+  "trackCredits": {
+    "1.1": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "田尻辰徳"
+          },
+          "inst": "ギター"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "舞弦ウラ"
+          },
+          "inst": "バイオリン"
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Mennma The Cat"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Mennma The Cat"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Mennma The Cat"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:86881",
+            "text": "アステカ"
+          },
+          "inst": "ギター"
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "乐器-ギター：田尻辰徳  (1)\n乐器-バイオリン：舞弦ウラ (1)\nlyrics,composer,arranger：Mennma The Cat (2)\n乐器-ギター：アステカ (3)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-10T02:21:48.646Z"
+  }
+}
