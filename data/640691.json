@@ -4,20 +4,14 @@
     "1.8": {
       "composer": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "savogy"
-          }
+          "type": "text",
+          "text": "savogy"
         }
       ],
       "arranger": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "savogy"
-          }
+          "type": "text",
+          "text": "savogy"
         }
       ]
     }
@@ -28,6 +22,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-10T13:23:01.848Z"
+    "submittedAt": "2026-04-10T13:23:20.905Z"
   }
 }
