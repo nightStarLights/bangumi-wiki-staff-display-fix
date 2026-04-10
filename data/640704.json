@@ -12,6 +12,26 @@
         }
       ]
     },
+    "1.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91489",
+            "text": "T-J"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91489",
+            "text": "T-J"
+          }
+        }
+      ]
+    },
     "1.5": {
       "artist": [
         {
@@ -19,115 +39,6 @@
           "person": {
             "ref": "p:81489",
             "text": "転寝こより"
-          }
-        }
-      ]
-    },
-    "1.2": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "碧乃らる"
-          }
-        }
-      ],
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:91489",
-            "text": "T-J"
-          }
-        }
-      ],
-      "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:91489",
-            "text": "T-J"
-          }
-        }
-      ]
-    },
-    "1.3": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "ぴぃや澄音"
-          }
-        }
-      ],
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "桜ひで丸"
-          }
-        }
-      ],
-      "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "桜ひで丸"
-          }
-        }
-      ]
-    },
-    "1.4": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "天使セウ"
-          }
-        }
-      ],
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "海ジャム"
-          }
-        }
-      ],
-      "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "海ジャム"
-          }
-        }
-      ]
-    },
-    "1.7": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Phonon"
-          }
-        }
-      ]
-    },
-    "1.8": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "味醂いろは"
           }
         }
       ]
@@ -159,6 +70,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-10T15:19:52.119Z"
+    "submittedAt": "2026-04-10T15:19:55.841Z"
   }
 }
