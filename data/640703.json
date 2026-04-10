@@ -26,11 +26,8 @@
     "1.3": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "芽々子"
-          }
+          "type": "text",
+          "text": "芽々子"
         }
       ]
     },
@@ -48,11 +45,8 @@
     "1.5": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "六宮"
-          }
+          "type": "text",
+          "text": "六宮"
         }
       ]
     },
@@ -103,18 +97,12 @@
     "1.10": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "ひつじのめえ助"
-          }
+          "type": "text",
+          "text": "ひつじのめえ助"
         },
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "うさぎのそらちゃん"
-          }
+          "type": "text",
+          "text": "うさぎのそらちゃん"
         }
       ]
     }
@@ -123,8 +111,8 @@
     "editor": "艺术家：繭糸(1)、乃花こより(2)、芽々子(3)、ななひら(4)、六宮(5)、ゆきまめ(6)、みちとせ(7)、Aifa(8)、とうめいのくに(9)、ひつじのめえ助(10)、うさぎのそらちゃん(10)"
   },
   "_meta": {
-    "submittedBy": "sakarin",
+    "submittedBy": "mercurylampe",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-10T15:12:53.149Z"
+    "submittedAt": "2026-04-10T15:14:26.493Z"
   }
 }
