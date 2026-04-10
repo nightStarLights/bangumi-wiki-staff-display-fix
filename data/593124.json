@@ -4,13 +4,20 @@
     "1.1": {
       "arranger": [
         {
+          "type": "person",
+          "person": {
+            "ref": "p:72976",
+            "text": "awawa"
+          }
+        },
+        {
           "type": "alias_person",
           "alias": {
             "ref": null,
             "text": "OD"
           },
           "person": {
-            "ref": null,
+            "ref": "p:91283",
             "text": "岡村大輔"
           }
         }
@@ -18,11 +25,11 @@
     }
   },
   "rawPatches": {
-    "editor": "arranger: OD(岡村大輔) (1)"
+    "editor": "arranger:awawa(1)/ OD(岡村大輔)(1)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-05T13:23:26.449Z"
+    "submittedAt": "2026-04-10T16:44:17.149Z"
   }
 }
