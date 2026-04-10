@@ -61,14 +61,34 @@
           "inst": "ギター"
         }
       ]
+    },
+    "1.5": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "さみゅ式"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "さみゅ式"
+          }
+        }
+      ]
     }
   },
   "rawPatches": {
-    "editor": "乐器-ギター：田尻辰徳  (1)\n乐器-バイオリン：舞弦ウラ (1)\nlyrics,composer,arranger：Mennma The Cat (2)\n乐器-ギター：アステカ (3)"
+    "editor": "乐器-ギター：田尻辰徳  (1)\n乐器-バイオリン：舞弦ウラ (1)\nlyrics,composer,arranger：Mennma The Cat (2)\n乐器-ギター：アステカ (3)\n作編曲：さみゅ式 (5)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-10T02:21:48.646Z"
+    "submittedAt": "2026-04-10T02:26:32.865Z"
   }
 }
