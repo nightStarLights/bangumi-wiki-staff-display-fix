@@ -1,0 +1,118 @@
+{
+  "subjectId": 640716,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "cv_credit",
+          "character": "花海佑芽 ",
+          "cv": {
+            "ref": "p:55275",
+            "text": "松田彩音"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:20262",
+            "text": "佐藤貴文"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:20262",
+            "text": "佐藤貴文"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:35883",
+            "text": "半田翼"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "清水\"カルロス\"宥人"
+          },
+          "inst": "Acoustic"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "清水\"カルロス\"宥人"
+          },
+          "inst": "Electric Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:74849",
+            "text": "二家本亮介"
+          },
+          "inst": "Electric Bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "裕木レオン"
+          },
+          "inst": "Drums"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:74331",
+            "text": "真部裕ストリングス"
+          },
+          "inst": "Strings"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "川上鉄平"
+          },
+          "inst": "Trumpet"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "庵原良司"
+          },
+          "inst": "Alto"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "庵原良司"
+          },
+          "inst": "Tenor Sax"
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：花海佑芽 (CV:松田彩音)(1)\n作词：佐藤貴文(1)\n作曲：佐藤貴文(1)\n编曲：半田翼(1)\n乐器-Acoustic：清水\"カルロス\"宥人(1)\n乐器-Electric Guitar：清水\"カルロス\"宥人(1)\n乐器-Electric Bass：二家本亮介(1)\n乐器-Drums：裕木レオン(1)\n乐器-Strings：真部裕ストリングス(1)\n乐器-Trumpet：川上鉄平(1)\n乐器-Alto：庵原良司(1)\n乐器-Tenor Sax：庵原良司(1)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-10T16:51:51.266Z"
+  }
+}
