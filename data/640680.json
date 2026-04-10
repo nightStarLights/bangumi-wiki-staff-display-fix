@@ -28,24 +28,6 @@
             "text": "Qutabire"
           }
         }
-      ],
-      "mixing": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:9063",
-            "text": "Dios/シグナルP (荒井洋明)"
-          }
-        }
-      ],
-      "mastering": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:9063",
-            "text": "Dios/シグナルP (荒井洋明)"
-          }
-        }
       ]
     },
     "1.2": {
@@ -73,24 +55,6 @@
           "person": {
             "ref": "p:25689",
             "text": "立秋"
-          }
-        }
-      ],
-      "mixing": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:9063",
-            "text": "Dios/シグナルP (荒井洋明)"
-          }
-        }
-      ],
-      "mastering": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:9063",
-            "text": "Dios/シグナルP (荒井洋明)"
           }
         }
       ]
@@ -122,24 +86,6 @@
             "text": "牧野太洋"
           }
         }
-      ],
-      "mixing": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:9063",
-            "text": "Dios/シグナルP (荒井洋明)"
-          }
-        }
-      ],
-      "mastering": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:9063",
-            "text": "Dios/シグナルP (荒井洋明)"
-          }
-        }
       ]
     },
     "1.4": {
@@ -167,24 +113,6 @@
           "person": {
             "ref": null,
             "text": "けーえぬP"
-          }
-        }
-      ],
-      "mixing": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:9063",
-            "text": "Dios/シグナルP (荒井洋明)"
-          }
-        }
-      ],
-      "mastering": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:9063",
-            "text": "Dios/シグナルP (荒井洋明)"
           }
         }
       ]
@@ -216,33 +144,15 @@
             "text": "どんの音楽工房"
           }
         }
-      ],
-      "mixing": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:9063",
-            "text": "Dios/シグナルP (荒井洋明)"
-          }
-        }
-      ],
-      "mastering": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:9063",
-            "text": "Dios/シグナルP (荒井洋明)"
-          }
-        }
       ]
     }
   },
   "rawPatches": {
-    "editor": "作词：Lyra(1)、立秋(2)、桜木うみ(3)、けーえぬP(4)、どんの音楽工房(5)\n作曲：Qutabire(1)、立秋(2)、牧野太洋(3)、けーえぬP(4)、どんの音楽工房(5)\n编曲：Qutabire(1)、立秋(2)、牧野太洋(3)、けーえぬP(4)、どんの音楽工房(5)\n混音：《Dios/シグナルP (荒井洋明)》(1,2,3,4,5)\n母带制作：《Dios/シグナルP (荒井洋明)》(1,2,3,4,5)"
+    "editor": "作词：Lyra(1)、立秋(2)、桜木うみ(3)、けーえぬP(4)、どんの音楽工房(5)\n作曲：Qutabire(1)、立秋(2)、牧野太洋(3)、けーえぬP(4)、どんの音楽工房(5)\n编曲：Qutabire(1)、立秋(2)、牧野太洋(3)、けーえぬP(4)、どんの音楽工房(5)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-10T12:19:02.932Z"
+    "submittedAt": "2026-04-10T12:19:24.173Z"
   }
 }
