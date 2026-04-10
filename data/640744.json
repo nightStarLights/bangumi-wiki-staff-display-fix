@@ -35,7 +35,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:91794",
             "text": "Komb"
           }
         }
@@ -120,6 +120,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-10T17:35:53.391Z"
+    "submittedAt": "2026-04-10T17:35:58.364Z"
   }
 }
