@@ -1,137 +1,16 @@
 {
   "subjectId": 640700,
   "trackCredits": {
-    "1.1": {
+    "1.2": {
       "lyricist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "千石ナタデコ子"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "星降あめる"
-          }
-        }
-      ],
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "千石ナタデコ子"
-          }
-        }
-      ],
-      "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "千石ナタデコ子"
-          }
-        }
-      ],
-      "mixing": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "千石ナタデコ子"
-          }
-        }
-      ]
-    },
-    "1.6": {
-      "lyricist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "千石ナタデコ子"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "星降あめる"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "MPのみんな"
-          }
-        }
-      ],
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "千石ナタデコ子"
-          }
-        }
-      ],
-      "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "千石ナタデコ子"
-          }
-        }
-      ],
-      "chorus": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "桜神くおん"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "神白ニア"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "心寧はな"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "花丸ちよ"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "羽奏こはく"
-          }
-        }
-      ],
-      "mixing": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "千石ナタデコ子"
-          }
+          "parts": [
+            "つきみぐー　　　　作曲、编曲、混音：",
+            {
+              "ref": "p:62401",
+              "text": "如月結愛"
+            }
+          ]
         }
       ]
     },
@@ -140,90 +19,8 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
-            "text": "星降あめる"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
             "ref": "p:68983",
             "text": "神来はる"
-          }
-        }
-      ],
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:62401",
-            "text": "如月結愛"
-          }
-        }
-      ],
-      "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:62401",
-            "text": "如月結愛"
-          }
-        }
-      ],
-      "mixing": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:62401",
-            "text": "如月結愛"
-          }
-        }
-      ],
-      "instrument": [
-        {
-          "type": "instrument_credit",
-          "person": {
-            "ref": null,
-            "text": "田尻辰徳"
-          },
-          "inst": "guiter"
-        }
-      ]
-    },
-    "1.2": {
-      "lyricist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:71166",
-            "text": "つきみぐー、"
-          }
-        }
-      ],
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:62401",
-            "text": "如月結愛"
-          }
-        }
-      ],
-      "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:62401",
-            "text": "如月結愛"
-          }
-        }
-      ],
-      "mixing": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:62401",
-            "text": "如月結愛"
           }
         }
       ]
@@ -231,80 +28,14 @@
     "1.4": {
       "lyricist": [
         {
-          "type": "alias_person",
-          "alias": {
-            "ref": null,
-            "text": "MegRi"
-          },
-          "person": {
-            "ref": "p:82317",
-            "text": "星乃めぐり"
-          }
-        }
-      ],
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:62401",
-            "text": "如月結愛"
-          }
-        }
-      ],
-      "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:62401",
-            "text": "如月結愛"
-          }
-        }
-      ],
-      "mixing": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:62401",
-            "text": "如月結愛"
-          }
-        }
-      ]
-    },
-    "1.5": {
-      "lyricist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "松田悠"
-          }
-        }
-      ],
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "松田悠"
-          }
-        }
-      ],
-      "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "松田悠"
-          }
-        }
-      ],
-      "mixing": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "大西靖夫"
-          }
+          "parts": [
+            "MegRi (",
+            {
+              "ref": "p:82317",
+              "text": "星乃めぐり"
+            },
+            ")"
+          ]
         }
       ]
     }
@@ -315,6 +46,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-10T14:13:16.707Z"
+    "submittedAt": "2026-04-10T14:13:19.077Z"
   }
 }
