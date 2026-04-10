@@ -4,26 +4,335 @@
     "1.1": {
       "artist": [
         {
-          "type": "text",
-          "text": "だぶるぜぇた"
+          "type": "person",
+          "person": {
+            "ref": "p:91720",
+            "text": "だぶるぜぇた"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72798",
+            "text": "巫月和音"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72814",
+            "text": "ほいみん"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71172",
+            "text": "月宮瑠璃華"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72797",
+            "text": "Fu"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72945",
+            "text": "kairi"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72796",
+            "text": "Hull"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72796",
+            "text": "Hull"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:72798",
+            "text": "巫月和音"
+          },
+          "inst": "E.Organ"
         }
       ]
     },
     "1.6": {
       "artist": [
         {
-          "type": "text",
-          "text": "だぶるぜぇた"
+          "type": "person",
+          "person": {
+            "ref": "p:91720",
+            "text": "だぶるぜぇた"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72814",
+            "text": "ほいみん"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71706",
+            "text": "aim"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71706",
+            "text": "aim"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72799",
+            "text": "カワノマサキ"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71172",
+            "text": "月宮瑠璃華"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72814",
+            "text": "ほいみん"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72799",
+            "text": "カワノマサキ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72799",
+            "text": "カワノマサキ"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71172",
+            "text": "月宮瑠璃華"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72797",
+            "text": "Fu"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72796",
+            "text": "Hull"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72796",
+            "text": "Hull"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71172",
+            "text": "月宮瑠璃華"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72815",
+            "text": "urushi"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72800",
+            "text": "奈雪ニーカ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72945",
+            "text": "kairi"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72799",
+            "text": "カワノマサキ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72799",
+            "text": "カワノマサキ"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72815",
+            "text": "urushi"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72945",
+            "text": "kairi"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71706",
+            "text": "aim"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71706",
+            "text": "aim"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72800",
+            "text": "奈雪ニーカ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72797",
+            "text": "Fu"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72796",
+            "text": "Hull"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72796",
+            "text": "Hull"
+          }
         }
       ]
     }
   },
   "rawPatches": {
-    "editor": "vocal:だぶるぜぇた(1,6)"
+    "editor": "艺术家：だぶるぜぇた(1,6)、巫月和音(1)、ほいみん(1)、月宮瑠璃華(1,4,5,7)、urushi(2,7)、奈雪ニーカ(3,7)\n作词：Fu(1,3,5)、kairi(1,2,7)、ほいみん(4,6)\n作曲：Hull(1,3,5)、aim(2,6)、カワノマサキ(4,7)\n编曲：Hull(1,3,5)、aim(2,6)、カワノマサキ(4,6,7)\n乐器-E.Organ：巫月和音(1)"
   },
   "_meta": {
-    "submittedBy": "mercurylampe",
+    "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-10T08:59:39.221Z"
+    "submittedAt": "2026-04-10T09:53:24.006Z"
   }
 }
