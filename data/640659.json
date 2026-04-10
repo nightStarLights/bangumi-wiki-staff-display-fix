@@ -1,0 +1,35 @@
+{
+  "subjectId": 640659,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "だぶるぜぇた"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "だぶるぜぇた"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "vocal:だぶるぜぇた(1,6)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-10T08:58:12.095Z"
+  }
+}
