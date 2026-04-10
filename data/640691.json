@@ -1,0 +1,33 @@
+{
+  "subjectId": 640691,
+  "trackCredits": {
+    "1.8": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "savogy"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "savogy"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "作曲：savogy(8)\n编曲：savogy(8)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-10T13:23:01.848Z"
+  }
+}
