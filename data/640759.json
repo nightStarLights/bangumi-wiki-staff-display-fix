@@ -1,0 +1,71 @@
+{
+  "subjectId": 640759,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6465",
+            "text": "めらみぽっぷ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "K4T4T0M"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "K4T4T0M"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6465",
+            "text": "めらみぽっぷ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "かちかち山"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "かちかち山"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "作词：めらみぽっぷ(1,2)\n作曲：K4T4T0M(1)、かちかち山(2)\n编曲：K4T4T0M(1)、かちかち山(2)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-10T19:04:45.874Z"
+  }
+}
