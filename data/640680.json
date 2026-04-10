@@ -4,11 +4,8 @@
     "1.1": {
       "lyricist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Lyra"
-          }
+          "type": "text",
+          "text": "Lyra"
         }
       ]
     }
@@ -19,6 +16,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-10T12:09:21.600Z"
+    "submittedAt": "2026-04-10T12:09:35.457Z"
   }
 }
