@@ -1,27 +1,271 @@
 {
   "subjectId": 640691,
   "trackCredits": {
-    "1.8": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:76645",
+            "text": "茨むあん"
+          }
+        }
+      ],
       "composer": [
         {
-          "type": "text",
-          "text": "savogy"
+          "type": "person",
+          "person": {
+            "ref": "p:69137",
+            "text": "yowanecity"
+          }
         }
       ],
       "arranger": [
         {
-          "type": "text",
-          "text": "savogy"
+          "type": "person",
+          "person": {
+            "ref": "p:69137",
+            "text": "yowanecity"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "ChumuNote"
+          },
+          "person": {
+            "ref": "p:66183",
+            "text": "紡音れい"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84536",
+            "text": "Mused"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84536",
+            "text": "Mused"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65398",
+            "text": "つぐ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65489",
+            "text": "春馬崚木"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64711",
+            "text": "Connexio"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64711",
+            "text": "Connexio"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "えん"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69747",
+            "text": "Rafutsuri"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69747",
+            "text": "Rafutsuri"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65404",
+            "text": "みそらみみ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81248",
+            "text": "梔"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81248",
+            "text": "梔"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "Dios/シグナルP"
+          },
+          "person": {
+            "ref": "p:9063",
+            "text": "荒井洋明"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "尾手またび"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "449"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "449"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:35280",
+            "text": "咲良ゆの"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72806",
+            "text": "Totz"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72806",
+            "text": "Totz"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68918",
+            "text": "凪乃ましろ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "savogy"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "savogy"
+          }
         }
       ]
     }
   },
   "rawPatches": {
-    "editor": "作曲：savogy(8)\n编曲：savogy(8)"
+    "editor": "艺术家：茨むあん(1)、ChumuNote(紡音れい)(2)、つぐ(3)、えん(4)、みそらみみ(5)、尾手またび(6)、咲良ゆの(7)、凪乃ましろ(8)\n作词：春馬崚木(3)\n作曲：yowanecity(1)、Mused(2)、Connexio(3)、Rafutsuri(4)、梔(5)、449(6)、Totz(7)、savogy(8)\n编曲：yowanecity(1)、Mused(2)、Connexio(3)、Rafutsuri(4)、梔(5)、449(6)、Totz(7)、savogy(8)\n混音：《Dios/シグナルP》(荒井洋明)(5)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-10T13:23:20.905Z"
+    "submittedAt": "2026-04-10T13:24:46.200Z"
   }
 }
