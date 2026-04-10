@@ -1,0 +1,323 @@
+{
+  "subjectId": 639047,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66305",
+            "text": "高城みよ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66305",
+            "text": "高城みよ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66305",
+            "text": "高城みよ"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15629",
+            "text": "紗智"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "50.449"
+          },
+          "person": {
+            "ref": null,
+            "text": "五十嵐芳樹"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "50.449"
+          },
+          "person": {
+            "ref": null,
+            "text": "五十嵐芳樹"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "吉田雄帆"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.6": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15629",
+            "text": "紗智"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64797",
+            "text": "Paspal"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64797",
+            "text": "Paspal"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8065",
+            "text": "狛茉璃奈"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15629",
+            "text": "紗智"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68666",
+            "text": "瀬名水紀"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68666",
+            "text": "瀬名水紀"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67570",
+            "text": "うらる"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:44655",
+            "text": "乃花こより"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66227",
+            "text": "Yuy"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66227",
+            "text": "Yuy"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:88831",
+            "text": "りおんぬ"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.9": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8726",
+            "text": "塚越雄一朗"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8726",
+            "text": "塚越雄一朗"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8726",
+            "text": "塚越雄一朗"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:8726",
+            "text": "塚越雄一朗"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:50494",
+            "text": "真島こころ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:50494",
+            "text": "真島こころ"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:50494",
+            "text": "真島こころ"
+          },
+          "inst": "Piano"
+        }
+      ]
+    },
+    "1.8": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:50494",
+            "text": "真島こころ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:50494",
+            "text": "真島こころ"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:50494",
+            "text": "真島こころ"
+          },
+          "inst": "Piano"
+        }
+      ]
+    },
+    "1.5": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:14977",
+            "text": "清水嶺"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:14977",
+            "text": "清水嶺"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "作词：高城みよ(1)、紗智(3,6,7)、乃花こより(4)、塚越雄一朗(9)\n作曲：高城みよ(1)、真島こころ(2,8)、50.449(五十嵐芳樹)(3)、Yuy(4)、清水嶺(5)、Paspal(6)、瀬名水紀(7)、塚越雄一朗(9)\n编曲：高城みよ(1)、真島こころ(2,8)、50.449(五十嵐芳樹)(3)、Yuy(4)、清水嶺(5)、Paspal(6)、瀬名水紀(7)、塚越雄一朗(9)\n混音：狛茉璃奈(6)、うらる(7)\n乐器-Piano：真島こころ(2,8)\n乐器-Guitar：吉田雄帆(3)、りおんぬ(4)、塚越雄一朗(9)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-10T17:29:16.929Z"
+  }
+}
