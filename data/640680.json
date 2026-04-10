@@ -2,157 +2,87 @@
   "subjectId": 640680,
   "trackCredits": {
     "1.1": {
-      "lyricist": [
+      "mixing": [
         {
-          "type": "person",
-          "person": {
+          "type": "alias_person",
+          "alias": {
             "ref": null,
-            "text": "Lyra"
-          }
-        }
-      ],
-      "composer": [
-        {
-          "type": "person",
+            "text": "《Dios/シグナルP》"
+          },
           "person": {
-            "ref": "p:67167",
-            "text": "Qutabire"
-          }
-        }
-      ],
-      "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:67167",
-            "text": "Qutabire"
+            "ref": "p:9063",
+            "text": "荒井洋明"
           }
         }
       ]
     },
     "1.2": {
-      "lyricist": [
+      "mixing": [
         {
-          "type": "person",
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "《Dios/シグナルP》"
+          },
           "person": {
-            "ref": "p:25689",
-            "text": "立秋"
-          }
-        }
-      ],
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:25689",
-            "text": "立秋"
-          }
-        }
-      ],
-      "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:25689",
-            "text": "立秋"
+            "ref": "p:9063",
+            "text": "荒井洋明"
           }
         }
       ]
     },
     "1.3": {
-      "lyricist": [
+      "mixing": [
         {
-          "type": "person",
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "《Dios/シグナルP》"
+          },
           "person": {
-            "ref": "p:75006",
-            "text": "桜木うみ"
-          }
-        }
-      ],
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:27062",
-            "text": "牧野太洋"
-          }
-        }
-      ],
-      "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:27062",
-            "text": "牧野太洋"
+            "ref": "p:9063",
+            "text": "荒井洋明"
           }
         }
       ]
     },
     "1.4": {
-      "lyricist": [
+      "mixing": [
         {
-          "type": "person",
-          "person": {
+          "type": "alias_person",
+          "alias": {
             "ref": null,
-            "text": "けーえぬP"
-          }
-        }
-      ],
-      "composer": [
-        {
-          "type": "person",
+            "text": "《Dios/シグナルP》"
+          },
           "person": {
-            "ref": null,
-            "text": "けーえぬP"
-          }
-        }
-      ],
-      "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "けーえぬP"
+            "ref": "p:9063",
+            "text": "荒井洋明"
           }
         }
       ]
     },
     "1.5": {
-      "lyricist": [
+      "mixing": [
         {
-          "type": "person",
-          "person": {
+          "type": "alias_person",
+          "alias": {
             "ref": null,
-            "text": "どんの音楽工房"
-          }
-        }
-      ],
-      "composer": [
-        {
-          "type": "person",
+            "text": "《Dios/シグナルP》"
+          },
           "person": {
-            "ref": null,
-            "text": "どんの音楽工房"
-          }
-        }
-      ],
-      "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "どんの音楽工房"
+            "ref": "p:9063",
+            "text": "荒井洋明"
           }
         }
       ]
     }
   },
   "rawPatches": {
-    "editor": "作词：Lyra(1)、立秋(2)、桜木うみ(3)、けーえぬP(4)、どんの音楽工房(5)\n作曲：Qutabire(1)、立秋(2)、牧野太洋(3)、けーえぬP(4)、どんの音楽工房(5)\n编曲：Qutabire(1)、立秋(2)、牧野太洋(3)、けーえぬP(4)、どんの音楽工房(5)"
+    "editor": "混音：《Dios/シグナルP》 (荒井洋明)(1-5)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-10T12:10:49.161Z"
+    "submittedAt": "2026-04-10T12:17:35.809Z"
   }
 }
