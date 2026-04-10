@@ -1,0 +1,1606 @@
+{
+  "subjectId": 32583,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "DJ YOSHITAKA"
+          },
+          "person": {
+            "ref": "p:15278",
+            "text": "西村宜隆"
+          }
+        }
+      ]
+    },
+    "2.10": {
+      "artist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "DJ YOSHITAKA"
+          },
+          "person": {
+            "ref": "p:15278",
+            "text": "西村宜隆"
+          }
+        }
+      ]
+    },
+    "2.11": {
+      "artist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "DJ YOSHITAKA"
+          },
+          "person": {
+            "ref": "p:15278",
+            "text": "西村宜隆"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Michael a la mode"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "kors k"
+          },
+          "person": {
+            "ref": "p:6762",
+            "text": "斎藤広祐"
+          }
+        }
+      ]
+    },
+    "2.8": {
+      "artist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "kors k"
+          },
+          "person": {
+            "ref": "p:6762",
+            "text": "斎藤広祐"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "Risk Junk"
+          },
+          "person": {
+            "ref": "p:11733",
+            "text": "石川貴之"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "Lucky Vacuum"
+          },
+          "person": {
+            "ref": "p:15278",
+            "text": "西村宜隆"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "L.E.D.-G"
+          },
+          "person": {
+            "ref": "p:70556",
+            "text": "角田利之"
+          }
+        }
+      ]
+    },
+    "1.14": {
+      "artist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "L.E.D.-G"
+          },
+          "person": {
+            "ref": "p:70556",
+            "text": "角田利之"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75369",
+            "text": "堀澤麻衣子"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75369",
+            "text": "堀澤麻衣子"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "L.E.D.-G"
+          },
+          "person": {
+            "ref": "p:70556",
+            "text": "角田利之"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "L.E.D.-G"
+          },
+          "person": {
+            "ref": "p:70556",
+            "text": "角田利之"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "GUHROOVY"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36773",
+            "text": "M-Project"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:71570",
+              "text": "DJ Mass"
+            },
+            " MAD Izm*"
+          ]
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75361",
+            "text": "Y&Co."
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7187",
+            "text": "Remo-con"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7187",
+            "text": "Remo-con"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75361",
+            "text": "Y&Co."
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "DOMINO"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7187",
+            "text": "Remo-con"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7187",
+            "text": "Remo-con"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7187",
+            "text": "Remo-con"
+          }
+        }
+      ]
+    },
+    "2.22": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75361",
+            "text": "Y&Co."
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "DOMINO"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "L.E.D."
+          },
+          "person": {
+            "ref": "p:70556",
+            "text": "角田利之"
+          }
+        }
+      ]
+    },
+    "2.12": {
+      "artist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "L.E.D."
+          },
+          "person": {
+            "ref": "p:70556",
+            "text": "角田利之"
+          }
+        }
+      ]
+    },
+    "2.16": {
+      "artist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "L.E.D."
+          },
+          "person": {
+            "ref": "p:70556",
+            "text": "角田利之"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "disconation"
+          },
+          "person": {
+            "ref": "p:6762",
+            "text": "斎藤広祐"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "SUPER STAR 満-MITSURU-"
+          }
+        }
+      ]
+    },
+    "2.18": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "SUPER STAR 満-MITSURU-"
+          }
+        }
+      ]
+    },
+    "1.13": {
+      "artist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "good-cool"
+          },
+          "person": {
+            "ref": "p:47369",
+            "text": "古川竜也"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:18811",
+            "text": "CHiCO"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "good-cool"
+          },
+          "person": {
+            "ref": "p:47369",
+            "text": "古川竜也"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "good-cool"
+          },
+          "person": {
+            "ref": "p:47369",
+            "text": "古川竜也"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "good-cool"
+          },
+          "person": {
+            "ref": "p:47369",
+            "text": "古川竜也"
+          }
+        }
+      ]
+    },
+    "1.15": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Creative Life"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "コトノネプロジェクト"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "DJ YOSHITAKA"
+          },
+          "person": {
+            "ref": "p:15278",
+            "text": "西村宜隆"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "DJ YOSHITAKA"
+          },
+          "person": {
+            "ref": "p:15278",
+            "text": "西村宜隆"
+          }
+        },
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "TSU-NA"
+          },
+          "person": {
+            "ref": null,
+            "text": "石綱淳泰"
+          }
+        }
+      ]
+    },
+    "1.16": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "HHH+H"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75362",
+            "text": "Dai"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "Ryu☆"
+          },
+          "person": {
+            "ref": "p:6365",
+            "text": "中原龍太郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "Ryu☆"
+          },
+          "person": {
+            "ref": "p:6365",
+            "text": "中原龍太郎"
+          }
+        }
+      ]
+    },
+    "1.17": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:4398",
+            "text": "小林ゆう"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "DJ YOSHITAKA"
+          },
+          "person": {
+            "ref": "p:15278",
+            "text": "西村宜隆"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "DJ YOSHITAKA"
+          },
+          "person": {
+            "ref": "p:15278",
+            "text": "西村宜隆"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "DJ YOSHITAKA"
+          },
+          "person": {
+            "ref": "p:15278",
+            "text": "西村宜隆"
+          }
+        },
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "TSU-NA"
+          },
+          "person": {
+            "ref": null,
+            "text": "石綱淳泰"
+          }
+        }
+      ]
+    },
+    "2.19": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:4398",
+            "text": "小林ゆう"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "DJ YOSHITAKA"
+          },
+          "person": {
+            "ref": "p:15278",
+            "text": "西村宜隆"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "TSU-NA"
+          },
+          "person": {
+            "ref": null,
+            "text": "石綱淳泰"
+          }
+        }
+      ]
+    },
+    "1.18": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "上野圭市"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:43674",
+            "text": "星野奏子"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "藤井彩"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "上野圭市"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "上野圭市"
+          }
+        }
+      ]
+    },
+    "1.19": {
+      "artist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "S.S.D."
+          },
+          "person": {
+            "ref": "p:75367",
+            "text": "S.S.D.FANTASICA"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Nanacchi"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "S.S.D."
+          },
+          "person": {
+            "ref": "p:75367",
+            "text": "S.S.D.FANTASICA"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "S.S.D."
+          },
+          "person": {
+            "ref": "p:75367",
+            "text": "S.S.D.FANTASICA"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "S.S.D."
+          },
+          "person": {
+            "ref": "p:75367",
+            "text": "S.S.D.FANTASICA"
+          }
+        }
+      ]
+    },
+    "1.20": {
+      "artist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "Des-MASTERS"
+          },
+          "person": {
+            "ref": "p:70522",
+            "text": "右寺修"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "Des-MASTERS"
+          },
+          "person": {
+            "ref": "p:70522",
+            "text": "右寺修"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "Des-MASTERS"
+          },
+          "person": {
+            "ref": "p:70522",
+            "text": "右寺修"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "Des-MASTERS"
+          },
+          "person": {
+            "ref": "p:70522",
+            "text": "右寺修"
+          }
+        }
+      ]
+    },
+    "1.21": {
+      "artist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "AKIRA YAMAOKA"
+          },
+          "person": {
+            "ref": "p:10361",
+            "text": "山岡晃"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Chiaki"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "AKIRA YAMAOKA"
+          },
+          "person": {
+            "ref": "p:10361",
+            "text": "山岡晃"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "AKIRA YAMAOKA"
+          },
+          "person": {
+            "ref": "p:10361",
+            "text": "山岡晃"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "AKIRA YAMAOKA"
+          },
+          "person": {
+            "ref": "p:10361",
+            "text": "山岡晃"
+          }
+        }
+      ]
+    },
+    "1.22": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "CxF"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Andy Littlewood"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:13052",
+            "text": "前田尚紀"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:13052",
+            "text": "前田尚紀"
+          }
+        }
+      ]
+    },
+    "1.23": {
+      "artist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "Seiya Murai"
+          },
+          "person": {
+            "ref": "p:70561",
+            "text": "村井潔"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "Seiya Murai"
+          },
+          "person": {
+            "ref": "p:70561",
+            "text": "村井潔"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "Seiya Murai"
+          },
+          "person": {
+            "ref": "p:70561",
+            "text": "村井潔"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "Seiya Murai"
+          },
+          "person": {
+            "ref": "p:70561",
+            "text": "村井潔"
+          }
+        }
+      ]
+    },
+    "1.24": {
+      "artist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "TAKA"
+          },
+          "person": {
+            "ref": "p:11733",
+            "text": "石川貴之"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Antonio Lucio Vivaldi"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "TAKA"
+          },
+          "person": {
+            "ref": "p:11733",
+            "text": "石川貴之"
+          }
+        }
+      ]
+    },
+    "1.25": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "IDEA NOTE"
+          }
+        }
+      ]
+    },
+    "1.26": {
+      "artist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "Ryu☆"
+          },
+          "person": {
+            "ref": "p:6365",
+            "text": "中原龍太郎"
+          }
+        }
+      ]
+    },
+    "2.15": {
+      "artist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "Ryu☆"
+          },
+          "person": {
+            "ref": "p:6365",
+            "text": "中原龍太郎"
+          }
+        },
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "Sota"
+          },
+          "person": {
+            "ref": "p:15277",
+            "text": "藤森崇多"
+          }
+        }
+      ]
+    },
+    "1.27": {
+      "artist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "Dr.Honda"
+          },
+          "person": {
+            "ref": "p:14489",
+            "text": "本田晃弘"
+          }
+        }
+      ]
+    },
+    "1.28": {
+      "artist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "D.J.SETUP"
+          },
+          "person": {
+            "ref": "p:11733",
+            "text": "石川貴之"
+          }
+        }
+      ]
+    },
+    "1.29": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "BLACK STAR 幸広-YUKIHIRO-"
+          }
+        }
+      ]
+    },
+    "1.30": {
+      "artist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "猫叉Master+"
+          },
+          "person": {
+            "ref": "p:6697",
+            "text": "佐藤直之"
+          }
+        }
+      ]
+    },
+    "1.31": {
+      "artist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "PINK PONG"
+          },
+          "person": {
+            "ref": "p:13645",
+            "text": "黒光雄輝"
+          }
+        }
+      ]
+    },
+    "1.32": {
+      "artist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "Sota Fujimori"
+          },
+          "person": {
+            "ref": "p:15277",
+            "text": "藤森崇多"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10583",
+            "text": "Aimee Blackschleger"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "Sota Fujimori"
+          },
+          "person": {
+            "ref": "p:15277",
+            "text": "藤森崇多"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "Sota Fujimori"
+          },
+          "person": {
+            "ref": "p:15277",
+            "text": "藤森崇多"
+          }
+        }
+      ]
+    },
+    "2.17": {
+      "artist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "Sota Fujimori"
+          },
+          "person": {
+            "ref": "p:15277",
+            "text": "藤森崇多"
+          }
+        }
+      ]
+    },
+    "1.33": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "DM Ashura"
+          }
+        }
+      ]
+    },
+    "1.34": {
+      "artist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "StripE"
+          },
+          "person": {
+            "ref": "p:6762",
+            "text": "斎藤広祐"
+          }
+        }
+      ]
+    },
+    "2.20": {
+      "artist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "StripE"
+          },
+          "person": {
+            "ref": "p:6762",
+            "text": "斎藤広祐"
+          }
+        }
+      ]
+    },
+    "1.35": {
+      "artist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "青龍"
+          },
+          "person": {
+            "ref": "p:6365",
+            "text": "中原龍太郎"
+          }
+        }
+      ]
+    },
+    "2.21": {
+      "artist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "青龍"
+          },
+          "person": {
+            "ref": "p:6365",
+            "text": "中原龍太郎"
+          }
+        }
+      ]
+    },
+    "1.36": {
+      "artist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "Zektbach"
+          },
+          "person": {
+            "ref": "p:10557",
+            "text": "舟木智介"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6510",
+            "text": "志方あきこ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "Zektbach"
+          },
+          "person": {
+            "ref": "p:10557",
+            "text": "舟木智介"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "Zektbach"
+          },
+          "person": {
+            "ref": "p:10557",
+            "text": "舟木智介"
+          }
+        }
+      ]
+    },
+    "1.37": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "e-lma"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "コトノネプロジェクト"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "DJ YOSHITAKA"
+          },
+          "person": {
+            "ref": "p:15278",
+            "text": "西村宜隆"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "DJ YOSHITAKA"
+          },
+          "person": {
+            "ref": "p:15278",
+            "text": "西村宜隆"
+          }
+        }
+      ]
+    },
+    "2.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10804",
+            "text": "LISA"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10804",
+            "text": "LISA"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ravex"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ravex"
+          }
+        }
+      ]
+    },
+    "2.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:74414",
+            "text": "Sunset In Ibiza"
+          }
+        }
+      ]
+    },
+    "2.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:18444",
+            "text": "大沢伸一"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Namba Akihiro"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:18444",
+            "text": "大沢伸一"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:18444",
+            "text": "大沢伸一"
+          }
+        }
+      ]
+    },
+    "2.4": {
+      "artist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "飛燕流舞"
+          },
+          "person": {
+            "ref": "p:6697",
+            "text": "佐藤直之"
+          }
+        }
+      ]
+    },
+    "2.5": {
+      "artist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "Marguerite du Pré"
+          },
+          "person": {
+            "ref": "p:10557",
+            "text": "舟木智介"
+          }
+        }
+      ]
+    },
+    "2.6": {
+      "artist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "dj MAX STEROID"
+          },
+          "person": {
+            "ref": "p:15277",
+            "text": "藤森崇多"
+          }
+        }
+      ]
+    },
+    "2.7": {
+      "artist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "朱雀"
+          },
+          "person": {
+            "ref": "p:15278",
+            "text": "西村宜隆"
+          }
+        },
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "玄武"
+          },
+          "person": {
+            "ref": "p:70507",
+            "text": "脇田潤"
+          }
+        }
+      ]
+    },
+    "2.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "JUNE"
+          }
+        },
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "猫叉Master"
+          },
+          "person": {
+            "ref": "p:6697",
+            "text": "佐藤直之"
+          }
+        }
+      ]
+    },
+    "2.13": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "DesQ"
+          }
+        }
+      ]
+    },
+    "2.14": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "紅色リトマス"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11734",
+            "text": "あさき"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "TOMOSUKE"
+          },
+          "person": {
+            "ref": "p:10557",
+            "text": "舟木智介"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "TOMOSUKE"
+          },
+          "person": {
+            "ref": "p:10557",
+            "text": "舟木智介"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：DJ YOSHITAKA (西村宜隆)(1.1,2.10,2.11)、kors k (斎藤広祐)(1.2,2.8)、Risk Junk (石川貴之)(1.3)、Lucky Vacuum (西村宜隆)(1.4)、L.E.D.-G (角田利之)(1.5,1.14)、GUHROOVY(1.6)、M-Project(1.6)、DJ Mass MAD Izm* (DJ Mass)(1.7)、Y&Co.(1.8,1.11,2.22)、L.E.D. (角田利之)(1.9,2.12,2.16)、disconation (斎藤広祐)(1.10)、DOMINO(1.11,2.22)、《SUPER STAR 満-MITSURU-》(1.12,2.18)、good-cool (古川竜也)(1.13)、CHiCO(1.13)、堀澤麻衣子(1.14)、Creative Life(1.15)、HHH+H(1.16)、小林ゆう(1.17,2.19)、上野圭市(1.18)、星野奏子(1.18)、S.S.D. (飯吉新)(1.19)、Nanacchi(1.19)、Des-MASTERS (右寺修)(1.20)、AKIRA YAMAOKA (山岡晃)(1.21)、Chiaki(1.21)、CxF(1.22)、Seiya Murai (村井潔)(1.23)、TAKA (石川貴之)(1.24)、IDEA NOTE(1.25)、Ryu☆ (中原龍太郎)(1.26,2.15)、Dr.Honda (本田晃弘)(1.27)、D.J.SETUP (石川貴之)(1.28)、《BLACK STAR 幸広-YUKIHIRO-》(1.29)、猫叉Master+ (佐藤直之)(1.30)、PINK PONG (黒光雄輝)(1.31)、Sota Fujimori (藤森崇多)(1.32,2.17)、DM Ashura(1.33)、StripE (斎藤広祐)(1.34,2.20)、青龍 (中原龍太郎)(1.35,2.21)、Zektbach (舟木智介)(1.36)、e-lma(1.37)、LISA(2.1)、Sunset In Ibiza(2.2)、大沢伸一(2.3)、飛燕流舞 (佐藤直之)(2.4)、Marguerite du Pré (舟木智介)(2.5)、dj MAX STEROID (藤森崇多)(2.6)、朱雀 (西村宜隆)(2.7)、玄武 (脇田潤)(2.7)、JUNE(2.9)、猫叉Master (佐藤直之)(2.9)、Michael a la mode(2.11)、DesQ(2.13)、紅色リトマス(2.14)、Sota (藤森崇多)(2.15)\n作词：Remo-con(1.11)、good-cool (古川竜也)(1.13)、堀澤麻衣子(1.14)、コトノネプロジェクト(1.15,1.37)、Dai(1.16)、DJ YOSHITAKA (西村宜隆)(1.17)、藤井彩(1.18)、S.S.D. (飯吉新)(1.19)、Des-MASTERS (右寺修)(1.20)、AKIRA YAMAOKA (山岡晃)(1.21)、Andy Littlewood(1.22)、Seiya Murai (村井潔)(1.23)、Aimee Blackschleger(1.32)、志方あきこ(1.36)、LISA(2.1)、Namba Akihiro(2.3)、あさき(2.14)\n作曲：Remo-con(1.8,1.11)、good-cool (古川竜也)(1.13)、L.E.D.-G (角田利之)(1.14)、DJ YOSHITAKA (西村宜隆)(1.15,1.17,1.37,2.19)、Ryu☆ (中原龍太郎)(1.16)、上野圭市(1.18)、S.S.D. (飯吉新)(1.19)、Des-MASTERS (右寺修)(1.20)、AKIRA YAMAOKA (山岡晃)(1.21)、前田尚紀(1.22)、Seiya Murai (村井潔)(1.23)、Antonio Lucio Vivaldi(1.24)、Sota Fujimori (藤森崇多)(1.32)、Zektbach (舟木智介)(1.36)、ravex(2.1)、大沢伸一(2.3)、TOMOSUKE (舟木智介)(2.14)\n编曲：Remo-con(1.8,1.11)、good-cool (古川竜也)(1.13)、L.E.D.-G (角田利之)(1.14)、DJ YOSHITAKA (西村宜隆)(1.15,1.17,1.37)、TSU-NA (石綱淳泰)(1.15,1.17,2.19)、Ryu☆ (中原龍太郎)(1.16)、上野圭市(1.18)、S.S.D. (飯吉新)(1.19)、Des-MASTERS (右寺修)(1.20)、AKIRA YAMAOKA (山岡晃)(1.21)、前田尚紀(1.22)、Seiya Murai (村井潔)(1.23)、TAKA (石川貴之)(1.24)、Sota Fujimori (藤森崇多)(1.32)、Zektbach (舟木智介)(1.36)、ravex(2.1)、大沢伸一(2.3)、TOMOSUKE (舟木智介)(2.14)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-10T11:51:53.936Z"
+  }
+}
