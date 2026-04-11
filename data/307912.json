@@ -2,40 +2,46 @@
   "subjectId": 307912,
   "trackCredits": {
     "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:51696",
+            "text": "鈴木静那"
+          }
+        }
+      ],
       "composer": [
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:36451",
             "text": "大西克巳"
           }
         }
       ],
       "arranger": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "松井寛"
-          }
-        }
-      ],
-      "lyricist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "鈴木静那"
-          }
+          "type": "text",
+          "text": "松井寛"
         }
       ]
     },
     "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:41126",
+            "text": "池畑伸人"
+          }
+        }
+      ],
       "composer": [
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:350",
             "text": "長岡成貢"
           }
         }
@@ -44,47 +50,35 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:350",
             "text": "長岡成貢"
-          }
-        }
-      ],
-      "lyricist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "池畑伸人"
           }
         }
       ]
     },
     "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11005",
+            "text": "渡邊亜希子"
+          }
+        }
+      ],
       "composer": [
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:145",
             "text": "安部純"
           }
         }
       ],
       "arranger": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "松井寛"
-          }
-        }
-      ],
-      "lyricist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "渡邊亜希子"
-          }
+          "type": "text",
+          "text": "松井寛"
         }
       ]
     }
@@ -95,6 +89,6 @@
   "_meta": {
     "submittedBy": "miria_mama",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-11T07:48:38.533Z"
+    "submittedAt": "2026-04-11T07:51:40.019Z"
   }
 }
