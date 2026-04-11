@@ -1,0 +1,28 @@
+{
+  "subjectId": 640860,
+  "trackCredits": {
+    "1.10": {
+      "lyricist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "祝りんご"
+          },
+          "person": {
+            "ref": "p:73993",
+            "text": "りり"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "作词：祝りんご(りり)(10)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-11T08:56:44.465Z"
+  }
+}
