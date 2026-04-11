@@ -62,7 +62,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:91851",
             "text": "れじーな。"
           }
         }
@@ -324,7 +324,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:91850",
             "text": "*Yuu"
           }
         }
@@ -333,7 +333,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:91850",
             "text": "*Yuu"
           }
         }
@@ -346,6 +346,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-11T18:49:03.517Z"
+    "submittedAt": "2026-04-11T18:49:05.251Z"
   }
 }
