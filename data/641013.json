@@ -1,0 +1,101 @@
+{
+  "subjectId": 641013,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "VertcalBeat・Refanda"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "VertcalBeat・Dimitar"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "VertcalBeat・Rofi Spenzha"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ZH ENC DJ"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "SoundRecords・NWBA"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "VertcalBeat・NICHO"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "VertcalBeat・WOOO"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "NRCDJ・Doni Rmx"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：VertcalBeat・Refanda(1)、VertcalBeat・Dimitar(2)、VertcalBeat・Rofi Spenzha(3)、ZH ENC DJ(4)、SoundRecords・NWBA(5)、VertcalBeat・NICHO(6)、VertcalBeat・WOOO(7)、NRCDJ・Doni Rmx(8)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-11T16:43:25.814Z"
+  }
+}
