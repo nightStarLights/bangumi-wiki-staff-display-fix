@@ -1,0 +1,133 @@
+{
+  "subjectId": 640935,
+  "trackCredits": {
+    "1.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "雨夜零音"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "雨夜零音"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73329",
+            "text": "小鳥遊カイリ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73329",
+            "text": "小鳥遊カイリ"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:73333",
+            "text": "隅垣耕平"
+          },
+          "inst": "Drum"
+        }
+      ]
+    },
+    "1.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "マリー"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "マリー"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "マリー"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "マリー"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47585",
+            "text": "Room97"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47585",
+            "text": "Room97"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:73331",
+            "text": "吉川竜矢"
+          },
+          "inst": "Bass"
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "作曲：雨夜零音(1)、小鳥遊カイリ(2)、マリー(3,5)、Room97(4)\n编曲：雨夜零音(1)、小鳥遊カイリ(2)、マリー(3,5)、Room97(4)\n乐器-Drum：隅垣耕平(2)\n乐器-Bass：吉川竜矢(4)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-11T11:51:44.978Z"
+  }
+}
