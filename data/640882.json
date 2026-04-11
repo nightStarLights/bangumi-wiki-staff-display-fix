@@ -40,7 +40,7 @@
         {
           "type": "alias_instrument_credit",
           "alias": {
-            "ref": null,
+            "ref": "p:81053",
             "text": "圧力"
           },
           "person": {
@@ -82,7 +82,7 @@
         {
           "type": "alias_instrument_credit",
           "alias": {
-            "ref": null,
+            "ref": "p:81053",
             "text": "圧力"
           },
           "person": {
@@ -108,6 +108,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-11T09:40:49.872Z"
+    "submittedAt": "2026-04-11T09:40:51.962Z"
   }
 }
