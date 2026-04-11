@@ -102,15 +102,8 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
-            "text": "畑"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "亜貴"
+            "ref": "p:7329",
+            "text": "畑亜貴"
           }
         }
       ],
@@ -171,11 +164,11 @@
     }
   },
   "rawPatches": {
-    "editor": "艺术家：ひのせ(3)\n作词：Kijibato(1)、めがねこ(2)、カシラテ(3)、畑(4)、亜貴(4)、x-x(5)\n作曲：Kijibato(1)、Ray_Oh(2)、Eno(3)、PandaBoy(4)、x-x(5)\n编曲：Kijibato(1)、Ray_Oh(2)、Eno(3)、PandaBoy(4)、Toccoyaki(4)、x-x(5)"
+    "editor": "艺术家：ひのせ(3)\n作词：Kijibato(1)、めがねこ(2)、カシラテ(3)、畑亜貴(4)、x-x(5)\n作曲：Kijibato(1)、Ray_Oh(2)、Eno(3)、PandaBoy(4)、x-x(5)\n编曲：Kijibato(1)、Ray_Oh(2)、Eno(3)、PandaBoy(4)、Toccoyaki(4)、x-x(5)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-11T16:05:52.235Z"
+    "submittedAt": "2026-04-11T16:07:23.717Z"
   }
 }
