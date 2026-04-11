@@ -1,0 +1,153 @@
+{
+  "subjectId": 613428,
+  "trackCredits": {
+    "1.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75018",
+            "text": "岡田ケイスケ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75018",
+            "text": "岡田ケイスケ"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75018",
+            "text": "岡田ケイスケ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75018",
+            "text": "岡田ケイスケ"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75018",
+            "text": "岡田ケイスケ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75018",
+            "text": "岡田ケイスケ"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75018",
+            "text": "岡田ケイスケ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75018",
+            "text": "岡田ケイスケ"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75018",
+            "text": "岡田ケイスケ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75018",
+            "text": "岡田ケイスケ"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66190",
+            "text": "Ray_Oh"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66190",
+            "text": "Ray_Oh"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47399",
+            "text": "techicobal*"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47399",
+            "text": "techicobal*"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "作曲：岡田ケイスケ(1,3,4,5,6)、Ray_Oh(2)、techicobal*(8)\n编曲：岡田ケイスケ(1,3,4,5,6)、Ray_Oh(2)、techicobal*(8)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-11T18:43:57.700Z"
+  }
+}
