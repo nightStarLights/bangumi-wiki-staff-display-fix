@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:91852",
             "text": "Neige"
           }
         }
@@ -28,7 +28,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:69037",
             "text": "July"
           }
         }
@@ -41,6 +41,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-11T18:55:51.728Z"
+    "submittedAt": "2026-04-11T18:55:53.327Z"
   }
 }
