@@ -50,7 +50,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:68959",
             "text": "vvasavi"
           }
         }
@@ -61,7 +61,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:91694",
             "text": "飛鳴りんつ"
           }
         }
@@ -72,7 +72,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:68913",
             "text": "透夏"
           }
         }
@@ -96,6 +96,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-11T12:56:55.219Z"
+    "submittedAt": "2026-04-11T12:56:57.008Z"
   }
 }
