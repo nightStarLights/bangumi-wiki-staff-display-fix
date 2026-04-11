@@ -1,0 +1,113 @@
+{
+  "subjectId": 640882,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "テラ小室P"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68567",
+            "text": "旗下かける"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68567",
+            "text": "旗下かける"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68567",
+            "text": "旗下かける"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "alias_instrument_credit",
+          "alias": {
+            "ref": null,
+            "text": "圧力"
+          },
+          "person": {
+            "ref": "p:81053",
+            "text": "圧　力"
+          },
+          "inst": "ギター"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Taw"
+          },
+          "inst": "リードヴァイオリン"
+        }
+      ]
+    },
+    "1.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68567",
+            "text": "旗下かける"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68567",
+            "text": "旗下かける"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "alias_instrument_credit",
+          "alias": {
+            "ref": null,
+            "text": "圧力"
+          },
+          "person": {
+            "ref": "p:81053",
+            "text": "圧　力"
+          },
+          "inst": "ギター"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Taw"
+          },
+          "inst": "リードヴァイオリン"
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "作词：テラ小室P(1)、旗下かける(1)\n作曲：旗下かける(1,2)\n编曲：旗下かける(1,2)\n乐器-ギター：圧力(1,2)\n乐器-リードヴァイオリン：Taw(1,2)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-11T09:40:49.872Z"
+  }
+}
