@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:68800",
             "text": "はぁち"
           }
         },
@@ -51,7 +51,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:68800",
             "text": "はぁち"
           }
         },
@@ -96,14 +96,14 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:68800",
             "text": "はぁち"
           }
         },
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:19493",
             "text": "牧野秀紀"
           }
         }
@@ -141,7 +141,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:68800",
             "text": "はぁち"
           }
         },
@@ -186,7 +186,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:68800",
             "text": "はぁち"
           }
         },
@@ -239,7 +239,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:68800",
             "text": "はぁち"
           }
         },
@@ -284,7 +284,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:68800",
             "text": "はぁち"
           }
         },
@@ -305,7 +305,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:19493",
             "text": "牧野秀紀"
           }
         },
@@ -380,6 +380,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-11T13:06:12.034Z"
+    "submittedAt": "2026-04-11T13:06:14.967Z"
   }
 }
