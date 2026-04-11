@@ -61,7 +61,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:6167",
+            "ref": "p:91835",
             "text": "miru"
           }
         }
@@ -129,6 +129,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-11T16:00:44.094Z"
+    "submittedAt": "2026-04-11T16:00:46.964Z"
   }
 }
