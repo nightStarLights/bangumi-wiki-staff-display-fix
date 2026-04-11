@@ -1,0 +1,351 @@
+{
+  "subjectId": 639023,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:90850",
+            "text": "みーに"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:90850",
+            "text": "みーに"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:90850",
+            "text": "みーに"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68311",
+            "text": "Wasabeep"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68311",
+            "text": "Wasabeep"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68311",
+            "text": "Wasabeep"
+          }
+        }
+      ],
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "れじーな。"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69117",
+            "text": "まより"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:45358",
+            "text": "Tatsunoshin"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:45358",
+            "text": "Tatsunoshin"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69117",
+            "text": "まより"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69115",
+            "text": "Fujiyori"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69115",
+            "text": "Fujiyori"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69115",
+            "text": "Fujiyori"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69117",
+            "text": "まより"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:90407",
+            "text": "Eno"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:90849",
+            "text": "Kanemiko"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:90407",
+            "text": "Eno"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:90849",
+            "text": "Kanemiko"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:90407",
+            "text": "Eno"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65196",
+            "text": "葉月リョウヘイ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68974",
+            "text": "Silverize."
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68974",
+            "text": "Silverize."
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:90847",
+            "text": "WAKUTO"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:90847",
+            "text": "WAKUTO"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:90847",
+            "text": "WAKUTO"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69115",
+            "text": "Fujiyori"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:90847",
+            "text": "WAKUTO"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:90847",
+            "text": "WAKUTO"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:90847",
+            "text": "WAKUTO"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69119",
+            "text": "YAMADA"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69497",
+            "text": "TAKIO"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69497",
+            "text": "TAKIO"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69497",
+            "text": "TAKIO"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "*Yuu"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "*Yuu"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "作词：みーに(1)、Wasabeep(2)、まより(3,7,9)、葉月リョウヘイ(4)、WAKUTO(5,6)、Fujiyori(7)、TAKIO(8)\n作曲：みーに(1)、Wasabeep(2)、Tatsunoshin(3)、Silverize.(4)、WAKUTO(5,6)、Fujiyori(7)、TAKIO(8)、Eno(9)、Kanemiko(9)、*Yuu(10)\n编曲：みーに(1)、Wasabeep(2)、Tatsunoshin(3)、Silverize.(4)、WAKUTO(5,6)、Fujiyori(7)、TAKIO(8)、Eno(9)、Kanemiko(9)、*Yuu(10)\n声乐：れじーな。(2)\n混音：Fujiyori(5)、YAMADA(6)、Eno(9)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-11T18:49:03.517Z"
+  }
+}
