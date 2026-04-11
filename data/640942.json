@@ -1,0 +1,24 @@
+{
+  "subjectId": 640942,
+  "trackCredits": {
+    "1.22": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71705",
+            "text": "ルカ"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：ルカ(22)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-11T12:03:50.791Z"
+  }
+}
