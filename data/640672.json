@@ -1,0 +1,42 @@
+{
+  "subjectId": 640672,
+  "trackCredits": {
+    "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81468",
+            "text": "SaLa"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81468",
+            "text": "SaLa"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81468",
+            "text": "SaLa"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "lyric,compose,arranger: SaLa (4)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-11T14:23:51.362Z"
+  }
+}
