@@ -1,0 +1,242 @@
+{
+  "subjectId": 641006,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "月深ツキ"
+          },
+          "person": {
+            "ref": "p:7088",
+            "text": "中恵光城"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "月深ツキ"
+          },
+          "person": {
+            "ref": "p:7088",
+            "text": "中恵光城"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:16286",
+            "text": "くど"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:16286",
+            "text": "くど"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "月深ツキ"
+          },
+          "person": {
+            "ref": "p:7088",
+            "text": "中恵光城"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "月深ツキ"
+          },
+          "person": {
+            "ref": "p:7088",
+            "text": "中恵光城"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6554",
+            "text": "折倉俊則"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6554",
+            "text": "折倉俊則"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "月深ツキ"
+          },
+          "person": {
+            "ref": "p:7088",
+            "text": "中恵光城"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15773",
+            "text": "永原さくら"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6554",
+            "text": "折倉俊則"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6554",
+            "text": "折倉俊則"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "月深ツキ"
+          },
+          "person": {
+            "ref": "p:7088",
+            "text": "中恵光城"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15773",
+            "text": "永原さくら"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8726",
+            "text": "塚越雄一朗"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8726",
+            "text": "塚越雄一朗"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "月深ツキ"
+          },
+          "person": {
+            "ref": "p:7088",
+            "text": "中恵光城"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "月深ツキ"
+          },
+          "person": {
+            "ref": "p:7088",
+            "text": "中恵光城"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ナナ甲"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "須藤安太郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ナナ甲"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：月深ツキ(中恵光城)(1,2,3,4,5)\n作词：月深ツキ(中恵光城)(1,2,5)、永原さくら(3,4)\n作曲：くど(1)、折倉俊則(2,3)、塚越雄一朗(4)、ナナ甲(5)、須藤安太郎(5)\n编曲：くど(1)、折倉俊則(2,3)、塚越雄一朗(4)、ナナ甲(5)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-11T16:20:17.698Z"
+  }
+}
