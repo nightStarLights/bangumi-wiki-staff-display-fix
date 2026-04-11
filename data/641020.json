@@ -7,14 +7,7 @@
           "type": "person",
           "person": {
             "ref": null,
-            "text": "フジ"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "ヌバル=ニキ"
+            "text": "フジ・ヌバル=ニキ"
           }
         }
       ],
@@ -23,14 +16,7 @@
           "type": "person",
           "person": {
             "ref": null,
-            "text": "フジ"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "ヌバル=ニキ"
+            "text": "フジ・ヌバル=ニキ"
           }
         }
       ]
@@ -41,14 +27,7 @@
           "type": "person",
           "person": {
             "ref": null,
-            "text": "フジ"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "ヌバル=ニキ"
+            "text": "フジ・ヌバル=ニキ"
           }
         }
       ],
@@ -57,25 +36,18 @@
           "type": "person",
           "person": {
             "ref": null,
-            "text": "フジ"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "ヌバル=ニキ"
+            "text": "フジ・ヌバル=ニキ"
           }
         }
       ]
     }
   },
   "rawPatches": {
-    "editor": "混音：フジ(1,2)、ヌバル=ニキ(1,2)\n母带制作：フジ(1,2)、ヌバル=ニキ(1,2)"
+    "editor": "混音：フジ・ヌバル=ニキ(1,2)\n母带制作：フジ・ヌバル=ニキ(1,2)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-11T18:30:11.497Z"
+    "submittedAt": "2026-04-11T18:30:44.136Z"
   }
 }
