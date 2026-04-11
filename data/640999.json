@@ -122,23 +122,27 @@
             "ref": "p:82633",
             "text": "UmeShow"
           }
-        },
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
         {
           "type": "person",
           "person": {
             "ref": null,
-            "text": "Yuze BASS【Pluto】"
+            "text": "Yuze"
           }
         }
       ]
     }
   },
   "rawPatches": {
-    "editor": "艺术家：yualith(1)、HEVNFYRE(2)、haaaaaaru(3)、Roma Kumakura(4)、kelenill(5)、廣嵜工業(6)、M2U(7)、Anchov(7)、Ratith(8)、*-Teris.(9)、ed1t_mahou(10)、UmeShow(10)、Yuze BASS【Pluto】(10)"
+    "editor": "艺术家：yualith(1)、HEVNFYRE(2)、haaaaaaru(3)、Roma Kumakura(4)、kelenill(5)、廣嵜工業(6)、M2U(7)、Anchov(7)、Ratith(8)、*-Teris.(9)、ed1t_mahou(10)、UmeShow(10)、Yuze(11)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-11T15:52:27.673Z"
+    "submittedAt": "2026-04-11T15:53:19.752Z"
   }
 }
