@@ -1,0 +1,385 @@
+{
+  "subjectId": 640958,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "はぁち"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65414",
+            "text": "lamie*"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68437",
+            "text": "さんしお"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55198",
+            "text": "Ym1024"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55198",
+            "text": "Ym1024"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "はぁち"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68143",
+            "text": "こにゃばた"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68437",
+            "text": "さんしお"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65772",
+            "text": "Halv"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65772",
+            "text": "Halv"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "はぁち"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "牧野秀紀"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68437",
+            "text": "さんしお"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68440",
+            "text": "後藤涼輔"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68440",
+            "text": "後藤涼輔"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "はぁち"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73044",
+            "text": "Uzumaki"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68437",
+            "text": "さんしお"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73055",
+            "text": "うちゅ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73055",
+            "text": "うちゅ"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "はぁち"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68144",
+            "text": "Kuroa*"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68437",
+            "text": "さんしお"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "ゆーじ"
+          },
+          "person": {
+            "ref": "p:67614",
+            "text": "吉澤ゆーじ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "ゆーじ"
+          },
+          "person": {
+            "ref": "p:67614",
+            "text": "吉澤ゆーじ"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "はぁち"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "RIKO"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68437",
+            "text": "さんしお"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "mu-ray"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "mu-ray"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "はぁち"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65414",
+            "text": "lamie*"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68143",
+            "text": "こにゃばた"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "牧野秀紀"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73044",
+            "text": "Uzumaki"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68144",
+            "text": "Kuroa*"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "RIKO"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68437",
+            "text": "さんしお"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68440",
+            "text": "後藤涼輔"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68440",
+            "text": "後藤涼輔"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "parts": [
+            "ゆーじ",
+            " (",
+            {
+              "ref": "p:67614",
+              "text": "吉澤ゆーじ"
+            },
+            ")",
+            " (keyboard)"
+          ]
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：はぁち(1,2,3,4,5,6,7)、lamie*(1,7)、こにゃばた(2,7)、牧野秀紀(3,7)、Uzumaki(4,7)、Kuroa*(5,7)、RIKO(6,7)\n作词：さんしお(1,2,3,4,5,6,7)\n作曲：Ym1024(1)、Halv(2)、後藤涼輔(3,7)、うちゅ(4)、ゆーじ(吉澤ゆーじ)(5)、mu-ray(6)\n编曲：Ym1024(1)、Halv(2)、後藤涼輔(3,7)、うちゅ(4)、ゆーじ(吉澤ゆーじ)(5)、mu-ray(6)\n乐器-keyboard：ゆーじ (吉澤ゆーじ)(7)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-11T13:06:12.034Z"
+  }
+}
