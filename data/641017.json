@@ -131,7 +131,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:73200",
             "text": "Luna"
           }
         }
@@ -169,7 +169,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:73200",
             "text": "Luna"
           }
         }
@@ -229,6 +229,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-11T18:13:24.420Z"
+    "submittedAt": "2026-04-11T18:13:26.588Z"
   }
 }
