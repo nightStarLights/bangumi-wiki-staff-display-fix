@@ -1,0 +1,132 @@
+{
+  "subjectId": 641014,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65404",
+            "text": "みそらみみ"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "水鏡華"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "甘唄ふりる"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68270",
+            "text": "優莉"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69728",
+            "text": "箱乃なかみ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Tb-solo"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66544",
+            "text": "はらもりよしな"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6248",
+            "text": "nayuta"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69729",
+            "text": "雪歌"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:69726",
+            "text": "秋桜csms+"
+          },
+          "inst": "Piano"
+        }
+      ]
+    },
+    "1.10": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:69726",
+            "text": "秋桜csms+"
+          },
+          "inst": "Piano"
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：みそらみみ(1)、水鏡華(2)、甘唄ふりる(4)、優莉(5)、箱乃なかみ(6)、Tb-solo(6)、はらもりよしな(8)、nayuta(9)、雪歌(11)\n乐器-Piano：秋桜csms+(3,10)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-11T17:30:34.364Z"
+  }
+}
