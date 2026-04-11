@@ -1,0 +1,284 @@
+{
+  "subjectId": 640945,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ゆきもりともり"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:88834",
+            "text": "シイザカサユリ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:88834",
+            "text": "シイザカサユリ"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "中村耕平"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "木材P"
+          },
+          "inst": "Bass"
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ゆきもりともり"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:88834",
+            "text": "シイザカサユリ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "べーちゃん"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66544",
+            "text": "はらもりよしな"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91171",
+            "text": "Lamb"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91171",
+            "text": "Lamb"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70669",
+            "text": "shizuki"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "中村耕平"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "中村耕平"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "中村耕平"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:88834",
+            "text": "シイザカサユリ"
+          },
+          "inst": "Bass"
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6757",
+            "text": "水谷瑠奈"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69530",
+            "text": "ひかげ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69530",
+            "text": "ひかげ"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6757",
+            "text": "水谷瑠奈"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:88834",
+            "text": "シイザカサユリ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:88834",
+            "text": "シイザカサユリ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:88834",
+            "text": "シイザカサユリ"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "中村耕平"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "木材P"
+          },
+          "inst": "Bass"
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8726",
+            "text": "塚越雄一朗"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:88834",
+            "text": "シイザカサユリ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8726",
+            "text": "塚越雄一朗"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8726",
+            "text": "塚越雄一朗"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：ゆきもりともり(1,4)、はらもりよしな(2)、shizuki(3)、水谷瑠奈(5,7)、塚越雄一朗(6)、シイザカサユリ(6,7)\n作曲：シイザカサユリ(1,4,7)、Lamb(2)、中村耕平(3)、ひかげ(5)、塚越雄一朗(6)\n编曲：シイザカサユリ(1,7)、Lamb(2)、中村耕平(3)、べーちゃん(4)、ひかげ(5)、塚越雄一朗(6)\n乐器-Guitar：中村耕平(1,3,7)\n乐器-Bass：木材P(1,7)、シイザカサユリ(3)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-11T12:12:39.619Z"
+  }
+}
