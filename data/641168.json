@@ -1,0 +1,35 @@
+{
+  "subjectId": 641168,
+  "trackCredits": {
+    "1.5": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81890",
+            "text": "Wavfire"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "isagen"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "编曲：Wavfire(5)、isagen(6)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-12T19:10:11.247Z"
+  }
+}
