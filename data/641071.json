@@ -37,7 +37,7 @@
     "1.3": {
       "artist": [
         {
-          "type": "alias_person",
+          "type": "person",
           "alias": {
             "ref": null,
             "text": "DP"
