@@ -1,0 +1,108 @@
+{
+  "subjectId": 641157,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:76457",
+            "text": "かたぎり"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:37569",
+            "text": "小宮真央"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:37569",
+            "text": "小宮真央"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Melónet"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68033",
+            "text": "羽鳥玲"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68033",
+            "text": "羽鳥玲"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "あひる"
+          },
+          "person": {
+            "ref": "p:7301",
+            "text": "浅場佳苗"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Melónet"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:76457",
+            "text": "かたぎり"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：かたぎり(1)、小宮真央(1,4)、Melónet(5)、羽鳥玲(5,8)、あひる(浅場佳苗)(10)\n编曲：Melónet(11)、かたぎり(12)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-12T18:24:02.751Z"
+  }
+}
