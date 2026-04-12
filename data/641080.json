@@ -28,7 +28,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:91777",
             "text": "トマトさんたち"
           }
         }
@@ -63,6 +63,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-12T09:00:32.799Z"
+    "submittedAt": "2026-04-12T09:00:35.309Z"
   }
 }
