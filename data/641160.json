@@ -1,0 +1,280 @@
+{
+  "subjectId": 641160,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "輪音"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68910",
+            "text": "Setca."
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:88616",
+            "text": "kooridori"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68910",
+            "text": "Setca."
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:88616",
+            "text": "kooridori"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66544",
+            "text": "はらもりよしな"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66912",
+            "text": "otoshi.b"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66912",
+            "text": "otoshi.b"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "古都ことり"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "卯の宮ぽむ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:85322",
+            "text": "K4Y5"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:85322",
+            "text": "K4Y5"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:35280",
+            "text": "咲良ゆの"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68910",
+            "text": "Setca."
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68910",
+            "text": "Setca."
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ももじりまるこ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:88616",
+            "text": "kooridori"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:88616",
+            "text": "kooridori"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64020",
+            "text": "まるもこ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65977",
+            "text": "ねこみりん"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65977",
+            "text": "ねこみりん"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6248",
+            "text": "nayuta"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66912",
+            "text": "otoshi.b"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:85322",
+            "text": "K4Y5"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66912",
+            "text": "otoshi.b"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:85322",
+            "text": "K4Y5"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65410",
+            "text": "梨雛"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83774",
+            "text": "Naki"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83774",
+            "text": "Naki"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：輪音(1)、はらもりよしな(2)、古都ことり(3)、卯の宮ぽむ(3)、咲良ゆの(4)、ももじりまるこ(5)、まるもこ(6)、nayuta(7)、梨雛(8)\n作曲：Setca.(1,4)、kooridori(1,5)、otoshi.b(2,7)、K4Y5(3,7)、ねこみりん(6)、Naki(8)\n编曲：Setca.(1,4)、kooridori(1,5)、otoshi.b(2,7)、K4Y5(3,7)、ねこみりん(6)、Naki(8)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-12T18:39:01.781Z"
+  }
+}
