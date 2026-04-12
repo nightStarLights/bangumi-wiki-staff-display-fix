@@ -1,0 +1,152 @@
+{
+  "subjectId": 641166,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "saaa"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69989",
+            "text": "Ryohey Nakamura"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69989",
+            "text": "Ryohey Nakamura"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Saku"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Peri Sound"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55204",
+            "text": "Tom-i"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56472",
+            "text": "Dustvoxx"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:76449",
+            "text": "pencil"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Lazhward"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82120",
+            "text": "ELECTR"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70942",
+            "text": "Supire"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55175",
+            "text": "Nego_tiator"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71335",
+            "text": "すずめのめ"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：saaa(1)、Ryohey Nakamura(2,12)、Peri Sound(3)、Tom-i(4)、Dustvoxx(5)、pencil(6)、Lazhward(7)、ELECTR(8)、Supire(9)、Nego_tiator(10)、すずめのめ(11)、Saku(12)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-12T19:01:01.096Z"
+  }
+}
