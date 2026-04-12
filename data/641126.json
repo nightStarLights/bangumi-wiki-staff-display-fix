@@ -1,0 +1,235 @@
+{
+  "subjectId": 641126,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Orca"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "horde"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "soniol"
+          },
+          "person": {
+            "ref": "p:72313",
+            "text": "ソニオル"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "soniol"
+          },
+          "person": {
+            "ref": "p:72313",
+            "text": "ソニオル"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "parts": [
+            "anmangichi",
+            " (",
+            {
+              "ref": "p:72314",
+              "text": "あんいち"
+            },
+            ")",
+            " (Guitar)"
+          ]
+        },
+        {
+          "parts": [
+            "anmangichi",
+            " (",
+            {
+              "ref": "p:72314",
+              "text": "あんいち"
+            },
+            ")",
+            " (Bass)"
+          ]
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68468",
+            "text": "二ノ宮はぐ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "一葉"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "anmangichi"
+          },
+          "person": {
+            "ref": "p:72314",
+            "text": "あんいち"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "anmangichi"
+          },
+          "person": {
+            "ref": "p:72314",
+            "text": "あんいち"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "parts": [
+            "anmangichi",
+            " (",
+            {
+              "ref": "p:72314",
+              "text": "あんいち"
+            },
+            ")",
+            " (Guitar)"
+          ]
+        },
+        {
+          "parts": [
+            "anmangichi",
+            " (",
+            {
+              "ref": "p:72314",
+              "text": "あんいち"
+            },
+            ")",
+            " (Bass)"
+          ]
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ちゃみ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "horde"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "soniol"
+          },
+          "person": {
+            "ref": "p:72313",
+            "text": "ソニオル"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "soniol"
+          },
+          "person": {
+            "ref": "p:72313",
+            "text": "ソニオル"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "RENTO"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ウレイ"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "parts": [
+            "anmangichi",
+            " (",
+            {
+              "ref": "p:72314",
+              "text": "あんいち"
+            },
+            ")",
+            " (Bass)"
+          ]
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：Orca(1)、二ノ宮はぐ(2)、ちゃみ(3)\n作词：horde(1,3)、一葉(2)\n作曲：soniol(ソニオル)(1,3)、anmangichi(あんいち)(2)\n编曲：soniol(ソニオル)(1,3)、anmangichi(あんいち)(2)\n录音：RENTO(3)\n混音：ウレイ(3)\n乐器-Guitar：anmangichi (あんいち)(1,2)\n乐器-Bass：anmangichi (あんいち)(1,2,3)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-12T14:38:39.600Z"
+  }
+}
