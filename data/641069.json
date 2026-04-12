@@ -15,7 +15,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:91880",
             "text": "山崎光"
           }
         }
@@ -48,6 +48,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-12T08:31:55.836Z"
+    "submittedAt": "2026-04-12T08:31:57.344Z"
   }
 }
