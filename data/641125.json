@@ -1,0 +1,77 @@
+{
+  "subjectId": 641125,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "魔女ルンナ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "沙羽"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "沙羽"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "沙羽"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:7789",
+              "text": "悠花"
+            },
+            "ユカ"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": "p:7789",
+              "text": "悠花"
+            },
+            "ユカ"
+          ]
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：魔女ルンナ(1)、沙羽(7)、悠花ユカ(悠花)(9)\n作词：沙羽(1,7)、悠花ユカ(悠花)(9)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-12T14:34:08.199Z"
+  }
+}
