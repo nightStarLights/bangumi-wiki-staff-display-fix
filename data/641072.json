@@ -1,0 +1,111 @@
+{
+  "subjectId": 641072,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83775",
+            "text": "Alf zero"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83775",
+            "text": "Alf zero"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83774",
+            "text": "Naki"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83775",
+            "text": "Alf zero"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83776",
+            "text": "KaORu"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83775",
+            "text": "Alf zero"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83775",
+            "text": "Alf zero"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83777",
+            "text": "TENDON"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83775",
+            "text": "Alf zero"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83775",
+            "text": "Alf zero"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：Alf zero(1,2,3,4,5,6,7)、Naki(2)、KaORu(3)、TENDON(5)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-12T08:43:51.694Z"
+  }
+}
