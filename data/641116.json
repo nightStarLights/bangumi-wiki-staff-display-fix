@@ -24,15 +24,15 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:55175",
-            "text": "Nego_tiator"
+            "ref": "p:73661",
+            "text": "Re:gats&"
           }
         },
         {
           "type": "person",
           "person": {
-            "ref": "p:73661",
-            "text": "Re:gats&"
+            "ref": "p:55175",
+            "text": "Nego_tiator"
           }
         }
       ]
@@ -42,10 +42,25 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:55175",
-            "text": "Nego_tiator"
+            "ref": null,
+            "text": "Aglaia"
           }
-        },
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "SOMON"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
         {
           "type": "person",
           "person": {
@@ -77,28 +92,6 @@
         }
       ]
     },
-    "1.4": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:73661",
-            "text": "Re:gats&"
-          }
-        }
-      ]
-    },
-    "1.3": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "SOMON"
-          }
-        }
-      ]
-    },
     "1.7": {
       "artist": [
         {
@@ -112,11 +105,11 @@
     }
   },
   "rawPatches": {
-    "editor": "艺术家：Ras(1,6)、Nego_tiator(2,5,6,8)、Re:gats&(2,4,6)、SOMON(3)、utzbo(7)"
+    "editor": "艺术家：Ras(1,6)、Aglaia(2)、SOMON(3)、Re:gats&(4,6)、Nego_tiator(5,6,8)、utzbo(7)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-12T12:56:01.859Z"
+    "submittedAt": "2026-04-12T12:58:58.699Z"
   }
 }
