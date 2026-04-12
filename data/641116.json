@@ -1,0 +1,122 @@
+{
+  "subjectId": 641116,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68276",
+            "text": "Ras"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68276",
+            "text": "Ras"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55175",
+            "text": "Nego_tiator"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73661",
+            "text": "Re:gats&"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55175",
+            "text": "Nego_tiator"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73661",
+            "text": "Re:gats&"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55175",
+            "text": "Nego_tiator"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55175",
+            "text": "Nego_tiator"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73661",
+            "text": "Re:gats&"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "SOMON"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83762",
+            "text": "utzbo"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：Ras(1,6)、Nego_tiator(2,5,6,8)、Re:gats&(2,4,6)、SOMON(3)、utzbo(7)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-12T12:55:44.469Z"
+  }
+}
