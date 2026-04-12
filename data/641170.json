@@ -127,7 +127,7 @@
         }
       ]
     },
-    "1.8": {
+    "1.7": {
       "lyricist": [
         {
           "type": "person",
@@ -156,7 +156,7 @@
         }
       ]
     },
-    "1.7": {
+    "1.6": {
       "composer": [
         {
           "type": "person",
@@ -184,14 +184,34 @@
           }
         }
       ]
+    },
+    "1.5": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55176",
+            "text": "Yu-dachi"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55176",
+            "text": "Yu-dachi"
+          }
+        }
+      ]
     }
   },
   "rawPatches": {
-    "editor": "作词：Nevylulu(1)、Take(2)、T-J(3)、勿忘うた(4,8)\n作曲：Nevylulu(1)、Take(2,7)、T-J(3)、オッカ(4)、Fujiyori(8)\n编曲：Nevylulu(1)、Take(2,7)、T-J(3)、オッカ(4)、Fujiyori(8)\n声乐：咲良ゆの(7)\n乐器-Guitar：だら(1)"
+    "editor": "作词：Nevylulu(1)、Take(2)、T-J(3)、勿忘うた(4,7)\n作曲：Nevylulu(1)、Take(2,6)、T-J(3)、オッカ(4)、Yu-dachi(5)、Fujiyori(7)\n编曲：Nevylulu(1)、Take(2,6)、T-J(3)、オッカ(4)、Yu-dachi(5)、Fujiyori(7)\n声乐：咲良ゆの(6)\n乐器-Guitar：だら(1)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-12T19:32:10.690Z"
+    "submittedAt": "2026-04-12T19:32:20.187Z"
   }
 }
