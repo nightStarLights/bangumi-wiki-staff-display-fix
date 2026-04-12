@@ -1,0 +1,42 @@
+{
+  "subjectId": 641161,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69224",
+            "text": "ルーヴ・リシャール"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69225",
+            "text": "シカクイスクエア"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69225",
+            "text": "シカクイスクエア"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：ルーヴ・リシャール(1)\n作曲：シカクイスクエア(1)\n编曲：シカクイスクエア(1)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-12T18:44:48.730Z"
+  }
+}
