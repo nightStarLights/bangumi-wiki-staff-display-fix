@@ -1,0 +1,107 @@
+{
+  "subjectId": 641171,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64020",
+            "text": "まるもこ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81467",
+            "text": "春雲とい"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81467",
+            "text": "春雲とい"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64020",
+            "text": "まるもこ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81467",
+            "text": "春雲とい"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81467",
+            "text": "春雲とい"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81467",
+            "text": "春雲とい"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64020",
+            "text": "まるもこ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81467",
+            "text": "春雲とい"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81467",
+            "text": "春雲とい"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "作词：まるもこ(1,2,3)、春雲とい(2)\n作曲：春雲とい(1,2,3)\n编曲：春雲とい(1,2,3)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-12T19:37:25.783Z"
+  }
+}
