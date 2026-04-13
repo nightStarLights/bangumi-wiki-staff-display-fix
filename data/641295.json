@@ -1,0 +1,71 @@
+{
+  "subjectId": 641295,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91489",
+            "text": "T-J"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91489",
+            "text": "T-J"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91489",
+            "text": "T-J"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "月皇こはね"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91489",
+            "text": "T-J"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91489",
+            "text": "T-J"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "作词：T-J(1)、月皇こはね(2)\n作曲：T-J(1,2)\n编曲：T-J(1,2)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-13T15:12:15.606Z"
+  }
+}
