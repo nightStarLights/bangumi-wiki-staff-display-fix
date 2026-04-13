@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:91798",
             "text": "揮響レント"
           }
         }
@@ -15,7 +15,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:91798",
             "text": "揮響レント"
           }
         }
@@ -24,7 +24,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:91798",
             "text": "揮響レント"
           }
         }
@@ -310,7 +310,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:91974",
             "text": "Kuron/Saito"
           }
         }
@@ -319,7 +319,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:91974",
             "text": "Kuron/Saito"
           }
         }
@@ -328,7 +328,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:91974",
             "text": "Kuron/Saito"
           }
         }
@@ -388,6 +388,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-13T15:38:34.850Z"
+    "submittedAt": "2026-04-13T15:38:37.715Z"
   }
 }
