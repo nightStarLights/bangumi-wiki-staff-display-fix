@@ -1,0 +1,35 @@
+{
+  "subjectId": 641254,
+  "trackCredits": {
+    "1.12": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "odaxelagnia"
+          }
+        }
+      ]
+    },
+    "1.13": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Cement Tea"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "编曲：odaxelagnia(12)、Cement Tea(13)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-13T11:11:57.559Z"
+  }
+}
