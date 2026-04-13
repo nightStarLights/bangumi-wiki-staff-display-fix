@@ -1,0 +1,25 @@
+{
+  "subjectId": 641318,
+  "trackCredits": {
+    "1.4": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "馬P"
+          },
+          "inst": "guitar"
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "乐器-guitar：馬P(4)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-13T16:15:44.883Z"
+  }
+}
