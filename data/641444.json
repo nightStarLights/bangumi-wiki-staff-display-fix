@@ -28,6 +28,15 @@
             "text": "Moetek"
           }
         }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "tellur"
+          }
+        }
       ]
     },
     "1.7": {
@@ -37,6 +46,15 @@
           "person": {
             "ref": null,
             "text": "Moetek"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Null Specification"
           }
         }
       ]
@@ -79,6 +97,15 @@
             "text": "aun"
           }
         }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Moetek"
+          }
+        }
       ]
     },
     "1.8": {
@@ -96,6 +123,15 @@
             }
           ]
         }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Gunji"
+          }
+        }
       ]
     },
     "1.13": {
@@ -107,15 +143,35 @@
             "text": "Null Specification"
           }
         }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "MES19"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "irona"
+          }
+        }
       ]
     }
   },
   "rawPatches": {
-    "editor": "艺术家：Emmy(1)、Bandersnatch(1)、Moetek(2,7,9,10)、aun(3)、aun vs Moetek(8)、M3G4N3(9)、Null Specification(13)"
+    "editor": "艺术家：Emmy(1)、Bandersnatch(1)、Moetek(2,7,9,10)、aun(3)、aun vs Moetek(8)、M3G4N3(9)、Null Specification(13)\n编曲：tellur(2)、Moetek(3)、irona(6)、Null Specification(7)、Gunji(8)、MES19(13)"
   },
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-14T14:43:01.366Z"
+    "submittedAt": "2026-04-14T14:45:20.551Z"
   }
 }
