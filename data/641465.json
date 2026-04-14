@@ -1,0 +1,25 @@
+{
+  "subjectId": 641465,
+  "trackCredits": {
+    "1.4": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Wataru Sato"
+          },
+          "inst": "Piano"
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "乐器-Piano：Wataru Sato(4)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-14T17:20:52.661Z"
+  }
+}
