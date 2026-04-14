@@ -1,0 +1,94 @@
+{
+  "subjectId": 641463,
+  "trackCredits": {
+    "1.1": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "ニシマケイ"
+          },
+          "inst": "Bass"
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Cody・Lee"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "李"
+            },
+            ")",
+            " (Bass)"
+          ]
+        }
+      ]
+    },
+    "1.2": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "ニシマケイ"
+          },
+          "inst": "Bass"
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Cody・Lee"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "李"
+            },
+            ")",
+            " (Bass)"
+          ]
+        }
+      ]
+    },
+    "1.3": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "ニシマケイ"
+          },
+          "inst": "Bass"
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Cody・Lee"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "李"
+            },
+            ")",
+            " (Bass)"
+          ]
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "乐器-Bass：ニシマケイ(1,2,3)、Cody・Lee(李)(1,2,3)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-14T17:08:30.028Z"
+  }
+}
