@@ -7,7 +7,7 @@
           "type": "person",
           "person": {
             "ref": null,
-            "text": "汤煎白雪"
+            "text": "湯煎白雪"
           }
         }
       ]
@@ -90,7 +90,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:92106",
             "text": "Amos"
           }
         }
@@ -109,11 +109,11 @@
     }
   },
   "rawPatches": {
-    "editor": "艺术家：汤煎白雪(1)、Guernica Helvetica(2)、Ulagumo(3)、つりうむ(4)、rakia(5)、vai5000(6)、irene(6)、漣音(7)、Amos(8)、WWW.GANG(9)"
+    "editor": "艺术家：湯煎白雪(1)、Guernica Helvetica(2)、Ulagumo(3)、つりうむ(4)、rakia(5)、vai5000(6)、irene(6)、漣音(7)、Amos(8)、WWW.GANG(9)"
   },
   "_meta": {
-    "submittedBy": "sakarin",
+    "submittedBy": "mercurylampe",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-11T09:14:03.213Z"
+    "submittedAt": "2026-04-14T14:42:44.921Z"
   }
 }
