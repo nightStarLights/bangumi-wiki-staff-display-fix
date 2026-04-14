@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:42190",
             "text": "Kijibato"
           }
         }
@@ -15,7 +15,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:42190",
             "text": "Kijibato"
           }
         }
@@ -24,7 +24,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:42190",
             "text": "Kijibato"
           }
         }
@@ -35,7 +35,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:66019",
             "text": "ckwa"
           }
         }
@@ -44,7 +44,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:66019",
             "text": "ckwa"
           }
         }
@@ -53,7 +53,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:66019",
             "text": "ckwa"
           }
         }
@@ -64,7 +64,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:10015",
             "text": "市瀬るぽ"
           }
         }
@@ -73,7 +73,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:10015",
             "text": "市瀬るぽ"
           }
         }
@@ -82,7 +82,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:10015",
             "text": "市瀬るぽ"
           }
         }
@@ -91,7 +91,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:82192",
             "text": "妃舞ゆにこ"
           }
         }
@@ -112,7 +112,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:65031",
             "text": "Akki"
           }
         }
@@ -121,7 +121,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:65031",
             "text": "Akki"
           }
         }
@@ -134,6 +134,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-14T00:42:40.307Z"
+    "submittedAt": "2026-04-14T00:42:43.273Z"
   }
 }
