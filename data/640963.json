@@ -1,0 +1,267 @@
+{
+  "subjectId": 640963,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5919",
+            "text": "仲村芽衣子"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:35280",
+            "text": "咲良ゆの"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65196",
+            "text": "葉月リョウヘイ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67560",
+            "text": "伊藤由宇"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67560",
+            "text": "伊藤由宇"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5919",
+            "text": "仲村芽衣子"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:35280",
+            "text": "咲良ゆの"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:38601",
+            "text": "海兎"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5920",
+            "text": "ALNEAR"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5920",
+            "text": "ALNEAR"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5919",
+            "text": "仲村芽衣子"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:35280",
+            "text": "咲良ゆの"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5919",
+            "text": "仲村芽衣子"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7638",
+            "text": "水夏える"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7638",
+            "text": "水夏える"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5919",
+            "text": "仲村芽衣子"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65677",
+            "text": "ららい"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36050",
+            "text": "紘瀬さやか"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "しの"
+          },
+          "person": {
+            "ref": null,
+            "text": "篠原瑞希"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "しの"
+          },
+          "person": {
+            "ref": null,
+            "text": "篠原瑞希"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "t.yamakoshi"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:35280",
+            "text": "咲良ゆの"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5919",
+            "text": "仲村芽衣子"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "しの"
+          },
+          "person": {
+            "ref": null,
+            "text": "篠原瑞希"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "しの"
+          },
+          "person": {
+            "ref": null,
+            "text": "篠原瑞希"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "まさと"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：仲村芽衣子(1,2,3,4)、咲良ゆの(1,2,3,5)\n作词：葉月リョウヘイ(1)、海兎(2)、仲村芽衣子(3,5)、ららい(4)、紘瀬さやか(4)\n作曲：伊藤由宇(1)、ALNEAR(2)、水夏える(3)、しの(篠原瑞希)(4,5)\n编曲：伊藤由宇(1)、ALNEAR(2)、水夏える(3)、しの(篠原瑞希)(4,5)\n乐器-Guitar：t.yamakoshi(4)、まさと(5)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-14T16:43:28.377Z"
+  }
+}
