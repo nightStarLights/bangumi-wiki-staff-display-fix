@@ -1,0 +1,50 @@
+{
+  "subjectId": 641426,
+  "trackCredits": {
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "YASUKI"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Sub Cool"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "mixing": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "Maozon"
+          },
+          "person": {
+            "ref": null,
+            "text": "DJ MIX"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：YASUKI(3)、Sub Cool(7)\n混音：Maozon (DJ MIX)(10)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-14T13:34:39.474Z"
+  }
+}
