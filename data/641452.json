@@ -82,7 +82,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:92110",
             "text": "羊羊"
           }
         }
@@ -91,7 +91,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:92110",
             "text": "羊羊"
           }
         }
@@ -100,7 +100,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:92109",
             "text": "NUU$HI"
           }
         }
@@ -109,7 +109,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:92109",
             "text": "NUU$HI"
           }
         }
@@ -179,18 +179,18 @@
           "type": "person",
           "person": {
             "ref": null,
-            "text": "HASEBI EBI"
+            "text": "HASEBE EBI"
           }
         }
       ]
     }
   },
   "rawPatches": {
-    "editor": "艺术家：u_ni(3)、Milky(4)、羊羊(7)、嚩(8)\n作词：u_ni(3)、Milky(4)、羊羊(7)、嚩(8)\n作曲：u_ni(3)、Milky(4)、takaryu(5)、NUU$HI(7)、ric3sho3r(8)\n编曲：safmusic(3)、llequal(4)、takaryu(5)、HASEBI EBI(6)、NUU$HI(7)、ric3sho3r(8)"
+    "editor": "艺术家：u_ni(3)、Milky(4)、羊羊(7)、嚩(8)\n作词：u_ni(3)、Milky(4)、羊羊(7)、嚩(8)\n作曲：u_ni(3)、Milky(4)、takaryu(5)、NUU$HI(7)、ric3sho3r(8)\n编曲：safmusic(3)、llequal(4)、takaryu(5)、HASEBE EBI(6)、NUU$HI(7)、ric3sho3r(8)"
   },
   "_meta": {
-    "submittedBy": "459115",
+    "submittedBy": "mercurylampe",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-14T16:18:35.285Z"
+    "submittedAt": "2026-04-14T16:49:11.970Z"
   }
 }
