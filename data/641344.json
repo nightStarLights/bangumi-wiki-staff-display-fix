@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:68973",
             "text": "あいの"
           }
         }
@@ -15,7 +15,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:65217",
             "text": "すくろーす"
           }
         }
@@ -24,7 +24,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:65217",
             "text": "すくろーす"
           }
         }
@@ -35,7 +35,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:68973",
             "text": "あいの"
           }
         }
@@ -44,7 +44,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:81468",
             "text": "SaLa"
           }
         }
@@ -53,7 +53,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:81468",
             "text": "SaLa"
           }
         }
@@ -64,7 +64,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:68973",
             "text": "あいの"
           }
         }
@@ -73,7 +73,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:65217",
             "text": "すくろーす"
           }
         }
@@ -82,7 +82,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:65217",
             "text": "すくろーす"
           }
         }
@@ -95,6 +95,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-14T01:16:28.448Z"
+    "submittedAt": "2026-04-14T01:16:29.993Z"
   }
 }
