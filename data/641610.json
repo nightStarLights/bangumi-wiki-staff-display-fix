@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:36654",
             "text": "nora2r"
           }
         }
@@ -52,6 +52,6 @@
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-15T11:33:42.055Z"
+    "submittedAt": "2026-04-15T11:33:43.971Z"
   }
 }
