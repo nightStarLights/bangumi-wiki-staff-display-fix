@@ -1,6 +1,17 @@
 {
   "subjectId": 641610,
   "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "nora2r"
+          }
+        }
+      ]
+    },
     "1.2": {
       "artist": [
         {
@@ -36,11 +47,11 @@
     }
   },
   "rawPatches": {
-    "editor": "艺术家：M4G&N3T(2)、sige(3)、Equiliup3(4)"
+    "editor": "艺术家：nora2r(1)、M4G&N3T(2)、sige(3)、Equiliup3(4)"
   },
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-15T11:33:36.708Z"
+    "submittedAt": "2026-04-15T11:33:42.055Z"
   }
 }
