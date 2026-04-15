@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:82017",
             "text": "天乃おつげ"
           }
         }
@@ -17,7 +17,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:65470",
             "text": "picco"
           }
         }
@@ -39,7 +39,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:73349",
             "text": "R1cefarm"
           }
         }
@@ -52,6 +52,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-15T14:09:43.737Z"
+    "submittedAt": "2026-04-15T14:09:45.620Z"
   }
 }
