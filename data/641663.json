@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:65662",
             "text": "海月シェル"
           }
         }
@@ -35,7 +35,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:65662",
             "text": "海月シェル"
           }
         }
@@ -64,7 +64,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:65662",
             "text": "海月シェル"
           }
         }
@@ -73,7 +73,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:61562",
             "text": "あいざわ"
           }
         }
@@ -82,7 +82,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:61562",
             "text": "あいざわ"
           }
         }
@@ -93,7 +93,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:65662",
             "text": "海月シェル"
           }
         }
@@ -102,7 +102,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:65663",
             "text": "音鳴マシタ"
           }
         }
@@ -111,7 +111,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:65663",
             "text": "音鳴マシタ"
           }
         }
@@ -122,7 +122,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:65662",
             "text": "海月シェル"
           }
         }
@@ -131,14 +131,14 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:65663",
             "text": "音鳴マシタ"
           }
         },
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:65662",
             "text": "海月シェル"
           }
         }
@@ -147,7 +147,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:65663",
             "text": "音鳴マシタ"
           }
         }
@@ -160,6 +160,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-15T15:18:50.664Z"
+    "submittedAt": "2026-04-15T15:18:52.636Z"
   }
 }
