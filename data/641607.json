@@ -70,7 +70,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:69715",
             "text": "uramp"
           }
         }
@@ -92,7 +92,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:69715",
             "text": "uramp"
           }
         }
@@ -114,7 +114,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:77620",
             "text": "HOUJIROU"
           }
         }
@@ -138,6 +138,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-15T10:51:30.892Z"
+    "submittedAt": "2026-04-15T10:51:33.223Z"
   }
 }
