@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:65740",
             "text": "桃寝ちのい"
           }
         }
@@ -15,14 +15,14 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:66211",
             "text": "Toccoyaki"
           }
         },
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:65740",
             "text": "桃寝ちのい"
           }
         }
@@ -31,14 +31,14 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:66211",
             "text": "Toccoyaki"
           }
         },
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:65740",
             "text": "桃寝ちのい"
           }
         }
@@ -47,7 +47,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:66211",
             "text": "Toccoyaki"
           }
         }
@@ -58,7 +58,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:65740",
             "text": "桃寝ちのい"
           }
         }
@@ -85,7 +85,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:67549",
             "text": "やっすん"
           }
         }
@@ -96,7 +96,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:83616",
             "text": "呆"
           }
         }
@@ -105,7 +105,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:83616",
             "text": "呆"
           }
         }
@@ -114,7 +114,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:83616",
             "text": "呆"
           }
         }
@@ -134,7 +134,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:85204",
             "text": "uotak"
           }
         }
@@ -143,7 +143,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:85204",
             "text": "uotak"
           }
         }
@@ -152,7 +152,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:85204",
             "text": "uotak"
           }
         }
@@ -168,7 +168,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:85203",
             "text": "オオウチアラタ"
           }
         }
@@ -257,6 +257,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-15T16:10:12.836Z"
+    "submittedAt": "2026-04-15T16:10:15.779Z"
   }
 }
