@@ -49,6 +49,17 @@
         }
       ]
     },
+    "1.17": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "493Water"
+          }
+        }
+      ]
+    },
     "1.18": {
       "arranger": [
         {
@@ -73,11 +84,11 @@
     }
   },
   "rawPatches": {
-    "editor": "编曲：ジャーニー小林(13)、たかにゃと(14)、Night Yard(15)、Xe (αirlemoneX)(16)、KoZiR4w(18)、Nekoribo(19)"
+    "editor": "编曲：ジャーニー小林(13)、たかにゃと(14)、Night Yard(15)、Xe (αirlemoneX)(16)、493Water(17)、KoZiR4w(18)、Nekoribo(19)"
   },
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-15T08:47:04.201Z"
+    "submittedAt": "2026-04-15T08:47:10.494Z"
   }
 }
