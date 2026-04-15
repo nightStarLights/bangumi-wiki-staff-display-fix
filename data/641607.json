@@ -90,11 +90,17 @@
     "1.5": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:69715",
-            "text": "uramp"
-          }
+          "parts": [
+            {
+              "ref": "p:69715",
+              "text": "uramp"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "音街ウナ"
+            }
+          ]
         }
       ]
     },
@@ -133,11 +139,11 @@
     }
   },
   "rawPatches": {
-    "editor": "艺术家：K's-traX(1,4,7,8,10)、FullMoon(2)、sanotch(3)、uramp(5)、DJ Enter(6)、HOUJIROU(9)、TO-MAX(11)\n作词：uramp(2)"
+    "editor": "艺术家：K's-traX(1,4,7,8,10)、FullMoon(2)、sanotch(3)、uramp feat.音街ウナ(5)、DJ Enter(6)、HOUJIROU(9)、TO-MAX(11)\n作词：uramp(2)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-15T10:51:33.223Z"
+    "submittedAt": "2026-04-15T10:54:13.621Z"
   }
 }
