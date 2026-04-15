@@ -1,7 +1,68 @@
 {
   "subjectId": 641673,
   "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65740",
+            "text": "桃寝ちのい"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66211",
+            "text": "Toccoyaki"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65740",
+            "text": "桃寝ちのい"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66211",
+            "text": "Toccoyaki"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65740",
+            "text": "桃寝ちのい"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66211",
+            "text": "Toccoyaki"
+          }
+        }
+      ]
+    },
     "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65740",
+            "text": "桃寝ちのい"
+          }
+        }
+      ],
       "composer": [
         {
           "type": "person",
@@ -19,9 +80,45 @@
             "text": "iru"
           }
         }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67549",
+            "text": "やっすん"
+          }
+        }
       ]
     },
     "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83616",
+            "text": "呆"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83616",
+            "text": "呆"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83616",
+            "text": "呆"
+          }
+        }
+      ],
       "mixing": [
         {
           "type": "person",
@@ -33,6 +130,33 @@
       ]
     },
     "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:85204",
+            "text": "uotak"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:85204",
+            "text": "uotak"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:85204",
+            "text": "uotak"
+          }
+        }
+      ],
       "mixing": [
         {
           "type": "person",
@@ -40,16 +164,99 @@
             "ref": null,
             "text": "大村みこり"
           }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "オオウチアラタ"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "MOSAIC.WAV"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "MOSAIC.WAV"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "MOSAIC.WAV"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "MOSAIC.WAV"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "かたほとり"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "かたほとり"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "かたほとり"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "かたほとり"
+          }
         }
       ]
     }
   },
   "rawPatches": {
-    "editor": "作曲：iru(3)\n编曲：iru(3)\n混音：大村みこり(2,4)"
+    "editor": "作词：桃寝ちのい(1,3)、呆(2)、uotak(4)、MOSAIC.WAV(5)、かたほとり(6)\n作曲：Toccoyaki(1)、桃寝ちのい(1)、呆(2)、iru(3)、uotak(4)、MOSAIC.WAV(5)、かたほとり(6)\n编曲：Toccoyaki(1)、桃寝ちのい(1)、呆(2)、iru(3)、uotak(4)、MOSAIC.WAV(5)、かたほとり(6)\n混音：Toccoyaki(1)、大村みこり(2,4)、やっすん(3)、オオウチアラタ(4)、MOSAIC.WAV(5)、かたほとり(6)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-15T16:11:16.193Z"
+    "submittedAt": "2026-04-15T16:16:38.577Z"
   }
 }
