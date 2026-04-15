@@ -53,6 +53,51 @@
         }
       ]
     },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:4916",
+            "text": "榊原ゆい"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Aware"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "10*deRMR"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65422",
+            "text": "蓮実えれな"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72363",
+            "text": "T4K"
+          }
+        }
+      ]
+    },
     "1.2": {
       "artist": [
         {
@@ -86,6 +131,22 @@
             "ref": "p:72360",
             "text": "小野仁誠"
           }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "nanomo"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "nanomo"
+          }
         }
       ]
     },
@@ -113,6 +174,13 @@
             "ref": "p:72360",
             "text": "小野仁誠"
           }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Surya Hearts"
+          }
         }
       ],
       "composer": [
@@ -121,6 +189,22 @@
           "person": {
             "ref": "p:72360",
             "text": "小野仁誠"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Surya Hearts"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Shibo"
           }
         }
       ]
@@ -150,6 +234,60 @@
           "person": {
             "ref": "p:72360",
             "text": "小野仁誠"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Zexnum"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Zexnum"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65398",
+            "text": "つぐ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65422",
+            "text": "蓮実えれな"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65422",
+            "text": "蓮実えれな"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65422",
+            "text": "蓮実えれな"
           }
         }
       ]
@@ -193,7 +331,23 @@
       ]
     },
     "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "nez"
+          }
+        }
+      ],
       "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Sakanahen ni Sato"
+          }
+        },
         {
           "type": "person",
           "person": {
@@ -226,6 +380,13 @@
         {
           "type": "person",
           "person": {
+            "ref": null,
+            "text": "叶響"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
             "ref": "p:65422",
             "text": "蓮実えれな"
           }
@@ -259,46 +420,18 @@
         }
       ]
     },
-    "1.8": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:4916",
-            "text": "榊原ゆい"
-          }
-        }
-      ],
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:65422",
-            "text": "蓮実えれな"
-          }
-        }
-      ],
-      "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:72363",
-            "text": "T4K"
-          }
-        }
-      ]
-    },
     "1.9": {
       "artist": [
         {
-          "parts": [
-            "あかしゆき (",
-            {
-              "ref": "p:8055",
-              "text": "米島希"
-            },
-            ")"
-          ]
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "あかしゆき"
+          },
+          "person": {
+            "ref": null,
+            "text": "米島希"
+          }
         }
       ],
       "lyricist": [
@@ -356,42 +489,13 @@
             "text": "小野仁誠"
           }
         }
-      ]
-    },
-    "1.11": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:65398",
-            "text": "つぐ"
-          }
-        }
-      ],
-      "lyricist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:65422",
-            "text": "蓮実えれな"
-          }
-        }
-      ],
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:65422",
-            "text": "蓮実えれな"
-          }
-        }
       ],
       "arranger": [
         {
           "type": "person",
           "person": {
-            "ref": "p:65422",
-            "text": "蓮実えれな"
+            "ref": null,
+            "text": "Authroom"
           }
         }
       ]
@@ -442,9 +546,12 @@
       ]
     }
   },
+  "rawPatches": {
+    "editor": "艺术家：榊原ゆい(1,8)、AKA(2)、六宮(3)、つぐ(4,11)、菊植-kikuchi-(5)、nez(6)、叶響(7)、蓮実えれな(7)、あかしゆき(米島希)(9)、りんたる(10)、okogeeechann(12)\n作词：蓮実えれな(1,2,3,9,11,12)、小野仁誠(1,2,3,4,10)、Surya Hearts(3)、Aut0(5)、Sakanahen ni Sato(6)、ADA(6)、LEVEREVE(7)、Aware(8)\n作曲：小野仁誠(1,2,3,4,9,10)、nanomo(2)、Zexnum(4)、Aut0(5)、ADA(6)、LEVEREVE(7)、10*deRMR(8)、蓮実えれな(8,11,12)、Yuy(12)\n编曲：小野仁誠(1)、SceneFromGoreGirls(1)、nanomo(2)、Surya Hearts(3)、Shibo(3)、Zexnum(4)、Aut0(5)、ADA(6)、LEVEREVE(7)、T4K(8,12)、Hmt2(9)、Authroom(10)、蓮実えれな(11)"
+  },
   "_meta": {
-    "submittedBy": "mercurylampe",
+    "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-14T22:27:09.818Z"
+    "submittedAt": "2026-04-15T04:11:58.043Z"
   }
 }
