@@ -67,7 +67,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:91283",
             "text": "岡村大輔"
           },
           "inst": "E.Guitar"
@@ -75,7 +75,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:69016",
             "text": "ナツメユウキ"
           },
           "inst": "E.Bass"
@@ -212,7 +212,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:81560",
             "text": "繭糸"
           }
         }
@@ -228,7 +228,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:82339",
             "text": "ブロブ"
           }
         }
@@ -273,7 +273,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:65398",
             "text": "つぐ"
           }
         }
@@ -320,7 +320,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:68938",
             "text": "めぐ"
           }
         }
@@ -329,7 +329,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:82339",
             "text": "ブロブ"
           }
         }
@@ -356,7 +356,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:67878",
             "text": "たっち"
           }
         }
@@ -389,7 +389,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:73448",
             "text": "HONNWAKA88"
           },
           "inst": "E.Bass"
@@ -411,6 +411,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-15T14:42:18.039Z"
+    "submittedAt": "2026-04-15T14:42:21.529Z"
   }
 }
