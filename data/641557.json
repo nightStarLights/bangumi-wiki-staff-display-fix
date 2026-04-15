@@ -1,0 +1,83 @@
+{
+  "subjectId": 641557,
+  "trackCredits": {
+    "1.13": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ジャーニー小林"
+          }
+        }
+      ]
+    },
+    "1.14": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "たかにゃと"
+          }
+        }
+      ]
+    },
+    "1.15": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Night Yard"
+          }
+        }
+      ]
+    },
+    "1.16": {
+      "arranger": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "Xe"
+          },
+          "person": {
+            "ref": null,
+            "text": "αirlemoneX"
+          }
+        }
+      ]
+    },
+    "1.18": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "KoZiR4w"
+          }
+        }
+      ]
+    },
+    "1.19": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Nekoribo"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "编曲：ジャーニー小林(13)、たかにゃと(14)、Night Yard(15)、Xe (αirlemoneX)(16)、KoZiR4w(18)、Nekoribo(19)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-15T08:47:04.201Z"
+  }
+}
