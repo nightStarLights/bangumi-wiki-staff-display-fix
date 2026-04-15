@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:36649",
             "text": "siqlo"
           }
         }
@@ -17,7 +17,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:55167",
             "text": "yusi."
           }
         }
@@ -39,7 +39,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:55176",
             "text": "Yu-dachi"
           }
         }
@@ -50,7 +50,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:71671",
             "text": "BLAQPSY"
           }
         }
@@ -72,7 +72,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:69026",
             "text": "Mysteka"
           }
         }
@@ -83,7 +83,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:71672",
             "text": "Dogsix"
           }
         }
@@ -94,7 +94,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:71676",
             "text": "Aethral"
           }
         }
@@ -107,6 +107,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-15T11:48:52.515Z"
+    "submittedAt": "2026-04-15T11:48:55.634Z"
   }
 }
