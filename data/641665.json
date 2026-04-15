@@ -1,0 +1,25 @@
+{
+  "subjectId": 641665,
+  "trackCredits": {
+    "1.2": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "ヘくぼき"
+          },
+          "inst": "Bass"
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "乐器-Bass：ヘくぼき(2)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-15T15:22:32.174Z"
+  }
+}
