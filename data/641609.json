@@ -1,0 +1,35 @@
+{
+  "subjectId": 641609,
+  "trackCredits": {
+    "1.7": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Riku"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Akagitune"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "编曲：Riku(7)、Akagitune(8)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-15T11:08:18.014Z"
+  }
+}
