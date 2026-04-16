@@ -62,14 +62,15 @@
     "1.3": {
       "lyricist": [
         {
-          "parts": [
-            "七条レタス (",
-            {
-              "ref": "p:10414",
-              "text": "D.watt"
-            },
-            ")"
-          ]
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "七条レタス"
+          },
+          "person": {
+            "ref": "p:10414",
+            "text": "D.watt"
+          }
         }
       ],
       "composer": [
@@ -208,9 +209,12 @@
       ]
     }
   },
+  "rawPatches": {
+    "editor": "作词：はるなば(1.1-2)、七条レタス (D.watt)(1.3)、colate(1.4-5)、かめりあ(1.6-7)\n作曲：はるなば(1.1-2)、D.watt(1.3)、colate(1.4-5)、かめりあ(1.6-7)\n编曲：はるなば(1.1-2)、D.watt(1.3)、colate(1.4-5)、かめりあ(1.6-7)"
+  },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-16T14:22:57.391Z"
+    "submittedAt": "2026-04-16T15:15:07.924Z"
   }
 }
