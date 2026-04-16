@@ -1,0 +1,305 @@
+{
+  "subjectId": 641803,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "cv_credit",
+          "character": "藤沢柚子",
+          "cv": {
+            "ref": null,
+            "text": "保科李沙"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:17705",
+            "text": "渡部チェル"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:17705",
+            "text": "渡部チェル"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "cv_credit",
+          "character": "藤沢柚子",
+          "cv": {
+            "ref": null,
+            "text": "保科李沙"
+          }
+        },
+        {
+          "type": "cv_credit",
+          "character": "井之原小星",
+          "cv": {
+            "ref": "p:15645",
+            "text": "もものはるな"
+          }
+        },
+        {
+          "type": "cv_credit",
+          "character": "星咲あかり",
+          "cv": {
+            "ref": "p:30649",
+            "text": "赤尾ひかる"
+          }
+        },
+        {
+          "type": "cv_credit",
+          "character": "東雲つむぎ",
+          "cv": {
+            "ref": "p:36705",
+            "text": "和泉風花"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "大国奏音"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "大国奏音"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:77165",
+            "text": "Acotto"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:77165",
+            "text": "Acotto"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66791",
+            "text": "MYUKKE."
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66791",
+            "text": "MYUKKE."
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "q/stol"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "q/stol"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:41327",
+            "text": "DÉ DÉ MOUSE"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:41327",
+            "text": "DÉ DÉ MOUSE"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55345",
+            "text": "ミツキヨ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55345",
+            "text": "ミツキヨ"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47384",
+            "text": "ARForest"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47384",
+            "text": "ARForest"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "composer": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "提供"
+          },
+          "person": {
+            "ref": "p:71677",
+            "text": "Teikyou"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "提供"
+          },
+          "person": {
+            "ref": "p:71677",
+            "text": "Teikyou"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68313",
+            "text": "brz1128"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68313",
+            "text": "brz1128"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66527",
+            "text": "7mai"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66527",
+            "text": "7mai"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55169",
+            "text": "Aoi"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55169",
+            "text": "Aoi"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：藤沢柚子(CV:保科李沙)(1,2)、井之原小星(CV:もものはるな)(2)、星咲あかり(CV:赤尾ひかる)(2)、東雲つむぎ(CV:和泉風花)(2)\n作曲：渡部チェル(1)、大国奏音(2)、Acotto(3)、MYUKKE.(4)、《q/stol》(5)、DÉ DÉ MOUSE(6)、ミツキヨ(7)、ARForest(8)、提供(Teikyou)(9)、brz1128(10)、7mai(11)、Aoi(12)\n编曲：渡部チェル(1)、大国奏音(2)、Acotto(3)、MYUKKE.(4)、《q/stol》(5)、DÉ DÉ MOUSE(6)、ミツキヨ(7)、ARForest(8)、提供(Teikyou)(9)、brz1128(10)、7mai(11)、Aoi(12)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-16T17:43:51.424Z"
+  }
+}
