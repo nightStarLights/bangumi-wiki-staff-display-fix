@@ -4,117 +4,134 @@
     "1.1": {
       "artist": [
         {
-          "type": "text",
-          "text": "NianDat"
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "NianDat"
+          }
         }
       ]
     },
     "1.2": {
       "artist": [
         {
-          "type": "text",
-          "text": "LeTter"
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "LeTter"
+          }
         }
       ]
     },
     "1.3": {
       "artist": [
         {
-          "type": "text",
-          "text": "Uzuki"
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Uzuki"
+          }
         }
       ]
     },
     "1.4": {
       "artist": [
         {
-          "type": "text",
-          "text": "Apollo."
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Apollo."
+          }
         }
       ]
     },
     "1.5": {
       "artist": [
         {
-          "type": "text",
-          "text": "TuTTiGhN"
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "TuTTiGhN"
+          }
         }
       ]
     },
     "1.6": {
       "artist": [
         {
-          "type": "text",
-          "text": "shiyu"
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "shiyu"
+          }
         }
       ]
     },
     "1.7": {
       "artist": [
         {
-          "type": "text",
-          "text": "HoujiSayu"
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "HoujiSayu"
+          }
         }
       ]
     },
     "1.8": {
       "artist": [
         {
-          "type": "text",
-          "text": "フェイ"
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "フェイ"
+          }
         },
         {
-          "type": "text",
-          "text": "ルーン"
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ルーン"
+          }
         }
       ]
     },
     "1.9": {
       "artist": [
         {
-          "type": "text",
-          "text": "Yossy_"
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Yossy_"
+          }
         }
       ]
     },
     "1.10": {
       "artist": [
         {
-          "type": "text",
-          "text": "Sate11a"
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Sate11a"
+          }
         },
         {
-          "type": "text",
-          "text": "野野"
-        }
-      ],
-      "chorus": [
-        {
-          "type": "text",
-          "text": "Azurusas"
-        },
-        {
-          "type": "text",
-          "text": "誘零"
-        },
-        {
-          "type": "text",
-          "text": "ちーず"
-        },
-        {
-          "type": "text",
-          "text": "HoujiSayu"
-        },
-        {
-          "type": "text",
-          "text": "Sate11a"
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "野野"
+          }
         }
       ]
     }
   },
+  "rawPatches": {
+    "editor": "艺术家：NianDat(1.1)、LeTter(1.2)、Uzuki(1.3)、Apollo.(1.4)、TuTTiGhN(1.5)、shiyu(1.6)、HoujiSayu(1.7)、フェイ(1.8)、ルーン(1.8)、Yossy_(1.9)、Sate11a(1.10)、野野(1.10)\n和声：Azurusas(1.10)、誘零(1.10)、ちーず(1.10)、HoujiSayu(1.10)、Sate11a(1.10)"
+  },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-16T14:32:31.956Z"
+    "submittedAt": "2026-04-16T15:16:06.519Z"
   }
 }
