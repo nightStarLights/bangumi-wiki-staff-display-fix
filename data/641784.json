@@ -77,23 +77,29 @@
     "1.9": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Ectomorph feat."
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Richard Whitethread"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "Ectomorph"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "Richard Whitethread"
+            }
+          ]
         }
       ]
     },
     "1.11": {
       "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:85264",
+            "text": "EFU"
+          }
+        },
         {
           "type": "person",
           "person": {
@@ -105,11 +111,11 @@
     }
   },
   "rawPatches": {
-    "editor": "艺术家：Fracus(1)、Darwin(1)、Oddman(2)、Hyphen(4)、Hypnotize(6)、Eryk Orpheus(7)、paieru(8)、Ectomorph feat.(9)、Richard Whitethread(9)、NONAKA+CHIN(11)"
+    "editor": "艺术家：Fracus(1) / Darwin(1)、Oddman(2)、Hyphen(4)、Hypnotize(6)、Eryk Orpheus(7)、paieru(8)、Ectomorph feat.Richard Whitethread(9)、EFU(11) / NONAKA+CHIN(11)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-16T13:00:07.890Z"
+    "submittedAt": "2026-04-16T13:03:20.775Z"
   }
 }
