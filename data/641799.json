@@ -1,0 +1,46 @@
+{
+  "subjectId": 641799,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Kotori"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Keton"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55201",
+            "text": "RiraN"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "Vocal:Kotori(1),Keton(2),RiraN(3)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-16T16:50:39.262Z"
+  }
+}
