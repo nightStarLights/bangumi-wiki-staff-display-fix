@@ -1,0 +1,35 @@
+{
+  "subjectId": 641737,
+  "trackCredits": {
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "DJ Jo-Keng"
+          }
+        }
+      ]
+    },
+    "1.1": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "DJ Jo-Keng"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：DJ Jo-Keng(2)\n编曲：DJ Jo-Keng(1)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-16T05:06:56.896Z"
+  }
+}
