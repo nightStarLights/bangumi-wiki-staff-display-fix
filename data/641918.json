@@ -1,0 +1,100 @@
+{
+  "subjectId": 641918,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5860",
+            "text": "彩音"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:2748",
+            "text": "磯江俊道"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:2748",
+            "text": "磯江俊道"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "川住かつお"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:2748",
+            "text": "磯江俊道"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:2748",
+            "text": "磯江俊道"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "三浦誠司"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:2748",
+            "text": "磯江俊道"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:2748",
+            "text": "磯江俊道"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "作词：彩音(1)、川住かつお(2)、三浦誠司(3)\n作曲：磯江俊道(1,2,3)\n编曲：磯江俊道(1,2,3)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-16T17:30:46.534Z"
+  }
+}
