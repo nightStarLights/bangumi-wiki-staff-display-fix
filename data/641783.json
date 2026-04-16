@@ -7,14 +7,7 @@
           "type": "person",
           "person": {
             "ref": null,
-            "text": "gamei"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Lactarluz"
+            "text": "gamei & Lactarluz"
           }
         }
       ]
@@ -65,11 +58,11 @@
     }
   },
   "rawPatches": {
-    "editor": "艺术家：gamei(2)、Lactarluz(2)、Amon(3)、kawashiii(6)、真白あまね(7)、Nekomanma(8)"
+    "editor": "艺术家：gamei & Lactarluz(2)、Amon(3)、kawashiii(6)、真白あまね(7)、Nekomanma(8)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-16T12:54:55.133Z"
+    "submittedAt": "2026-04-16T12:55:11.053Z"
   }
 }
