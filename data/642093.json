@@ -1,0 +1,62 @@
+{
+  "subjectId": 642093,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68966",
+            "text": "風観ゆら"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68966",
+            "text": "風観ゆら"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68966",
+            "text": "風観ゆら"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68966",
+            "text": "風観ゆら"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68966",
+            "text": "風観ゆら"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "作词：風観ゆら(1)\n作曲：風観ゆら(1,2)\n编曲：風観ゆら(1,2)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-17T12:24:32.468Z"
+  }
+}
