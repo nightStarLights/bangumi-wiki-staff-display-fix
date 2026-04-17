@@ -1,0 +1,564 @@
+{
+  "subjectId": 642126,
+  "trackCredits": {
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91486",
+            "text": "ぴこんちゃん"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84367",
+            "text": "やまもとこうだい"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84367",
+            "text": "やまもとこうだい"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Chiba Shumpei"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91486",
+            "text": "ぴこんちゃん"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84367",
+            "text": "やまもとこうだい"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84367",
+            "text": "やまもとこうだい"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84367",
+            "text": "やまもとこうだい"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Chiba Shumpei"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "エンヤシンタロウ"
+          },
+          "inst": "Drum"
+        }
+      ]
+    },
+    "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91486",
+            "text": "ぴこんちゃん"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91486",
+            "text": "ぴこんちゃん"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84367",
+            "text": "やまもとこうだい"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91486",
+            "text": "ぴこんちゃん"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "シガツ"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91486",
+            "text": "ぴこんちゃん"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91486",
+            "text": "ぴこんちゃん"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91486",
+            "text": "ぴこんちゃん"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ニーヤマムスブ"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ニーヤマムスブ"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91486",
+            "text": "ぴこんちゃん"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91486",
+            "text": "ぴこんちゃん"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "あたたかい水族館"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91486",
+            "text": "ぴこんちゃん"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "あたたかい水族館"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Chiba Shumpei"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91486",
+            "text": "ぴこんちゃん"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "あたたかい水族館"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "あたたかい水族館"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "あたたかい水族館"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "あたたかい水族館"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91486",
+            "text": "ぴこんちゃん"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "JB"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "JB"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "JB"
+          }
+        }
+      ],
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "あたたかい水族館"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91484",
+            "text": "言ノ葉みくろ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "JB"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "日々乃ねむり"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Chiba Shumpei"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "愛蕾"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "JB"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "JB"
+          },
+          "inst": "Saxophone"
+        }
+      ]
+    },
+    "1.10": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91486",
+            "text": "ぴこんちゃん"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91489",
+            "text": "T-J"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91489",
+            "text": "T-J"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91489",
+            "text": "T-J"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91489",
+            "text": "T-J"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Kawaii Psycho"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "俱楽部"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:40239",
+            "text": "星銀乃丈"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:40239",
+            "text": "星銀乃丈"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68136",
+            "text": "Take"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:40239",
+            "text": "星銀乃丈"
+          },
+          "inst": "Synthesizer"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:91486",
+            "text": "ぴこんちゃん"
+          },
+          "inst": "Recorder"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:84367",
+            "text": "やまもとこうだい"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "toyo"
+          },
+          "inst": "Bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "緩斗"
+          },
+          "inst": "Piano"
+        }
+      ]
+    },
+    "1.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84367",
+            "text": "やまもとこうだい"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84367",
+            "text": "やまもとこうだい"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91491",
+            "text": "ohigeCat"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "シガツ"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "作词：ぴこんちゃん(2,3,4,5,6,7,9,10)、やまもとこうだい(3)、あたたかい水族館(7)、Kawaii Psycho(8)、俱楽部(8)、JB(9)、T-J(10)\n作曲：やまもとこうだい(1,2,3)、ぴこんちゃん(4,5,6)、あたたかい水族館(6,7)、星銀乃丈(8)、JB(9)、T-J(10)\n编曲：やまもとこうだい(1,2,3,4)、ぴこんちゃん(4,5,6)、ニーヤマムスブ(5)、あたたかい水族館(6,7)、星銀乃丈(8)、JB(9)、T-J(10)、ohigeCat(11)\n声乐：あたたかい水族館(9)、言ノ葉みくろ(9)、JB(9)、日々乃ねむり(9)、Chiba Shumpei(9)、愛蕾(9)\n混音：Chiba Shumpei(2,3,6)、シガツ(4,11)、ニーヤマムスブ(5)、あたたかい水族館(7)、Take(8)、JB(9)、T-J(10)\n乐器-Drum：エンヤシンタロウ(3)\n乐器-Synthesizer：星銀乃丈(8)\n乐器-Recorder：ぴこんちゃん(8)\n乐器-Guitar：やまもとこうだい(8)\n乐器-Bass：toyo(8)\n乐器-Piano：緩斗(8)\n乐器-Saxophone：JB(9)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-17T20:41:19.537Z"
+  }
+}
