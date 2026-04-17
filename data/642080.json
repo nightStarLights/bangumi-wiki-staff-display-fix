@@ -13,19 +13,27 @@
       ],
       "composer": [
         {
-          "type": "person",
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "Felysrator"
+          },
           "person": {
             "ref": "p:81065",
-            "text": "Felysrator"
+            "text": "滝川龍聖"
           }
         }
       ],
       "arranger": [
         {
-          "type": "person",
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "Felysrator"
+          },
           "person": {
             "ref": "p:81065",
-            "text": "Felysrator"
+            "text": "滝川龍聖"
           }
         }
       ]
@@ -42,19 +50,27 @@
       ],
       "composer": [
         {
-          "type": "person",
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "Felysrator"
+          },
           "person": {
             "ref": "p:81065",
-            "text": "Felysrator"
+            "text": "滝川龍聖"
           }
         }
       ],
       "arranger": [
         {
-          "type": "person",
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "Felysrator"
+          },
           "person": {
             "ref": "p:81065",
-            "text": "Felysrator"
+            "text": "滝川龍聖"
           }
         }
       ]
@@ -158,19 +174,27 @@
     "1.6": {
       "composer": [
         {
-          "type": "person",
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "Felysrator"
+          },
           "person": {
             "ref": "p:81065",
-            "text": "Felysrator"
+            "text": "滝川龍聖"
           }
         }
       ],
       "arranger": [
         {
-          "type": "person",
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "Felysrator"
+          },
           "person": {
             "ref": "p:81065",
-            "text": "Felysrator"
+            "text": "滝川龍聖"
           }
         }
       ]
@@ -237,11 +261,11 @@
     }
   },
   "rawPatches": {
-    "editor": "艺术家：Sennzai(1,2,3,4,5)\n作词：蒼月まりか(5)\n作曲：Felysrator(1,2,6)、かそかそ(3,7)、塚越雄一朗(4,8)、Tansa(5,9)\n编曲：Felysrator(1,2,6)、かそかそ(3,7)、塚越雄一朗(4,8)、Tansa(5,9)"
+    "editor": "艺术家：Sennzai(1,2,3,4,5)\n作词：蒼月まりか(5)\n作曲：Felysrator(滝川龍聖)(1,2,6)、かそかそ(3,7)、塚越雄一朗(4,8)、Tansa(5,9)\n编曲：Felysrator(滝川龍聖)(1,2,6)、かそかそ(3,7)、塚越雄一朗(4,8)、Tansa(5,9)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-17T11:13:02.041Z"
+    "submittedAt": "2026-04-17T11:14:08.592Z"
   }
 }
