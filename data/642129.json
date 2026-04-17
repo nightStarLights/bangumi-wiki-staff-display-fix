@@ -1,0 +1,94 @@
+{
+  "subjectId": 642129,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "J-coreレンジャー"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "J-coreレンジャー"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "E0ri4"
+          },
+          "person": {
+            "ref": "p:65769",
+            "text": "ゑおりあ"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67132",
+            "text": "Reku Mochizuki"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Riku"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65772",
+            "text": "Halv"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65768",
+            "text": "K-forest"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：J-coreレンジャー(1,7)、E0ri4(ゑおりあ)(2)、Reku Mochizuki(3)、Riku(4)、Halv(5)、K-forest(6)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-17T20:58:25.336Z"
+  }
+}
