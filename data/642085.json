@@ -1,0 +1,41 @@
+{
+  "subjectId": 642085,
+  "trackCredits": {
+    "1.11": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "BlackY"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "Risa Yuzuki"
+            }
+          ]
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "BlackY a.k.a. WAiKURO survive"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：BlackY feat. Risa Yuzuki(11)、BlackY a.k.a. WAiKURO survive(12)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-17T11:37:05.303Z"
+  }
+}
