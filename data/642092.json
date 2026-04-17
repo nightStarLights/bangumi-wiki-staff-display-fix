@@ -113,13 +113,6 @@
             "ref": "p:82118",
             "text": "月城紅葉"
           }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Drums"
-          }
         }
       ],
       "composer": [
@@ -128,13 +121,6 @@
           "person": {
             "ref": "p:82118",
             "text": "月城紅葉"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Drums"
           }
         }
       ],
@@ -145,13 +131,65 @@
             "ref": "p:82118",
             "text": "月城紅葉"
           }
-        },
+        }
+      ],
+      "mixing": [
         {
           "type": "person",
           "person": {
             "ref": null,
-            "text": "Drums"
+            "text": "えあ。"
           }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:82118",
+            "text": "月城紅葉"
+          },
+          "inst": "Drums"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "嶋根"
+          },
+          "inst": "Sax"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "颯汰"
+          },
+          "inst": "Sax"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "田中ホルヘシロウ"
+          },
+          "inst": "Bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "AYAKI"
+          },
+          "inst": "Piano"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:87023",
+            "text": "佐々木秀尚"
+          },
+          "inst": "Guitar"
         }
       ]
     },
@@ -328,25 +366,14 @@
           }
         }
       ]
-    },
-    "1.14": {
-      "mixing": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "えあ。"
-          }
-        }
-      ]
     }
   },
   "rawPatches": {
-    "editor": "作词：葉月リョウヘイ(5)、月城紅葉(6,8,10)、片山千秋(9)、Drums(10)\n作曲：OSTER project(1)、黒うさP(2,7)、ユラメ(3)、R Sound Design(4)、河原憂祐(わかたろう)(5)、月城紅葉(6,8,9,10)、Drums(10)\n编曲：OSTER project(1)、黒うさP(2,7)、ユラメ(3)、R Sound Design(4)、河原憂祐(わかたろう)(5)、月城紅葉(6,8,9,10)、Drums(10)\n混音：打打だいず(1)、Meis Clauson(2,4,5,7)、えあ。(9,14)"
+    "editor": "作词：葉月リョウヘイ(5)、月城紅葉(6,8,10)、片山千秋(9)\n作曲：OSTER project(1)、黒うさP(2,7)、ユラメ(3)、R Sound Design(4)、河原憂祐(わかたろう)(5)、月城紅葉(6,8,9,10)\n编曲：OSTER project(1)、黒うさP(2,7)、ユラメ(3)、R Sound Design(4)、河原憂祐(わかたろう)(5)、月城紅葉(6,8,9,10)\n混音：打打だいず(1)、Meis Clauson(2,4,5,7)、えあ。(9,10)\n乐器-Drums：月城紅葉(10)\n乐器-Sax：嶋根(10)、颯汰(10)\n乐器-Bass：田中ホルヘシロウ(10)\n乐器-Piano：AYAKI(10)\n乐器-Guitar：佐々木秀尚(10)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-17T12:12:44.752Z"
+    "submittedAt": "2026-04-17T12:13:56.116Z"
   }
 }
