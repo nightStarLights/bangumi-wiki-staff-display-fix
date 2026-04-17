@@ -1,0 +1,640 @@
+{
+  "subjectId": 642097,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:34905",
+            "text": "あよ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:40140",
+            "text": "棗いつき"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:41138",
+            "text": "kaztora"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:41138",
+            "text": "kaztora"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:46431",
+            "text": "清水\"カルロス\"宥人"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6366",
+            "text": "MK"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:46431",
+            "text": "清水\"カルロス\"宥人"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:34905",
+            "text": "あよ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55566",
+            "text": "をとは"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:41138",
+            "text": "kaztora"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68163",
+            "text": "谷高マーク"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:41138",
+            "text": "kaztora"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "fluffilm"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6372",
+            "text": "Hedonist"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6366",
+            "text": "MK"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:34905",
+            "text": "あよ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33350",
+            "text": "藍月なくる"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:41138",
+            "text": "kaztora"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68163",
+            "text": "谷高マーク"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:41138",
+            "text": "kaztora"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "fluffilm"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6372",
+            "text": "Hedonist"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6372",
+            "text": "Hedonist"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:34905",
+            "text": "あよ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:40140",
+            "text": "棗いつき"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9366",
+            "text": "あやぽんず＊"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7253",
+            "text": "ななひら"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55566",
+            "text": "をとは"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ちょこ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33350",
+            "text": "藍月なくる"
+          }
+        },
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "Risa Yuzuki"
+          },
+          "person": {
+            "ref": "p:25781",
+            "text": "柚木梨沙"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6248",
+            "text": "nayuta"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:41138",
+            "text": "kaztora"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:41138",
+            "text": "kaztora"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:46431",
+            "text": "清水\"カルロス\"宥人"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6372",
+            "text": "Hedonist"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:46431",
+            "text": "清水\"カルロス\"宥人"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Kei Nakamura"
+          },
+          "inst": "Bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "裕木レオン"
+          },
+          "inst": "Drums"
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9366",
+            "text": "あやぽんず＊"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7253",
+            "text": "ななひら"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:41138",
+            "text": "kaztora"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:41138",
+            "text": "kaztora"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:46431",
+            "text": "清水\"カルロス\"宥人"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6372",
+            "text": "Hedonist"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:46431",
+            "text": "清水\"カルロス\"宥人"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9366",
+            "text": "あやぽんず＊"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ちょこ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:41138",
+            "text": "kaztora"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:41138",
+            "text": "kaztora"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6372",
+            "text": "Hedonist"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6372",
+            "text": "Hedonist"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6372",
+            "text": "Hedonist"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9366",
+            "text": "あやぽんず＊"
+          }
+        },
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "Risa Yuzuki"
+          },
+          "person": {
+            "ref": "p:25781",
+            "text": "柚木梨沙"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:41138",
+            "text": "kaztora"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:77714",
+            "text": "詠未"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:41138",
+            "text": "kaztora"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6372",
+            "text": "Hedonist"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47518",
+            "text": "waoru"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67570",
+            "text": "うらる"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "まがとろ"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9366",
+            "text": "あやぽんず＊"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6248",
+            "text": "nayuta"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:41138",
+            "text": "kaztora"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:41138",
+            "text": "kaztora"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:41138",
+            "text": "kaztora"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "かめ"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6372",
+            "text": "Hedonist"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "まがとろ"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Pira"
+          },
+          "inst": "Bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "裕木レオン"
+          },
+          "inst": "Drums"
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：あよ(1,3,5,8)、棗いつき(1,8)、あやぽんず＊(2,4,6,7,8)、ななひら(2,8)、をとは(3,8)、ちょこ(4,8)、藍月なくる(5,8)、Risa Yuzuki(柚木梨沙)(6,8)、nayuta(7,8)\n作词：kaztora(1,2,3,4,5,6,7,8)、谷高マーク(3,5)、詠未(6)\n作曲：kaztora(1,2,3,4,5,6,7,8)、Hedonist(4)\n编曲：清水\"カルロス\"宥人(1,2,8)、fluffilm(3,5)、Hedonist(3,4,5,6)、waoru(6)、kaztora(7)、かめ(7)\n混音：MK(1,3)、Hedonist(2,4,5,7,8)、うらる(6)\n乐器-Guitar：清水\"カルロス\"宥人(1,2,8)、まがとろ(6,7)\n乐器-Bass：Pira(7)、Kei Nakamura(8)\n乐器-Drums：裕木レオン(7,8)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-17T12:52:07.238Z"
+  }
+}
