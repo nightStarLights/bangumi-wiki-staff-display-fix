@@ -1,0 +1,64 @@
+{
+  "subjectId": 642128,
+  "trackCredits": {
+    "1.5": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "kuro"
+          }
+        }
+      ]
+    },
+    "1.1": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:46497",
+            "text": "零 -zero-"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "黄色"
+          },
+          "inst": "Bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "nemu"
+          },
+          "inst": "Drum"
+        },
+        {
+          "parts": [
+            "ゆーじ",
+            " (",
+            {
+              "ref": "p:67614",
+              "text": "吉澤ゆーじ"
+            },
+            ")",
+            " (Keyboard)"
+          ]
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "编曲：kuro(5)\n乐器-Guitar：零 -zero-(1)\n乐器-Bass：黄色(1)\n乐器-Drum：nemu(1)\n乐器-Keyboard：ゆーじ (吉澤ゆーじ)(1)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-17T20:55:24.474Z"
+  }
+}
