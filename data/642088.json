@@ -1,0 +1,143 @@
+{
+  "subjectId": 642088,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "RYOQUCHA"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "奈良ひより"
+            }
+          ]
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Mameyudoufu × KARUT"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "棗いつき"
+            }
+          ]
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "ariiol"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "Kanata.N"
+            }
+          ]
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Zekk"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "PANXI"
+            }
+          ]
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "DJ Raisei"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "hinata"
+            }
+          ]
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "litmus* × PANXI × 星名はる"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "muyu"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "高城みよ"
+            }
+          ]
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "you"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "Renko"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：RYOQUCHA feat. 奈良ひより(1)、Mameyudoufu × KARUT feat. 棗いつき(2)、ariiol feat. Kanata.N(3)、Zekk feat. PANXI(4)、DJ Raisei feat. hinata(5)、litmus* × PANXI × 星名はる(6)、muyu feat. 高城みよ(7)、you feat. Renko(8)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-17T11:52:19.150Z"
+  }
+}
