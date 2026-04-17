@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:92312",
             "text": "moon jelly"
           }
         }
@@ -15,7 +15,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:92312",
             "text": "moon jelly"
           }
         }
@@ -28,6 +28,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-17T13:48:54.534Z"
+    "submittedAt": "2026-04-17T13:49:04.040Z"
   }
 }
