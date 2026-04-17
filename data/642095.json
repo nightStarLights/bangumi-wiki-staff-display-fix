@@ -1,0 +1,91 @@
+{
+  "subjectId": 642095,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:52538",
+            "text": "國土佳音"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:74457",
+            "text": "笹原那太"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:43550",
+            "text": "Shibayan"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ほりおみわ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65117",
+            "text": "蒼風そうか"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "GO TSUKADA"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:14977",
+            "text": "清水嶺"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66593",
+            "text": "Hagali"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：國土佳音(1)、ほりおみわ(2)\n作词：笹原那太(1)、蒼風そうか(2)\n编曲：GO TSUKADA(2)\n混音：Shibayan(1)、清水嶺(2)、Hagali(3)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-17T12:35:16.111Z"
+  }
+}
