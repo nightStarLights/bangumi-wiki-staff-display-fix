@@ -54,7 +54,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:66918",
             "text": "Riku"
           }
         }
@@ -89,6 +89,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-17T20:58:25.336Z"
+    "submittedAt": "2026-04-17T20:58:33.638Z"
   }
 }
