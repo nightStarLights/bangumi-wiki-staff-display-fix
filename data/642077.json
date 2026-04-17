@@ -1,0 +1,100 @@
+{
+  "subjectId": 642077,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:32737",
+            "text": "山下航生"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:32737",
+            "text": "山下航生"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:32737",
+            "text": "山下航生"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25688",
+            "text": "ひろて～"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69689",
+            "text": "ロンゲスト"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69689",
+            "text": "ロンゲスト"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25688",
+            "text": "ひろて～"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25688",
+            "text": "ひろて～"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25688",
+            "text": "ひろて～"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "作词：山下航生(1)、ひろて～(2,3)\n作曲：山下航生(1)、ロンゲスト(2)、ひろて～(3)\n编曲：山下航生(1)、ロンゲスト(2)、ひろて～(3)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-17T11:03:03.201Z"
+  }
+}
