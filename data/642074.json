@@ -1,0 +1,96 @@
+{
+  "subjectId": 642074,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "多国奏音"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "XAQUVA"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:79454",
+            "text": "庭師"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55169",
+            "text": "Aoi"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47371",
+            "text": "Juggernaut."
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69140",
+            "text": "CHUBAY"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70007",
+            "text": "Ashrount"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68128",
+            "text": "polysha"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "MisoilePunch♪"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：多国奏音(1)、XAQUVA(1)、庭師(2)、Aoi(2)、Juggernaut.(3)、CHUBAY(3)、Ashrount(4)、polysha(4)、MisoilePunch♪(5)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-17T10:56:06.386Z"
+  }
+}
