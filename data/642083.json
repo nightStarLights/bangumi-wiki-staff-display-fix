@@ -1,0 +1,122 @@
+{
+  "subjectId": 642083,
+  "trackCredits": {
+    "1.3": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "USAO"
+            },
+            " vs ",
+            {
+              "ref": null,
+              "text": "DJ Myosuke"
+            }
+          ]
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "DJ Myosuke"
+            },
+            " vs ",
+            {
+              "ref": null,
+              "text": "MASAKI"
+            }
+          ]
+        }
+      ]
+    },
+    "1.15": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "REDALiCE"
+            },
+            " vs ",
+            {
+              "ref": null,
+              "text": "DJ Myosuke"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "DELUTAYA"
+            }
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "DELUTAYA"
+          }
+        }
+      ]
+    },
+    "1.19": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "DELUTAYA"
+          }
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "DJ Myosuke"
+            },
+            " vs ",
+            {
+              "ref": null,
+              "text": "REDALiCE"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "DELUTAYA"
+            }
+          ]
+        }
+      ]
+    },
+    "1.18": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "DJ Myosuke"
+            },
+            " vs ",
+            {
+              "ref": null,
+              "text": "USAO"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：USAO vs DJ Myosuke(3)、DJ Myosuke vs MASAKI(6)、REDALiCE vs DJ Myosuke feat. DELUTAYA(15)、DELUTAYA(15,19)、DJ Myosuke vs USAO(18)、DJ Myosuke vs REDALiCE feat. DELUTAYA(19)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-17T11:30:14.417Z"
+  }
+}
