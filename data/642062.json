@@ -1,0 +1,24 @@
+{
+  "subjectId": 642062,
+  "trackCredits": {
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5761",
+            "text": "霜月はるか"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：霜月はるか(5)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-17T10:07:56.195Z"
+  }
+}
