@@ -4,172 +4,160 @@
     "1.1": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:72804",
-            "text": "Mylta"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "照"
-          }
+          "parts": [
+            {
+              "ref": "p:72804",
+              "text": "Mylta"
+            },
+            " ft. ",
+            {
+              "ref": null,
+              "text": "照"
+            }
+          ]
         }
       ]
     },
     "1.2": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Inverted Silence"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:69029",
-            "text": "RANASOL"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "Inverted Silence"
+            },
+            " ft. ",
+            {
+              "ref": "p:69029",
+              "text": "RANASOL"
+            }
+          ]
         }
       ]
     },
     "1.3": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "TSK"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:71517",
-            "text": "花澤里都夢"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "TSK"
+            },
+            " ft. ",
+            {
+              "ref": "p:71517",
+              "text": "花澤里都夢"
+            }
+          ]
         }
       ]
     },
     "1.4": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "zeroth"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:66305",
-            "text": "高城みよ"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "zeroth"
+            },
+            " ft. ",
+            {
+              "ref": "p:66305",
+              "text": "高城みよ"
+            }
+          ]
         }
       ]
     },
     "1.5": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:72805",
-            "text": "asuzora"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:49320",
-            "text": "紫崎雪"
-          }
+          "parts": [
+            {
+              "ref": "p:72805",
+              "text": "asuzora"
+            },
+            " ft. ",
+            "紫崎雪"
+          ]
         }
       ]
     },
     "1.6": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:66173",
-            "text": "Tsubusare BOZZ"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:65535",
-            "text": "madoka*"
-          }
+          "parts": [
+            {
+              "ref": "p:66173",
+              "text": "Tsubusare BOZZ"
+            },
+            " ft. ",
+            {
+              "ref": "p:65535",
+              "text": "madoka*"
+            }
+          ]
         }
       ]
     },
     "1.7": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:69026",
-            "text": "Mysteka"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:67541",
-            "text": "ねんね"
-          }
+          "parts": [
+            {
+              "ref": "p:69026",
+              "text": "Mysteka"
+            },
+            " ft. ",
+            {
+              "ref": "p:67541",
+              "text": "ねんね"
+            }
+          ]
         }
       ]
     },
     "1.8": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:71676",
-            "text": "Aethral"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:80336",
-            "text": "羽子田チカ"
-          }
+          "parts": [
+            {
+              "ref": "p:71676",
+              "text": "Aethral"
+            },
+            " ft. ",
+            {
+              "ref": "p:80336",
+              "text": "羽子田チカ"
+            }
+          ]
         }
       ]
     },
     "1.9": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "YUUHI"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "千花"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "YUUHI"
+            },
+            " ft. ",
+            {
+              "ref": null,
+              "text": "千花"
+            }
+          ]
         }
       ]
     }
   },
   "rawPatches": {
-    "editor": "艺术家：Mylta(1)、照(1)、Inverted Silence(2)、RANASOL(2)、TSK(3)、花澤里都夢(3)、zeroth(4)、高城みよ(4)、asuzora(5)、紫崎雪(5)、Tsubusare BOZZ(6)、madoka*(6)、Mysteka(7)、ねんね(7)、Aethral(8)、羽子田チカ(8)、YUUHI(9)、千花(9)"
+    "editor": "艺术家：Mylta ft.照(1)、Inverted Silence ft.RANASOL(2)、TSK ft.花澤里都夢(3)、zeroth ft.高城みよ(4)、asuzora ft.紫崎雪(5)、Tsubusare BOZZ ft.madoka*(6)、Mysteka ft.ねんね(7)、Aethral ft.羽子田チカ(8)、YUUHI ft.千花(9)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-18T20:53:23.038Z"
+    "submittedAt": "2026-04-18T20:54:41.770Z"
   }
 }
