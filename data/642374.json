@@ -1,0 +1,73 @@
+{
+  "subjectId": 642374,
+  "trackCredits": {
+    "1.2": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "うっちー"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.3": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "うっちー"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.5": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "うっちー"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.4": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "!.re"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.6": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "!.re"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "乐器-Guitar：うっちー(2,3,5)、!.re(4,6)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-18T12:34:12.113Z"
+  }
+}
