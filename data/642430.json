@@ -13,20 +13,29 @@
       ],
       "instrument": [
         {
-          "type": "instrument_credit",
-          "person": {
-            "ref": null,
-            "text": "椎名なお"
-          },
-          "inst": "EGuitar"
+          "type": "text",
+          "text": "椎名なお (EGuitar)"
         },
         {
-          "type": "instrument_credit",
+          "type": "text",
+          "text": "ヲカシ (EBass)"
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
           "person": {
-            "ref": null,
-            "text": "ヲカシ"
-          },
-          "inst": "EBass"
+            "ref": "p:92115",
+            "text": "六宮"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "text",
+          "text": "ヲカシ (EBass)"
         }
       ]
     },
@@ -42,36 +51,20 @@
       ],
       "instrument": [
         {
-          "type": "instrument_credit",
-          "person": {
-            "ref": null,
-            "text": "椎名なお"
-          },
-          "inst": "EGuitar"
+          "type": "text",
+          "text": "椎名なお (EGuitar)"
         },
         {
-          "type": "instrument_credit",
-          "person": {
-            "ref": null,
-            "text": "ヲカシ"
-          },
-          "inst": "EBass"
+          "type": "text",
+          "text": "ヲカシ (EBass)"
         },
         {
-          "type": "instrument_credit",
-          "person": {
-            "ref": null,
-            "text": "舞弦ウラ"
-          },
-          "inst": "Violin"
+          "type": "text",
+          "text": "舞弦ウラ (Violin)"
         },
         {
-          "type": "instrument_credit",
-          "person": {
-            "ref": null,
-            "text": "舞弦ウラ"
-          },
-          "inst": "Viola"
+          "type": "text",
+          "text": "舞弦ウラ (Viola)"
         },
         {
           "type": "instrument_credit",
@@ -80,6 +73,31 @@
             "text": "Wavfire"
           },
           "inst": "Cello"
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:92115",
+            "text": "六宮"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "text",
+          "text": "ヲカシ (EBass)"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:74255",
+            "text": "のとを"
+          },
+          "inst": "Piano"
         }
       ]
     },
@@ -102,102 +120,11 @@
           }
         }
       ]
-    },
-    "1.6": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:90346",
-            "text": "つずな"
-          }
-        }
-      ],
-      "chorus": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:92115",
-            "text": "六宮"
-          }
-        }
-      ],
-      "instrument": [
-        {
-          "type": "instrument_credit",
-          "person": {
-            "ref": null,
-            "text": "椎名なお"
-          },
-          "inst": "EGuitar"
-        },
-        {
-          "type": "instrument_credit",
-          "person": {
-            "ref": null,
-            "text": "ヲカシ"
-          },
-          "inst": "EBass"
-        }
-      ]
-    },
-    "1.2": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:92115",
-            "text": "六宮"
-          }
-        }
-      ],
-      "instrument": [
-        {
-          "type": "instrument_credit",
-          "person": {
-            "ref": null,
-            "text": "ヲカシ"
-          },
-          "inst": "EBass"
-        }
-      ]
-    },
-    "1.4": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:92115",
-            "text": "六宮"
-          }
-        }
-      ],
-      "instrument": [
-        {
-          "type": "instrument_credit",
-          "person": {
-            "ref": null,
-            "text": "ヲカシ"
-          },
-          "inst": "EBass"
-        },
-        {
-          "type": "instrument_credit",
-          "person": {
-            "ref": "p:74255",
-            "text": "のとを"
-          },
-          "inst": "Piano"
-        }
-      ]
     }
   },
-  "rawPatches": {
-    "editor": "艺术家：つずな(1,3,5,6)、六宮(2,4)\n声乐：六宮(5,6)\n乐器-EGuitar：椎名なお(1,3,6)\n乐器-EBass：ヲカシ(1,2,3,4,6)\n乐器-Violin：舞弦ウラ(3)\n乐器-Viola：舞弦ウラ(3)\n乐器-Cello：Wavfire(3)\n乐器-Piano：のとを(4)"
-  },
   "_meta": {
-    "submittedBy": "sakarin",
+    "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-18T16:30:03.153Z"
+    "submittedAt": "2026-04-18T16:30:39.128Z"
   }
 }
