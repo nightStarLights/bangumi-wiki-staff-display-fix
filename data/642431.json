@@ -39,7 +39,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:92380",
             "text": "Tohrchu"
           }
         }
@@ -52,6 +52,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-18T16:19:04.937Z"
+    "submittedAt": "2026-04-18T16:19:07.603Z"
   }
 }
