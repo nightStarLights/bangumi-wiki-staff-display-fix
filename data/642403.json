@@ -1,0 +1,24 @@
+{
+  "subjectId": 642403,
+  "trackCredits": {
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Keyvell."
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：Keyvell.(11)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-18T14:03:15.218Z"
+  }
+}
