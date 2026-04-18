@@ -1,23 +1,6 @@
 {
   "subjectId": 642413,
   "trackCredits": {
-    "1.1": {
-      "artist": [
-        {
-          "parts": [
-            {
-              "ref": null,
-              "text": "MIDy"
-            },
-            " vs ",
-            {
-              "ref": null,
-              "text": "雨部冷キザミ"
-            }
-          ]
-        }
-      ]
-    },
     "1.3": {
       "artist": [
         {
@@ -70,11 +53,11 @@
     }
   },
   "rawPatches": {
-    "editor": "艺术家：MIDy vs 雨部冷キザミ(1)、双白麻憂(3)、霊(4)、Kettenkrad x iwakurarain(5)、奏(8)"
+    "editor": "艺术家：双白麻憂(3)、霊(4)、Kettenkrad x iwakurarain(5)、奏(8)"
   },
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-18T14:54:30.973Z"
+    "submittedAt": "2026-04-18T14:54:49.466Z"
   }
 }
