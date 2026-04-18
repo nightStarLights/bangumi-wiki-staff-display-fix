@@ -6,7 +6,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:69223",
             "text": "うっちー"
           },
           "inst": "Guitar"
@@ -18,7 +18,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:69223",
             "text": "うっちー"
           },
           "inst": "Guitar"
@@ -30,7 +30,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:69223",
             "text": "うっちー"
           },
           "inst": "Guitar"
@@ -68,6 +68,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-18T12:34:12.113Z"
+    "submittedAt": "2026-04-18T12:34:15.893Z"
   }
 }
