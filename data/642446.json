@@ -1,0 +1,25 @@
+{
+  "subjectId": 642446,
+  "trackCredits": {
+    "1.6": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Taichi Hasegawa"
+          },
+          "inst": "E.Guitar"
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "乐器-E.Guitar：Taichi Hasegawa(6)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-18T20:44:25.547Z"
+  }
+}
