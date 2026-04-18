@@ -1,0 +1,203 @@
+{
+  "subjectId": 642378,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7759",
+            "text": "小鳥遊まこ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66124",
+            "text": "99"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66124",
+            "text": "99"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7759",
+            "text": "小鳥遊まこ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "U-ta"
+          },
+          "person": {
+            "ref": "p:70271",
+            "text": "ウタP"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "U-ta"
+          },
+          "person": {
+            "ref": "p:70271",
+            "text": "ウタP"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7759",
+            "text": "小鳥遊まこ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "U-ta"
+          },
+          "person": {
+            "ref": "p:70271",
+            "text": "ウタP"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "U-ta"
+          },
+          "person": {
+            "ref": "p:70271",
+            "text": "ウタP"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7759",
+            "text": "小鳥遊まこ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Maharo"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Maharo"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7759",
+            "text": "小鳥遊まこ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "涼椰"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "涼椰"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7759",
+            "text": "小鳥遊まこ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8726",
+            "text": "塚越雄一朗"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8726",
+            "text": "塚越雄一朗"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "作词：小鳥遊まこ(1,2,3,4,5,6)\n作曲：99(1)、U-ta(ウタP)(2,3)、Maharo(4)、涼椰(5)、塚越雄一朗(6)\n编曲：99(1)、U-ta(ウタP)(2,3)、Maharo(4)、涼椰(5)、塚越雄一朗(6)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-18T12:51:19.635Z"
+  }
+}
