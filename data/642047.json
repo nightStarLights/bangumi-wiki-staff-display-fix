@@ -1,0 +1,24 @@
+{
+  "subjectId": 642047,
+  "trackCredits": {
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66969",
+            "text": "HoshiHo"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：HoshiHo(9)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-18T11:55:30.822Z"
+  }
+}
