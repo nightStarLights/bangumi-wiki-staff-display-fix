@@ -7,7 +7,7 @@
           "type": "person",
           "person": {
             "ref": null,
-            "text": "d.j.アネイロ"
+            "text": "d.j.ァネイロ"
           }
         }
       ]
@@ -72,7 +72,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:69121",
             "text": "Sceno Ichiro"
           }
         }
@@ -135,11 +135,11 @@
     }
   },
   "rawPatches": {
-    "editor": "艺术家：d.j.アネイロ(1)、背面8回宙返り(2)、芥田レンリ(3)、end(4)、つる(5)、nosono(6)、Sceno Ichiro(7)、dama(8)、Ц -ukebako-(9)、お柴鉱脈(10)、世界電力(11)、kohe(12)"
+    "editor": "艺术家：d.j.ァネイロ(1)、背面8回宙返り(2)、芥田レンリ(3)、end(4)、つる(5)、nosono(6)、Sceno Ichiro(7)、dama(8)、Ц -ukebako-(9)、お柴鉱脈(10)、世界電力(11)、kohe(12)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-18T12:23:06.356Z"
+    "submittedAt": "2026-04-18T12:25:16.510Z"
   }
 }
