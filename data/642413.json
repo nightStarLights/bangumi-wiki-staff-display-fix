@@ -1,0 +1,80 @@
+{
+  "subjectId": 642413,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "MIDy"
+            },
+            " vs ",
+            {
+              "ref": null,
+              "text": "雨部冷キザミ"
+            }
+          ]
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "双白麻憂"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "霊"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Kettenkrad"
+            },
+            " x ",
+            {
+              "ref": null,
+              "text": "iwakurarain"
+            }
+          ]
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "奏"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：MIDy vs 雨部冷キザミ(1)、双白麻憂(3)、霊(4)、Kettenkrad x iwakurarain(5)、奏(8)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-18T14:54:30.973Z"
+  }
+}
