@@ -1,0 +1,71 @@
+{
+  "subjectId": 642418,
+  "trackCredits": {
+    "1.4": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "seatrus"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "愛原圭織"
+            }
+          ]
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "kuro"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "記憶に残る"
+            }
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "記憶に残る"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "後藤涼輔"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "はぁち"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：seatrus feat.愛原圭織(4)、kuro feat.記憶に残る(5)、記憶に残る(5)、後藤涼輔 feat.はぁち(6)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-18T15:00:40.912Z"
+  }
+}
