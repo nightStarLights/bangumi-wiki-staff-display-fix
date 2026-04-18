@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:69121",
             "text": "Sceno Ichiro"
           }
         }
@@ -17,7 +17,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:69121",
             "text": "Sceno Ichiro"
           }
         }
@@ -28,7 +28,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:69121",
             "text": "Sceno Ichiro"
           }
         }
@@ -39,7 +39,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:69121",
             "text": "Sceno Ichiro"
           }
         }
@@ -74,6 +74,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-18T13:08:16.578Z"
+    "submittedAt": "2026-04-18T13:08:19.061Z"
   }
 }
