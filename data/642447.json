@@ -10,10 +10,7 @@
               "text": "Mylta"
             },
             " ft. ",
-            {
-              "ref": null,
-              "text": "照"
-            }
+            "照"
           ]
         }
       ]
@@ -92,10 +89,7 @@
               "text": "Tsubusare BOZZ"
             },
             " ft. ",
-            {
-              "ref": "p:65535",
-              "text": "madoka*"
-            }
+            "madoka*"
           ]
         }
       ]
@@ -158,6 +152,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-18T20:54:41.770Z"
+    "submittedAt": "2026-04-18T20:55:16.196Z"
   }
 }
