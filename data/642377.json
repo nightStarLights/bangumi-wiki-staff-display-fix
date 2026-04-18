@@ -38,10 +38,14 @@
       ],
       "mixing": [
         {
-          "type": "person",
-          "person": {
+          "type": "alias_person",
+          "alias": {
             "ref": null,
             "text": "神灼爺"
+          },
+          "person": {
+            "ref": null,
+            "text": "元木一成"
           }
         }
       ],
@@ -65,16 +69,8 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
-            "text": "池木"
-          },
-          "inst": "Guitar"
-        },
-        {
-          "type": "instrument_credit",
-          "person": {
-            "ref": null,
-            "text": "紗々"
+            "ref": "p:65952",
+            "text": "池木紗々"
           },
           "inst": "Guitar"
         },
@@ -215,11 +211,11 @@
     }
   },
   "rawPatches": {
-    "editor": "作词：えびかれー伯爵(1)、KBSNK(2)、夢乃ゆき(3)、澤田空海理(4)、瀬名水紀(5)\n作曲：えびかれー伯爵(1)、KBSNK(2)、kazuki(3)、澤田空海理(4)、瀬名水紀(5)\n编曲：えびかれー伯爵(1)、岩嵜壮志(1)、KBSNK(2)、kazuki(3)、澤田空海理(4)、瀬名水紀(5)\n混音：神灼爺(1)、うらる(5)\n乐器-Drums：樋口幸佑(1)\n乐器-Bass：飯塚祐太郎(1)\n乐器-Guitar：池木(1)、紗々(1)\n乐器-Piano：かしこ(1)"
+    "editor": "作词：えびかれー伯爵(1)、KBSNK(2)、夢乃ゆき(3)、澤田空海理(4)、瀬名水紀(5)\n作曲：えびかれー伯爵(1)、KBSNK(2)、kazuki(3)、澤田空海理(4)、瀬名水紀(5)\n编曲：えびかれー伯爵(1)、岩嵜壮志(1)、KBSNK(2)、kazuki(3)、澤田空海理(4)、瀬名水紀(5)\n混音：神灼爺(元木一成)(1)、うらる(5)\n乐器-Drums：樋口幸佑(1)\n乐器-Bass：飯塚祐太郎(1)\n乐器-Guitar：池木紗々(1)\n乐器-Piano：かしこ(1)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-18T12:45:49.815Z"
+    "submittedAt": "2026-04-18T12:48:01.389Z"
   }
 }
