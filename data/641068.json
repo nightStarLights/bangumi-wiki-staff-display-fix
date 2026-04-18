@@ -1,0 +1,153 @@
+{
+  "subjectId": 641068,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69037",
+            "text": "July"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71172",
+            "text": "月宮瑠璃華"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69040",
+            "text": "rujou"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65216",
+            "text": "おくみずき"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69040",
+            "text": "rujou"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69040",
+            "text": "rujou"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69040",
+            "text": "rujou"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69040",
+            "text": "rujou"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69039",
+            "text": "エルム凪"
+          }
+        },
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "カルドウェル"
+          },
+          "person": {
+            "ref": "p:92143",
+            "text": "カーク＝クランクケー＝カルドウェル"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "kunkun"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:4930",
+            "text": "坂本美里"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10072",
+            "text": "ふうかまりを"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83145",
+            "text": "Petann Stunn"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "リン酢"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "史郎"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：July(1)、月宮瑠璃華(1)、おくみずき(2)、rujou(3,4)、エルム凪(4)、カルドウェル(カーク＝クランクケー＝カルドウェル)(4)、kunkun(4)、坂本美里(4)、ふうかまりを(4)、Petann Stunn(4)、リン酢(4)\n作词：rujou(1,2,3)、史郎(4)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-18T21:05:43.293Z"
+  }
+}
