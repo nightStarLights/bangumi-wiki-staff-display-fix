@@ -1,0 +1,79 @@
+{
+  "subjectId": 642382,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Sceno Ichiro"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Sceno Ichiro"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Sceno Ichiro"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Sceno Ichiro"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "若杉有紀"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68281",
+            "text": "久遠真雪"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "作词：Sceno Ichiro(1,3,4,5)、若杉有紀(2)、久遠真雪(6)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-18T13:08:16.578Z"
+  }
+}
