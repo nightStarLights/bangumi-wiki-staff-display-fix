@@ -1,0 +1,225 @@
+{
+  "subjectId": 642377,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33526",
+            "text": "えびかれー伯爵"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33526",
+            "text": "えびかれー伯爵"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33526",
+            "text": "えびかれー伯爵"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "岩嵜壮志"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "神灼爺"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "樋口幸佑"
+          },
+          "inst": "Drums"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "飯塚祐太郎"
+          },
+          "inst": "Bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "池木"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "紗々"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:65754",
+            "text": "かしこ"
+          },
+          "inst": "Piano"
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65556",
+            "text": "KBSNK"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65556",
+            "text": "KBSNK"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65556",
+            "text": "KBSNK"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33660",
+            "text": "夢乃ゆき"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66217",
+            "text": "kazuki"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66217",
+            "text": "kazuki"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:38356",
+            "text": "澤田空海理"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:38356",
+            "text": "澤田空海理"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:38356",
+            "text": "澤田空海理"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68666",
+            "text": "瀬名水紀"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68666",
+            "text": "瀬名水紀"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68666",
+            "text": "瀬名水紀"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67570",
+            "text": "うらる"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "作词：えびかれー伯爵(1)、KBSNK(2)、夢乃ゆき(3)、澤田空海理(4)、瀬名水紀(5)\n作曲：えびかれー伯爵(1)、KBSNK(2)、kazuki(3)、澤田空海理(4)、瀬名水紀(5)\n编曲：えびかれー伯爵(1)、岩嵜壮志(1)、KBSNK(2)、kazuki(3)、澤田空海理(4)、瀬名水紀(5)\n混音：神灼爺(1)、うらる(5)\n乐器-Drums：樋口幸佑(1)\n乐器-Bass：飯塚祐太郎(1)\n乐器-Guitar：池木(1)、紗々(1)\n乐器-Piano：かしこ(1)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-18T12:45:48.412Z"
+  }
+}
