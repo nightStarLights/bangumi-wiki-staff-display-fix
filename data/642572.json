@@ -1,0 +1,113 @@
+{
+  "subjectId": 642572,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Daniel Seven"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "IceCreamSandWitch"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "RENARINA"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Mättö Mättö Män"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "M-Rei"
+            }
+          ]
+        }
+      ]
+    },
+    "1.14": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "chocoxina"
+          }
+        }
+      ]
+    },
+    "1.15": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "A.D.A.M"
+          }
+        }
+      ]
+    },
+    "1.16": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Noizenecio"
+            },
+            " ft. ",
+            {
+              "ref": null,
+              "text": "MC KCD"
+            }
+          ]
+        }
+      ]
+    },
+    "1.17": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": ".kom"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：Daniel Seven(1)、IceCreamSandWitch(4)、RENARINA(6)、Mättö Mättö Män feat. M-Rei(8)、chocoxina(14)、A.D.A.M(15)、Noizenecio ft. MC KCD(16)、.kom(17)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-19T12:12:12.423Z"
+  }
+}
