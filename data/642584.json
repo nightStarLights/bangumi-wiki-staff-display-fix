@@ -1,0 +1,41 @@
+{
+  "subjectId": 642584,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "个亞巫めい"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "DJ Noriken"
+            },
+            " vs. ",
+            {
+              "ref": null,
+              "text": "Normal1zer"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：个亞巫めい(1)、DJ Noriken vs. Normal1zer(3)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-19T12:59:28.972Z"
+  }
+}
