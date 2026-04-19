@@ -1,0 +1,24 @@
+{
+  "subjectId": 642565,
+  "trackCredits": {
+    "1.14": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ナツメイツキ"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：ナツメイツキ(14)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-19T11:59:52.528Z"
+  }
+}
