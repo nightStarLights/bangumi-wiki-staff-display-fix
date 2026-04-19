@@ -26,13 +26,6 @@
               "text": "彩澄りりせ"
             }
           ]
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "彩澄りりせ"
-          }
         }
       ]
     },
@@ -60,11 +53,11 @@
     }
   },
   "rawPatches": {
-    "editor": "艺术家：NECROSiS(2)、TAG feat. 彩澄りりせ(4)、彩澄りりせ(4)、EmoCosine + RiraN + 音琴兎愛(6)"
+    "editor": "艺术家：NECROSiS(2)、TAG feat. 彩澄りりせ(4)、EmoCosine + RiraN + 音琴兎愛(6)"
   },
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-19T11:52:00.411Z"
+    "submittedAt": "2026-04-19T11:52:15.960Z"
   }
 }
