@@ -1,0 +1,48 @@
+{
+  "subjectId": 642581,
+  "trackCredits": {
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "DELUTAYA"
+          }
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "REDALiCE"
+            },
+            " vs ",
+            {
+              "ref": null,
+              "text": "DJ Myosuke"
+            }
+          ]
+        }
+      ]
+    },
+    "1.13": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "REDALiCE × t+pazolite"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：DELUTAYA(2)、REDALiCE vs DJ Myosuke(2)、REDALiCE × t+pazolite(13)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-19T12:38:04.509Z"
+  }
+}
