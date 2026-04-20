@@ -1,0 +1,85 @@
+{
+  "subjectId": 642924,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:34686",
+            "text": "Sennzai"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71166",
+            "text": "つきみぐー、"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71166",
+            "text": "つきみぐー、"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71166",
+            "text": "つきみぐー、"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65660",
+            "text": "早蕨凪音"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71166",
+            "text": "つきみぐー、"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71166",
+            "text": "つきみぐー、"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65660",
+            "text": "早蕨凪音"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：Sennzai(1)\n作词：《つきみぐー、》(1)\n作曲：《つきみぐー、》(1,2)\n编曲：《つきみぐー、》(1,2)、早蕨凪音(1,2)"
+  },
+  "_meta": {
+    "submittedBy": "907749",
+    "submittedUserGroup": 10,
+    "submittedAt": "2026-04-20T19:03:15.738Z"
+  }
+}
