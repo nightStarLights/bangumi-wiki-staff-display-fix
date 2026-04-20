@@ -1,0 +1,197 @@
+{
+  "subjectId": 642831,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36042",
+            "text": "月乃"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65400",
+            "text": "葵一花"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65399",
+            "text": "るる"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65400",
+            "text": "葵一花"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65404",
+            "text": "みそらみみ"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5919",
+            "text": "仲村芽衣子"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65400",
+            "text": "葵一花"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65404",
+            "text": "みそらみみ"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65398",
+            "text": "つぐ"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65400",
+            "text": "葵一花"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65196",
+            "text": "葉月リョウヘイ"
+          }
+        }
+      ]
+    },
+    "2.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82472",
+            "text": "月雫あい"
+          }
+        }
+      ]
+    },
+    "2.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65196",
+            "text": "葉月リョウヘイ"
+          }
+        }
+      ]
+    },
+    "2.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91755",
+            "text": "Rano"
+          }
+        }
+      ]
+    },
+    "2.5": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65412",
+            "text": "SHiKiHO"
+          }
+        }
+      ]
+    },
+    "2.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73169",
+            "text": "七篠さよ"
+          }
+        }
+      ]
+    },
+    "2.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:44655",
+            "text": "乃花こより"
+          }
+        }
+      ]
+    }
+  },
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-20T11:36:56.978Z"
+  }
+}
