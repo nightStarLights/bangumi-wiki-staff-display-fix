@@ -106,7 +106,7 @@
           "type": "person",
           "person": {
             "ref": null,
-            "text": "四度夜靈"
+            "text": "四度夜 靈"
           }
         }
       ]
@@ -164,11 +164,11 @@
     }
   },
   "rawPatches": {
-    "editor": "艺术家：ARMYTOM(1)、wheatfox(2)、nova+z(3)、Aki Sz(4)、イベライ(5)、sanmal(6)、Joulez(7)、潮音きつね(8)、Nirotiy(9)、四度夜靈(10)、Masahiro Mochizuki(11)、Kolaa(12)、Money Master(12)、Irish Kappa(13)、VeetaCrush(14)"
+    "editor": "艺术家：ARMYTOM(1)、wheatfox(2)、nova+z(3)、Aki Sz(4)、イベライ(5)、sanmal(6)、Joulez(7)、潮音きつね(8)、Nirotiy(9)、四度夜 靈(10)、Masahiro Mochizuki(11)、Kolaa(12)、Money Master(12)、Irish Kappa(13)、VeetaCrush(14)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-20T11:23:05.353Z"
+    "submittedAt": "2026-04-20T16:03:51.762Z"
   }
 }
