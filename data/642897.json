@@ -1,0 +1,68 @@
+{
+  "subjectId": 642897,
+  "trackCredits": {
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "naePi-YO"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68679",
+            "text": "勿忘うた"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82342",
+            "text": "Matsuri Haruno"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82342",
+            "text": "Matsuri Haruno"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69372",
+            "text": "めがねこ"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "作词：naePi-YO(2)、勿忘うた(3)、Matsuri Haruno(4,6)、めがねこ(5)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-20T16:27:33.518Z"
+  }
+}
