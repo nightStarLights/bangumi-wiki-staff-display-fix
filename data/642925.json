@@ -1,0 +1,121 @@
+{
+  "subjectId": 642925,
+  "trackCredits": {
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9839",
+            "text": "lol project"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:18203",
+            "text": "NAGO"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9839",
+            "text": "lol project"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47137",
+            "text": "Alpaca"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9839",
+            "text": "lol project"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15734",
+            "text": "Bernis"
+          }
+        }
+      ]
+    },
+    "1.15": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9839",
+            "text": "lol project"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7161",
+            "text": "Thanatos"
+          }
+        }
+      ]
+    },
+    "1.18": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9839",
+            "text": "lol project"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7161",
+            "text": "Thanatos"
+          }
+        }
+      ]
+    },
+    "1.19": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9839",
+            "text": "lol project"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:80453",
+            "text": "joinT"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：lol project(4,11,12,15,18,19)、NAGO(4)、Alpaca(11)、Bernis(12)、Thanatos(15,18)、joinT(19)"
+  },
+  "_meta": {
+    "submittedBy": "907749",
+    "submittedUserGroup": 10,
+    "submittedAt": "2026-04-20T19:10:37.839Z"
+  }
+}
