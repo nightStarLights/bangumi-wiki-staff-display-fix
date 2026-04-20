@@ -1,0 +1,117 @@
+{
+  "subjectId": 642904,
+  "trackCredits": {
+    "1.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55992",
+            "text": "Twinfield"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55992",
+            "text": "Twinfield"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:35932",
+            "text": "Capchii"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:35932",
+            "text": "Capchii"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73539",
+            "text": "tekalu"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73539",
+            "text": "tekalu"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55992",
+            "text": "Twinfield"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:35932",
+            "text": "Capchii"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73539",
+            "text": "tekalu"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73349",
+            "text": "R1cefarm"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "作曲：Twinfield(1)、Capchii(2)、tekalu(3)\n编曲：Twinfield(1,5)、Capchii(2,6)、tekalu(3,4)、R1cefarm(7)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-20T18:15:01.517Z"
+  }
+}
