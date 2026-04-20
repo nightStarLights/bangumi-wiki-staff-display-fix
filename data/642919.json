@@ -1,0 +1,209 @@
+{
+  "subjectId": 642919,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65398",
+            "text": "つぐ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:31763",
+            "text": "M2U"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:31763",
+            "text": "M2U"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68920",
+            "text": "ViANKiE"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:42103",
+            "text": "Jun Kuroda"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:42103",
+            "text": "Jun Kuroda"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65399",
+            "text": "るる"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69136",
+            "text": "Rabbit House"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69136",
+            "text": "Rabbit House"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65403",
+            "text": "ことの"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69534",
+            "text": "ていぬ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69534",
+            "text": "ていぬ"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:31763",
+            "text": "M2U"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:31763",
+            "text": "M2U"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:42103",
+            "text": "Jun Kuroda"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:42103",
+            "text": "Jun Kuroda"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69136",
+            "text": "Rabbit House"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69136",
+            "text": "Rabbit House"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69534",
+            "text": "ていぬ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69534",
+            "text": "ていぬ"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：つぐ(1)、ViANKiE(2)、るる(3)、ことの(4)\n作曲：M2U(1,5)、Jun Kuroda(2,6)、Rabbit House(3,7)、ていぬ(4,8)\n编曲：M2U(1,5)、Jun Kuroda(2,6)、Rabbit House(3,7)、ていぬ(4,8)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-20T18:40:00.211Z"
+  }
+}
