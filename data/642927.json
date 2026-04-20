@@ -1,0 +1,131 @@
+{
+  "subjectId": 642927,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47397",
+            "text": "hu-zin"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "1zumo"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47397",
+            "text": "hu-zin"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91180",
+            "text": "Itsuki_Amakusa"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47397",
+            "text": "hu-zin"
+          }
+        },
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "E0ri4"
+          },
+          "person": {
+            "ref": "p:65769",
+            "text": "ゑおりあ"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47397",
+            "text": "hu-zin"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75746",
+            "text": "TKG"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47397",
+            "text": "hu-zin"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Irona"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47397",
+            "text": "hu-zin"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:85322",
+            "text": "K4Y5"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：hu-zin(1,2,3,4,5,6)、1zumo(1)、Itsuki_Amakusa(2)、E0ri4(ゑおりあ)(3)、TKG(4)、Irona(5)、K4Y5(6)"
+  },
+  "_meta": {
+    "submittedBy": "907749",
+    "submittedUserGroup": 10,
+    "submittedAt": "2026-04-20T19:17:03.695Z",
+    "updatedBy": "sakarin",
+    "updatedUserGroup": 11,
+    "updatedAt": "2026-04-20T19:19:20.142Z",
+    "reviewedBy": "sakarin",
+    "reviewedUserGroup": 11,
+    "reviewedAt": "2026-04-20T19:19:20.142Z"
+  }
+}
