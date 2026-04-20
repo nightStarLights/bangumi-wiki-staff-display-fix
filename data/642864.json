@@ -1,0 +1,136 @@
+{
+  "subjectId": 642864,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:92471",
+            "text": "あわく"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:92471",
+            "text": "あわく"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:92471",
+            "text": "あわく"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65601",
+            "text": "可ラッカ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65601",
+            "text": "可ラッカ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65601",
+            "text": "可ラッカ"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81531",
+            "text": "綿菓子かんろ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81531",
+            "text": "綿菓子かんろ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81531",
+            "text": "綿菓子かんろ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81530",
+            "text": "Talich Helfen"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66187",
+            "text": "現実みろ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:92470",
+            "text": "小宮かふぃー"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:92470",
+            "text": "小宮かふぃー"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "作词：あわく(1)、可ラッカ(2)、綿菓子かんろ(3)、現実みろ(4)\n作曲：あわく(1)、可ラッカ(2)、綿菓子かんろ(3)、小宮かふぃー(4)\n编曲：あわく(1)、可ラッカ(2)、綿菓子かんろ(3)、Talich Helfen(3)、小宮かふぃー(4)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-20T14:44:14.489Z"
+  }
+}
