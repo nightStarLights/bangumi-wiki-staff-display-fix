@@ -20,13 +20,6 @@
             "ref": null,
             "text": "Yamajet (山路圭一朗) × サイモンマン"
           }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "サイモンマン"
-          }
         }
       ]
     },
@@ -68,7 +61,7 @@
             "text": "C-Show × good-cool"
           },
           "person": {
-            "ref": null,
+            "ref": "p:47369",
             "text": "古川竜也"
           }
         }
@@ -105,7 +98,7 @@
             "text": "Tatsh × PINK PONG"
           },
           "person": {
-            "ref": null,
+            "ref": "p:13645",
             "text": "黒光雄輝"
           }
         }
@@ -171,7 +164,7 @@
             "text": "黒沢ダイスケ × PINK PONG"
           },
           "person": {
-            "ref": null,
+            "ref": "p:13645",
             "text": "黒光雄輝"
           }
         }
@@ -190,11 +183,11 @@
     }
   },
   "rawPatches": {
-    "editor": "艺术家：lapix (石谷桂亮) × PINK PONG (黒光雄輝) × ASLETICS × Kent Alexander(1)、Yamajet (山路圭一朗) × サイモンマン(2)、サイモンマン(2)、DJ Noriken × RAM(3)、元気くんバンド × 小野秀幸(4)、小野秀幸(4)、C-Show × good-cool (古川竜也)(5)、Getty × DJ Shimamura(6)、KO3 × DJ Genki(7)、Tatsh × PINK PONG (黒光雄輝)(8)、RoughSketch × すわひでお(9)、すわひでお(9)、Maozon × RAM(10)、Relect × DJ Noriken(11)、Dirty Androids × SYMPHONIC DEFOGGERS(12)、黒沢ダイスケ × PINK PONG (黒光雄輝)(13)\n编曲：NMReven-G(16)"
+    "editor": "艺术家：lapix (石谷桂亮) × PINK PONG (黒光雄輝) × ASLETICS × Kent Alexander(1)、Yamajet (山路圭一朗) × サイモンマン(2)、DJ Noriken × RAM(3)、元気くんバンド × 小野秀幸(4)、小野秀幸(4)、C-Show × good-cool (古川竜也)(5)、Getty × DJ Shimamura(6)、KO3 × DJ Genki(7)、Tatsh × PINK PONG (黒光雄輝)(8)、RoughSketch × すわひでお(9)、すわひでお(9)、Maozon × RAM(10)、Relect × DJ Noriken(11)、Dirty Androids × SYMPHONIC DEFOGGERS(12)、黒沢ダイスケ × PINK PONG (黒光雄輝)(13)\n编曲：NMReven-G(16)"
   },
   "_meta": {
-    "submittedBy": "459115",
+    "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-21T05:43:57.973Z"
+    "submittedAt": "2026-04-21T05:46:40.953Z"
   }
 }
