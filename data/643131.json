@@ -15,7 +15,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:15860",
             "text": "岩井俊二"
           }
         }
@@ -50,7 +50,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:12898",
             "text": "浦田恵司"
           },
           "inst": "Synthesizer"
@@ -62,8 +62,8 @@
     "editor": "艺术家：坂本真綾(1)\n作词：岩井俊二(1)\n作曲：菅野よう子(1)\n编曲：菅野よう子(1)\n乐器-Acoustic Piano：菅野よう子(1)\n乐器-Synthesizer：浦田恵司(1)"
   },
   "_meta": {
-    "submittedBy": "907749",
-    "submittedUserGroup": 10,
-    "submittedAt": "2026-04-21T14:09:40.970Z"
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-21T14:10:24.906Z"
   }
 }
