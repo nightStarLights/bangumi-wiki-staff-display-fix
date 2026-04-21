@@ -1,0 +1,51 @@
+{
+  "subjectId": 643105,
+  "trackCredits": {
+    "1.3": {
+      "artist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "Kobaryo × Gram"
+          },
+          "person": {
+            "ref": null,
+            "text": "DJ Genki"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Gram"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "DJ Genki"
+            },
+            ")",
+            " VS. ",
+            {
+              "ref": null,
+              "text": "Powerless"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：Kobaryo × Gram (DJ Genki)(3)、Gram (DJ Genki) VS. Powerless(7)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-21T12:13:22.331Z"
+  }
+}
