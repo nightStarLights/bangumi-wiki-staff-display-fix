@@ -1,0 +1,35 @@
+{
+  "subjectId": 643112,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "rlaghcks"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "DENPA-SAMPLER (SANY-ON) hates WAKARAN GIRL"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：rlaghcks(1)、DENPA-SAMPLER (SANY-ON) hates WAKARAN GIRL(4)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-21T12:43:04.536Z"
+  }
+}
