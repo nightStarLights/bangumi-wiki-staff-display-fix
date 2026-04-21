@@ -77,25 +77,14 @@
           ]
         }
       ]
-    },
-    "1.8": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "ikaruga-nex"
-          }
-        }
-      ]
     }
   },
   "rawPatches": {
-    "editor": "艺术家：NoE(1)、Caffeine(2)、Euk(3)、Vanillin(4)、Evin a'k(5)、Caffeine vs Serasprout feat. Riho(7)、ikaruga-nex(8)"
+    "editor": "艺术家：NoE(1)、Caffeine(2)、Euk(3)、Vanillin(4)、Evin a'k(5)、Caffeine vs Serasprout feat. Riho(7)"
   },
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-21T06:25:02.734Z"
+    "submittedAt": "2026-04-21T06:25:35.540Z"
   }
 }
