@@ -1,0 +1,200 @@
+{
+  "subjectId": 642971,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "lapix (石谷桂亮) × PINK PONG (黒光雄輝) × ASLETICS × Kent Alexander"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Yamajet (山路圭一朗) × サイモンマン"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "サイモンマン"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "DJ Noriken × RAM"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "元気くんバンド × 小野秀幸"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "小野秀幸"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "C-Show × good-cool"
+          },
+          "person": {
+            "ref": null,
+            "text": "古川竜也"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Getty × DJ Shimamura"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "KO3 × DJ Genki"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "Tatsh × PINK PONG"
+          },
+          "person": {
+            "ref": null,
+            "text": "黒光雄輝"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "RoughSketch × すわひでお"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "すわひでお"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Maozon × RAM"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Relect × DJ Noriken"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Dirty Androids × SYMPHONIC DEFOGGERS"
+          }
+        }
+      ]
+    },
+    "1.13": {
+      "artist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "黒沢ダイスケ × PINK PONG"
+          },
+          "person": {
+            "ref": null,
+            "text": "黒光雄輝"
+          }
+        }
+      ]
+    },
+    "1.16": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "NMReven-G"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：lapix (石谷桂亮) × PINK PONG (黒光雄輝) × ASLETICS × Kent Alexander(1)、Yamajet (山路圭一朗) × サイモンマン(2)、サイモンマン(2)、DJ Noriken × RAM(3)、元気くんバンド × 小野秀幸(4)、小野秀幸(4)、C-Show × good-cool (古川竜也)(5)、Getty × DJ Shimamura(6)、KO3 × DJ Genki(7)、Tatsh × PINK PONG (黒光雄輝)(8)、RoughSketch × すわひでお(9)、すわひでお(9)、Maozon × RAM(10)、Relect × DJ Noriken(11)、Dirty Androids × SYMPHONIC DEFOGGERS(12)、黒沢ダイスケ × PINK PONG (黒光雄輝)(13)\n编曲：NMReven-G(16)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-21T05:43:50.563Z"
+  }
+}
