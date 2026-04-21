@@ -1,0 +1,69 @@
+{
+  "subjectId": 643131,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:3877",
+            "text": "坂本真綾"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "岩井俊二"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:101",
+            "text": "菅野よう子"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:101",
+            "text": "菅野よう子"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:101",
+            "text": "菅野よう子"
+          },
+          "inst": "Acoustic Piano"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "浦田恵司"
+          },
+          "inst": "Synthesizer"
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：坂本真綾(1)\n作词：岩井俊二(1)\n作曲：菅野よう子(1)\n编曲：菅野よう子(1)\n乐器-Acoustic Piano：菅野よう子(1)\n乐器-Synthesizer：浦田恵司(1)"
+  },
+  "_meta": {
+    "submittedBy": "907749",
+    "submittedUserGroup": 10,
+    "submittedAt": "2026-04-21T14:09:40.970Z"
+  }
+}
