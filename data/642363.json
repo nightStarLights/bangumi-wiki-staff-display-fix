@@ -10,7 +10,7 @@
             "text": "Animalost"
           },
           "person": {
-            "ref": null,
+            "ref": "p:92366",
             "text": "Kusua"
           }
         }
@@ -47,7 +47,7 @@
             "text": "Hiraoka Kotaro"
           },
           "person": {
-            "ref": null,
+            "ref": "p:67094",
             "text": "DIA"
           }
         }
@@ -58,14 +58,11 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:76445",
               "text": "雨部冷キザミ"
             },
             " feat. ",
-            {
-              "ref": null,
-              "text": "宮舞モカ"
-            }
+            "宮舞モカ"
           ]
         }
       ]
@@ -119,14 +116,11 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:86112",
               "text": "夜未アガリ"
             },
             " feat. ",
-            {
-              "ref": null,
-              "text": "重音テトSV"
-            }
+            "重音テトSV"
           ]
         }
       ]
@@ -136,12 +130,12 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:67096",
               "text": "WHITEFISTS"
             },
             " feat. ",
             {
-              "ref": null,
+              "ref": "p:34686",
               "text": "Sennzai"
             }
           ]
@@ -201,7 +195,7 @@
             "text": "Bitplane"
           },
           "person": {
-            "ref": null,
+            "ref": "p:6135",
             "text": "愛新覚羅溥儀"
           }
         }
@@ -256,14 +250,11 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:43554",
               "text": "Junk"
             },
             " feat. ",
-            {
-              "ref": null,
-              "text": "夢ノ結唱 ROSE"
-            }
+            "夢ノ結唱 ROSE"
           ]
         }
       ]
@@ -383,7 +374,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:70471",
             "text": "Asatsumei"
           }
         },
@@ -396,19 +387,16 @@
         },
         {
           "parts": [
-            {
-              "ref": null,
-              "text": "Mei Naganowa"
-            },
+            "Mei Naganowa",
             " (",
             {
-              "ref": null,
+              "ref": "p:70471",
               "text": "ReeK"
             },
             ")",
             " feat. ",
             {
-              "ref": null,
+              "ref": "p:89317",
               "text": "L4hee"
             }
           ]
@@ -479,7 +467,7 @@
             "text": "Kota Kawashima"
           },
           "person": {
-            "ref": null,
+            "ref": "p:75406",
             "text": "STNK"
           }
         }
@@ -516,7 +504,7 @@
             "text": "ぺのれり"
           },
           "person": {
-            "ref": null,
+            "ref": "p:31670",
             "text": "三好啓太"
           }
         }
@@ -527,14 +515,11 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:10164",
               "text": "黒魔"
             },
             " feat. ",
-            {
-              "ref": null,
-              "text": "カゼヒキV"
-            }
+            "カゼヒキV"
           ]
         }
       ]
@@ -557,6 +542,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-19T18:42:08.596Z"
+    "submittedAt": "2026-04-21T18:18:14.198Z"
   }
 }
