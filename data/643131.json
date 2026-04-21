@@ -15,7 +15,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:15860",
             "text": "岩井俊二"
           }
         }
@@ -65,8 +65,11 @@
     "submittedBy": "907749",
     "submittedUserGroup": 10,
     "submittedAt": "2026-04-21T14:12:01.733Z",
-    "updatedBy": "907749",
-    "updatedUserGroup": 10,
-    "updatedAt": "2026-04-21T14:12:34.163Z"
+    "updatedBy": "sakarin",
+    "updatedUserGroup": 11,
+    "updatedAt": "2026-04-21T14:13:01.100Z",
+    "reviewedBy": "sakarin",
+    "reviewedUserGroup": 11,
+    "reviewedAt": "2026-04-21T14:13:01.100Z"
   }
 }
