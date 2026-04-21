@@ -130,7 +130,10 @@
               "text": "WHITEFISTS"
             },
             " feat. ",
-            "Sennzai"
+            {
+              "ref": "p:34686",
+              "text": "Sennzai"
+            }
           ]
         }
       ]
@@ -535,6 +538,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-21T18:19:45.752Z"
+    "submittedAt": "2026-04-21T18:26:32.863Z"
   }
 }
