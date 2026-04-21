@@ -1,0 +1,39 @@
+{
+  "subjectId": 643117,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "Sculptakt"
+          },
+          "person": {
+            "ref": null,
+            "text": "Dustvoxx"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Sculptakt"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：Sculptakt (Dustvoxx)(1)、Sculptakt(4)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-21T12:58:57.811Z"
+  }
+}
