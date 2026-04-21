@@ -1,0 +1,36 @@
+{
+  "subjectId": 643106,
+  "trackCredits": {
+    "1.4": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "DJ Genki"
+            },
+            " vs. ",
+            {
+              "ref": null,
+              "text": "lapix"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "石谷桂亮"
+            },
+            ")"
+          ]
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：DJ Genki vs. lapix (石谷桂亮)(4)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-21T12:17:03.131Z"
+  }
+}
