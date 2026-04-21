@@ -1,0 +1,45 @@
+{
+  "subjectId": 643095,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "The 4th"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "TORIENA"
+            }
+          ]
+        }
+      ]
+    },
+    "1.2": {
+      "arranger": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "Mamonis"
+          },
+          "person": {
+            "ref": null,
+            "text": "斎藤広祐"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：The 4th feat.TORIENA(1)\n编曲：Mamonis (斎藤広祐)(2)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-21T11:52:07.831Z"
+  }
+}
