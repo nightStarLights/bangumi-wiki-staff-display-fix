@@ -1,96 +1,54 @@
 {
   "subjectId": 643014,
   "trackCredits": {
-    "1.1": {
+    "1.3": {
       "artist": [
         {
           "type": "person",
           "person": {
-            "ref": null,
-            "text": "Vanillin"
+            "ref": "p:15412",
+            "text": "tigerlily"
           }
         }
       ]
     },
-    "1.2": {
+    "1.7": {
       "artist": [
         {
           "type": "person",
           "person": {
-            "ref": null,
-            "text": "noeric"
+            "ref": "p:72389",
+            "text": "cybermiso"
           }
         }
       ]
     },
-    "1.4": {
-      "artist": [
-        {
-          "parts": [
-            {
-              "ref": null,
-              "text": "Caffeine"
-            },
-            " feat. ",
-            {
-              "ref": null,
-              "text": "珠瀬ありさ"
-            }
-          ]
-        }
-      ]
-    },
-    "1.5": {
+    "1.10": {
       "artist": [
         {
           "type": "person",
           "person": {
-            "ref": null,
-            "text": "DOT96"
+            "ref": "p:70939",
+            "text": "ikaruga_nex"
           }
         }
       ]
     },
-    "1.6": {
+    "1.11": {
       "artist": [
         {
           "type": "person",
           "person": {
-            "ref": null,
-            "text": "Serasprout"
-          }
-        }
-      ]
-    },
-    "1.8": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Euk"
-          }
-        }
-      ]
-    },
-    "1.9": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Solfrail"
+            "ref": "p:69587",
+            "text": "Fl00t"
           }
         }
       ]
     }
   },
-  "rawPatches": {
-    "editor": "艺术家：Vanillin(1)、noeric(2)、Caffeine feat. 珠瀬ありさ(4)、DOT96(5)、Serasprout(6)、Euk(8)、Solfrail(9)"
-  },
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-21T06:28:21.146Z"
+    "submittedAt": "2026-04-21T06:28:32.664Z"
   }
 }
