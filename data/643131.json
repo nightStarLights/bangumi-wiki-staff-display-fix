@@ -9,13 +9,6 @@
             "ref": "p:3877",
             "text": "坂本真綾"
           }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "ttt"
-          }
         }
       ],
       "lyricist": [
@@ -66,7 +59,7 @@
     }
   },
   "rawPatches": {
-    "editor": "艺术家：坂本真綾(1)\n作词：岩井俊二(1)\n作曲：菅野よう子(1)\n编曲：菅野よう子(1)\n乐器-Acoustic Piano：菅野よう子(1)\n乐器-Synthesizer：浦田恵司(1)\nvocal: ttt(1)"
+    "editor": "艺术家：坂本真綾(1)\n作词：岩井俊二(1)\n作曲：菅野よう子(1)\n编曲：菅野よう子(1)\n乐器-Acoustic Piano：菅野よう子(1)\n乐器-Synthesizer：浦田恵司(1)"
   },
   "_meta": {
     "submittedBy": "907749",
@@ -74,6 +67,6 @@
     "submittedAt": "2026-04-21T14:12:01.733Z",
     "updatedBy": "907749",
     "updatedUserGroup": 10,
-    "updatedAt": "2026-04-21T14:12:21.113Z"
+    "updatedAt": "2026-04-21T14:12:34.163Z"
   }
 }
