@@ -1,0 +1,101 @@
+{
+  "subjectId": 643013,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "NoE"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Caffeine"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Euk"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Vanillin"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Evin a'k"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Caffeine"
+            },
+            " vs ",
+            {
+              "ref": null,
+              "text": "Serasprout"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "Riho"
+            }
+          ]
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ikaruga-nex"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：NoE(1)、Caffeine(2)、Euk(3)、Vanillin(4)、Evin a'k(5)、Caffeine vs Serasprout feat. Riho(7)、ikaruga-nex(8)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-21T06:25:02.734Z"
+  }
+}
