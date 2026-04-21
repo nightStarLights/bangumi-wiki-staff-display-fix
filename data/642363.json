@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:92366",
             "text": "Animalost"
           }
         }
@@ -58,10 +58,7 @@
               "text": "雨部冷キザミ"
             },
             " feat. ",
-            {
-              "ref": null,
-              "text": "宮舞モカ"
-            }
+            "宮舞モカ"
           ]
         }
       ]
@@ -119,10 +116,7 @@
               "text": "夜未アガリ"
             },
             " feat. ",
-            {
-              "ref": null,
-              "text": "重音テトSV"
-            }
+            "重音テトSV"
           ]
         }
       ]
@@ -136,10 +130,7 @@
               "text": "WHITEFISTS"
             },
             " feat. ",
-            {
-              "ref": "p:34686",
-              "text": "Sennzai"
-            }
+            "Sennzai"
           ]
         }
       ]
@@ -256,10 +247,7 @@
               "text": "Junk"
             },
             " feat. ",
-            {
-              "ref": null,
-              "text": "夢ノ結唱 ROSE"
-            }
+            "夢ノ結唱 ROSE"
           ]
         }
       ]
@@ -524,10 +512,7 @@
               "text": "黒魔"
             },
             " feat. ",
-            {
-              "ref": null,
-              "text": "カゼヒキV"
-            }
+            "カゼヒキV"
           ]
         }
       ]
@@ -550,6 +535,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-21T18:19:15.031Z"
+    "submittedAt": "2026-04-21T18:19:45.752Z"
   }
 }
