@@ -1,0 +1,343 @@
+{
+  "subjectId": 642948,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "stuv"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "stuv"
+          },
+          "inst": "Guitars"
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "Mei Naganowa"
+          },
+          "person": {
+            "ref": "p:70471",
+            "text": "ReeK"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Aiyru"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Aiyru"
+          },
+          "inst": "Guitars"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Aiyru"
+          },
+          "inst": "Bass"
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "gsharp"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "gsharp"
+          },
+          "inst": "Guitars"
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "intelligencecasino"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Eden Forscythe"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Zohar Emulator"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Rämillia"
+          }
+        }
+      ]
+    },
+    "1.13": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Rämillia"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Tee-vee"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Tee-vee"
+          },
+          "inst": "Guitars"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Tee-vee"
+          },
+          "inst": "Bass"
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "JP Glovasa"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "JP Glovasa"
+          },
+          "inst": "Guitars"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "JP Glovasa"
+          },
+          "inst": "Bass"
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "R-Man"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66547",
+            "text": "AKA"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "5KiLOBYTE"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Yumi Sakata"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Yumi Sakata"
+          },
+          "inst": "Guitars"
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "KoDyMaxx"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Nico Siberia"
+          }
+        }
+      ]
+    },
+    "1.14": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "PSYQUO"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Skye Senfort"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Leyrinne"
+          }
+        }
+      ]
+    },
+    "1.15": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "MB"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "E-Sarge"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "MB"
+          },
+          "inst": "Guitars"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Noa Silversten"
+          },
+          "inst": "Bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "E-Sarge"
+          },
+          "inst": "Percussion"
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：stuv(1)、Mei Naganowa(ReeK)(2)、Aiyru(3)、gsharp(4)、intelligencecasino(5)、Eden Forscythe(5)、Zohar Emulator(6)、Rämillia(6,13)、Tee-vee(7)、JP Glovasa(8)、R-Man(9)、AKA(9)、5KiLOBYTE(10)、Yumi Sakata(11)、KoDyMaxx(12)、Nico Siberia(12)、PSYQUO(14)、Skye Senfort(14)、Leyrinne(14)、MB(15)\n编曲：E-Sarge(15)\n乐器-Guitars：stuv(1)、Aiyru(3)、gsharp(4)、Tee-vee(7)、JP Glovasa(8)、Yumi Sakata(11)、MB(15)\n乐器-Bass：Aiyru(3)、Tee-vee(7)、JP Glovasa(8)、Noa Silversten(15)\n乐器-Percussion：E-Sarge(15)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-21T04:20:45.197Z"
+  }
+}
