@@ -278,48 +278,56 @@
     "1.9": {
       "composer": [
         {
-          "parts": [
-            {
-              "ref": null,
-              "text": "Arimura Kyogo"
-            },
-            " (西本康佑)"
-          ]
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "Arimura Kyogo"
+          },
+          "person": {
+            "ref": "p:69036",
+            "text": "有村京悟"
+          }
         }
       ],
       "arranger": [
         {
-          "parts": [
-            {
-              "ref": null,
-              "text": "Arimura Kyogo"
-            },
-            " (西本康佑)"
-          ]
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "Arimura Kyogo"
+          },
+          "person": {
+            "ref": "p:69036",
+            "text": "有村京悟"
+          }
         }
       ]
     },
     "1.11": {
       "composer": [
         {
-          "parts": [
-            {
-              "ref": null,
-              "text": "Arimura Kyogo"
-            },
-            " (西本康佑)"
-          ]
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "Arimura Kyogo"
+          },
+          "person": {
+            "ref": "p:69036",
+            "text": "有村京悟"
+          }
         }
       ],
       "arranger": [
         {
-          "parts": [
-            {
-              "ref": null,
-              "text": "Arimura Kyogo"
-            },
-            " (西本康佑)"
-          ]
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "Arimura Kyogo"
+          },
+          "person": {
+            "ref": "p:69036",
+            "text": "有村京悟"
+          }
         }
       ]
     }
@@ -328,8 +336,8 @@
     "editor": "艺术家：ミーウェル(1,12)、ユリカリパブリック(3)、木下珠子(4)、July(5,10)\n作曲：Rigël Theatre(1,2,3,4,5,6,7,8,10,12,13)、Arimura Kyogo(西本康佑)(9,11)\n编曲：Rigël Theatre(1,2,3,4,5,6,7,8,10,12,13)、Arimura Kyogo(西本康佑)(9,11)"
   },
   "_meta": {
-    "submittedBy": "sakarin",
-    "submittedUserGroup": 11,
-    "submittedAt": "2026-04-22T15:04:27.635Z"
+    "submittedBy": "907749",
+    "submittedUserGroup": 10,
+    "submittedAt": "2026-04-22T15:05:06.881Z"
   }
 }
