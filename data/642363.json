@@ -60,7 +60,10 @@
               "text": "雨部冷キザミ"
             },
             " feat. ",
-            "宮舞モカ"
+            {
+              "ref": null,
+              "text": "宮舞モカ"
+            }
           ]
         }
       ]
@@ -118,7 +121,10 @@
               "text": "夜未アガリ"
             },
             " feat. ",
-            "重音テトSV"
+            {
+              "ref": null,
+              "text": "重音テトSV"
+            }
           ]
         }
       ]
@@ -132,7 +138,10 @@
               "text": "WHITEFISTS"
             },
             " feat. ",
-            "Sennzai"
+            {
+              "ref": "p:34686",
+              "text": "Sennzai"
+            }
           ]
         }
       ]
@@ -184,15 +193,15 @@
     "2.6": {
       "artist": [
         {
-          "parts": [
-            "Bitplane",
-            " (",
-            {
-              "ref": "p:6135",
-              "text": "愛新覚羅溥儀"
-            },
-            ")"
-          ]
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "Bitplane"
+          },
+          "person": {
+            "ref": "p:6135",
+            "text": "愛新覚羅溥儀"
+          }
         }
       ]
     },
@@ -249,7 +258,10 @@
               "text": "Junk"
             },
             " feat. ",
-            "夢ノ結唱 ROSE"
+            {
+              "ref": null,
+              "text": "夢ノ結唱 ROSE"
+            }
           ]
         }
       ]
@@ -502,7 +514,10 @@
               "text": "黒魔"
             },
             " feat. ",
-            "カゼヒキV"
+            {
+              "ref": null,
+              "text": "カゼヒキV"
+            }
           ]
         }
       ]
@@ -520,11 +535,11 @@
     }
   },
   "rawPatches": {
-    "editor": "艺术家：Animalost (Kusua)(1.1)、Yu-dachi(1.2)、しーけー(1.3)、Hiraoka Kotaro(DIA)(1.4)、雨部冷キザミ feat.宮舞モカ(1.5)、Tatsh(1.6)、Dogsix(1.7)、ARForest(1.8)、Sound Souler(1.9)、夜未アガリ feat. 重音テトSV(1.10)、WHITEFISTS feat.Sennzai(2.1)、Kashiwade(2.2)、くるぶっこちゃん(2.3)、ak+q(2.4)、Supire(2.5)、《Bitplane》(愛新覚羅溥儀)(2.6)、Nhato(2.7)、LV.4(2.8)、wa.(2.9)、crayvxn(2.10)、Junk feat. 夢ノ結唱 ROSE(2.11)、K3nto(3.1)、anubasu-anubasu(3.2)、technoplanet(3.3)、ex.Zekk(3.4)、rejection(3.5)、M-Project(3.6)、YUKIYANAGI(3.7)、Sanaas(3.8)、RYOQUCHA(3.9)、Alicemetix(3.10)、《Asatsumei,  Asayami, Mei Naganowa》 (ReeK) feat.L4hee(3.11)、kalsoer(4.1)、劇団庭師(4.2)、Shion Hinano(4.3)、ITM(4.4)、Shion Sakamoto(4.5)、Kota Kawashima(STNK)(4.6)、天門(4.7)、Street(4.8)、ぺのれり(三好啓太)(4.9)、黒魔 feat.カゼヒキV(4.10)、aon(4.11)"
+    "editor": "艺术家：Animalost (Kusua)(1.1)、Yu-dachi(1.2)、しーけー(1.3)、Hiraoka Kotaro(DIA)(1.4)、雨部冷キザミ feat.宮舞モカ(1.5)、Tatsh(1.6)、Dogsix(1.7)、ARForest(1.8)、Sound Souler(1.9)、夜未アガリ feat. 重音テトSV(1.10)、WHITEFISTS feat.Sennzai(2.1)、Kashiwade(2.2)、くるぶっこちゃん(2.3)、ak+q(2.4)、Supire(2.5)、Bitplane(愛新覚羅溥儀)(2.6)、Nhato(2.7)、LV.4(2.8)、wa.(2.9)、crayvxn(2.10)、Junk feat. 夢ノ結唱 ROSE(2.11)、K3nto(3.1)、anubasu-anubasu(3.2)、technoplanet(3.3)、ex.Zekk(3.4)、rejection(3.5)、M-Project(3.6)、YUKIYANAGI(3.7)、Sanaas(3.8)、RYOQUCHA(3.9)、Alicemetix(3.10)、《Asatsumei,  Asayami, Mei Naganowa》 (ReeK) feat.L4hee(3.11)、kalsoer(4.1)、劇団庭師(4.2)、Shion Hinano(4.3)、ITM(4.4)、Shion Sakamoto(4.5)、Kota Kawashima(STNK)(4.6)、天門(4.7)、Street(4.8)、ぺのれり(三好啓太)(4.9)、黒魔 feat.カゼヒキV(4.10)、aon(4.11)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-22T14:43:19.972Z"
+    "submittedAt": "2026-04-22T15:19:08.291Z"
   }
 }
