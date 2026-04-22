@@ -278,50 +278,58 @@
     "1.9": {
       "composer": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "西本康佑"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "Arimura Kyogo"
+            },
+            " (西本康佑)"
+          ]
         }
       ],
       "arranger": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "西本康佑"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "Arimura Kyogo"
+            },
+            " (西本康佑)"
+          ]
         }
       ]
     },
     "1.11": {
       "composer": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "西本康佑"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "Arimura Kyogo"
+            },
+            " (西本康佑)"
+          ]
         }
       ],
       "arranger": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "西本康佑"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "Arimura Kyogo"
+            },
+            " (西本康佑)"
+          ]
         }
       ]
     }
   },
   "rawPatches": {
-    "editor": "艺术家：ミーウェル(1,12)、ユリカリパブリック(3)、木下珠子(4)、July(5,10)\n作曲：Rigël Theatre(1,2,3,4,5,6,7,8,10,12,13)、西本康佑(9,11)\n编曲：Rigël Theatre(1,2,3,4,5,6,7,8,10,12,13)、西本康佑(9,11)"
+    "editor": "艺术家：ミーウェル(1,12)、ユリカリパブリック(3)、木下珠子(4)、July(5,10)\n作曲：Rigël Theatre(1,2,3,4,5,6,7,8,10,12,13)、Arimura Kyogo(西本康佑)(9,11)\n编曲：Rigël Theatre(1,2,3,4,5,6,7,8,10,12,13)、Arimura Kyogo(西本康佑)(9,11)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-22T14:58:47.111Z"
+    "submittedAt": "2026-04-22T15:04:27.635Z"
   }
 }
