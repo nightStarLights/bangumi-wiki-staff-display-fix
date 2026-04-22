@@ -1,0 +1,42 @@
+{
+  "subjectId": 643605,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6833",
+            "text": "花たん"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8782",
+            "text": "Powerless"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8782",
+            "text": "Powerless"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：花たん(1)\n作曲：Powerless(1)\n编曲：Powerless(1)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-22T18:24:43.466Z"
+  }
+}
