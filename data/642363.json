@@ -39,8 +39,15 @@
     "1.4": {
       "artist": [
         {
-          "type": "text",
-          "text": "Hiraoka Kotaro (DIA)"
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "Hiraoka Kotaro"
+          },
+          "person": {
+            "ref": "p:67094",
+            "text": "DIA"
+          }
         }
       ]
     },
@@ -53,7 +60,10 @@
               "text": "雨部冷キザミ"
             },
             " feat. ",
-            "宮舞モカ"
+            {
+              "ref": null,
+              "text": "宮舞モカ"
+            }
           ]
         }
       ]
@@ -111,7 +121,10 @@
               "text": "夜未アガリ"
             },
             " feat. ",
-            "重音テトSV"
+            {
+              "ref": null,
+              "text": "重音テトSV"
+            }
           ]
         }
       ]
@@ -125,7 +138,10 @@
               "text": "WHITEFISTS"
             },
             " feat. ",
-            "Sennzai"
+            {
+              "ref": "p:34686",
+              "text": "Sennzai"
+            }
           ]
         }
       ]
@@ -240,7 +256,10 @@
               "text": "Junk"
             },
             " feat. ",
-            "夢ノ結唱 ROSE"
+            {
+              "ref": null,
+              "text": "夢ノ結唱 ROSE"
+            }
           ]
         }
       ]
@@ -435,8 +454,15 @@
     "4.6": {
       "artist": [
         {
-          "type": "text",
-          "text": "Kota Kawashima (STNK)"
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "Kota Kawashima"
+          },
+          "person": {
+            "ref": "p:75406",
+            "text": "STNK"
+          }
         }
       ]
     },
@@ -465,8 +491,15 @@
     "4.9": {
       "artist": [
         {
-          "type": "text",
-          "text": "ぺのれり (三好啓太)"
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "ぺのれり"
+          },
+          "person": {
+            "ref": "p:31670",
+            "text": "三好啓太"
+          }
         }
       ]
     },
@@ -479,7 +512,10 @@
               "text": "黒魔"
             },
             " feat. ",
-            "カゼヒキV"
+            {
+              "ref": null,
+              "text": "カゼヒキV"
+            }
           ]
         }
       ]
@@ -502,6 +538,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-22T14:16:39.182Z"
+    "submittedAt": "2026-04-22T14:22:11.295Z"
   }
 }
