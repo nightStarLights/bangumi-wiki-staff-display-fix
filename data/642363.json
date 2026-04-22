@@ -60,10 +60,7 @@
               "text": "雨部冷キザミ"
             },
             " feat. ",
-            {
-              "ref": null,
-              "text": "宮舞モカ"
-            }
+            "宮舞モカ"
           ]
         }
       ]
@@ -121,10 +118,7 @@
               "text": "夜未アガリ"
             },
             " feat. ",
-            {
-              "ref": null,
-              "text": "重音テトSV"
-            }
+            "重音テトSV"
           ]
         }
       ]
@@ -138,10 +132,7 @@
               "text": "WHITEFISTS"
             },
             " feat. ",
-            {
-              "ref": "p:34686",
-              "text": "Sennzai"
-            }
+            "Sennzai"
           ]
         }
       ]
@@ -195,7 +186,7 @@
         {
           "parts": [
             {
-              "ref": "p:33457",
+              "ref": null,
               "text": "Bitplane"
             },
             " (愛新覚羅溥儀)"
@@ -256,10 +247,7 @@
               "text": "Junk"
             },
             " feat. ",
-            {
-              "ref": null,
-              "text": "夢ノ結唱 ROSE"
-            }
+            "夢ノ結唱 ROSE"
           ]
         }
       ]
@@ -512,10 +500,7 @@
               "text": "黒魔"
             },
             " feat. ",
-            {
-              "ref": null,
-              "text": "カゼヒキV"
-            }
+            "カゼヒキV"
           ]
         }
       ]
@@ -538,6 +523,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-22T14:22:11.295Z"
+    "submittedAt": "2026-04-22T14:25:27.736Z"
   }
 }
