@@ -1,38 +1,31 @@
 {
   "subjectId": 642925,
   "trackCredits": {
-    "1.4": {
+    "1.1": {
       "artist": [
         {
           "type": "person",
           "person": {
-            "ref": "p:9839",
-            "text": "lol project"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:18203",
-            "text": "NAGO"
+            "ref": "p:69038",
+            "text": "ミーウェル"
           }
         }
-      ]
-    },
-    "1.11": {
-      "artist": [
+      ],
+      "composer": [
         {
           "type": "person",
           "person": {
-            "ref": "p:9839",
-            "text": "lol project"
+            "ref": "p:33493",
+            "text": "Rigël Theatre"
           }
-        },
+        }
+      ],
+      "arranger": [
         {
           "type": "person",
           "person": {
-            "ref": "p:47137",
-            "text": "Alpaca"
+            "ref": "p:33493",
+            "text": "Rigël Theatre"
           }
         }
       ]
@@ -42,80 +35,301 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:9839",
-            "text": "lol project"
+            "ref": "p:69038",
+            "text": "ミーウェル"
           }
-        },
+        }
+      ],
+      "composer": [
         {
           "type": "person",
           "person": {
-            "ref": "p:15734",
-            "text": "Bernis"
+            "ref": "p:33493",
+            "text": "Rigël Theatre"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33493",
+            "text": "Rigël Theatre"
           }
         }
       ]
     },
-    "1.15": {
+    "1.3": {
       "artist": [
         {
           "type": "person",
           "person": {
-            "ref": "p:9839",
-            "text": "lol project"
+            "ref": "p:69353",
+            "text": "ユリカリパブリック"
           }
-        },
+        }
+      ],
+      "composer": [
         {
           "type": "person",
           "person": {
-            "ref": "p:7161",
-            "text": "Thanatos"
+            "ref": "p:33493",
+            "text": "Rigël Theatre"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33493",
+            "text": "Rigël Theatre"
           }
         }
       ]
     },
-    "1.18": {
+    "1.4": {
       "artist": [
         {
           "type": "person",
           "person": {
-            "ref": "p:9839",
-            "text": "lol project"
+            "ref": "p:64865",
+            "text": "木下珠子"
           }
-        },
+        }
+      ],
+      "composer": [
         {
           "type": "person",
           "person": {
-            "ref": "p:7161",
-            "text": "Thanatos"
+            "ref": "p:33493",
+            "text": "Rigël Theatre"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33493",
+            "text": "Rigël Theatre"
           }
         }
       ]
     },
-    "1.19": {
+    "1.5": {
       "artist": [
         {
           "type": "person",
           "person": {
-            "ref": "p:9839",
-            "text": "lol project"
+            "ref": "p:69037",
+            "text": "July"
           }
-        },
+        }
+      ],
+      "composer": [
         {
           "type": "person",
           "person": {
-            "ref": "p:80453",
-            "text": "joinT"
+            "ref": "p:33493",
+            "text": "Rigël Theatre"
           }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33493",
+            "text": "Rigël Theatre"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69037",
+            "text": "July"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33493",
+            "text": "Rigël Theatre"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33493",
+            "text": "Rigël Theatre"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33493",
+            "text": "Rigël Theatre"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33493",
+            "text": "Rigël Theatre"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33493",
+            "text": "Rigël Theatre"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33493",
+            "text": "Rigël Theatre"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33493",
+            "text": "Rigël Theatre"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33493",
+            "text": "Rigël Theatre"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33493",
+            "text": "Rigël Theatre"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33493",
+            "text": "Rigël Theatre"
+          }
+        }
+      ]
+    },
+    "1.13": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33493",
+            "text": "Rigël Theatre"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33493",
+            "text": "Rigël Theatre"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Arimura Kyogo"
+            },
+            " (西本康佑)"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Arimura Kyogo"
+            },
+            " (西本康佑)"
+          ]
+        }
+      ]
+    },
+    "1.11": {
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Arimura Kyogo"
+            },
+            " (西本康佑)"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Arimura Kyogo"
+            },
+            " (西本康佑)"
+          ]
         }
       ]
     }
   },
   "rawPatches": {
-    "editor": "艺术家：lol project(4,11,12,15,18,19)、NAGO(4)、Alpaca(11)、Bernis(12)、Thanatos(15,18)、joinT(19)"
+    "editor": "艺术家：ミーウェル(1,12)、ユリカリパブリック(3)、木下珠子(4)、July(5,10)\n作曲：Rigël Theatre(1,2,3,4,5,6,7,8,10,12,13)、Arimura Kyogo(西本康佑)(9,11)\n编曲：Rigël Theatre(1,2,3,4,5,6,7,8,10,12,13)、Arimura Kyogo(西本康佑)(9,11)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-20T19:12:13.710Z"
+    "submittedAt": "2026-04-22T14:57:07.300Z"
   }
 }
