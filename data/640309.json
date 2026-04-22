@@ -1,0 +1,257 @@
+{
+  "subjectId": 640309,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69686",
+            "text": "aon"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69686",
+            "text": "aon"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69686",
+            "text": "aon"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11316",
+            "text": "鈴湯"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68828",
+            "text": "mawari"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68828",
+            "text": "mawari"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:82193",
+            "text": "マドロミ"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11316",
+            "text": "鈴湯"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69837",
+            "text": "Shimoui"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69837",
+            "text": "Shimoui"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36952",
+            "text": "新海雅代"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70448",
+            "text": "六歌"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:40138",
+            "text": "小坂ナオ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70448",
+            "text": "六歌"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:40138",
+            "text": "小坂ナオ"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69686",
+            "text": "aon"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69686",
+            "text": "aon"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68828",
+            "text": "mawari"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68828",
+            "text": "mawari"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:82193",
+            "text": "マドロミ"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.7": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70448",
+            "text": "六歌"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:40138",
+            "text": "小坂ナオ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70448",
+            "text": "六歌"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:40138",
+            "text": "小坂ナオ"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69837",
+            "text": "Shimoui"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69837",
+            "text": "Shimoui"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "作词：aon(1)、鈴湯(2,4)、新海雅代(3)\n作曲：aon(1,5)、mawari(2,6)、六歌(3,7)、小坂ナオ(3,7)、Shimoui(4,8)\n编曲：aon(1,5)、mawari(2,6)、六歌(3,7)、小坂ナオ(3,7)、Shimoui(4,8)\n乐器-Guitar：マドロミ(2,6)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-22T13:55:04.052Z"
+  }
+}
