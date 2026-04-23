@@ -1,12 +1,33 @@
 {
-  "trackCredits": {},
-  "rawPatches": {
-    "editor": ""
-  },
   "subjectId": 309445,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:6439",
+              "text": "onoken"
+            },
+            " feat. ",
+            "Tomoko Asaka",
+            " (",
+            {
+              "ref": "p:84454",
+              "text": "朝香智子"
+            },
+            ")"
+          ]
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "artist:onoken feat. Tomoko Asaka (朝香智子) (1.1)"
+  },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-23T16:33:16.660Z"
+    "submittedAt": "2026-04-23T16:33:25.755Z"
   }
 }
