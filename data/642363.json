@@ -9,7 +9,12 @@
               "ref": "p:92366",
               "text": "Animalost"
             },
-            " (Kusua)"
+            " (",
+            {
+              "ref": null,
+              "text": "Kusua"
+            },
+            ")"
           ]
         }
       ]
@@ -39,15 +44,18 @@
     "1.4": {
       "artist": [
         {
-          "type": "alias_person",
-          "alias": {
-            "ref": null,
-            "text": "Hiraoka Kotaro"
-          },
-          "person": {
-            "ref": "p:67094",
-            "text": "DIA"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "Hiraoka Kotaro"
+            },
+            " (",
+            {
+              "ref": "p:67094",
+              "text": "DIA"
+            },
+            ")"
+          ]
         }
       ]
     },
@@ -193,15 +201,18 @@
     "2.6": {
       "artist": [
         {
-          "type": "alias_person",
-          "alias": {
-            "ref": null,
-            "text": "Bitplane"
-          },
-          "person": {
-            "ref": "p:6135",
-            "text": "愛新覚羅溥儀"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "Bitplane"
+            },
+            " (",
+            {
+              "ref": "p:6135",
+              "text": "愛新覚羅溥儀"
+            },
+            ")"
+          ]
         }
       ]
     },
@@ -456,15 +467,18 @@
     "4.6": {
       "artist": [
         {
-          "type": "alias_person",
-          "alias": {
-            "ref": null,
-            "text": "Kota Kawashima"
-          },
-          "person": {
-            "ref": "p:75406",
-            "text": "STNK"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "Kota Kawashima"
+            },
+            " (",
+            {
+              "ref": "p:75406",
+              "text": "STNK"
+            },
+            ")"
+          ]
         }
       ]
     },
@@ -493,15 +507,18 @@
     "4.9": {
       "artist": [
         {
-          "type": "alias_person",
-          "alias": {
-            "ref": null,
-            "text": "ぺのれり"
-          },
-          "person": {
-            "ref": "p:31670",
-            "text": "三好啓太"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "ぺのれり"
+            },
+            " (",
+            {
+              "ref": "p:31670",
+              "text": "三好啓太"
+            },
+            ")"
+          ]
         }
       ]
     },
@@ -540,6 +557,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-23T18:19:06.737Z"
+    "submittedAt": "2026-04-23T18:25:40.284Z"
   }
 }
