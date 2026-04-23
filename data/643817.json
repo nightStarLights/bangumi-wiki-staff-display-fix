@@ -103,22 +103,25 @@
     "1.10": {
       "artist": [
         {
-          "parts": [
-            {
-              "ref": "p:81888",
-              "text": "しゅーりん"
-            },
-            " × ",
-            {
-              "ref": "p:83763",
-              "text": "MoAE:."
-            },
-            " feat. ",
-            {
-              "ref": "p:6248",
-              "text": "nayuta"
-            }
-          ]
+          "type": "person",
+          "person": {
+            "ref": "p:81888",
+            "text": "しゅーりん"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83763",
+            "text": "MoAE:."
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6248",
+            "text": "nayuta"
+          }
         }
       ]
     },
@@ -184,57 +187,79 @@
     "2.1": {
       "artist": [
         {
-          "parts": [
-            {
-              "ref": "p:7286",
-              "text": "void"
-            },
-            " (Mournfinale)",
-            " feat. ",
-            {
-              "ref": "p:66547",
-              "text": "AKA"
-            }
-          ]
+          "type": "person",
+          "person": {
+            "ref": "p:7286",
+            "text": "void"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66547",
+            "text": "AKA"
+          }
         }
       ]
     },
     "2.2": {
       "artist": [
         {
-          "parts": [
-            {
-              "ref": "p:70451",
-              "text": "Gardens"
-            },
-            " feat. ",
-            {
-              "ref": "p:92312",
-              "text": "moon jelly"
-            }
-          ]
+          "type": "person",
+          "person": {
+            "ref": "p:70451",
+            "text": "Gardens"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:92312",
+            "text": "moon jelly"
+          }
         }
       ]
     },
     "2.3": {
       "artist": [
         {
-          "parts": [
-            {
-              "ref": "p:82122",
-              "text": "Xeudo Code"
-            },
-            " & ",
-            {
-              "ref": null,
-              "text": "Xeno"
-            },
-            " feat. ",
-            {
-              "ref": "p:66298",
-              "text": "eili"
-            }
-          ]
+          "type": "person",
+          "person": {
+            "ref": "p:82122",
+            "text": "Xeudo Code"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Xeno"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66298",
+            "text": "eili"
+          }
+        }
+      ]
+    },
+    "3.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66298",
+            "text": "eili"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70450",
+            "text": "SpiralFlip"
+          }
         }
       ]
     },
@@ -252,17 +277,18 @@
     "2.5": {
       "artist": [
         {
-          "parts": [
-            {
-              "ref": "p:64711",
-              "text": "Connexio"
-            },
-            " & ",
-            {
-              "ref": "p:82371",
-              "text": "Link\"0"
-            }
-          ]
+          "type": "person",
+          "person": {
+            "ref": "p:64711",
+            "text": "Connexio"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82371",
+            "text": "Link\"0"
+          }
         }
       ]
     },
@@ -313,17 +339,18 @@
     "2.10": {
       "artist": [
         {
-          "parts": [
-            {
-              "ref": "p:69139",
-              "text": "kuro"
-            },
-            " & ",
-            {
-              "ref": "p:65772",
-              "text": "Halv"
-            }
-          ]
+          "type": "person",
+          "person": {
+            "ref": "p:69139",
+            "text": "kuro"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65772",
+            "text": "Halv"
+          }
         }
       ]
     },
@@ -363,20 +390,22 @@
     "2.14": {
       "artist": [
         {
-          "parts": [
-            {
-              "ref": "p:6439",
-              "text": "onoken"
-            },
-            " feat. ",
-            "Tomoko Asaka",
-            " (",
-            {
-              "ref": "p:84454",
-              "text": "朝香智子"
-            },
-            ")"
-          ]
+          "type": "person",
+          "person": {
+            "ref": "p:6439",
+            "text": "onoken"
+          }
+        },
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "Tomoko Asaka"
+          },
+          "person": {
+            "ref": "p:84454",
+            "text": "朝香智子"
+          }
         }
       ]
     },
@@ -416,17 +445,18 @@
     "3.3": {
       "artist": [
         {
-          "parts": [
-            {
-              "ref": null,
-              "text": "Ary-You"
-            },
-            " & ",
-            {
-              "ref": null,
-              "text": "MossyStone"
-            }
-          ]
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ary-You"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "MossyStone"
+          }
         }
       ]
     },
@@ -466,34 +496,18 @@
     "3.7": {
       "artist": [
         {
-          "parts": [
-            {
-              "ref": "p:47634",
-              "text": "Sad Keyboard Guy"
-            },
-            " feat ",
-            {
-              "ref": "p:73942",
-              "text": "vally.exe"
-            }
-          ]
-        }
-      ]
-    },
-    "3.8": {
-      "artist": [
+          "type": "person",
+          "person": {
+            "ref": "p:47634",
+            "text": "Sad Keyboard Guy"
+          }
+        },
         {
-          "parts": [
-            {
-              "ref": "p:70450",
-              "text": "SpiralFlip"
-            },
-            " feat. ",
-            {
-              "ref": "p:66298",
-              "text": "eili"
-            }
-          ]
+          "type": "person",
+          "person": {
+            "ref": "p:73942",
+            "text": "vally.exe"
+          }
         }
       ]
     },
@@ -580,11 +594,11 @@
     }
   },
   "rawPatches": {
-    "editor": "艺术家：濵田有共(1.1)、xi(1.2)、BlackY(1.3)、cosMo@暴走P(1.4)、Ice(1.5)、Tatsunoshin(1.6)、Juggernaut.(1.7)、7OAST(1.8)、yuichi NAGAO(1.9)、しゅーりん × MoAE:. feat. nayuta(1.10)、Elliot Hsu(1.11)、Kashiwade(1.12)、田口囁一(1.13)、ARForest(1.14)、kidlit(深水チエ)(1.15)、void (Mournfinale) feat. AKA(2.1)、Gardens feat.moon jelly(2.2)、Xeudo Code & Xeno feat.eili(2.3)、X-END(2.4)、Connexio & Link\"0(2.5)、LucaProject(2.6)、Powerless(2.7)、Essbee(2.8)、CHESHR(2.9)、kuro & Halv(2.10)、Solvrae(2.11)、Hiyo(2.12)、MisomyL(2.13)、onoken feat.Tomoko Asaka(朝香智子)(2.14)、bqスタヂオ(2.15)、Osamu Kubota(3.1)、Raimukun(3.2)、Ary-You & MossyStone(3.3)、Cansol(3.4)、Sobrem(3.5)、callasoiled(3.6)、Sad Keyboard Guy feat vally.exe(3.7)、SpiralFlip feat.eili(3.8)、のとを(3.9)、*-Teris.(3.10)、大嶋啓之(3.11)、satella(3.12)、黒魔(3.13)、月代彩(3.14)、Sakuzyo(削除)(3.15)"
+    "editor": "艺术家：濵田有共(1.1)、xi(1.2)、BlackY(1.3)、cosMo@暴走P(1.4)、Ice(1.5)、Tatsunoshin(1.6)、Juggernaut.(1.7)、7OAST(1.8)、yuichi NAGAO(1.9)、しゅーりん(1.10)、《MoAE:.》(1.10)、nayuta(1.10)、Elliot Hsu(1.11)、Kashiwade(1.12)、田口囁一(1.13)、ARForest(1.14)、kidlit(深水チエ)(1.15)、void(2.1)、AKA(2.1)、Gardens(2.2)、moon jelly(2.2)、Xeudo Code(2.3)、Xeno(2.3)、eili(2.3,3.8)、X-END(2.4)、Connexio(2.5)、Link\"0(2.5)、LucaProject(2.6)、Powerless(2.7)、Essbee(2.8)、CHESHR(2.9)、kuro(2.10)、Halv(2.10)、Solvrae(2.11)、Hiyo(2.12)、MisomyL(2.13)、onoken(2.14)、Tomoko Asaka(朝香智子)(2.14)、bqスタヂオ(2.15)、Osamu Kubota(3.1)、Raimukun(3.2)、Ary-You(3.3)、MossyStone(3.3)、Cansol(3.4)、Sobrem(3.5)、callasoiled(3.6)、Sad Keyboard Guy(3.7)、vally.exe(3.7)、SpiralFlip(3.8)、のとを(3.9)、*-Teris.(3.10)、大嶋啓之(3.11)、satella(3.12)、黒魔(3.13)、月代彩(3.14)、Sakuzyo(削除)(3.15)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-23T11:01:27.488Z"
+    "submittedAt": "2026-04-23T11:02:23.078Z"
   }
 }
