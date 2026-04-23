@@ -1,0 +1,108 @@
+{
+  "subjectId": 643662,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Sound piercer \"Espitz\""
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "NeLiME"
+          },
+          "inst": "guitar"
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Sound piercer \"Espitz\""
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Netsukira"
+          },
+          "inst": "guitar"
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Sound piercer \"Espitz\""
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "NeLiME"
+          },
+          "inst": "guitar"
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Sound piercer \"Espitz\""
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Sound piercer \"Espitz\""
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "NeLiME"
+          },
+          "inst": "guitar"
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：Sound piercer \"Espitz\"(1,2,3,4,5)\n乐器-guitar：NeLiME(1,3,5)、Netsukira(2)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-23T04:45:16.744Z"
+  }
+}
