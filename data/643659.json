@@ -1,0 +1,30 @@
+{
+  "subjectId": 643659,
+  "trackCredits": {
+    "1.2": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "aran"
+            },
+            " vs ",
+            {
+              "ref": null,
+              "text": "Massive New Krew"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：aran vs Massive New Krew(2)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-23T04:27:36.315Z"
+  }
+}
