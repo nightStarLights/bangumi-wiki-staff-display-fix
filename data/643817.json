@@ -114,7 +114,10 @@
               "text": "MoAE:."
             },
             " feat. ",
-            "nayuta"
+            {
+              "ref": "p:6248",
+              "text": "nayuta"
+            }
           ]
         }
       ]
@@ -188,7 +191,10 @@
             },
             " (Mournfinale)",
             " feat. ",
-            "AKA"
+            {
+              "ref": "p:66547",
+              "text": "AKA"
+            }
           ]
         }
       ]
@@ -252,7 +258,10 @@
               "text": "Connexio"
             },
             " & ",
-            "Link\"0"
+            {
+              "ref": "p:82371",
+              "text": "Link\"0"
+            }
           ]
         }
       ]
@@ -310,7 +319,10 @@
               "text": "kuro"
             },
             " & ",
-            "Halv"
+            {
+              "ref": "p:65772",
+              "text": "Halv"
+            }
           ]
         }
       ]
@@ -359,7 +371,10 @@
             " feat. ",
             "Tomoko Asaka",
             " (",
-            "朝香智子",
+            {
+              "ref": "p:84454",
+              "text": "朝香智子"
+            },
             ")"
           ]
         }
@@ -570,6 +585,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-23T11:07:56.658Z"
+    "submittedAt": "2026-04-23T11:08:10.306Z"
   }
 }
