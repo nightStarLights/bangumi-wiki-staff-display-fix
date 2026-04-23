@@ -169,14 +169,10 @@
     "1.15": {
       "artist": [
         {
-          "type": "alias_person",
-          "alias": {
-            "ref": null,
-            "text": "kidlit"
-          },
+          "type": "person",
           "person": {
             "ref": "p:8014",
-            "text": "深水チエ"
+            "text": "kidlit"
           }
         }
       ]
@@ -186,7 +182,7 @@
         {
           "parts": [
             {
-              "ref": "p:7286",
+              "ref": null,
               "text": "void"
             },
             " (Mournfinale)",
@@ -315,7 +311,7 @@
         {
           "parts": [
             {
-              "ref": "p:69139",
+              "ref": null,
               "text": "kuro"
             },
             " & ",
@@ -583,11 +579,11 @@
     }
   },
   "rawPatches": {
-    "editor": "艺术家：濵田有共(1.1)、xi(1.2)、BlackY(1.3)、cosMo@暴走P(1.4)、Ice(1.5)、Tatsunoshin(1.6)、Juggernaut.(1.7)、7OAST(1.8)、yuichi NAGAO(1.9)、しゅーりん × MoAE:. feat. nayuta(1.10)、Elliot Hsu(1.11)、Kashiwade(1.12)、田口囁一(1.13)、ARForest(1.14)、kidlit(深水チエ)(1.15)、void (Mournfinale) feat. AKA(2.1)、Gardens feat.moon jelly(2.2)、Xeudo Code & Xeno feat.eili(2.3)、X-END(2.4)、Connexio & Link\"0(2.5)、LucaProject(2.6)、Powerless(2.7)、Essbee(2.8)、CHESHR(2.9)、kuro & Halv(2.10)、Solvrae(2.11)、Hiyo(2.12)、MisomyL(2.13)、onoken feat.Tomoko Asaka(朝香智子)(2.14)、bqスタヂオ(2.15)、Osamu Kubota(3.1)、Raimukun(3.2)、Ary-You & MossyStone(3.3)、Cansol(3.4)、Sobrem(3.5)、callasoiled(3.6)、Sad Keyboard Guy feat vally.exe(3.7)、SpiralFlip feat.eili(3.8)、のとを(3.9)、*-Teris.(3.10)、大嶋啓之(3.11)、satella(3.12)、黒魔(3.13)、月代彩(3.14)、Sakuzyo(削除)(3.15)"
+    "editor": "艺术家：濵田有共(1.1)、xi(1.2)、BlackY(1.3)、cosMo@暴走P(1.4)、Ice(1.5)、Tatsunoshin(1.6)、Juggernaut.(1.7)、7OAST(1.8)、yuichi NAGAO(1.9)、しゅーりん × MoAE:. feat. nayuta(1.10)、Elliot Hsu(1.11)、Kashiwade(1.12)、田口囁一(1.13)、ARForest(1.14)、kidlit(1.15)、void (Mournfinale) feat. AKA(2.1)、Gardens feat.moon jelly(2.2)、Xeudo Code & Xeno feat.eili(2.3)、X-END(2.4)、Connexio & Link\"0(2.5)、LucaProject(2.6)、Powerless(2.7)、Essbee(2.8)、CHESHR(2.9)、kuro & Halv(2.10)、Solvrae(2.11)、Hiyo(2.12)、MisomyL(2.13)、onoken feat.Tomoko Asaka(朝香智子)(2.14)、bqスタヂオ(2.15)、Osamu Kubota(3.1)、Raimukun(3.2)、Ary-You & MossyStone(3.3)、Cansol(3.4)、Sobrem(3.5)、callasoiled(3.6)、Sad Keyboard Guy feat vally.exe(3.7)、SpiralFlip feat.eili(3.8)、のとを(3.9)、*-Teris.(3.10)、大嶋啓之(3.11)、satella(3.12)、黒魔(3.13)、月代彩(3.14)、Sakuzyo(削除)(3.15)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-23T17:54:25.858Z"
+    "submittedAt": "2026-04-23T18:12:59.598Z"
   }
 }
