@@ -1,0 +1,24 @@
+{
+  "subjectId": 643824,
+  "trackCredits": {
+    "1.4": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "PETA"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "编曲：PETA(4)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-23T11:38:38.030Z"
+  }
+}
