@@ -243,7 +243,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:92541",
             "text": "X-END"
           }
         }
@@ -588,6 +588,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-23T17:53:19.594Z"
+    "submittedAt": "2026-04-23T17:54:25.858Z"
   }
 }
