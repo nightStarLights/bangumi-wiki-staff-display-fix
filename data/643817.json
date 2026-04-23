@@ -210,10 +210,17 @@
             "ref": "p:70451",
             "text": "Gardens"
           }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:92312",
+            "text": "moon jelly"
+          }
         }
       ]
     },
-    "2.4": {
+    "2.3": {
       "artist": [
         {
           "type": "person",
@@ -256,7 +263,7 @@
         }
       ]
     },
-    "2.5": {
+    "2.4": {
       "artist": [
         {
           "type": "person",
@@ -267,7 +274,7 @@
         }
       ]
     },
-    "2.6": {
+    "2.5": {
       "artist": [
         {
           "type": "person",
@@ -285,7 +292,7 @@
         }
       ]
     },
-    "2.7": {
+    "2.6": {
       "artist": [
         {
           "type": "person",
@@ -296,7 +303,7 @@
         }
       ]
     },
-    "2.8": {
+    "2.7": {
       "artist": [
         {
           "type": "person",
@@ -307,7 +314,7 @@
         }
       ]
     },
-    "2.9": {
+    "2.8": {
       "artist": [
         {
           "type": "person",
@@ -318,7 +325,7 @@
         }
       ]
     },
-    "2.10": {
+    "2.9": {
       "artist": [
         {
           "type": "person",
@@ -329,7 +336,7 @@
         }
       ]
     },
-    "2.11": {
+    "2.10": {
       "artist": [
         {
           "type": "person",
@@ -347,7 +354,7 @@
         }
       ]
     },
-    "2.12": {
+    "2.11": {
       "artist": [
         {
           "type": "person",
@@ -358,7 +365,7 @@
         }
       ]
     },
-    "2.13": {
+    "2.12": {
       "artist": [
         {
           "type": "person",
@@ -369,7 +376,7 @@
         }
       ]
     },
-    "2.14": {
+    "2.13": {
       "artist": [
         {
           "type": "person",
@@ -380,7 +387,7 @@
         }
       ]
     },
-    "2.15": {
+    "2.14": {
       "artist": [
         {
           "type": "person",
@@ -402,7 +409,7 @@
         }
       ]
     },
-    "2.16": {
+    "2.15": {
       "artist": [
         {
           "type": "person",
@@ -587,11 +594,11 @@
     }
   },
   "rawPatches": {
-    "editor": "艺术家：濵田有共(1.1)、xi(1.2)、BlackY(1.3)、cosMo@暴走P(1.4)、Ice(1.5)、Tatsunoshin(1.6)、Juggernaut.(1.7)、7OAST(1.8)、yuichi NAGAO(1.9)、しゅーりん(1.10)、《MoAE:.》(1.10)、nayuta(1.10)、Elliot Hsu(1.11)、Kashiwade(1.12)、田口囁一(1.13)、ARForest(1.14)、kidlit(深水チエ)(1.15)、void(2.1)、AKA(2.1)、Gardens(2.2)、Xeudo Code(2.4)、Xeno(2.4)、eili(2.4,3.8)、X-END(2.5)、Connexio(2.6)、Link\"0(2.6)、LucaProject(2.7)、Powerless(2.8)、Essbee(2.9)、CHESHR(2.10)、kuro(2.11)、Halv(2.11)、Solvrae(2.12)、Hiyo(2.13)、MisomyL(2.14)、onoken(2.15)、Tomoko Asaka(朝香智子)(2.15)、bqスタヂオ(2.16)、Osamu Kubota(3.1)、Raimukun(3.2)、Ary-You(3.3)、MossyStone(3.3)、Cansol(3.4)、Sobrem(3.5)、callasoiled(3.6)、Sad Keyboard Guy(3.7)、vally.exe(3.7)、SpiralFlip(3.8)、のとを(3.9)、*-Teris.(3.10)、大嶋啓之(3.11)、satella(3.12)、黒魔(3.13)、月代彩(3.14)、Sakuzyo(削除)(3.15)"
+    "editor": "艺术家：濵田有共(1.1)、xi(1.2)、BlackY(1.3)、cosMo@暴走P(1.4)、Ice(1.5)、Tatsunoshin(1.6)、Juggernaut.(1.7)、7OAST(1.8)、yuichi NAGAO(1.9)、しゅーりん(1.10)、《MoAE:.》(1.10)、nayuta(1.10)、Elliot Hsu(1.11)、Kashiwade(1.12)、田口囁一(1.13)、ARForest(1.14)、kidlit(深水チエ)(1.15)、void(2.1)、AKA(2.1)、Gardens(2.2)、moon jelly(2.2)、Xeudo Code(2.3)、Xeno(2.3)、eili(2.3,3.8)、X-END(2.4)、Connexio(2.5)、Link\"0(2.5)、LucaProject(2.6)、Powerless(2.7)、Essbee(2.8)、CHESHR(2.9)、kuro(2.10)、Halv(2.10)、Solvrae(2.11)、Hiyo(2.12)、MisomyL(2.13)、onoken(2.14)、Tomoko Asaka(朝香智子)(2.14)、bqスタヂオ(2.15)、Osamu Kubota(3.1)、Raimukun(3.2)、Ary-You(3.3)、MossyStone(3.3)、Cansol(3.4)、Sobrem(3.5)、callasoiled(3.6)、Sad Keyboard Guy(3.7)、vally.exe(3.7)、SpiralFlip(3.8)、のとを(3.9)、*-Teris.(3.10)、大嶋啓之(3.11)、satella(3.12)、黒魔(3.13)、月代彩(3.14)、Sakuzyo(削除)(3.15)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-23T10:54:09.341Z"
+    "submittedAt": "2026-04-23T10:55:36.199Z"
   }
 }
