@@ -46,12 +46,12 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:67094",
               "text": "Hiraoka Kotaro"
             },
             " (",
             {
-              "ref": "p:67094",
+              "ref": null,
               "text": "DIA"
             },
             ")"
@@ -469,12 +469,12 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:75406",
               "text": "Kota Kawashima"
             },
             " (",
             {
-              "ref": "p:75406",
+              "ref": null,
               "text": "STNK"
             },
             ")"
@@ -509,12 +509,12 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:31670",
               "text": "ぺのれり"
             },
             " (",
             {
-              "ref": "p:31670",
+              "ref": null,
               "text": "三好啓太"
             },
             ")"
@@ -557,6 +557,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-23T18:25:40.284Z"
+    "submittedAt": "2026-04-23T18:25:59.608Z"
   }
 }
