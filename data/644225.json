@@ -23,17 +23,6 @@
         }
       ]
     },
-    "1.10": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "REMO-CON"
-          }
-        }
-      ]
-    },
     "1.11": {
       "artist": [
         {
@@ -69,11 +58,11 @@
     }
   },
   "rawPatches": {
-    "editor": "艺术家：Whac-A-Me(6)、Call Go^Ma(9)、REMO-CON(10)、∀S∀(11)、DCWH(12)、DJ FX(13)"
+    "editor": "艺术家：Whac-A-Me(6)、Call Go^Ma(9)、∀S∀(11)、DCWH(12)、DJ FX(13)"
   },
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-24T14:46:54.757Z"
+    "submittedAt": "2026-04-24T14:47:18.405Z"
   }
 }
