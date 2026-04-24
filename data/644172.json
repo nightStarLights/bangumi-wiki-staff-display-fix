@@ -1,0 +1,24 @@
+{
+  "subjectId": 644172,
+  "trackCredits": {
+    "1.9": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "時ノ宮 怜"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "作词：時ノ宮 怜(9)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-24T13:00:28.655Z"
+  }
+}
