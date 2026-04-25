@@ -1,0 +1,35 @@
+{
+  "subjectId": 644522,
+  "trackCredits": {
+    "1.8": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:39779",
+            "text": "KaNa"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8272",
+            "text": "Clean Tears"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "编曲：KaNa(8)、Clean Tears(9)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-25T11:47:19.808Z"
+  }
+}
