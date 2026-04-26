@@ -1,0 +1,278 @@
+{
+  "subjectId": 642372,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33664",
+            "text": "Laur"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33664",
+            "text": "Laur"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33664",
+            "text": "Laur"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67570",
+            "text": "うらる"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:40140",
+            "text": "棗いつき"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:48820",
+            "text": "グシミヤギヒデユキ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:48820",
+            "text": "グシミヤギヒデユキ"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67570",
+            "text": "うらる"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55759",
+            "text": "香椎モイミ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55759",
+            "text": "香椎モイミ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55759",
+            "text": "香椎モイミ"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67570",
+            "text": "うらる"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "アメリカ民謡研究会"
+            },
+            " (",
+            {
+              "ref": "p:68509",
+              "text": "Haniwa"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "アメリカ民謡研究会"
+            },
+            " (",
+            {
+              "ref": "p:68509",
+              "text": "Haniwa"
+            },
+            ")"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "アメリカ民謡研究会"
+            },
+            " (",
+            {
+              "ref": "p:68509",
+              "text": "Haniwa"
+            },
+            ")"
+          ]
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67570",
+            "text": "うらる"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25993",
+            "text": "かぼちゃ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25993",
+            "text": "かぼちゃ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25993",
+            "text": "かぼちゃ"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33350",
+            "text": "藍月なくる"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64893",
+            "text": "みゅー"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64893",
+            "text": "みゅー"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "みゅー"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:72873",
+            "text": "土井達也"
+          },
+          "inst": "Bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "三船長門"
+          },
+          "inst": "Drums"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:69899",
+            "text": "isshiki"
+          },
+          "inst": "Piano"
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "作词：Laur(1)、棗いつき(2)、香椎モイミ(3)、アメリカ民謡研究会(Haniwa)(4)、かぼちゃ(5)、藍月なくる(6)\n作曲：Laur(1)、グシミヤギヒデユキ(2)、香椎モイミ(3)、アメリカ民謡研究会(Haniwa)(4)、かぼちゃ(5)、みゅー(6)\n编曲：Laur(1)、グシミヤギヒデユキ(2)、香椎モイミ(3)、アメリカ民謡研究会(Haniwa)(4)、かぼちゃ(5)、みゅー(6)\n混音：うらる(1,2,3,4)\n乐器-Guitar：みゅー(6)\n乐器-Bass：土井達也(6)\n乐器-Drums：三船長門(6)\n乐器-Piano：isshiki(6)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-26T16:15:52.017Z"
+  }
+}
