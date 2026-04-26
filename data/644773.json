@@ -1,0 +1,90 @@
+{
+  "subjectId": 644773,
+  "trackCredits": {
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "KOREROU"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Aviy"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "flawguri"
+          }
+        }
+      ]
+    },
+    "2.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "RhukiA"
+          }
+        }
+      ]
+    },
+    "2.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ZiXS"
+          }
+        }
+      ]
+    },
+    "2.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Notrum"
+          }
+        }
+      ]
+    },
+    "2.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "jun16"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：KOREROU(1.3)、Aviy(1.9)、flawguri(1.10)、RhukiA(2.1)、ZiXS(2.3)、Notrum(2.5)、jun16(2.6)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-26T05:27:46.798Z"
+  }
+}
