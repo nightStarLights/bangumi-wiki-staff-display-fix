@@ -6,12 +6,12 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:68921",
               "text": "RYOQUCHA"
             },
             " feat. ",
             {
-              "ref": null,
+              "ref": "p:86542",
               "text": "奈良ひより"
             }
           ]
@@ -23,12 +23,17 @@
         {
           "parts": [
             {
-              "ref": null,
-              "text": "Mameyudoufu × KARUT"
+              "ref": "p:49541",
+              "text": "Mameyudoufu"
+            },
+            " × ",
+            {
+              "ref": "p:47385",
+              "text": "KARUT"
             },
             " feat. ",
             {
-              "ref": null,
+              "ref": "p:40140",
               "text": "棗いつき"
             }
           ]
@@ -40,12 +45,12 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:73995",
               "text": "ariiol"
             },
             " feat. ",
             {
-              "ref": null,
+              "ref": "p:33076",
               "text": "Kanata.N"
             }
           ]
@@ -57,12 +62,12 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:42183",
               "text": "Zekk"
             },
             " feat. ",
             {
-              "ref": null,
+              "ref": "p:69030",
               "text": "PANXI"
             }
           ]
@@ -74,12 +79,12 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:45460",
               "text": "DJ Raisei"
             },
             " feat. ",
             {
-              "ref": null,
+              "ref": "p:38601",
               "text": "hinata"
             }
           ]
@@ -89,11 +94,22 @@
     "1.6": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "litmus* × PANXI × 星名はる"
-          }
+          "parts": [
+            {
+              "ref": "p:47324",
+              "text": "litmus*"
+            },
+            " × ",
+            {
+              "ref": "p:69030",
+              "text": "PANXI"
+            },
+            " × ",
+            {
+              "ref": "p:69027",
+              "text": "星名はる"
+            }
+          ]
         }
       ]
     },
@@ -102,12 +118,12 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:64862",
               "text": "muyu"
             },
             " feat. ",
             {
-              "ref": null,
+              "ref": "p:66305",
               "text": "高城みよ"
             }
           ]
@@ -119,12 +135,12 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:9229",
               "text": "you"
             },
             " feat. ",
             {
-              "ref": null,
+              "ref": "p:16665",
               "text": "Renko"
             }
           ]
@@ -136,8 +152,8 @@
     "editor": "艺术家：RYOQUCHA feat. 奈良ひより(1)、Mameyudoufu × KARUT feat. 棗いつき(2)、ariiol feat. Kanata.N(3)、Zekk feat. PANXI(4)、DJ Raisei feat. hinata(5)、litmus* × PANXI × 星名はる(6)、muyu feat. 高城みよ(7)、you feat. Renko(8)"
   },
   "_meta": {
-    "submittedBy": "459115",
+    "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-17T11:52:19.150Z"
+    "submittedAt": "2026-04-26T18:50:46.606Z"
   }
 }
