@@ -84,9 +84,15 @@
             },
             " feat. ",
             {
-              "ref": "p:38601",
+              "ref": null,
               "text": "hinata"
-            }
+            },
+            " (",
+            {
+              "ref": "p:38601",
+              "text": "海兎"
+            },
+            ")"
           ]
         }
       ]
@@ -149,11 +155,11 @@
     }
   },
   "rawPatches": {
-    "editor": "艺术家：RYOQUCHA feat. 奈良ひより(1)、Mameyudoufu × KARUT feat. 棗いつき(2)、ariiol feat. Kanata.N(3)、Zekk feat. PANXI(4)、DJ Raisei feat. hinata(5)、litmus* × PANXI × 星名はる(6)、muyu feat. 高城みよ(7)、you feat. Renko(8)"
+    "editor": "艺术家：RYOQUCHA feat. 奈良ひより(1)、Mameyudoufu × KARUT feat. 棗いつき(2)、ariiol feat. Kanata.N(3)、Zekk feat. PANXI(4)、DJ Raisei feat. hinata (海兎)(5)、litmus* × PANXI × 星名はる(6)、muyu feat. 高城みよ(7)、you feat. Renko(8)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-26T18:50:46.606Z"
+    "submittedAt": "2026-04-26T18:51:08.535Z"
   }
 }
