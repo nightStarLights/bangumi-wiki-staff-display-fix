@@ -1,0 +1,25 @@
+{
+  "subjectId": 641384,
+  "trackCredits": {
+    "1.2": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "DIRTYY K"
+          },
+          "inst": "Bass"
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "乐器-Bass:DIRTYY K(2)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-26T18:56:24.631Z"
+  }
+}
