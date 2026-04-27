@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:92687",
             "text": "Alkome"
           }
         }
@@ -50,7 +50,7 @@
             ")",
             " feat. ",
             {
-              "ref": null,
+              "ref": "p:69037",
               "text": "July"
             }
           ]
@@ -64,6 +64,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-27T14:37:20.289Z"
+    "submittedAt": "2026-04-27T14:37:24.872Z"
   }
 }
