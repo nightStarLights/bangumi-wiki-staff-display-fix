@@ -1,0 +1,71 @@
+{
+  "subjectId": 645325,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:92689",
+            "text": "C.miler"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91873",
+            "text": "Juka_Box"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:92689",
+            "text": "C.miler"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91873",
+            "text": "Juka_Box"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91873",
+            "text": "Juka_Box"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:92689",
+            "text": "C.miler"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：C.miler(1,2)、Juka_Box(1,2,3)\n编曲：C.miler(4)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-27T16:01:12.239Z"
+  }
+}
