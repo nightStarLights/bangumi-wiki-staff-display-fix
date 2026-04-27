@@ -1,0 +1,69 @@
+{
+  "subjectId": 645316,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Alkome"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68751",
+            "text": "technoplanet"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68751",
+            "text": "technoplanet"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Kyogo Arimura"
+            },
+            " (",
+            {
+              "ref": "p:69036",
+              "text": "西本康佑"
+            },
+            ")",
+            " feat. ",
+            {
+              "ref": null,
+              "text": "July"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "vocal:  Alkome(1)、technoplanet(2,4)、Kyogo Arimura (西本康佑) feat. July (3)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-27T14:37:20.289Z"
+  }
+}
