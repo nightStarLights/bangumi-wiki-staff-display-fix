@@ -4,18 +4,17 @@
     "1.1": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:77543",
-            "text": "Zexnum"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "KUFKUF"
-          }
+          "parts": [
+            {
+              "ref": "p:77543",
+              "text": "Zexnum"
+            },
+            " & ",
+            {
+              "ref": null,
+              "text": "KUFKUF"
+            }
+          ]
         }
       ]
     },
@@ -73,7 +72,7 @@
             },
             " (",
             {
-              "ref": "p:60539",
+              "ref": null,
               "text": "崔瀚普"
             },
             ")"
@@ -83,11 +82,11 @@
     }
   },
   "rawPatches": {
-    "editor": "艺术家：Zexnum(1.1)、KUFKUF(1.1)、kioik(1.2)、eccentric(1.3)、Juggernaut.(1.4)、Redsign(1.5)、TSAR(崔瀚普)(1.6)"
+    "editor": "艺术家： Zexnum & KUFKUF(1.1)、kioik(1.2)、eccentric(1.3)、Juggernaut.(1.4)、Redsign(1.5)、TSAR(崔瀚普)(1.6)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-27T15:48:12.750Z"
+    "submittedAt": "2026-04-27T15:48:40.509Z"
   }
 }
