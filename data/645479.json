@@ -1,0 +1,39 @@
+{
+  "subjectId": 645479,
+  "trackCredits": {
+    "1.2": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "InuPenguin"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "arranger": [
+        {
+          "type": "alias_person",
+          "alias": {
+            "ref": null,
+            "text": "Sound Tourture"
+          },
+          "person": {
+            "ref": null,
+            "text": "KURORO & こーぷす"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "编曲：InuPenguin(2)、Sound Tourture (KURORO & こーぷす)(3)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-28T12:49:59.117Z"
+  }
+}
