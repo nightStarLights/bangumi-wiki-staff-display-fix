@@ -1,0 +1,70 @@
+{
+  "subjectId": 645784,
+  "trackCredits": {
+    "1.2": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "xaev"
+            },
+            " ft. ",
+            {
+              "ref": null,
+              "text": "Alyx Trick"
+            }
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Alyx Trick"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "kioik"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Shiroi-Ice"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "AXURA × 星名はる"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：xaev ft. Alyx Trick(2)、Alyx Trick(2)、kioik(4)、Shiroi-Ice(11)、AXURA × 星名はる(12)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-04-29T09:39:58.902Z"
+  }
+}
