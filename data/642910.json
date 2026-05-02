@@ -37,11 +37,18 @@
     "1.4": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Renge"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "Renge"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Ren Tanahashi"
+            },
+            ")"
+          ]
         }
       ]
     },
@@ -70,15 +77,18 @@
     "1.7": {
       "artist": [
         {
-          "type": "alias_person",
-          "alias": {
-            "ref": null,
-            "text": "illi"
-          },
-          "person": {
-            "ref": "p:69041",
-            "text": "hinayuri"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "illi"
+            },
+            " (",
+            {
+              "ref": "p:69041",
+              "text": "hinayuri"
+            },
+            ")"
+          ]
         }
       ]
     },
@@ -95,11 +105,11 @@
     }
   },
   "rawPatches": {
-    "editor": "艺术家：lawy(1)、Radianth(2)、Plutian(3)、Renge(4)、Bernis(5)、Nago(6)、illi(hinayuri)(7)、Ryunosuke Kudo(8)"
+    "editor": "艺术家：lawy(1)、Radianth(2)、Plutian(3)、Renge(Ren Tanahashi)(4)、Bernis(5)、Nago(6)、illi(hinayuri)(7)、Ryunosuke Kudo(8)"
   },
   "_meta": {
-    "submittedBy": "sakarin",
+    "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-20T18:25:41.090Z"
+    "submittedAt": "2026-05-02T17:44:10.416Z"
   }
 }
