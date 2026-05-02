@@ -1,7 +1,7 @@
 {
   "subjectId": 641161,
   "trackCredits": {
-    "1.1": {
+    "1.2": {
       "artist": [
         {
           "type": "person",
@@ -32,11 +32,11 @@
     }
   },
   "rawPatches": {
-    "editor": "艺术家：ルーヴ・リシャール(1)\n作曲：シカクイスクエア(1)\n编曲：シカクイスクエア(1)"
+    "editor": "艺术家：ルーヴ・リシャール(2)\n作曲：シカクイスクエア(2)\n编曲：シカクイスクエア(2)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-12T18:44:48.730Z"
+    "submittedAt": "2026-05-02T10:48:29.644Z"
   }
 }
