@@ -171,6 +171,13 @@
         {
           "type": "person",
           "person": {
+            "ref": "p:69937",
+            "text": "denshino"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
             "ref": null,
             "text": "ragia"
           }
@@ -179,11 +186,11 @@
     }
   },
   "rawPatches": {
-    "editor": "艺术家：TaKo(3)、Matitann(4)、KWR(5)、1K3(6,14)、temura(8)、EMΦkurage(9)、40k1_(10)、mahziel(11)、PPS(12)、Sho_yateki(13)、SHITA(15)、ウスライ(16)、超絶最強美少女(17)、ΑΩ(18)、ragia(19)"
+    "editor": "艺术家：TaKo(3)、Matitann(4)、KWR(5)、1K3(6,14)、temura(8)、EMΦkurage(9)、40k1_(10)、mahziel(11)、PPS(12)、Sho_yateki(13)、SHITA(15)、ウスライ(16)、超絶最強美少女(17)、ΑΩ(18)、denshino(19)/ragia(19)"
   },
   "_meta": {
-    "submittedBy": "459115",
+    "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-05-02T07:07:54.606Z"
+    "submittedAt": "2026-05-02T10:56:10.870Z"
   }
 }
