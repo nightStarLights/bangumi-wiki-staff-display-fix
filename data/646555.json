@@ -1,0 +1,196 @@
+{
+  "subjectId": 646555,
+  "trackCredits": {
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:35280",
+            "text": "咲良ゆの"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:34919",
+            "text": "ACTRock"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:34919",
+            "text": "ACTRock"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:34919",
+            "text": "ACTRock"
+          }
+        }
+      ]
+    },
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:23351",
+            "text": "長尾ちえみ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67847",
+            "text": "RD-Sounds"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67847",
+            "text": "RD-Sounds"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:23351",
+            "text": "長尾ちえみ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:29206",
+            "text": "SPACELECTRO"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:29206",
+            "text": "SPACELECTRO"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:23351",
+            "text": "長尾ちえみ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73678",
+            "text": "NEKOZUME"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73678",
+            "text": "NEKOZUME"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:23351",
+            "text": "長尾ちえみ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10462",
+            "text": "DJ Command"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10462",
+            "text": "DJ Command"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7259",
+            "text": "隣人"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7259",
+            "text": "隣人"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7259",
+            "text": "隣人"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：咲良ゆの(5)\n作词：長尾ちえみ(1,3,4,6)、隣人(2)、ACTRock(5)\n作曲：RD-Sounds(1)、隣人(2)、SPACELECTRO(3)、NEKOZUME(4)、ACTRock(5)、DJ Command(6)\n编曲：RD-Sounds(1)、隣人(2)、SPACELECTRO(3)、NEKOZUME(4)、ACTRock(5)、DJ Command(6)"
+  },
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-05-02T16:24:03.847Z"
+  }
+}
