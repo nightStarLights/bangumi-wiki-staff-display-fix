@@ -33,14 +33,10 @@
     "1.2": {
       "artist": [
         {
-          "type": "alias_person",
-          "alias": {
+          "type": "person",
+          "person": {
             "ref": null,
             "text": "ChumuNote"
-          },
-          "person": {
-            "ref": "p:66183",
-            "text": "紡音れい"
           }
         }
       ],
@@ -106,7 +102,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:91765",
             "text": "えん"
           }
         }
@@ -160,15 +156,15 @@
       ],
       "mixing": [
         {
-          "type": "alias_person",
-          "alias": {
-            "ref": null,
-            "text": "Dios/シグナルP"
-          },
-          "person": {
-            "ref": "p:9063",
-            "text": "荒井洋明"
-          }
+          "parts": [
+            "Dios/シグナルP",
+            " (",
+            {
+              "ref": null,
+              "text": "荒井洋明"
+            },
+            ")"
+          ]
         }
       ]
     },
@@ -177,7 +173,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:91764",
             "text": "尾手またび"
           }
         }
@@ -186,7 +182,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:91762",
             "text": "449"
           }
         }
@@ -195,7 +191,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:91762",
             "text": "449"
           }
         }
@@ -261,11 +257,11 @@
     }
   },
   "rawPatches": {
-    "editor": "艺术家：茨むあん(1)、ChumuNote(紡音れい)(2)、つぐ(3)、えん(4)、みそらみみ(5)、尾手またび(6)、咲良ゆの(7)、凪乃ましろ(8)\n作词：春馬崚木(3)\n作曲：yowanecity(1)、Mused(2)、Connexio(3)、Rafutsuri(4)、梔(5)、449(6)、Totz(7)、savogy(8)\n编曲：yowanecity(1)、Mused(2)、Connexio(3)、Rafutsuri(4)、梔(5)、449(6)、Totz(7)、savogy(8)\n混音：《Dios/シグナルP》(荒井洋明)(5)"
+    "editor": "艺术家：茨むあん(1)、ChumuNote(2)、つぐ(3)、えん(4)、みそらみみ(5)、尾手またび(6)、咲良ゆの(7)、凪乃ましろ(8)\n作词：春馬崚木(3)\n作曲：yowanecity(1)、Mused(2)、Connexio(3)、Rafutsuri(4)、梔(5)、449(6)、Totz(7)、savogy(8)\n编曲：yowanecity(1)、Mused(2)、Connexio(3)、Rafutsuri(4)、梔(5)、449(6)、Totz(7)、savogy(8)\n混音：《Dios/シグナルP》(荒井洋明)(5)"
   },
   "_meta": {
-    "submittedBy": "sakarin",
+    "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-10T13:24:46.200Z"
+    "submittedAt": "2026-05-02T17:25:21.191Z"
   }
 }
