@@ -1,0 +1,145 @@
+{
+  "subjectId": 646546,
+  "trackCredits": {
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65404",
+            "text": "みそらみみ"
+          }
+        }
+      ],
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:92822",
+            "text": "片栗ねぇね"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8065",
+            "text": "狛茉璃奈"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:63341",
+            "text": "恋摘もなか"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65404",
+            "text": "みそらみみ"
+          }
+        }
+      ],
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:92822",
+            "text": "片栗ねぇね"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65404",
+            "text": "みそらみみ"
+          }
+        }
+      ],
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:92822",
+            "text": "片栗ねぇね"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8065",
+            "text": "狛茉璃奈"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8065",
+            "text": "狛茉璃奈"
+          }
+        }
+      ],
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8065",
+            "text": "狛茉璃奈"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:63341",
+            "text": "恋摘もなか"
+          }
+        }
+      ],
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:63341",
+            "text": "恋摘もなか"
+          }
+        }
+      ]
+    },
+    "1.1": {
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:92822",
+            "text": "片栗ねぇね"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：みそらみみ(2,3,5)、狛茉璃奈(4)、恋摘もなか(6)\n声乐：片栗ねぇね(1,2,3,5)、狛茉璃奈(2,4,5)、恋摘もなか(2,6)"
+  },
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-05-02T15:41:46.207Z"
+  }
+}
