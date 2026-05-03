@@ -28,7 +28,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:92891",
             "text": "Balalaika"
           }
         }
@@ -52,6 +52,6 @@
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-15T11:28:28.954Z"
+    "submittedAt": "2026-05-03T12:51:24.892Z"
   }
 }
