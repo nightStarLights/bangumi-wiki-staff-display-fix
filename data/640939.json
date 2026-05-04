@@ -17,7 +17,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:92961",
             "text": "葉つつゆ"
           }
         }
@@ -46,8 +46,8 @@
     "editor": "艺术家：q'yul(2)、葉つつゆ(4)、ともしょう(6)、アメミヤチカ(6)"
   },
   "_meta": {
-    "submittedBy": "sakarin",
+    "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-13T14:48:53.893Z"
+    "submittedAt": "2026-05-04T15:29:31.753Z"
   }
 }
