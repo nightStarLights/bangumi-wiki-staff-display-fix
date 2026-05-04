@@ -13,7 +13,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:68400",
             "text": "Fty"
           }
         }
@@ -22,7 +22,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:68400",
             "text": "Fty"
           }
         }
@@ -38,7 +38,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:68400",
             "text": "Fty"
           }
         },
@@ -84,7 +84,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:73716",
             "text": "H.J.Freaks"
           },
           "inst": "bass"
@@ -92,7 +92,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:35341",
             "text": "seibin"
           },
           "inst": "guitar"
@@ -388,6 +388,6 @@
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-05-04T11:13:58.454Z"
+    "submittedAt": "2026-05-04T11:14:28.761Z"
   }
 }
