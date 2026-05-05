@@ -6,35 +6,41 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:66176",
             "text": "星宮とと"
           }
         }
       ],
       "composer": [
         {
-          "type": "alias_person",
-          "alias": {
-            "ref": null,
-            "text": "ハヤシベトモノリ"
-          },
-          "person": {
-            "ref": null,
-            "text": "Plus-Tech Squeeze Box"
-          }
+          "parts": [
+            {
+              "ref": "p:51381",
+              "text": "ハヤシベトモノリ"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Plus-Tech Squeeze Box"
+            },
+            ")"
+          ]
         }
       ],
       "arranger": [
         {
-          "type": "alias_person",
-          "alias": {
-            "ref": null,
-            "text": "ハヤシベトモノリ"
-          },
-          "person": {
-            "ref": null,
-            "text": "Plus-Tech Squeeze Box"
-          }
+          "parts": [
+            {
+              "ref": "p:51381",
+              "text": "ハヤシベトモノリ"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Plus-Tech Squeeze Box"
+            },
+            ")"
+          ]
         }
       ]
     },
@@ -43,7 +49,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:66185",
             "text": "yosumi"
           }
         }
@@ -52,7 +58,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:71275",
             "text": "gaburyu"
           }
         }
@@ -61,7 +67,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:71275",
             "text": "gaburyu"
           }
         }
@@ -72,7 +78,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:66189",
             "text": "メトロミュー"
           }
         }
@@ -81,7 +87,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:83291",
             "text": "しおばにら"
           }
         }
@@ -90,7 +96,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:83291",
             "text": "しおばにら"
           }
         }
@@ -110,7 +116,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:66528",
             "text": "Synthion"
           }
         }
@@ -119,7 +125,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:66528",
             "text": "Synthion"
           }
         }
@@ -130,7 +136,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:81531",
             "text": "綿菓子かんろ"
           }
         }
@@ -159,7 +165,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:82324",
             "text": "敷嶋てとら"
           }
         }
@@ -168,7 +174,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:71746",
             "text": "KAIRUI"
           }
         }
@@ -177,7 +183,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:71746",
             "text": "KAIRUI"
           }
         }
@@ -188,7 +194,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:71853",
             "text": "パン野実々美"
           }
         }
@@ -197,14 +203,14 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:77598",
             "text": "Dotnoi"
           }
         },
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:55204",
             "text": "Tom-i"
           }
         }
@@ -213,14 +219,14 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:77598",
             "text": "Dotnoi"
           }
         },
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:55204",
             "text": "Tom-i"
           }
         }
@@ -231,7 +237,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:77595",
             "text": "凛々咲"
           }
         }
@@ -240,7 +246,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:65570",
             "text": "Purukichi"
           }
         }
@@ -249,7 +255,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:65570",
             "text": "Purukichi"
           }
         }
@@ -260,7 +266,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:7253",
             "text": "ななひら"
           }
         }
@@ -347,7 +353,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:65404",
             "text": "みそらみみ"
           }
         }
@@ -356,7 +362,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:81248",
             "text": "梔"
           }
         }
@@ -365,7 +371,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:81248",
             "text": "梔"
           }
         }
@@ -376,7 +382,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:83275",
             "text": "N"
           }
         }
@@ -385,7 +391,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:83291",
             "text": "しおばにら"
           }
         }
@@ -394,19 +400,41 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:83291",
             "text": "しおばにら"
+          }
+        }
+      ]
+    },
+    "2.1": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10164",
+            "text": "黒魔"
+          }
+        }
+      ]
+    },
+    "2.2": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Bowne"
           }
         }
       ]
     }
   },
   "rawPatches": {
-    "editor": "艺术家：星宮とと(1)、yosumi(2)、メトロミュー(3)、猫 The Sappiness(4)、綿菓子かんろ(5)、敷嶋てとら(6)、パン野実々美(7)、凛々咲(8)、ななひら(9)、終ワ子(10)、薙(11)、みそらみみ(12)、N(13)\n作曲：ハヤシベトモノリ (Plus-Tech Squeeze Box)(1)、gaburyu(2)、しおばにら(3,13)、Synthion(4)、mugim(5)、KAIRUI(6)、Dotnoi(7)、Tom-i(7)、Purukichi(8)、桜ひで丸(9)、Chuzuri(10)、ACORi(11)、梔(12)\n编曲：ハヤシベトモノリ (Plus-Tech Squeeze Box)(1)、gaburyu(2)、しおばにら(3,13)、Synthion(4)、mugim(5)、KAIRUI(6)、Dotnoi(7)、Tom-i(7)、Purukichi(8)、桜ひで丸(9)、Chuzuri(10)、ACORi(11)、梔(12)"
+    "editor": "艺术家：星宮とと(1.1)、yosumi(1.2)、メトロミュー(1.3)、《猫 The Sappiness》(1.4)、綿菓子かんろ(1.5)、敷嶋てとら(1.6)、パン野実々美(1.7)、凛々咲(1.8)、ななひら(1.9)、終ワ子(1.10)、薙(1.11)、みそらみみ(1.12)、N(1.13)\n作曲：ハヤシベトモノリ (Plus-Tech Squeeze Box)(1.1)、gaburyu(1.2)、しおばにら(1.3,1.13)、Synthion(1.4)、mugim(1.5)、KAIRUI(1.6)、Dotnoi(1.7)、Tom-i(1.7)、Purukichi(1.8)、桜ひで丸(1.9)、Chuzuri(1.10)、ACORi(1.11)、梔(1.12)\n编曲：ハヤシベトモノリ (Plus-Tech Squeeze Box)(1.1)、gaburyu(1.2)、しおばにら(1.3,1.13)、Synthion(1.4)、mugim(1.5)、KAIRUI(1.6)、Dotnoi(1.7)、Tom-i(1.7)、Purukichi(1.8)、桜ひで丸(1.9)、Chuzuri(1.10)、ACORi(1.11)、梔(1.12)、黒魔(2.1)、Bowne(2.2)"
   },
   "_meta": {
-    "submittedBy": "809907",
+    "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-25T09:03:26.550Z"
+    "submittedAt": "2026-05-05T16:31:39.016Z"
   }
 }
