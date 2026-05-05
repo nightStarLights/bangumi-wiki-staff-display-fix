@@ -1,0 +1,175 @@
+{
+  "subjectId": 640695,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:54339",
+            "text": "春野"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:54339",
+            "text": "春野"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:54339",
+            "text": "春野"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "NNZN"
+            },
+            " (",
+            {
+              "ref": "p:79648",
+              "text": "南前修司"
+            },
+            ")"
+          ]
+        }
+      ],
+      "mixing": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "NNZN"
+            },
+            " (",
+            {
+              "ref": "p:79648",
+              "text": "南前修司"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91768",
+            "text": "自由ヶ丘"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91768",
+            "text": "自由ヶ丘"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91768",
+            "text": "自由ヶ丘"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "NNZN"
+            },
+            " (",
+            {
+              "ref": "p:79648",
+              "text": "南前修司"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91767",
+            "text": "ruviee"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91767",
+            "text": "ruviee"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91767",
+            "text": "ruviee"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82192",
+            "text": "妃舞ゆにこ"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "mixing": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "NNZN"
+            },
+            " (",
+            {
+              "ref": "p:79648",
+              "text": "南前修司"
+            },
+            ")"
+          ]
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "作词：春野(1)、自由ヶ丘(2)、ruviee(3)\n作曲：春野(1)、自由ヶ丘(2)、ruviee(3)\n编曲：春野(1)、自由ヶ丘(2)、ruviee(3)\n录音：NNZN(南前修司)(1)\n混音：NNZN(南前修司)(1,2,4)、妃舞ゆにこ(3)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-05-05T17:21:24.911Z"
+  }
+}
