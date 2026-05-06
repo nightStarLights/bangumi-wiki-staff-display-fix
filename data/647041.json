@@ -12,28 +12,6 @@
         }
       ]
     },
-    "1.2": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:83614",
-            "text": "でんの子P"
-          }
-        }
-      ]
-    },
-    "1.3": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:73208",
-            "text": "溝野あわ"
-          }
-        }
-      ]
-    },
     "1.4": {
       "artist": [
         {
@@ -45,17 +23,6 @@
         }
       ]
     },
-    "1.5": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:72954",
-            "text": "kyiku"
-          }
-        }
-      ]
-    },
     "1.6": {
       "artist": [
         {
@@ -63,39 +30,6 @@
           "person": {
             "ref": null,
             "text": "ポッポβ"
-          }
-        }
-      ]
-    },
-    "1.7": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:58737",
-            "text": "また切ない世界を生きる"
-          }
-        }
-      ]
-    },
-    "1.8": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:74443",
-            "text": "ごめんなさいが言えなくて"
-          }
-        }
-      ]
-    },
-    "1.9": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:75897",
-            "text": "せきこみごはん"
           }
         }
       ]
@@ -113,11 +47,11 @@
     }
   },
   "rawPatches": {
-    "editor": "艺术家：かかこ(1)、でんの子P(2)、溝野あわ(3)、ひなた春花(4)、kyiku(5)、ポッポβ(6)、また切ない世界を生きる(7)、ごめんなさいが言えなくて(8)、せきこみごはん(9)、merirorec(10)"
+    "editor": "艺术家：かかこ(1)、ひなた春花(4)、ポッポβ(6)、merirorec(10)"
   },
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-05-06T04:38:15.839Z"
+    "submittedAt": "2026-05-06T04:38:19.568Z"
   }
 }
