@@ -1,0 +1,67 @@
+{
+  "subjectId": 647039,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:77598",
+            "text": "Dotnoi"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Tom-i艺术家：Dotnoi、Tom-i"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:77598",
+            "text": "Dotnoi"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55204",
+            "text": "Tom-i"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Kur@ra"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:77598",
+            "text": "Dotnoi"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：Dotnoi(1,2,3)、《Tom-i艺术家：Dotnoi、Tom-i》(1)、Tom-i(2)、Kur@ra(2)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-05-06T04:31:10.658Z"
+  }
+}
