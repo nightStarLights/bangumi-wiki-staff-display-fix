@@ -13,8 +13,8 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
-            "text": "Tom-i艺术家：Dotnoi、Tom-i"
+            "ref": "p:55204",
+            "text": "Tom-i"
           }
         }
       ]
@@ -57,11 +57,11 @@
     }
   },
   "rawPatches": {
-    "editor": "艺术家：Dotnoi(1,2,3)、《Tom-i艺术家：Dotnoi、Tom-i》(1)、Tom-i(2)、Kur@ra(2)"
+    "editor": "艺术家：Dotnoi(1,2,3)、Tom-i(1,2)、Kur@ra(2)"
   },
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-05-06T04:31:10.658Z"
+    "submittedAt": "2026-05-06T10:51:21.859Z"
   }
 }
