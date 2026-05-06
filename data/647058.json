@@ -1,0 +1,165 @@
+{
+  "subjectId": 647058,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93032",
+            "text": "newfn"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93032",
+            "text": "newfn"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93032",
+            "text": "newfn"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93032",
+            "text": "newfn"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93033",
+            "text": "葉山結"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93033",
+            "text": "葉山結"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93033",
+            "text": "葉山結"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93033",
+            "text": "葉山結"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93035",
+            "text": "柑田夏芽"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93035",
+            "text": "柑田夏芽"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93035",
+            "text": "柑田夏芽"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93035",
+            "text": "柑田夏芽"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93034",
+            "text": "丹下風"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93034",
+            "text": "丹下風"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93034",
+            "text": "丹下風"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93034",
+            "text": "丹下風"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：newfn(1)、葉山結(2)、柑田夏芽(3)、丹下風(4)\n作词：newfn(1)、葉山結(2)、柑田夏芽(3)、丹下風(4)\n作曲：newfn(1)、葉山結(2)、柑田夏芽(3)、丹下風(4)\n编曲：newfn(1)、葉山結(2)、柑田夏芽(3)、丹下風(4)"
+  },
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-05-06T06:19:32.352Z"
+  }
+}
