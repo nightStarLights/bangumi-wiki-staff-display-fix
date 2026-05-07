@@ -1,0 +1,62 @@
+{
+  "subjectId": 647551,
+  "trackCredits": {
+    "1.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83763",
+            "text": "MoAE:."
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83763",
+            "text": "MoAE:."
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93069",
+            "text": "manate"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93069",
+            "text": "manate"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93069",
+            "text": "manate"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "作曲：MoAE:.(1)、manate(2)\n编曲：MoAE:.(1)、manate(2)\n混音：manate(1)"
+  },
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-05-07T11:52:35.570Z"
+  }
+}
