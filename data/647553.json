@@ -278,25 +278,14 @@
           }
         }
       ]
-    },
-    "1.1": {
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:93068",
-            "text": "Memme"
-          }
-        }
-      ]
     }
   },
   "rawPatches": {
-    "editor": "作词：임수호(2)、웅킴(2)、N!ko(2)、Muzie(3)、X.Q(3)、Bull$EyE(4)、Boran(4)、Aaron.H(4)、Dr.JO(5)、박문치(6)、달총(6)、안신애(6)\n作曲：Memme(1)、임수호(2)、웅킴(2)、Muzie(3)、Spacecowboy(3)、X.Q(3)、Jade(3)、Bull$EyE(4)、Boran(4)、Aaron.H(4)、Dr.JO(5)、박문치(6)、달총(6)、안신애(6)\n编曲：임수호(2)、웅킴(2)、Spacecowboy(3)、Jade(3)、Bull$EyE(4)、Boran(4)、Aaron.H(4)、Dr.JO(5)、박문치(6)"
+    "editor": "作词：임수호(2)、웅킴(2)、N!ko(2)、Muzie(3)、X.Q(3)、Bull$EyE(4)、Boran(4)、Aaron.H(4)、Dr.JO(5)、박문치(6)、달총(6)、안신애(6)\n作曲：임수호(2)、웅킴(2)、Muzie(3)、Spacecowboy(3)、X.Q(3)、Jade(3)、Bull$EyE(4)、Boran(4)、Aaron.H(4)、Dr.JO(5)、박문치(6)、달총(6)、안신애(6)\n编曲：임수호(2)、웅킴(2)、Spacecowboy(3)、Jade(3)、Bull$EyE(4)、Boran(4)、Aaron.H(4)、Dr.JO(5)、박문치(6)"
   },
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-05-07T11:58:34.561Z"
+    "submittedAt": "2026-05-07T11:58:37.608Z"
   }
 }
