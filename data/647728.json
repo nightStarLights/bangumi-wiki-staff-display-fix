@@ -4,28 +4,45 @@
     "1.1": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "星川陽乃 starring 妃苺"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "宮原晶 starring 深冬"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "星川陽乃"
+            },
+            " starring ",
+            {
+              "ref": "p:66175",
+              "text": "妃苺"
+            }
+          ]
         },
         {
           "parts": [
             {
               "ref": null,
-              "text": "白石柚香 starring 笑兵衛"
+              "text": "宮原晶"
+            },
+            " starring ",
+            {
+              "ref": "p:40144",
+              "text": "深冬"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "白石柚香"
+            },
+            " starring ",
+            {
+              "ref": null,
+              "text": "笑兵衛"
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:22923",
               "text": "涼貴涼"
             },
             ")"
@@ -35,22 +52,33 @@
           "parts": [
             {
               "ref": null,
-              "text": "日下部蒔音 starring ricono"
+              "text": "日下部蒔音"
+            },
+            " starring ",
+            {
+              "ref": null,
+              "text": "ricono"
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:15752",
               "text": "水瀬ましろ"
             },
             ")"
           ]
         },
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "諸富智紗姫 starring 藍月なくる"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "諸富智紗姫"
+            },
+            " starring ",
+            {
+              "ref": "p:33350",
+              "text": "藍月なくる"
+            }
+          ]
         },
         {
           "parts": [
@@ -63,36 +91,62 @@
           ]
         },
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "晶の母(CV.まりあ (榊原ゆい))"
-          }
+          "parts": [
+            "晶の母(CV.",
+            {
+              "ref": null,
+              "text": "まりあ"
+            },
+            " (",
+            {
+              "ref": "p:4916",
+              "text": "榊原ゆい"
+            },
+            "))"
+          ]
         }
       ]
     },
     "1.2": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "星川陽乃 starring 妃苺"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "星川陽乃"
+            },
+            " starring ",
+            {
+              "ref": "p:66175",
+              "text": "妃苺"
+            }
+          ]
         },
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "宮原晶 starring 深冬"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "宮原晶"
+            },
+            " starring ",
+            {
+              "ref": "p:40144",
+              "text": "深冬"
+            }
+          ]
         },
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "諸富智紗姫 starring 藍月なくる"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "諸富智紗姫"
+            },
+            " starring ",
+            {
+              "ref": "p:33350",
+              "text": "藍月なくる"
+            }
+          ]
         }
       ],
       "lyricist": [
@@ -126,8 +180,8 @@
     "editor": "艺术家：星川陽乃 starring 妃苺(1,2)、宮原晶 starring 深冬(1,2)、白石柚香 starring 笑兵衛 (涼貴涼)(1)、日下部蒔音 starring ricono (水瀬ましろ)(1)、諸富智紗姫 starring 藍月なくる(1,2)、朝見珠凪(CV.IN9)(1)、晶の母(CV.まりあ (榊原ゆい))(1)\n作词：shotaro ichinose(2)、えびかれー伯爵(2)\n作曲：えびかれー伯爵(2)"
   },
   "_meta": {
-    "submittedBy": "459115",
+    "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-05-08T07:13:11.502Z"
+    "submittedAt": "2026-05-08T10:43:51.967Z"
   }
 }
