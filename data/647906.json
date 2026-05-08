@@ -52,12 +52,23 @@
       ]
     }
   },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "灵社幻声"
+        }
+      }
+    ]
+  },
   "rawPatches": {
-    "editor": "艺术家：D.O.R.I & Dreamira(1)、snxns(2)、Starry Major(3)、Northad(4)"
+    "editor": "厂牌: 灵社幻声\n\n艺术家：D.O.R.I & Dreamira(1)、snxns(2)、Starry Major(3)、Northad(4)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-05-08T12:31:55.653Z"
+    "submittedAt": "2026-05-08T18:22:18.487Z"
   }
 }
