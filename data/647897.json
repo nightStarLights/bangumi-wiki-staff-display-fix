@@ -37,18 +37,17 @@
     "1.4": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Northad"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:88312",
-            "text": "darkxixin"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "Northad"
+            },
+            " feat. ",
+            {
+              "ref": "p:88312",
+              "text": "darkxixin"
+            }
+          ]
         }
       ],
       "lyricist": [
@@ -63,11 +62,11 @@
     }
   },
   "rawPatches": {
-    "editor": "艺术家：JINGYAN(1)、CaDeR(2)、Starry Major(3)、Northad(4)、darkxixin(4)\n作词：啡茶Lftee(4)"
+    "editor": "艺术家：JINGYAN(1)、CaDeR(2)、Starry Major(3)、Northad feat.darkxixin(4)\n作词：啡茶Lftee(4)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-05-08T12:19:16.470Z"
+    "submittedAt": "2026-05-08T12:20:10.149Z"
   }
 }
