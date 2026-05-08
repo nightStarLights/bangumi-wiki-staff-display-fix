@@ -4,18 +4,17 @@
     "1.1": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "D.O.R.I"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Dreamira"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "D.O.R.I"
+            },
+            " & ",
+            {
+              "ref": null,
+              "text": "Dreamira"
+            }
+          ]
         }
       ]
     },
@@ -54,11 +53,11 @@
     }
   },
   "rawPatches": {
-    "editor": "艺术家：D.O.R.I(1)、Dreamira(1)、snxns(2)、Starry Major(3)、Northad(4)"
+    "editor": "艺术家：D.O.R.I & Dreamira(1)、snxns(2)、Starry Major(3)、Northad(4)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-05-08T12:30:55.029Z"
+    "submittedAt": "2026-05-08T12:31:55.653Z"
   }
 }
