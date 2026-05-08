@@ -1,72 +1,6 @@
 {
   "subjectId": 648037,
   "trackCredits": {
-    "1.1": {
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:59104",
-            "text": "原口沙輔"
-          }
-        }
-      ]
-    },
-    "1.9": {
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:59104",
-            "text": "原口沙輔"
-          }
-        }
-      ]
-    },
-    "1.2": {
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:71339",
-            "text": "Namitape"
-          }
-        }
-      ]
-    },
-    "1.3": {
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:18444",
-            "text": "大沢伸一"
-          }
-        }
-      ]
-    },
-    "1.4": {
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:71335",
-            "text": "すずめのめ"
-          }
-        }
-      ]
-    },
-    "1.5": {
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:84015",
-            "text": "零進法"
-          }
-        }
-      ]
-    },
     "1.6": {
       "composer": [
         {
@@ -89,17 +23,6 @@
         }
       ]
     },
-    "1.8": {
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:64862",
-            "text": "muyu"
-          }
-        }
-      ]
-    },
     "1.10": {
       "composer": [
         {
@@ -113,11 +36,11 @@
     }
   },
   "rawPatches": {
-    "editor": "作曲：原口沙輔(1,9)、Namitape(2)、大沢伸一(3)、すずめのめ(4)、零進法(5)、Telematic Visions(6)、idrop(7)、muyu(8)、POPFACES(10)"
+    "editor": "作曲：Telematic Visions(6)、idrop(7)、POPFACES(10)"
   },
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-05-08T14:30:19.061Z"
+    "submittedAt": "2026-05-08T14:30:21.195Z"
   }
 }
