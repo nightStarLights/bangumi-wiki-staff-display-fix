@@ -1,0 +1,91 @@
+{
+  "subjectId": 647696,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Jessica"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84360",
+            "text": "Fellsius"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75750",
+            "text": "world's end girlfriend"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75750",
+            "text": "world's end girlfriend"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:75750",
+            "text": "world's end girlfriend"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:75750",
+            "text": "world's end girlfriend"
+          },
+          "inst": "Bass Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:75750",
+            "text": "world's end girlfriend"
+          },
+          "inst": "Synthesizer"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:84360",
+            "text": "Fellsius"
+          },
+          "inst": "Drums"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:75750",
+            "text": "world's end girlfriend"
+          },
+          "inst": "Drums"
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：Jessica(1)、Fellsius(1)\n作曲：world's end girlfriend(1)\n编曲：world's end girlfriend(1)\n乐器-Guitar：world's end girlfriend(1)\n乐器-Bass Guitar：world's end girlfriend(1)\n乐器-Synthesizer：world's end girlfriend(1)\n乐器-Drums：Fellsius(1)、world's end girlfriend(1)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-05-08T04:18:17.123Z"
+  }
+}
