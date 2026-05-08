@@ -1,0 +1,133 @@
+{
+  "subjectId": 647728,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "星川陽乃 starring 妃苺"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "宮原晶 starring 深冬"
+          }
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "白石柚香 starring 笑兵衛"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "涼貴涼"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "日下部蒔音 starring ricono"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "水瀬ましろ"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "諸富智紗姫 starring 藍月なくる"
+          }
+        },
+        {
+          "parts": [
+            "朝見珠凪(CV.",
+            {
+              "ref": null,
+              "text": "IN9"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "晶の母(CV.まりあ (榊原ゆい))"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "星川陽乃 starring 妃苺"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "宮原晶 starring 深冬"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "諸富智紗姫 starring 藍月なくる"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65753",
+            "text": "shotaro ichinose"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33526",
+            "text": "えびかれー伯爵"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33526",
+            "text": "えびかれー伯爵"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：星川陽乃 starring 妃苺(1,2)、宮原晶 starring 深冬(1,2)、白石柚香 starring 笑兵衛 (涼貴涼)(1)、日下部蒔音 starring ricono (水瀬ましろ)(1)、諸富智紗姫 starring 藍月なくる(1,2)、朝見珠凪(CV.IN9)(1)、晶の母(CV.まりあ (榊原ゆい))(1)\n作词：shotaro ichinose(2)、えびかれー伯爵(2)\n作曲：えびかれー伯爵(2)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-05-08T07:13:11.502Z"
+  }
+}
