@@ -1,0 +1,73 @@
+{
+  "subjectId": 647897,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82913",
+            "text": "JINGYAN"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "CaDeR"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Starry Major"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Northad"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:88312",
+            "text": "darkxixin"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "啡茶Lftee"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：JINGYAN(1)、CaDeR(2)、Starry Major(3)、Northad(4)、darkxixin(4)\n作词：啡茶Lftee(4)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-05-08T12:19:16.470Z"
+  }
+}
