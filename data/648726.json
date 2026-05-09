@@ -52,14 +52,16 @@
           }
         }
       ],
-      "mixing": [
+      "custom-人声混音": [
         {
           "type": "person",
           "person": {
             "ref": "p:75749",
             "text": "utumiyqcom"
           }
-        },
+        }
+      ],
+      "custom-曲目混音": [
         {
           "type": "person",
           "person": {
@@ -111,7 +113,7 @@
           }
         }
       ],
-      "mixing": [
+      "custom-人声混音": [
         {
           "type": "person",
           "person": {
@@ -163,14 +165,16 @@
           }
         }
       ],
-      "mixing": [
+      "custom-人声混音": [
         {
           "type": "person",
           "person": {
             "ref": "p:75749",
             "text": "utumiyqcom"
           }
-        },
+        }
+      ],
+      "custom-曲目混音": [
         {
           "type": "person",
           "person": {
@@ -222,7 +226,7 @@
           }
         }
       ],
-      "mixing": [
+      "custom-人声混音": [
         {
           "type": "person",
           "person": {
@@ -274,7 +278,7 @@
           }
         }
       ],
-      "mixing": [
+      "custom-人声混音": [
         {
           "type": "person",
           "person": {
@@ -325,12 +329,59 @@
       ]
     }
   },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:75748",
+          "text": "nyamura"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:74336",
+          "text": "吉良武男"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ビビちゃん"
+        }
+      }
+    ],
+    "custom-设计": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Binn"
+        }
+      }
+    ],
+    "custom-XFD Movie": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "naoya"
+        }
+      }
+    ]
+  },
   "rawPatches": {
-    "editor": "艺术家：青木葉(2)\n作词：nyamura(2,3,4,5,7)\n作曲：KAIRUI(1,3,6)、nyamura(2,3,4,5,7)、Haruhi(2,4)、takaryu(5)、なきそ(7)\n编曲：KAIRUI(1,3,6)、nyamura(2,3,4,5,7)、Haruhi(2,4)、takaryu(5)、なきそ(7)\n混音：utumiyqcom(2,3,4,5)、HASEBE EBI(2,4)、えあ。(7)"
+    "editor": "Producer : nyamura\nMastering : 吉良武男\nillust : ビビちゃん\ncustom-设计: Binn\ncustom-XFD Movie: naoya\n\n艺术家：青木葉(2)\n作词：nyamura(2,3,4,5,7)\n作曲：KAIRUI(1,3,6)、nyamura(2,3,4,5,7)、Haruhi(2,4)、takaryu(5)、なきそ(7)\n编曲：KAIRUI(1,3,6)、nyamura(2,3,4,5,7)、Haruhi(2,4)、takaryu(5)、なきそ(7)\ncustom-人声混音：utumiyqcom(2,3,4,5)、えあ。(7)\ncustom-曲目混音: HASEBE EBI(2,4)"
   },
   "_meta": {
-    "submittedBy": "809907",
+    "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-05-09T12:29:54.540Z"
+    "submittedAt": "2026-05-09T12:40:57.214Z"
   }
 }
