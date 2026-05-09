@@ -1,0 +1,241 @@
+{
+  "subjectId": 648809,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9564",
+            "text": "ピノキオピー"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9564",
+            "text": "ピノキオピー"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9564",
+            "text": "ピノキオピー"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:51182",
+            "text": "x0o0x_"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:51182",
+            "text": "x0o0x_"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:51182",
+            "text": "x0o0x_"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Deu"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Deu"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Deu"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hajime Taguchi"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7592",
+            "text": "じん"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7592",
+            "text": "じん"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81530",
+            "text": "Talich Helfen"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7592",
+            "text": "じん"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56914",
+            "text": "剣持刀也"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Kohei Ishii"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Kohei Ishii"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "文愛実"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "文愛実"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:40525",
+            "text": "鶴﨑輝一"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9355",
+            "text": "やしきん"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9355",
+            "text": "やしきん"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9355",
+            "text": "やしきん"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10704",
+            "text": "山下洋介"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "作词：ピノキオピー(1)、x0o0x_(2)、Deu(3)、じん(4)、剣持刀也(5)、文愛実(6)、やしきん(8)\n作曲：ピノキオピー(1)、x0o0x_(2)、Deu(3)、じん(4)、Kohei Ishii(5)、文愛実(6)、やしきん(8)\n编曲：ピノキオピー(1)、x0o0x_(2)、Deu(3)、Hajime Taguchi(3)、Talich Helfen(4)、じん(4)、Kohei Ishii(5)、鶴﨑輝一(6)、山下洋介(7)、やしきん(8)"
+  },
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-05-09T14:43:15.007Z"
+  }
+}
