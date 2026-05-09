@@ -1,0 +1,25 @@
+{
+  "subjectId": 393516,
+  "trackCredits": {
+    "1.16": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "北澤哲"
+          },
+          "inst": "Bass"
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "乐器-Bass:北澤哲(16)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-05-09T07:49:56.715Z"
+  }
+}
