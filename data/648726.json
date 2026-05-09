@@ -1,0 +1,336 @@
+{
+  "subjectId": 648726,
+  "trackCredits": {
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "青木葉"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75748",
+            "text": "nyamura"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75748",
+            "text": "nyamura"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Haruhi"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75748",
+            "text": "nyamura"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Haruhi"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75749",
+            "text": "utumiyqcom"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:92108",
+            "text": "HASEBE EBI"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75748",
+            "text": "nyamura"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71746",
+            "text": "KAIRUI"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75748",
+            "text": "nyamura"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71746",
+            "text": "KAIRUI"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75748",
+            "text": "nyamura"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75749",
+            "text": "utumiyqcom"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75748",
+            "text": "nyamura"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75748",
+            "text": "nyamura"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Haruhi"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75748",
+            "text": "nyamura"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Haruhi"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75749",
+            "text": "utumiyqcom"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:92108",
+            "text": "HASEBE EBI"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75748",
+            "text": "nyamura"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75748",
+            "text": "nyamura"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "takaryu"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75748",
+            "text": "nyamura"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "takaryu"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75749",
+            "text": "utumiyqcom"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75748",
+            "text": "nyamura"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75748",
+            "text": "nyamura"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65118",
+            "text": "なきそ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75748",
+            "text": "nyamura"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65118",
+            "text": "なきそ"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "えあ。"
+          }
+        }
+      ]
+    },
+    "1.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71746",
+            "text": "KAIRUI"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71746",
+            "text": "KAIRUI"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71746",
+            "text": "KAIRUI"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71746",
+            "text": "KAIRUI"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：青木葉(2)\n作词：nyamura(2,3,4,5,7)\n作曲：KAIRUI(1,3,6)、nyamura(2,3,4,5,7)、Haruhi(2,4)、takaryu(5)、なきそ(7)\n编曲：KAIRUI(1,3,6)、nyamura(2,3,4,5,7)、Haruhi(2,4)、takaryu(5)、なきそ(7)\n混音：utumiyqcom(2,3,4,5)、HASEBE EBI(2,4)、えあ。(7)"
+  },
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-05-09T12:29:54.540Z"
+  }
+}
