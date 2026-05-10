@@ -2,127 +2,23 @@
   "subjectId": 649085,
   "trackCredits": {
     "4.1": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:40208",
-            "text": "Kinoko蘑菇"
-          }
-        }
-      ],
       "lyricist": [
         {
           "type": "person",
           "person": {
             "ref": null,
             "text": "Mira.Z"
-          }
-        }
-      ],
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:85776",
-            "text": "D.Yi"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:70693",
-            "text": "moto"
           }
         }
       ]
     },
     "4.11": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:40208",
-            "text": "Kinoko蘑菇"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:85783",
-            "text": "夏铜子"
-          }
-        }
-      ],
       "lyricist": [
         {
           "type": "person",
           "person": {
             "ref": null,
             "text": "Mira.Z"
-          }
-        }
-      ],
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:70693",
-            "text": "moto"
-          }
-        }
-      ]
-    },
-    "1.1": {
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:71464",
-            "text": "Haloweak"
-          }
-        }
-      ]
-    },
-    "1.6": {
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:71464",
-            "text": "Haloweak"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:85776",
-            "text": "D.Yi"
-          }
-        }
-      ]
-    },
-    "2.8": {
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:71464",
-            "text": "Haloweak"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:85776",
-            "text": "D.Yi"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:70693",
-            "text": "moto"
           }
         }
       ]
@@ -145,13 +41,6 @@
           "person": {
             "ref": null,
             "text": "azusaTaxhi"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:38919",
-            "text": "GhostFinal"
           }
         }
       ]
@@ -185,273 +74,6 @@
           "person": {
             "ref": null,
             "text": "azusaTaxhi"
-          }
-        }
-      ]
-    },
-    "1.4": {
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:38919",
-            "text": "GhostFinal"
-          }
-        }
-      ]
-    },
-    "1.8": {
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:38919",
-            "text": "GhostFinal"
-          }
-        }
-      ]
-    },
-    "2.3": {
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:38919",
-            "text": "GhostFinal"
-          }
-        }
-      ]
-    },
-    "2.5": {
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:38919",
-            "text": "GhostFinal"
-          }
-        }
-      ]
-    },
-    "2.6": {
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:38919",
-            "text": "GhostFinal"
-          }
-        }
-      ]
-    },
-    "2.7": {
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:38919",
-            "text": "GhostFinal"
-          }
-        }
-      ]
-    },
-    "2.9": {
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:38919",
-            "text": "GhostFinal"
-          }
-        }
-      ]
-    },
-    "3.1": {
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:38919",
-            "text": "GhostFinal"
-          }
-        }
-      ]
-    },
-    "3.7": {
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:38919",
-            "text": "GhostFinal"
-          }
-        }
-      ]
-    },
-    "3.8": {
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:38919",
-            "text": "GhostFinal"
-          }
-        }
-      ]
-    },
-    "3.9": {
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:38919",
-            "text": "GhostFinal"
-          }
-        }
-      ]
-    },
-    "4.7": {
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:38919",
-            "text": "GhostFinal"
-          }
-        }
-      ]
-    },
-    "4.10": {
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:38919",
-            "text": "GhostFinal"
-          }
-        }
-      ]
-    },
-    "1.5": {
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:85793",
-            "text": "LCC"
-          }
-        }
-      ]
-    },
-    "2.1": {
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:85793",
-            "text": "LCC"
-          }
-        }
-      ]
-    },
-    "2.2": {
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:85793",
-            "text": "LCC"
-          }
-        }
-      ]
-    },
-    "2.4": {
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:85793",
-            "text": "LCC"
-          }
-        }
-      ]
-    },
-    "3.5": {
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:85793",
-            "text": "LCC"
-          }
-        }
-      ]
-    },
-    "1.7": {
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:85776",
-            "text": "D.Yi"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:70693",
-            "text": "moto"
-          }
-        }
-      ]
-    },
-    "4.3": {
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:85776",
-            "text": "D.Yi"
-          }
-        }
-      ]
-    },
-    "4.5": {
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:85776",
-            "text": "D.Yi"
-          }
-        }
-      ]
-    },
-    "4.6": {
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:85776",
-            "text": "D.Yi"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:70693",
-            "text": "moto"
-          }
-        }
-      ]
-    },
-    "4.8": {
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:70693",
-            "text": "moto"
           }
         }
       ]
@@ -502,11 +124,11 @@
     }
   },
   "rawPatches": {
-    "editor": "艺术家：Kinoko蘑菇(4.1,4.11)、夏铜子(4.11)\n作词：Mira.Z(4.1,4.11)\n作曲：Haloweak(1.1,1.6,2.8)、azusaTaxhi(1.2,1.3,4.2,4.4,4.9)、GhostFinal(1.3,1.4,1.8,2.3,2.5,2.6,2.7,2.9,3.1,3.7,3.8,3.9,4.7,4.10)、LCC(1.5,2.1,2.2,2.4,3.5)、D.Yi(1.6,1.7,2.8,4.1,4.3,4.5,4.6)、moto(1.7,2.8,4.1,4.6,4.8,4.11)、Polyblue(3.2,3.3,3.4,3.6)"
+    "editor": "作词：Mira.Z(4.1,4.11)\n作曲：azusaTaxhi(1.2,1.3,4.2,4.4,4.9)、Polyblue(3.2,3.3,3.4,3.6)"
   },
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-05-10T09:32:05.838Z"
+    "submittedAt": "2026-05-10T09:32:11.534Z"
   }
 }
