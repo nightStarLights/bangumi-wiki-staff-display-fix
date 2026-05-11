@@ -1,0 +1,188 @@
+{
+  "subjectId": 650001,
+  "trackCredits": {
+    "1.1": {
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "陈四@Earth Tune Studio"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "陈四@Earth Tune Studio"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "豬薑新誠@PiPi Studio"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "陈四@Earth Tune Studio"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "陈四@Earth Tune Studio"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "豬薑新誠@PiPi Studio"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "陈四@Earth Tune Studio"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "陈四@Earth Tune Studio"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "陈四@Earth Tune Studio"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "陈四@Earth Tune Studio"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "陈四@Earth Tune Studio"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "陈四@Earth Tune Studio"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "陈四@Earth Tune Studio"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "陈四@Earth Tune Studio"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "陈四@Earth Tune Studio"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "陈四（大话@梅）"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:93313",
+          "text": "yourboyfriendsucks!"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:33099",
+          "text": "史悲"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：yourboyfriendsucks!\n插图：史悲\n\n录音：陈四@Earth Tune Studio(1,2,3,4,5)\n混音：陈四@Earth Tune Studio(1,2,3,4,5)\n母带制作：豬薑新誠@PiPi Studio(1,2)、陈四@Earth Tune Studio(3,4,5)\n乐器-Guitar：陈四（大话@梅）(5)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-05-11T18:09:35.863Z"
+  }
+}
