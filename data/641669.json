@@ -1,12 +1,265 @@
 {
-  "trackCredits": {},
-  "rawPatches": {
-    "editor": ""
-  },
   "subjectId": 641669,
+  "trackCredits": {
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "诗岸"
+          }
+        }
+      ],
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "星尘Infinity"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "永夜Minus"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "弦巻マキ"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "鏡音リン"
+          }
+        }
+      ],
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "星尘Infinity"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "永夜Minus"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "弦巻マキ"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "重音テト"
+          }
+        }
+      ],
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "星尘Infinity"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "弦巻マキ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "初音ミク"
+          }
+        }
+      ],
+      "custom-Voice": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "小春六花"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "永夜Minus"
+          }
+        }
+      ],
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "星尘Infinity"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "弦巻マキ"
+          }
+        }
+      ]
+    },
+    "1.1": {
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "四国めたん"
+          }
+        }
+      ],
+      "custom-Voice": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ずんだもん"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "星尘Infinity"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "永夜Minus"
+          }
+        }
+      ],
+      "custom-Voice": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "弦巻マキ"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "星尘Infinity"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Mai"
+          }
+        }
+      ],
+      "custom-Voice": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "诗岸"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "永夜Minus"
+          }
+        }
+      ],
+      "custom-Voice": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "星尘Infinity"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:92520",
+          "text": "宵夜Mpa"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "醒梦Sameyume"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：宵夜Mpa\n厂牌：醒梦Sameyume\n\n艺术家：诗岸(1.5)、鏡音リン(1.6)、重音テト(1.7)、永夜Minus(1.8)\n声乐：四国めたん(1.1)、星尘Infinity(1.2,1.4,1.5,1.6,1.7,1.8)、永夜Minus(1.2,1.3,1.5,1.6)、Mai(1.4)、弦巻マキ(1.5,1.6,1.7,1.8)、初音ミク(1.7)\n\ncustom-Voice: ずんだもん (1) / 弦巻マキ (2) / 星尘Infinity (3) / 诗岸 (4) / 小春六花 (7)"
+  },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-22T17:55:29.435Z"
+    "submittedAt": "2026-05-11T17:02:09.736Z"
   }
 }
