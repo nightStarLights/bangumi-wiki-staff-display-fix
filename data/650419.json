@@ -1,0 +1,112 @@
+{
+  "subjectId": 650419,
+  "trackCredits": {
+    "2.1": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Wa!ter"
+          }
+        }
+      ]
+    },
+    "2.2": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91389",
+            "text": "奏"
+          }
+        }
+      ]
+    },
+    "2.3": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "いのうつはSA"
+          }
+        }
+      ]
+    },
+    "2.4": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56595",
+            "text": "A4。"
+          }
+        }
+      ]
+    },
+    "2.5": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:58685",
+            "text": "大漠波新"
+          }
+        }
+      ]
+    },
+    "2.6": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65309",
+            "text": "吉田夜世"
+          }
+        }
+      ]
+    },
+    "2.7": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:50748",
+            "text": "栗山夕璃"
+          }
+        }
+      ]
+    },
+    "2.8": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:44198",
+            "text": "ぬゆり"
+          }
+        }
+      ]
+    },
+    "2.9": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "FLAVOR FOLEY"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "编曲：Wa!ter(2.1)、奏(2.2)、いのうつはSA(2.3)、A4。(2.4)、大漠波新(2.5)、吉田夜世(2.6)、栗山夕璃(2.7)、ぬゆり(2.8)、FLAVOR FOLEY(2.9)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-05-12T14:21:18.505Z"
+  }
+}
