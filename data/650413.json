@@ -11,7 +11,7 @@
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:80733",
               "text": "4nzu"
             },
             ")"
@@ -29,7 +29,7 @@
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:93328",
               "text": "買物件"
             },
             ")"
@@ -130,7 +130,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93330",
             "text": "Moetek"
           }
         }
@@ -143,6 +143,6 @@
   "_meta": {
     "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-05-12T14:02:44.123Z"
+    "submittedAt": "2026-05-12T14:28:26.989Z"
   }
 }
