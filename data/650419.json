@@ -17,7 +17,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:91389",
+            "ref": null,
             "text": "奏"
           }
         }
@@ -39,7 +39,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:56595",
+            "ref": null,
             "text": "A4。"
           }
         }
@@ -50,7 +50,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:58685",
+            "ref": null,
             "text": "大漠波新"
           }
         }
@@ -61,7 +61,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:65309",
+            "ref": null,
             "text": "吉田夜世"
           }
         }
@@ -72,7 +72,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:50748",
+            "ref": null,
             "text": "栗山夕璃"
           }
         }
@@ -83,7 +83,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:44198",
+            "ref": null,
             "text": "ぬゆり"
           }
         }
@@ -107,6 +107,6 @@
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-05-12T14:21:18.505Z"
+    "submittedAt": "2026-05-12T14:21:22.522Z"
   }
 }
