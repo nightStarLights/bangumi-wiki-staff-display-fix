@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93329",
             "text": "Lazhward"
           }
         }
@@ -83,8 +83,8 @@
     "editor": "艺术家：Lazhward(4)、sHimaU(7)、SUBHEROINE(10)、tellur(12)、iserobin(13)、umio(14)、不覚にもムエタイ(18)"
   },
   "_meta": {
-    "submittedBy": "459115",
+    "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-24T11:38:02.044Z"
+    "submittedAt": "2026-05-12T14:20:15.687Z"
   }
 }
