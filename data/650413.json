@@ -11,7 +11,7 @@
             },
             " (",
             {
-              "ref": "p:80733",
+              "ref": null,
               "text": "4nzu"
             },
             ")"
@@ -22,11 +22,18 @@
     "1.2": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Bandersnatch"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "Bandersnatch"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "買物件"
+            },
+            ")"
+          ]
         }
       ]
     },
@@ -131,11 +138,11 @@
     }
   },
   "rawPatches": {
-    "editor": "艺术家：HIMEBRO(4nzu)(1)、Bandersnatch(2)、ハーマイオニー・クレンザー(3)、22KXY(4)、zeemoti0n(5)、emmy(6)、椎茸鍋に茹でイカ(7)、IGNB(8)、Vulpine Systems(9)、DJ Shuffnel(10)、Moetek(11)"
+    "editor": "艺术家：HIMEBRO(4nzu)(1)、Bandersnatch(買物件)(2)、ハーマイオニー・クレンザー(3)、22KXY(4)、zeemoti0n(5)、emmy(6)、椎茸鍋に茹でイカ(7)、IGNB(8)、Vulpine Systems(9)、DJ Shuffnel(10)、Moetek(11)"
   },
   "_meta": {
     "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-05-12T13:52:50.404Z"
+    "submittedAt": "2026-05-12T14:02:44.123Z"
   }
 }
