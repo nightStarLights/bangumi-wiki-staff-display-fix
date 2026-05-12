@@ -1,0 +1,144 @@
+{
+  "subjectId": 650418,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:88266",
+            "text": "zot!k"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "蛇壊乃音"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83341",
+            "text": "Xat0li"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "にゃそ"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Nenetian Snares"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93329",
+            "text": "Lazhward"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "02guilty"
+            },
+            " (",
+            {
+              "ref": "p:93328",
+              "text": "買物件"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "K₂O₄Li"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "kawaii amen girl"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Aki"
+            },
+            " (",
+            {
+              "ref": "p:75121",
+              "text": "Aki Sz"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "rawham"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：zot!k(1)、蛇壊乃音(1)、Xat0li(2)、にゃそ(3)、Nenetian Snares(4)、Lazhward(5)、02guilty(買物件)(6)、K₂O₄Li(7)、kawaii amen girl(8)、Aki(Aki Sz)(9)、rawham(10)"
+  },
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-05-12T14:17:33.237Z"
+  }
+}
