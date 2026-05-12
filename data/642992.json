@@ -198,7 +198,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93330",
             "text": "Moetek"
           }
         }
@@ -209,7 +209,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93330",
             "text": "Moetek"
           }
         }
@@ -220,7 +220,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93330",
             "text": "Moetek"
           }
         }
@@ -253,8 +253,8 @@
     "editor": "艺术家：Bandersnatch(3,4,5,11,13,17,19,26)、Lolitatek(5,22)、Emmy(6,8,17,20,24)、02guilty(7)、蛇壊乃音 feat.Xat0li(7)、emmy(9)、Moetek(12,14,21)、C2(16)、CHADREX Sound Team \"家\"(28)"
   },
   "_meta": {
-    "submittedBy": "459115",
+    "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-21T06:10:04.676Z"
+    "submittedAt": "2026-05-12T14:32:13.423Z"
   }
 }
