@@ -90,7 +90,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93329",
             "text": "Lazhward"
           }
         }
@@ -145,8 +145,8 @@
     "editor": "艺术家：saaa(1)、Ryohey Nakamura(2,12)、Peri Sound(3)、Tom-i(4)、Dustvoxx(5)、pencil(6)、Lazhward(7)、ELECTR(8)、Supire(9)、Nego_tiator(10)、すずめのめ(11)、Saku(12)"
   },
   "_meta": {
-    "submittedBy": "sakarin",
+    "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-12T19:01:01.096Z"
+    "submittedAt": "2026-05-12T14:19:11.171Z"
   }
 }
