@@ -1,0 +1,60 @@
+{
+  "subjectId": 650931,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:88051",
+            "text": "Round Wave Crusher"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75786",
+            "text": "LOLISTYLE GABBERS"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:88051",
+            "text": "Round Wave Crusher"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:80733",
+            "text": "4nzu"
+          }
+        }
+      ]
+    },
+    "2.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "SampleJunkCircus"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：Round Wave Crusher(1.1,1.2)、LOLISTYLE GABBERS(1.1)、4nzu(1.2)、SampleJunkCircus(2.1)"
+  },
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-05-13T15:53:23.199Z"
+  }
+}
