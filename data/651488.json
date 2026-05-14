@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:72436",
+            "ref": null,
             "text": "Loctek"
           }
         }
@@ -17,7 +17,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:72436",
+            "ref": null,
             "text": "Loctek"
           }
         },
@@ -25,7 +25,7 @@
           "type": "person",
           "person": {
             "ref": null,
-            "text": "Lulickima"
+            "text": "Lulickma"
           }
         }
       ]
@@ -35,7 +35,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:72436",
+            "ref": null,
             "text": "Loctek"
           }
         },
@@ -53,7 +53,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:72436",
+            "ref": null,
             "text": "Loctek"
           }
         }
@@ -64,7 +64,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:72436",
+            "ref": null,
             "text": "Loctek"
           }
         }
@@ -75,7 +75,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:72436",
+            "ref": null,
             "text": "Loctek"
           }
         }
@@ -86,7 +86,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:93418",
+            "ref": null,
             "text": "Lieber Bitter SampLinger"
           }
         }
@@ -94,11 +94,11 @@
     }
   },
   "rawPatches": {
-    "editor": "艺术家：Loctek(1,2,3,4,6,7)、Lulickima(2)、Lulickma(3)、Lieber Bitter SampLinger(5)"
+    "editor": "艺术家：Loctek(1,2,3,4,6,7)、Lulickma(2,3)、Lieber Bitter SampLinger(5)"
   },
   "_meta": {
     "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-05-14T15:51:41.038Z"
+    "submittedAt": "2026-05-14T15:53:38.205Z"
   }
 }
