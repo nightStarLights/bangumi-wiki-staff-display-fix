@@ -6,12 +6,12 @@
         {
           "parts": [
             {
-              "ref": "p:67094",
+              "ref": null,
               "text": "Hiraoka Kotaro"
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:67094",
               "text": "DIA"
             },
             ")"
@@ -136,14 +136,23 @@
           "text": "hana_fumi"
         }
       }
+    ],
+    "custom-设计": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "レク"
+        }
+      }
     ]
   },
   "rawPatches": {
-    "editor": "厂牌：Plena Forto\n母带制作：うこぼね(守屋忠慶)\n插图：魔界の住民(Seventhrun)\n制作人：hana_fumi\n\n艺术家：Hiraoka Kotaro(DIA)(1)、音冶(2)、satella(3)、Noah(4)、ことり(5)、ハム(6)、Feryquitous(7)"
+    "editor": "厂牌：Plena Forto\n母带制作：うこぼね(守屋忠慶)\n插图：魔界の住民(Seventhrun)\n制作人：hana_fumi\ncustom-设计: レク\n\n艺术家：Hiraoka Kotaro(DIA)(1)、音冶(2)、satella(3)、Noah(4)、ことり(5)、ハム(6)、Feryquitous(7)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-05-14T13:21:36.115Z"
+    "submittedAt": "2026-05-14T13:22:01.541Z"
   }
 }
