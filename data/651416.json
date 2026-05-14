@@ -54,6 +54,21 @@
             "text": "ことり"
           }
         }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:70830",
+              "text": "mozell"
+            },
+            " & ",
+            {
+              "ref": null,
+              "text": "くふ"
+            }
+          ]
+        }
       ]
     },
     "1.6": {
@@ -170,7 +185,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:83269",
+          "ref": null,
           "text": "もぜ園"
         }
       }
@@ -193,11 +208,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "作曲：mozell\n厂牌：もぜ園\n插图：mocha、ハイギョ\n\n编曲：ziki_7(1)、埼玉最終兵器(2)、flashygoodness(3)、mozell(4)、ことり(5)、Meine Meinung(6)、samlie(7)、watson(8)、九十九百太郎(9)、hiyama(10)、煉獄小僧(11)、エイジャ(12)、SoulEye(13)、martin(14)"
+    "editor": "作曲：mozell\n厂牌：もぜ園\n插图：mocha、ハイギョ\n\n编曲：ziki_7(1)、埼玉最終兵器(2)、flashygoodness(3)、mozell(4)、ことり(5)、Meine Meinung(6)、samlie(7)、watson(8)、九十九百太郎(9)、hiyama(10)、煉獄小僧(11)、エイジャ(12)、SoulEye(13)、martin(14)\n\ncompose: mozell & くふ (5)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-05-14T14:02:48.946Z"
+    "submittedAt": "2026-05-14T14:16:07.184Z"
   }
 }
