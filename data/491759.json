@@ -1,0 +1,206 @@
+{
+  "subjectId": 491759,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69019",
+            "text": "TakoyakiKZY"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:53032",
+            "text": "いよわ"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "はかめ"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:59104",
+            "text": "原口沙輔"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "馬車馬カエデ"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "すずめのめおうたの会"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73547",
+            "text": "濁茶"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "RED"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "OUTLOUD"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "logico"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "つる"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ヒロモト"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ヒライシン"
+          }
+        }
+      ]
+    },
+    "1.13": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hitoka hitooku"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "サークル全部俺"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Hitoka hitooku"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:73421",
+          "text": "ヒロモトヒライシン"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:73547",
+          "text": "濁茶"
+        }
+      }
+    ],
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Hitoka hitomoku"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：サークル全部俺\n插图：Hitoka hitooku、ヒロモトヒライシン、濁茶\n制作人：Hitoka hitomoku\n\n艺术家：TakoyakiKZY(1)、いよわ(2)、はかめ(3)、原口沙輔(4)、馬車馬カエデ(5)、すずめのめおうたの会(6)、濁茶(7)、RED(8)、OUTLOUD(9)、logico(10)、つる(11)、ヒロモト(12)、ヒライシン(12)、Hitoka hitooku(13)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-05-14T16:36:41.975Z"
+  }
+}
