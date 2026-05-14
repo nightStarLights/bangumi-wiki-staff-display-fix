@@ -1,0 +1,149 @@
+{
+  "subjectId": 651310,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:67094",
+              "text": "Hiraoka Kotaro"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "DIA"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82059",
+            "text": "音冶"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10872",
+            "text": "satella"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67364",
+            "text": "Noah"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ことり"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10372",
+            "text": "ハム"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47570",
+            "text": "Feryquitous"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Plena Forto"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "うこぼね"
+          },
+          " (",
+          {
+            "ref": "p:72288",
+            "text": "守屋忠慶"
+          },
+          ")"
+        ]
+      }
+    ],
+    "illustrator": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "魔界の住民"
+          },
+          " (",
+          {
+            "ref": "p:38832",
+            "text": "Seventhrun"
+          },
+          ")"
+        ]
+      }
+    ],
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "hana_fumi"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：Plena Forto\n母带制作：うこぼね(守屋忠慶)\n插图：魔界の住民(Seventhrun)\n制作人：hana_fumi\n\n艺术家：Hiraoka Kotaro(DIA)(1)、音冶(2)、satella(3)、Noah(4)、ことり(5)、ハム(6)、Feryquitous(7)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-05-14T13:21:36.115Z"
+  }
+}
