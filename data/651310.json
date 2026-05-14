@@ -48,11 +48,18 @@
     "1.5": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "ことり"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "ことり"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "能美孤鳥"
+            },
+            ")"
+          ]
         }
       ]
     },
@@ -141,11 +148,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "厂牌：Plena Forto\n母带制作：うこぼね(守屋忠慶)\n插图：魔界の住民(Seventhrun)\n制作人：hana_fumi\ncustom-设计: レク\n\n艺术家：Hiraoka Kotaro(1)、音冶(2)、satella(3)、Noah(4)、ことり(5)、ハム(6)、Feryquitous(7)"
+    "editor": "厂牌：Plena Forto\n母带制作：うこぼね(守屋忠慶)\n插图：魔界の住民(Seventhrun)\n制作人：hana_fumi\ncustom-设计: レク\n\n艺术家：Hiraoka Kotaro(1)、音冶(2)、satella(3)、Noah(4)、ことり (能美孤鳥) (5)、ハム(6)、Feryquitous(7)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-05-14T13:22:45.759Z"
+    "submittedAt": "2026-05-14T13:24:02.857Z"
   }
 }
