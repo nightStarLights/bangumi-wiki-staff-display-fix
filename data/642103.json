@@ -1,0 +1,37 @@
+{
+  "subjectId": 642103,
+  "trackCredits": {
+    "1.1": {
+      "instrument": [
+        {
+          "type": "alias_instrument_credit",
+          "alias": {
+            "ref": "p:8014",
+            "text": "kidlit"
+          },
+          "person": {
+            "ref": "p:8014",
+            "text": "深水チエ"
+          },
+          "inst": "Piano"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Ventla Kaoru"
+          },
+          "inst": "Piano"
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "乐器-Piano：kidlit (1)/Ventla Kaoru(1)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-05-14T16:50:07.835Z"
+  }
+}
