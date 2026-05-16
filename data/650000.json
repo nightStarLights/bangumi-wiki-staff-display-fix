@@ -1,0 +1,55 @@
+{
+  "subjectId": 650000,
+  "trackCredits": {
+    "1.7": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "テラ"
+          },
+          "inst": "E.Guitar"
+        }
+      ]
+    },
+    "1.12": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "テラ"
+          },
+          "inst": "E.Guitar"
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "369"
+          },
+          " (",
+          {
+            "ref": "p:62399",
+            "text": "みろく"
+          },
+          ")"
+        ]
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：369(みろく)\n\n乐器-E.Guitar：テラ(7,12)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-05-16T22:33:38.621Z"
+  }
+}
