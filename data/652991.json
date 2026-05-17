@@ -81,6 +81,46 @@
         }
       ]
     },
+    "1.41": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10888",
+            "text": "柳川和樹"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10888",
+            "text": "柳川和樹"
+          }
+        }
+      ]
+    },
+    "1.42": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10888",
+            "text": "柳川和樹"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10888",
+            "text": "柳川和樹"
+          }
+        }
+      ]
+    },
     "1.48": {
       "composer": [
         {
@@ -482,46 +522,6 @@
       ]
     },
     "1.39": {
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:8245",
-            "text": "まもも"
-          }
-        }
-      ],
-      "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:8245",
-            "text": "まもも"
-          }
-        }
-      ]
-    },
-    "1.41": {
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:8245",
-            "text": "まもも"
-          }
-        }
-      ],
-      "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:8245",
-            "text": "まもも"
-          }
-        }
-      ]
-    },
-    "1.42": {
       "composer": [
         {
           "type": "person",
@@ -1121,11 +1121,11 @@
     }
   },
   "rawPatches": {
-    "editor": "作曲：柳川和樹(1,6,33,40,48)、まもも(2,3,4,5,15,16,17,18,19,20,21,22,23,24,26,35,36,37,38,39,41,42,49,52,53,54,55)、程金戈(7,8,9,28,29,31,34)、zb@TiMi Audio(10,11,12,13,50)、Igor Nemirovsky(14)、Bastien Rousset(25,43)、Kenji(27)、Nathan Einhorn(30,32,44,47,51)、Seung Hyuk YANG(45)、Kristjian Funaric(46)\n编曲：柳川和樹(1,6,33,40,48)、まもも(2,3,4,5,15,16,17,18,19,20,21,22,23,24,26,35,36,37,38,39,41,42,49,52,53,54,55)、程金戈(7,8,9,28,29,31,34)、zb@TiMi Audio(10,11,12,13,50)、Igor Nemirovsky(14)、Bastien Rousset(25,43)、Kenji(27)、Nathan Einhorn(30,32,44,47,51)、Seung Hyuk YANG(45)、Kristjian Funaric(46)\n混音：zb@TiMi Audio(46,47)"
+    "editor": "作曲：柳川和樹(1,6,33,40,41,42,48)、まもも(2,3,4,5,15,16,17,18,19,20,21,22,23,24,26,35,36,37,38,39,49,52,53,54,55)、程金戈(7,8,9,28,29,31,34)、zb@TiMi Audio(10,11,12,13,50)、Igor Nemirovsky(14)、Bastien Rousset(25,43)、Kenji(27)、Nathan Einhorn(30,32,44,47,51)、Seung Hyuk YANG(45)、Kristjian Funaric(46)\n编曲：柳川和樹(1,6,33,40,41,42,48)、まもも(2,3,4,5,15,16,17,18,19,20,21,22,23,24,26,35,36,37,38,39,49,52,53,54,55)、程金戈(7,8,9,28,29,31,34)、zb@TiMi Audio(10,11,12,13,50)、Igor Nemirovsky(14)、Bastien Rousset(25,43)、Kenji(27)、Nathan Einhorn(30,32,44,47,51)、Seung Hyuk YANG(45)、Kristjian Funaric(46)\n混音：zb@TiMi Audio(46,47)"
   },
   "_meta": {
     "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-05-17T21:12:18.086Z"
+    "submittedAt": "2026-05-17T22:27:42.229Z"
   }
 }
