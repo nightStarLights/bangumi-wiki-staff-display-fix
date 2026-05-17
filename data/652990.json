@@ -1,0 +1,75 @@
+{
+  "subjectId": 652990,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70942",
+            "text": "Supire"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70942",
+            "text": "Supire"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70942",
+            "text": "Supire"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70942",
+            "text": "Supire"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70942",
+            "text": "Supire"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73174",
+            "text": "DJKurara"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：Supire(1,2,3,4,5)、DJKurara(5)"
+  },
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-05-17T20:18:19.435Z"
+  }
+}
