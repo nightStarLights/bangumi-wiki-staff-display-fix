@@ -1,0 +1,68 @@
+{
+  "subjectId": 653248,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ねこまりもん"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "aspect"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "S to Σ"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73824",
+            "text": "oblivious"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Tsukuba DTM Lab."
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：Tsukuba DTM Lab.\n\n艺术家：ねこまりもん(1)、aspect(3)、S to Σ(4)、oblivious(5)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-05-18T16:23:10.831Z"
+  }
+}
