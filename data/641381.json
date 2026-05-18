@@ -1,0 +1,61 @@
+{
+  "subjectId": 641381,
+  "trackCredits": {
+    "1.2": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Roddy"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.6": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Roddy"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.4": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "うめぞー"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.8": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "うめぞー"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "乐器-Guitar: Roddy (2,6) / うめぞー(4,8)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-05-18T04:51:57.041Z"
+  }
+}
