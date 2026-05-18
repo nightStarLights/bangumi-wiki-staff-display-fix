@@ -6,40 +6,47 @@
         {
           "type": "person",
           "person": {
+            "ref": "p:93578",
+            "text": "Viznode"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81942",
+            "text": "natsume"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
             "ref": "p:93575",
             "text": "ひらめ"
           }
         }
-      ],
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:93578",
-            "text": "Viznode"
-          }
-        },
+      ]
+    },
+    "1.3": {
+      "artist": [
         {
           "type": "person",
           "person": {
             "ref": "p:81942",
             "text": "natsume"
           }
-        }
-      ],
-      "arranger": [
+        },
         {
           "type": "person",
           "person": {
-            "ref": "p:93578",
-            "text": "Viznode"
+            "ref": "p:93575",
+            "text": "ひらめ"
           }
         },
         {
           "type": "person",
           "person": {
-            "ref": "p:81942",
-            "text": "natsume"
+            "ref": "p:93577",
+            "text": "AZURA"
           }
         }
       ]
@@ -52,81 +59,18 @@
             "ref": "p:93575",
             "text": "ひらめ"
           }
-        }
-      ],
-      "composer": [
+        },
         {
           "type": "person",
           "person": {
             "ref": "p:69534",
             "text": "ていぬ"
-          }
-        }
-      ],
-      "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:69534",
-            "text": "ていぬ"
-          }
-        }
-      ]
-    },
-    "1.3": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:93575",
-            "text": "ひらめ"
-          }
-        }
-      ],
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:81942",
-            "text": "natsume"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:93577",
-            "text": "AZURA"
-          }
-        }
-      ],
-      "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:81942",
-            "text": "natsume"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:93577",
-            "text": "AZURA"
           }
         }
       ]
     },
     "1.4": {
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:93576",
-            "text": "Yusho Sunagawa"
-          }
-        }
-      ],
-      "arranger": [
+      "artist": [
         {
           "type": "person",
           "person": {
@@ -137,16 +81,7 @@
       ]
     },
     "1.5": {
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:77477",
-            "text": "ecro"
-          }
-        }
-      ],
-      "arranger": [
+      "artist": [
         {
           "type": "person",
           "person": {
@@ -157,16 +92,7 @@
       ]
     },
     "1.6": {
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:93579",
-            "text": "jian"
-          }
-        }
-      ],
-      "arranger": [
+      "artist": [
         {
           "type": "person",
           "person": {
@@ -177,16 +103,7 @@
       ]
     },
     "1.7": {
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:93573",
-            "text": "あるふぁ"
-          }
-        }
-      ],
-      "arranger": [
+      "artist": [
         {
           "type": "person",
           "person": {
@@ -209,11 +126,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "厂牌：colorless studio\n\n艺术家：ひらめ(1,2,3)\n作曲：Viznode(1)、natsume(1,3)、ていぬ(2)、AZURA(3)、Yusho Sunagawa(4)、ecro(5)、jian(6)、あるふぁ(7)\n编曲：Viznode(1)、natsume(1,3)、ていぬ(2)、AZURA(3)、Yusho Sunagawa(4)、ecro(5)、jian(6)、あるふぁ(7)"
+    "editor": "厂牌：colorless studio\n\n艺术家：Viznode(1)、natsume(1,3)、ひらめ(1,2,3)、ていぬ(2)、AZURA(3)、Yusho Sunagawa(4)、ecro(5)、jian(6)、あるふぁ(7)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-05-18T15:10:16.405Z"
+    "submittedAt": "2026-05-18T15:57:10.282Z"
   }
 }
