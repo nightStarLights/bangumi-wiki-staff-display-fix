@@ -1,0 +1,119 @@
+{
+  "subjectId": 653113,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65618",
+            "text": "なみぐる"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69420",
+            "text": "梓川"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55762",
+            "text": "椎乃味醂"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:41327",
+            "text": "DÉ DÉ MOUSE"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:53088",
+            "text": "雄之助"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86945",
+            "text": "TREKKIE TRAX CREW"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "hasty"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "威戸れもね。"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "雨良"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:77593",
+            "text": "TEMPLIME"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：なみぐる(1)、梓川(1)、椎乃味醂(2)、DÉ DÉ MOUSE(3)、雄之助(4)、TREKKIE TRAX CREW(5)、hasty(6)、威戸れもね。(7)、雨良(8)、TEMPLIME(9)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-05-18T07:26:23.607Z"
+  }
+}
