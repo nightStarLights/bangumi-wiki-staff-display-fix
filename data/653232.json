@@ -1,74 +1,6 @@
 {
   "subjectId": 653232,
   "trackCredits": {
-    "1.1": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:93578",
-            "text": "Viznode"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:81942",
-            "text": "natsume"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:93575",
-            "text": "ひらめ"
-          }
-        }
-      ]
-    },
-    "1.3": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:81942",
-            "text": "natsume"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:93575",
-            "text": "ひらめ"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:93577",
-            "text": "AZURA"
-          }
-        }
-      ]
-    },
-    "1.2": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:93575",
-            "text": "ひらめ"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:69534",
-            "text": "ていぬ"
-          }
-        }
-      ]
-    },
     "1.4": {
       "artist": [
         {
@@ -112,6 +44,67 @@
           }
         }
       ]
+    },
+    "1.1": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:93578",
+              "text": "Viznode"
+            },
+            " & ",
+            {
+              "ref": "p:81942",
+              "text": "natsume"
+            },
+            " feat. ",
+            {
+              "ref": "p:93575",
+              "text": "ひらめ"
+            }
+          ]
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:81942",
+              "text": "natsume"
+            },
+            " & ",
+            {
+              "ref": "p:93577",
+              "text": "AZURA"
+            },
+            " feat. ",
+            {
+              "ref": "p:93575",
+              "text": "ひらめ"
+            }
+          ]
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:69534",
+              "text": "ていぬ"
+            },
+            " feat. ",
+            {
+              "ref": "p:93575",
+              "text": "ひらめ"
+            }
+          ]
+        }
+      ]
     }
   },
   "epinfo": {
@@ -119,18 +112,18 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:93574",
+          "ref": null,
           "text": "colorless studio"
         }
       }
     ]
   },
   "rawPatches": {
-    "editor": "厂牌：colorless studio\n\n艺术家：Viznode(1)、natsume(1,3)、ひらめ(1,2,3)、ていぬ(2)、AZURA(3)、Yusho Sunagawa(4)、ecro(5)、jian(6)、あるふぁ(7)"
+    "editor": "厂牌：colorless studio\n\n艺术家：、Yusho Sunagawa(4)、ecro(5)、jian(6)、あるふぁ(7)\n\n\n艺术家：Viznode & natsume feat.ひらめ(1)、natsume & AZURA feat.ひらめ(3)、ていぬ feat.ひらめ(2)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-05-18T15:57:10.282Z"
+    "submittedAt": "2026-05-18T15:58:56.566Z"
   }
 }
