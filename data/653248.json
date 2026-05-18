@@ -51,7 +51,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:87957",
           "text": "Tsukuba DTM Lab."
         }
       }
@@ -63,6 +63,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-05-18T16:23:10.831Z"
+    "submittedAt": "2026-05-18T16:23:51.422Z"
   }
 }
