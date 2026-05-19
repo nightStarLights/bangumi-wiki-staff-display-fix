@@ -56,7 +56,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:81069",
           "text": "Girls Vibes Project"
         }
       }
@@ -95,6 +95,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-05-19T12:34:08.367Z"
+    "submittedAt": "2026-05-19T12:35:13.917Z"
   }
 }
