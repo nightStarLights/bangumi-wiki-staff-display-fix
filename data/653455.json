@@ -1,0 +1,100 @@
+{
+  "subjectId": 653455,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81531",
+            "text": "綿菓子かんろ"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69379",
+            "text": "病白めめ"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69375",
+          "text": "最うし"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69375",
+          "text": "最うし"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69375",
+          "text": "最うし"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Girls Vibes Project"
+        }
+      }
+    ],
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69375",
+          "text": "最うし"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69375",
+          "text": "最うし"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69399",
+          "text": "独楽子"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "作词：最うし\n作曲：最うし\n编曲：最うし\n厂牌：Girls Vibes Project\n混音：最うし\n母带制作：最うし\n插图：独楽子\n\n艺术家：綿菓子かんろ(1)、病白めめ(2)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-05-19T12:34:08.367Z"
+  }
+}
