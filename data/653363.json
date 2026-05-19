@@ -72,6 +72,24 @@
             ")"
           ]
         }
+      ],
+      "custom-訳": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72814",
+            "text": "ほいみん"
+          }
+        }
+      ],
+      "custom-ストーリー": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73422",
+            "text": "Shuka"
+          }
+        }
       ]
     },
     "1.3": {
@@ -134,6 +152,24 @@
             "text": "R.Ishikawa"
           },
           "inst": "Bass"
+        }
+      ],
+      "custom-訳": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15372",
+            "text": "つきこ"
+          }
+        }
+      ],
+      "custom-ストーリー": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15372",
+            "text": "つきこ"
+          }
         }
       ]
     },
@@ -205,6 +241,24 @@
           },
           "inst": "Bass"
         }
+      ],
+      "custom-訳": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "夢桜"
+          }
+        }
+      ],
+      "custom-ストーリー": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "リライアンス"
+          }
+        }
       ]
     },
     "1.9": {
@@ -271,6 +325,24 @@
             "text": "Takahiro"
           }
         }
+      ],
+      "custom-訳": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "夢桜"
+          }
+        }
+      ],
+      "custom-ストーリー": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "リライアンス"
+          }
+        }
       ]
     },
     "1.2": {
@@ -309,6 +381,24 @@
             "text": "Shuka"
           }
         }
+      ],
+      "custom-訳": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73422",
+            "text": "Shuka"
+          }
+        }
+      ],
+      "custom-ストーリー": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "リライアンス"
+          }
+        }
       ]
     },
     "1.4": {
@@ -345,6 +435,31 @@
           "person": {
             "ref": "p:73422",
             "text": "Shuka"
+          }
+        }
+      ],
+      "custom-訳": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73422",
+            "text": "Shuka"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "夢桜"
+          }
+        }
+      ],
+      "custom-ストーリー": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "夢桜"
           }
         }
       ]
@@ -387,6 +502,24 @@
         }
       ],
       "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73422",
+            "text": "Shuka"
+          }
+        }
+      ],
+      "custom-訳": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "夢桜"
+          }
+        }
+      ],
+      "custom-ストーリー": [
         {
           "type": "person",
           "person": {
@@ -437,6 +570,31 @@
           "person": {
             "ref": "p:69040",
             "text": "rujou"
+          }
+        }
+      ],
+      "custom-訳": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72814",
+            "text": "ほいみん"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ココサン"
+          }
+        }
+      ],
+      "custom-ストーリー": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "リライアンス"
           }
         }
       ]
@@ -492,11 +650,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "厂牌：移動式夢現社殿 瑠璃ノ社\n插图：糸織貝\n制作人：Shuka\n\n艺术家：Shuka(1,3,6,9)、空華オキ(1,2)、ケィニ(1,4,9)、月宮瑠璃華(1,5,6)、言乃麻衣(7)\n作词：ほいみん(1,7)、Shuka(2,6)、つきこ(月子)(3)、ザビエル.T(4)、久遠真雪(5,9)、リライアンス(6,9)、ココサン(7)\n作曲：U-ta(ウタP)(1)、Shuka(2,4,8,9)、R.Ishikawa(3,6)、YMP(5)、rujou(7)、Takahiro(9)\n编曲：U-ta(ウタP)(1)、Shuka(2,4,8,9)、R.Ishikawa(3,6)、YMP(5)、rujou(7)、Takahiro(9)\n混音：Shuka(5)\n乐器-Guitar：R.Ishikawa(3,6)\n乐器-Bass：R.Ishikawa(3,6)"
+    "editor": "厂牌：移動式夢現社殿 瑠璃ノ社\n插图：糸織貝\n制作人：Shuka\n\n艺术家：Shuka(1,3,6,9)、空華オキ(1,2)、ケィニ(1,4,9)、月宮瑠璃華(1,5,6)、言乃麻衣(7)\n作词：ほいみん(1,7)、Shuka(2,6)、つきこ(月子)(3)、ザビエル.T(4)、久遠真雪(5,9)、リライアンス(6,9)、ココサン(7)\n作曲：U-ta(ウタP)(1)、Shuka(2,4,8,9)、R.Ishikawa(3,6)、YMP(5)、rujou(7)、Takahiro(9)\n编曲：U-ta(ウタP)(1)、Shuka(2,4,8,9)、R.Ishikawa(3,6)、YMP(5)、rujou(7)、Takahiro(9)\n混音：Shuka(5)\n乐器-Guitar：R.Ishikawa(3,6)\n乐器-Bass：R.Ishikawa(3,6)\n\ncustom-訳:ほいみん(1)\ncustom-ストーリー:Shuka(1)\ncustom-訳:Shuka(2)\ncustom-ストーリー:リライアンス(2)\ncustom-訳:つきこ(3)\ncustom-ストーリー:つきこ(3)\ncustom-訳:Shuka(4),夢桜(4)\ncustom-ストーリー:夢桜(4)\ncustom-訳:夢桜(5)\ncustom-ストーリー:Shuka(5)\ncustom-訳:夢桜(6)\ncustom-ストーリー:リライアンス(6)\ncustom-訳:ほいみん(7),ココサン(7)\ncustom-ストーリー:リライアンス(7)\ncustom-訳:夢桜(9)\ncustom-ストーリー:リライアンス(9)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-05-19T06:20:43.576Z"
+    "submittedAt": "2026-05-19T06:23:39.333Z"
   }
 }
