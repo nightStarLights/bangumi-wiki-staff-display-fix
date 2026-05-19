@@ -1,0 +1,502 @@
+{
+  "subjectId": 653363,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73422",
+            "text": "Shuka"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73092",
+            "text": "空華オキ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:74862",
+            "text": "ケィニ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71172",
+            "text": "月宮瑠璃華"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72814",
+            "text": "ほいみん"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "U-ta"
+            },
+            " (",
+            {
+              "ref": "p:70271",
+              "text": "ウタP"
+            },
+            ")"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "U-ta"
+            },
+            " (",
+            {
+              "ref": "p:70271",
+              "text": "ウタP"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73422",
+            "text": "Shuka"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "つきこ"
+            },
+            " (",
+            {
+              "ref": "p:15372",
+              "text": "月子"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "R.Ishikawa"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "R.Ishikawa"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "R.Ishikawa"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "R.Ishikawa"
+          },
+          "inst": "Bass"
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73422",
+            "text": "Shuka"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71172",
+            "text": "月宮瑠璃華"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73422",
+            "text": "Shuka"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "リライアンス"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "R.Ishikawa"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "R.Ishikawa"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "R.Ishikawa"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "R.Ishikawa"
+          },
+          "inst": "Bass"
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73422",
+            "text": "Shuka"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:74862",
+            "text": "ケィニ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68281",
+            "text": "久遠真雪"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "リライアンス"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73422",
+            "text": "Shuka"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83677",
+            "text": "Takahiro"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73422",
+            "text": "Shuka"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83677",
+            "text": "Takahiro"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73092",
+            "text": "空華オキ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73422",
+            "text": "Shuka"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73422",
+            "text": "Shuka"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73422",
+            "text": "Shuka"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:74862",
+            "text": "ケィニ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72344",
+            "text": "ザビエル.T"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73422",
+            "text": "Shuka"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73422",
+            "text": "Shuka"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71172",
+            "text": "月宮瑠璃華"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68281",
+            "text": "久遠真雪"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91449",
+            "text": "YMP"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91449",
+            "text": "YMP"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73422",
+            "text": "Shuka"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "言乃麻衣"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72814",
+            "text": "ほいみん"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ココサン"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69040",
+            "text": "rujou"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69040",
+            "text": "rujou"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73422",
+            "text": "Shuka"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73422",
+            "text": "Shuka"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "移動式夢現社殿 瑠璃ノ社"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "糸織貝"
+        }
+      }
+    ],
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:73422",
+          "text": "Shuka"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：移動式夢現社殿 瑠璃ノ社\n插图：糸織貝\n制作人：Shuka\n\n艺术家：Shuka(1,3,6,9)、空華オキ(1,2)、ケィニ(1,4,9)、月宮瑠璃華(1,5,6)、言乃麻衣(7)\n作词：ほいみん(1,7)、Shuka(2,6)、つきこ(月子)(3)、ザビエル.T(4)、久遠真雪(5,9)、リライアンス(6,9)、ココサン(7)\n作曲：U-ta(ウタP)(1)、Shuka(2,4,8,9)、R.Ishikawa(3,6)、YMP(5)、rujou(7)、Takahiro(9)\n编曲：U-ta(ウタP)(1)、Shuka(2,4,8,9)、R.Ishikawa(3,6)、YMP(5)、rujou(7)、Takahiro(9)\n混音：Shuka(5)\n乐器-Guitar：R.Ishikawa(3,6)\n乐器-Bass：R.Ishikawa(3,6)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-05-19T06:20:43.576Z"
+  }
+}
