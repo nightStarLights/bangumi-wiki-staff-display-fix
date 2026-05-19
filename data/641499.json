@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93589",
             "text": "弓絃"
           }
         }
@@ -15,7 +15,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93589",
             "text": "弓絃"
           }
         }
@@ -24,7 +24,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93589",
             "text": "弓絃"
           }
         }
@@ -35,7 +35,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93589",
             "text": "弓絃"
           }
         }
@@ -44,7 +44,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93589",
             "text": "弓絃"
           }
         }
@@ -53,7 +53,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93589",
             "text": "弓絃"
           }
         }
@@ -150,7 +150,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93589",
             "text": "弓絃"
           }
         }
@@ -159,7 +159,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93589",
             "text": "弓絃"
           }
         }
@@ -170,7 +170,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93589",
             "text": "弓絃"
           }
         }
@@ -179,7 +179,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93589",
             "text": "弓絃"
           }
         }
@@ -190,8 +190,8 @@
     "editor": "作词：弓絃(2,5)、nanago(3)、パルタ(4)、クレイシス(4)\n作曲：弓絃(1,2,5,6)、nanago(3)、パルタ(4)、クレイシス(4)\n编曲：弓絃(1,2,5,6)、nanago(3)、パルタ(4)、クレイシス(4)、ぷにばら(4)"
   },
   "_meta": {
-    "submittedBy": "sakarin",
+    "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-15T04:23:44.308Z"
+    "submittedAt": "2026-05-19T14:07:33.122Z"
   }
 }
