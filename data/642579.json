@@ -44,7 +44,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:91695",
             "text": "橙ミャオ"
           }
         }
@@ -53,7 +53,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:91695",
             "text": "橙ミャオ"
           }
         }
@@ -62,7 +62,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:90616",
             "text": "帛田ヌキ"
           }
         }
@@ -71,7 +71,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:91695",
             "text": "橙ミャオ"
           }
         }
@@ -139,7 +139,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:90616",
             "text": "帛田ヌキ"
           }
         }
@@ -170,7 +170,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:90613",
             "text": "鳴弦ユウ"
           }
         }
@@ -179,7 +179,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:90613",
             "text": "鳴弦ユウ"
           }
         }
@@ -188,7 +188,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:90613",
             "text": "鳴弦ユウ"
           },
           "inst": "piano"
@@ -222,8 +222,8 @@
     "editor": "作词：城京(4)\n作曲：橙ミャオ(1)、空位(2,7)、城京(4)\n编曲：橙ミャオ(1)、空位(2,7)、城京(4)、N0uk1n(9)、鳴弦ユウ(10)\n录音：帛田ヌキ(1,7)、谷キリカ(6)\n混音：橙ミャオ(1)、空位(2,7,8)、城京(4)、鳴弦ユウ(10)\n乐器-guitar：みやてん(1)\n乐器-piano：鳴弦ユウ(10)"
   },
   "_meta": {
-    "submittedBy": "459115",
+    "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-19T12:33:22.673Z"
+    "submittedAt": "2026-05-19T15:30:59.989Z"
   }
 }
