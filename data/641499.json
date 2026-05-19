@@ -94,14 +94,7 @@
           "type": "person",
           "person": {
             "ref": null,
-            "text": "パルタ"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "クレイシス"
+            "text": "パルタ・クレイシス"
           }
         }
       ],
@@ -110,32 +103,11 @@
           "type": "person",
           "person": {
             "ref": null,
-            "text": "パルタ"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "クレイシス"
+            "text": "パルタ・クレイシス"
           }
         }
       ],
       "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "パルタ"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "クレイシス"
-          }
-        },
         {
           "type": "person",
           "person": {
@@ -187,11 +159,11 @@
     }
   },
   "rawPatches": {
-    "editor": "作词：弓絃(2,5)、nanago(3)、パルタ(4)、クレイシス(4)\n作曲：弓絃(1,2,5,6)、nanago(3)、パルタ(4)、クレイシス(4)\n编曲：弓絃(1,2,5,6)、nanago(3)、パルタ(4)、クレイシス(4)、ぷにばら(4)"
+    "editor": "作词：弓絃(2,5)、nanago(3)、パルタ・クレイシス(4)\n作曲：弓絃(1,2,5,6)、nanago(3)、パルタ・クレイシス(4)\n编曲：弓絃(1,2,5,6)、nanago(3)、ぷにばら(4)"
   },
   "_meta": {
     "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-05-19T14:07:33.122Z"
+    "submittedAt": "2026-05-19T14:08:49.133Z"
   }
 }
