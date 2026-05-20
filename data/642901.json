@@ -13,36 +13,57 @@
       ],
       "lyricist": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:56871",
-            "text": "木村孝明"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "け厶り"
+            },
+            " (",
+            {
+              "ref": "p:56871",
+              "text": "木村孝明"
+            },
+            ")"
+          ]
         }
       ],
       "composer": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:56871",
-            "text": "木村孝明"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "け厶り"
+            },
+            " (",
+            {
+              "ref": "p:56871",
+              "text": "木村孝明"
+            },
+            ")"
+          ]
         }
       ],
       "arranger": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:56871",
-            "text": "木村孝明"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "け厶り"
+            },
+            " (",
+            {
+              "ref": "p:56871",
+              "text": "木村孝明"
+            },
+            ")"
+          ]
         }
       ],
       "instrument": [
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:92475",
             "text": "あざらしかなで"
           },
           "inst": "Synth"
@@ -61,29 +82,50 @@
       ],
       "lyricist": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:56871",
-            "text": "木村孝明"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "け厶り"
+            },
+            " (",
+            {
+              "ref": "p:56871",
+              "text": "木村孝明"
+            },
+            ")"
+          ]
         }
       ],
       "composer": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:56871",
-            "text": "木村孝明"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "け厶り"
+            },
+            " (",
+            {
+              "ref": "p:56871",
+              "text": "木村孝明"
+            },
+            ")"
+          ]
         }
       ],
       "arranger": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:56871",
-            "text": "木村孝明"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "け厶り"
+            },
+            " (",
+            {
+              "ref": "p:56871",
+              "text": "木村孝明"
+            },
+            ")"
+          ]
         }
       ],
       "instrument": [
@@ -99,11 +141,11 @@
     }
   },
   "rawPatches": {
-    "editor": "艺术家：綿菓子かんろ(1)、鈴咲のの(2)\n作词：木村孝明(1,2)\n作曲：木村孝明(1,2)\n编曲：木村孝明(1,2)\n乐器-Synth：あざらしかなで(1)\n乐器-Alto Saxophone：ogumogura(2)"
+    "editor": "艺术家：綿菓子かんろ(1)、鈴咲のの(2)\n作词：け厶り (木村孝明)(1,2)\n作曲：け厶り (木村孝明)(1,2)\n编曲：け厶り (木村孝明)(1,2)\n乐器-Synth：あざらしかなで(1)\n乐器-Alto Saxophone：ogumogura(2)"
   },
   "_meta": {
-    "submittedBy": "sakarin",
+    "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-20T16:47:18.050Z"
+    "submittedAt": "2026-05-20T17:40:16.415Z"
   }
 }
