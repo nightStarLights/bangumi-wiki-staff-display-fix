@@ -27,7 +27,15 @@
             "ref": null,
             "text": "Dario Cei"
           },
-          "inst": "Guitar/乐器-Flute"
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Dario Cei"
+          },
+          "inst": "Flute"
         }
       ]
     },
@@ -57,7 +65,15 @@
             "ref": null,
             "text": "Dario Cei"
           },
-          "inst": "Guitar/乐器-Flute"
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Dario Cei"
+          },
+          "inst": "Flute"
         }
       ]
     },
@@ -119,7 +135,15 @@
             "ref": null,
             "text": "Dario Cei"
           },
-          "inst": "Guitar/乐器-Flute"
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Dario Cei"
+          },
+          "inst": "Flute"
         }
       ]
     },
@@ -131,7 +155,15 @@
             "ref": null,
             "text": "Dario Cei"
           },
-          "inst": "Guitar/乐器-Flute"
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Dario Cei"
+          },
+          "inst": "Flute"
         }
       ]
     },
@@ -187,11 +219,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "作词：Kirara Magic (2,3,5,6)\n作曲：Kirara Magic\n编曲：Kirara Magic\n插图：Ameru\n制作人：Kirara Magic\n\n艺术家：茶太(2)、ななひら(3)、月乃(5)、Ameru(6)\n乐器-Guitar/乐器-Flute: Dario Cei(1-4)\n乐器-Guitar: Dario Cei (6,7)"
+    "editor": "作词：Kirara Magic (2,3,5,6)\n作曲：Kirara Magic\n编曲：Kirara Magic\n插图：Ameru\n制作人：Kirara Magic\n\n艺术家：茶太(2)、ななひら(3)、月乃(5)、Ameru(6)\n乐器-Guitar: Dario Cei(1-4)\n乐器-Flute: Dario Cei(1-4)\n乐器-Guitar: Dario Cei (6,7)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-05-22T16:46:52.507Z"
+    "submittedAt": "2026-05-22T16:47:16.492Z"
   }
 }
