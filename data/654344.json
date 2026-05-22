@@ -19,6 +19,16 @@
             "text": "茶太"
           }
         }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Dario Cei"
+          },
+          "inst": "Guitar/乐器-Flute"
+        }
       ]
     },
     "1.3": {
@@ -38,6 +48,16 @@
             "ref": "p:7253",
             "text": "ななひら"
           }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Dario Cei"
+          },
+          "inst": "Guitar/乐器-Flute"
         }
       ]
     },
@@ -79,6 +99,52 @@
             "text": "Ameru"
           }
         }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Dario Cei"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.1": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Dario Cei"
+          },
+          "inst": "Guitar/乐器-Flute"
+        }
+      ]
+    },
+    "1.4": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Dario Cei"
+          },
+          "inst": "Guitar/乐器-Flute"
+        }
+      ]
+    },
+    "1.7": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Dario Cei"
+          },
+          "inst": "Guitar"
+        }
       ]
     }
   },
@@ -105,7 +171,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:93653",
+          "ref": null,
           "text": "Ameru"
         }
       }
@@ -121,11 +187,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "作词：Kirara Magic (2,3,5,6)\n作曲：Kirara Magic\n编曲：Kirara Magic\n插图：Ameru\n制作人：Kirara Magic\n\n艺术家：茶太(2)、ななひら(3)、月乃(5)、Ameru(6)"
+    "editor": "作词：Kirara Magic (2,3,5,6)\n作曲：Kirara Magic\n编曲：Kirara Magic\n插图：Ameru\n制作人：Kirara Magic\n\n艺术家：茶太(2)、ななひら(3)、月乃(5)、Ameru(6)\n乐器-Guitar/乐器-Flute: Dario Cei(1-4)\n乐器-Guitar: Dario Cei (6,7)"
   },
   "_meta": {
-    "submittedBy": "809907",
+    "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-05-22T14:09:16.638Z"
+    "submittedAt": "2026-05-22T16:46:52.507Z"
   }
 }
