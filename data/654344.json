@@ -15,18 +15,11 @@
     "1.3": {
       "artist": [
         {
-          "parts": [
-            {
-              "ref": null,
-              "text": "Nanahira"
-            },
-            " (",
-            {
-              "ref": "p:7253",
-              "text": "ななひら"
-            },
-            ")"
-          ]
+          "type": "person",
+          "person": {
+            "ref": "p:7253",
+            "text": "ななひら"
+          }
         }
       ]
     },
@@ -101,11 +94,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "作词：Kirara Magic\n作曲：Kirara Magic\n编曲：Kirara Magic\n插图：Ameru\n制作人：Kirara Magic\n\n艺术家：茶太(2)、Nanahira(ななひら)(3)、月乃(5)、Ameru(6)"
+    "editor": "作词：Kirara Magic\n作曲：Kirara Magic\n编曲：Kirara Magic\n插图：Ameru\n制作人：Kirara Magic\n\n艺术家：茶太(2)、ななひら(3)、月乃(5)、Ameru(6)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-05-22T12:11:05.522Z"
+    "submittedAt": "2026-05-22T12:26:15.143Z"
   }
 }
