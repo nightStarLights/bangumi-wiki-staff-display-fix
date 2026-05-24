@@ -38,7 +38,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:74090",
+          "ref": null,
           "text": "RockRiverRecords"
         }
       }
@@ -50,6 +50,6 @@
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-05-24T14:47:55.008Z"
+    "submittedAt": "2026-05-24T14:48:12.383Z"
   }
 }
