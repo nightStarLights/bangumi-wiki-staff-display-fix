@@ -352,7 +352,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:19928",
+            "ref": null,
             "text": "KAITO"
           }
         }
