@@ -1,0 +1,1760 @@
+{
+  "subjectId": 654796,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "結城碧"
+          }
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Lily"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "名塚友梨"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Lily"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "名塚友梨"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Morrigan"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Morrigan"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Morrigan"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "結城碧"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ぐるたみん"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Lily"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "名塚友梨"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Morrigan"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Morrigan"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Lily"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "名塚友梨"
+            },
+            ")"
+          ]
+        }
+      ],
+      "chorus": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Lily"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "名塚友梨"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Nah"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "祝千寿"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "日向さにい"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Morrigan"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "結城碧"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Lily"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "名塚友梨"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Cranky"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Cranky"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Morrigan"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "結城碧"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Lily"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "名塚友梨"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Morrigan"
+          }
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Lily"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "名塚友梨"
+            },
+            ")"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Morrigan"
+          }
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Lily"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "名塚友梨"
+            },
+            ")"
+          ]
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Morrigan"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "結城碧"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Lily"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "名塚友梨"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Morrigan"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Morrigan"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Morrigan"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "結城碧"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Lily"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "名塚友梨"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Morrigan"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Morrigan"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Morrigan"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "結城碧"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Lily"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "名塚友梨"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Morrigan"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Morrigan"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Morrigan"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "結城碧"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "くりたしげたか"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Lily"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "名塚友梨"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "結城碧"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Morrigan"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Lily"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "名塚友梨"
+            },
+            ")"
+          ]
+        }
+      ],
+      "chorus": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Lily"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "名塚友梨"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Nah"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "n.k"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "NORISTRY"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Rio"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "shack"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "TaiHEY"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "To-Lie"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "あさまる"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "いかさん"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "胃腸薬"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "影縫英"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "鯨木"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ココル原人"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "柘榴"
+          }
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "しゃも"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "みしゃも"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "スタンガン赤飯"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "月乃"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "とこのこα"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "内緒のピアス"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ニャンヤオチュー"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ピコ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "火種"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "藤山大貴"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "まるぐり"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "水野あつ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "めちゃお"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "湯毛"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "暁星ちかげ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "あしゅ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "eili"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Le-na"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Lycoris"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Seraph"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "unknown"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "有瀬りいと"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "荊棘つばき"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "えのもと"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "空華オキ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ケィニ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "小鳥遊ひより。"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ながみ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "漆海次郎"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "にーさん"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "唄音ちりん"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "未伶"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "芽々子"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "幸野綺華"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "夜鷹"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "3zya"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "4sh"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "AirI"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Bolanteen"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "EFOLG"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "eia."
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ena"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Gänger"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "hanai"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "IZUMI"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Luca"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Lucia"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Magenta"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "つきみぐー"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Minamo."
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "miyakan。"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Mqki."
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "nemu."
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "RYLLIS"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "SHU"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "skip-A"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Tee."
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ten."
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "TKS"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Vi-太"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Yoru"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "紅音0%"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "あすか"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "雨沢レイ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "あまだれ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "或夢"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "在"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "あん豆"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "一十八"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "エナ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "えびくん"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "おばけ。"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "お冷や"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "折乃りづ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "神谷 玲"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "豪愁"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "こふな瀬。"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "こるくっく"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "佐桐"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "鮫々"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "じぇれすす"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "しののめ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "志葉"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "しまみ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ツキミカド"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "テラ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ナツメア"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ななしくん"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "二ノ宮はぐ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "のあしぃ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "葉丈"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "晴夜せい"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "冬木 凪"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ふらiちはろ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "べんざ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ホシタクト"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ほんだ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ほんだちる"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "街風めい"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "◯◯-まるまる-"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "道端ノラ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "皆見朝"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "みょみょ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "めぐ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ゆーひ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "吉沢ぽわ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "夜凪セラ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "リリぴ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "りんたる"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "るむ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "兄"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "RolLe"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "わかばやし"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "綿石"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Morrigan"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "結城碧"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Lily"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "名塚友梨"
+            },
+            ")"
+          ]
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "にーさん"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "結城碧"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Morrigan"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "結城碧"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Lily"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "名塚友梨"
+            },
+            ")"
+          ]
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Morrigan"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "結城碧"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Lily"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "名塚友梨"
+            },
+            ")"
+          ]
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Morrigan"
+          }
+        }
+      ]
+    },
+    "1.13": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "結城碧"
+          }
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Lily"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "名塚友梨"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Lily"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "名塚友梨"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Morrigan"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Morrigan"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Morrigan"
+          }
+        }
+      ]
+    },
+    "1.14": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Morrigan"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Morrigan"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Morrigan"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Morrigan"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Lycoris"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "あらへなす"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "鈴ノ助"
+        }
+      }
+    ],
+    "producer": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "Lily"
+          },
+          " (",
+          {
+            "ref": null,
+            "text": "名塚友梨"
+          },
+          ")"
+        ]
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "結城碧"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "母带制作：Morrigan\n插图：Lycoris、あらへなす、鈴ノ助\n制作人：Lily(名塚友梨)、結城碧\n\n艺术家：結城碧(1,2,3,4,5,6,7,8,9,10,11,12,13)、Lily(名塚友梨)(1,13)、ぐるたみん(2)、くりたしげたか(8)\n作词：Lily(名塚友梨)(1,2,3,4,5,6,7,8,13)、Morrigan(2)、結城碧(8)\n作曲：Morrigan(1,2,4,5,6,7,8,13,14)、Cranky(3)、Lily(名塚友梨)(4)\n编曲：Morrigan(1,4,5,6,7,13,14)、Lily(名塚友梨)(2,4,8,9,11,12)、Cranky(3)\n声乐：Lily(名塚友梨)(2,8)、Nah(2,8)、祝千寿(2)、日向さにい(2)、n.k(8)、NORISTRY(8)、Rio(8)、shack(8)、TaiHEY(8)、To-Lie(8)、あさまる(8)、いかさん(8)、胃腸薬(8)、影縫英(8)、鯨木(8)、ココル原人(8)、柘榴(8)、しゃも(みしゃも)(8)、スタンガン赤飯(8)、月乃(8)、とこのこα(8)、内緒のピアス(8)、ニャンヤオチュー(8)、ピコ(8)、火種(8)、藤山大貴(8)、まるぐり(8)、水野あつ(8)、めちゃお(8)、湯毛(8)、暁星ちかげ(8)、あしゅ(8)、eili(8)、Le-na(8)、Lycoris(8)、Seraph(8)、unknown(8)、有瀬りいと(8)、荊棘つばき(8)、えのもと(8)、空華オキ(8)、ケィニ(8)、小鳥遊ひより。(8)、ながみ(8)、漆海次郎(8)、にーさん(8)、唄音ちりん(8)、未伶(8)、芽々子(8)、幸野綺華(8)、夜鷹(8)、3zya(8)、4sh(8)、AirI(8)、Bolanteen(8)、EFOLG(8)、eia.(8)、Ena(8)、Gänger(8)、hanai(8)、IZUMI(8)、Luca(8)、Lucia(8)、Magenta(8)、つきみぐー(8)、Minamo.(8)、miyakan。(8)、Mqki.(8)、nemu.(8)、RYLLIS(8)、SHU(8)、skip-A(8)、Tee.(8)、Ten.(8)、TKS(8)、Vi-太(8)、Yoru(8)、紅音0%(8)、あすか(8)、雨沢レイ(8)、あまだれ(8)、或夢(8)、在(8)、あん豆(8)、一十八(8)、エナ(8)、えびくん(8)、おばけ。(8)、お冷や(8)、折乃りづ(8)、神谷 玲(8)、豪愁(8)、こふな瀬。(8)、こるくっく(8)、佐桐(8)、鮫々(8)、じぇれすす(8)、しののめ(8)、志葉(8)、しまみ(8)、ツキミカド(8)、テラ(8)、ナツメア(8)、ななしくん(8)、二ノ宮はぐ(8)、のあしぃ(8)、葉丈(8)、晴夜せい(8)、冬木 凪(8)、ふらiちはろ(8)、べんざ(8)、ホシタクト(8)、ほんだ(8)、ほんだちる(8)、街風めい(8)、◯◯-まるまる-(8)、道端ノラ(8)、皆見朝(8)、みょみょ(8)、めぐ(8)、ゆーひ(8)、吉沢ぽわ(8)、夜凪セラ(8)、リリぴ(8)、りんたる(8)、るむ(8)、兄(8)、RolLe(8)、わかばやし(8)、綿石(8)\n混音：Morrigan(1,2,3,4,5,6,7,8,10,11,12,13,14)、にーさん(9)"
+  },
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-05-24T03:23:42.688Z"
+  }
+}
