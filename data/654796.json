@@ -81,7 +81,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:7261",
             "text": "ぐるたみん"
           }
         }
@@ -632,14 +632,14 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:40038",
             "text": "影縫英"
           }
         },
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:67909",
             "text": "鯨木"
           }
         },
@@ -1129,7 +1129,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:82315",
             "text": "あん豆"
           }
         },
@@ -1374,7 +1374,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:69539",
             "text": "みょみょ"
           }
         },
@@ -1409,7 +1409,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:47238",
             "text": "リリぴ"
           }
         },
@@ -1755,6 +1755,6 @@
   "_meta": {
     "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-05-24T03:23:58.220Z"
+    "submittedAt": "2026-05-24T03:28:04.173Z"
   }
 }
