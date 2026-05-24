@@ -1,0 +1,172 @@
+{
+  "subjectId": 655025,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93738",
+            "text": "omlet"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93738",
+            "text": "omlet"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93738",
+            "text": "omlet"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93738",
+            "text": "omlet"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93738",
+            "text": "omlet"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93738",
+            "text": "omlet"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93738",
+            "text": "omlet"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93738",
+            "text": "omlet"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93738",
+            "text": "omlet"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93738",
+            "text": "omlet"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93738",
+            "text": "omlet"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93738",
+            "text": "omlet"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hare"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hare"
+          }
+        }
+      ]
+    },
+    "1.13": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93738",
+            "text": "omlet"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：omlet(1,2,3,4,5,6,7,8,9,10,11,12,13)、Hare(12)\n作词：Hare(12)"
+  },
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-05-24T19:18:30.792Z"
+  }
+}
