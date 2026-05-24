@@ -423,33 +423,21 @@
         }
       }
     ],
+    "custom-Album Jacket Illustration": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "革蝉"
+        }
+      }
+    ],
     "illustrator": [
       {
         "type": "person",
         "person": {
           "ref": null,
-          "text": "PA-neguMA"
-        }
-      },
-      {
-        "type": "person",
-        "person": {
-          "ref": null,
-          "text": "pam"
-        }
-      },
-      {
-        "type": "person",
-        "person": {
-          "ref": null,
           "text": "toga"
-        }
-      },
-      {
-        "type": "person",
-        "person": {
-          "ref": null,
-          "text": "ととりか"
         }
       },
       {
@@ -463,14 +451,30 @@
         "type": "person",
         "person": {
           "ref": null,
-          "text": "革蝉"
+          "text": "宝井"
         }
       },
       {
         "type": "person",
         "person": {
           "ref": null,
-          "text": "宝井"
+          "text": "PA-neguMA"
+        }
+      }
+    ],
+    "custom-背景插图": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ととりか"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "pam"
         }
       }
     ],
@@ -485,11 +489,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "厂牌：ササクレイション\n母带制作：上村量\n插图：PA-neguMA、pam、toga、ととりか、ほろ、革蝉、宝井\n制作人：sasakure.UK\n\n艺术家：初音ミク(1,2,3,5,6,9)、GUMI(1,4)、ピリオ(sasakure.UK)(1,7,10)、重音テト(2,8)、KAITO(7,9)\n作词：sasakure.UK(5)、40mP(5)\n作曲：sasakure.UK(5)、40mP(5)\n编曲：sasakure.UK(5)、40mP(5)、岸田勇気(5)\n声乐：mami(2)、Annabel(3)、ピリオ(sasakure.UK)(3,4,8)\n混音：熊手徹(2)、青木悠(5)、sasakure.UK(5)\n乐器-guitar：佐々木秀尚(2)、[TEST](5)\n乐器-bass：二家本亮介(2,5)\n乐器-drums：今井義頼(2)\n乐器-keyboard：岸田勇気(2)\n乐器-Horns：J-MUSIC Ensemble(2)\n乐器-alto sax：Patrick Bartley(2)\n乐器-tenor sax：Patrick Bartley(2)\n乐器-trumpet：Max Boiko(2)\n乐器-strings：吉田宇宙(5)"
+    "editor": "厂牌：ササクレイション\n母带制作：上村量\ncustom-Album Jacket Illustration：革蝉\n插图：toga, ほろ, 宝井, PA-neguMA\ncustom-背景插图：ととりか, pam\n制作人：sasakure.UK\n\n艺术家：初音ミク(1,2,3,5,6,9)、GUMI(1,4)、ピリオ(sasakure.UK)(1,7,10)、重音テト(2,8)、KAITO(7,9)\n作词：sasakure.UK(5)、40mP(5)\n作曲：sasakure.UK(5)、40mP(5)\n编曲：sasakure.UK(5)、40mP(5)、岸田勇気(5)\n声乐：mami(2)、Annabel(3)、ピリオ(sasakure.UK)(3,4,8)\n混音：熊手徹(2)、青木悠(5)、sasakure.UK(5)\n乐器-guitar：佐々木秀尚(2)、[TEST](5)\n乐器-bass：二家本亮介(2,5)\n乐器-drums：今井義頼(2)\n乐器-keyboard：岸田勇気(2)\n乐器-Horns：J-MUSIC Ensemble(2)\n乐器-alto sax：Patrick Bartley(2)\n乐器-tenor sax：Patrick Bartley(2)\n乐器-trumpet：Max Boiko(2)\n乐器-strings：吉田宇宙(5)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-05-24T08:58:07.831Z"
+    "submittedAt": "2026-05-24T08:59:43.536Z"
   }
 }
