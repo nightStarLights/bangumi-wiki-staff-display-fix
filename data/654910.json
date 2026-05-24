@@ -1,0 +1,509 @@
+{
+  "subjectId": 654910,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "初音ミク"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "GUMI"
+          }
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "ピリオ"
+            },
+            " (",
+            {
+              "ref": "p:6237",
+              "text": "sasakure.UK"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "初音ミク"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "重音テト"
+          }
+        }
+      ],
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86870",
+            "text": "mami"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "熊手徹"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:87023",
+            "text": "佐々木秀尚"
+          },
+          "inst": "guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:74849",
+            "text": "二家本亮介"
+          },
+          "inst": "bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "今井義頼"
+          },
+          "inst": "drums"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:30494",
+            "text": "岸田勇気"
+          },
+          "inst": "keyboard"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "J-MUSIC Ensemble"
+          },
+          "inst": "Horns"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Patrick Bartley"
+          },
+          "inst": "alto sax"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Patrick Bartley"
+          },
+          "inst": "tenor sax"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Max Boiko"
+          },
+          "inst": "trumpet"
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "初音ミク"
+          }
+        }
+      ],
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6282",
+            "text": "Annabel"
+          }
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "ピリオ"
+            },
+            " (",
+            {
+              "ref": "p:6237",
+              "text": "sasakure.UK"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "初音ミク"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6237",
+            "text": "sasakure.UK"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8890",
+            "text": "40mP"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6237",
+            "text": "sasakure.UK"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8890",
+            "text": "40mP"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6237",
+            "text": "sasakure.UK"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8890",
+            "text": "40mP"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:30494",
+            "text": "岸田勇気"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "青木悠"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6237",
+            "text": "sasakure.UK"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "[TEST]"
+          },
+          "inst": "guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:74849",
+            "text": "二家本亮介"
+          },
+          "inst": "bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "吉田宇宙"
+          },
+          "inst": "strings"
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "初音ミク"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "初音ミク"
+          }
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "KAITO"
+            },
+            " (",
+            {
+              "ref": "p:19928",
+              "text": "Hiroshi Watanabe"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "GUMI"
+          }
+        }
+      ],
+      "chorus": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "ピリオ"
+            },
+            " (",
+            {
+              "ref": "p:6237",
+              "text": "sasakure.UK"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "ピリオ"
+            },
+            " (",
+            {
+              "ref": "p:6237",
+              "text": "sasakure.UK"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "KAITO"
+            },
+            " (",
+            {
+              "ref": "p:19928",
+              "text": "Hiroshi Watanabe"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "ピリオ"
+            },
+            " (",
+            {
+              "ref": "p:6237",
+              "text": "sasakure.UK"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "重音テト"
+          }
+        }
+      ],
+      "chorus": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "ピリオ"
+            },
+            " (",
+            {
+              "ref": "p:6237",
+              "text": "sasakure.UK"
+            },
+            ")"
+          ]
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ササクレイション"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "上村量"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "PA-neguMA"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "pam"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "toga"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ととりか"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ほろ"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "革蝉"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "宝井"
+        }
+      }
+    ],
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:6237",
+          "text": "sasakure.UK"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：ササクレイション\n母带制作：上村量\n插图：PA-neguMA、pam、toga、ととりか、ほろ、革蝉、宝井\n制作人：sasakure.UK\n\n艺术家：初音ミク(1,2,3,5,6,9)、GUMI(1,4)、ピリオ(sasakure.UK)(1,7,10)、重音テト(2,8)、KAITO(Hiroshi Watanabe)(7,9)\n作词：sasakure.UK(5)、40mP(5)\n作曲：sasakure.UK(5)、40mP(5)\n编曲：sasakure.UK(5)、40mP(5)、岸田勇気(5)\n声乐：mami(2)、Annabel(3)、ピリオ(sasakure.UK)(3,4,8)\n混音：熊手徹(2)、青木悠(5)、sasakure.UK(5)\n乐器-guitar：佐々木秀尚(2)、[TEST](5)\n乐器-bass：二家本亮介(2,5)\n乐器-drums：今井義頼(2)\n乐器-keyboard：岸田勇気(2)\n乐器-Horns：J-MUSIC Ensemble(2)\n乐器-alto sax：Patrick Bartley(2)\n乐器-tenor sax：Patrick Bartley(2)\n乐器-trumpet：Max Boiko(2)\n乐器-strings：吉田宇宙(5)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-05-24T08:57:33.461Z"
+  }
+}
