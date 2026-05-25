@@ -86,6 +86,24 @@
     }
   },
   "epinfo": {
+    "recording": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:92545",
+          "text": "Ayk"
+        }
+      }
+    ],
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:92545",
+          "text": "Ayk"
+        }
+      }
+    ],
     "illustrator": [
       {
         "type": "person",
@@ -106,11 +124,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "插图：鳳梨みこ\n制作人：SILENT AYATORI\n\n艺术家：鳳梨みこ(1,2)\n作词：Ayk(1)、鳳梨みこ(2)\n作曲：Ayk(1)、鳳梨みこ(2)\n编曲：Ayk(1,2)、kents(2)"
+    "editor": "录音：Ayk\n混音：Ayk\n插图：鳳梨みこ\n制作人：SILENT AYATORI\n\n艺术家：鳳梨みこ(1,2)\n作词：Ayk(1)、鳳梨みこ(2)\n作曲：Ayk(1)、鳳梨みこ(2)\n编曲：Ayk(1,2)、kents(2)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-05-25T12:16:06.225Z"
+    "submittedAt": "2026-05-25T12:54:03.085Z"
   }
 }
