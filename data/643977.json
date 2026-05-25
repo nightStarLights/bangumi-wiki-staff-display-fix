@@ -1,0 +1,116 @@
+{
+  "subjectId": 643977,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66078",
+            "text": "鳳梨みこ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:92545",
+            "text": "Ayk"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:92545",
+            "text": "Ayk"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:92545",
+            "text": "Ayk"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66078",
+            "text": "鳳梨みこ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66078",
+            "text": "鳳梨みこ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66078",
+            "text": "鳳梨みこ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:92545",
+            "text": "Ayk"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "kents"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:66078",
+          "text": "鳳梨みこ"
+        }
+      }
+    ],
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:92546",
+          "text": "SILENT AYATORI"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "插图：鳳梨みこ\n制作人：SILENT AYATORI\n\n艺术家：鳳梨みこ(1,2)\n作词：Ayk(1)、鳳梨みこ(2)\n作曲：Ayk(1)、鳳梨みこ(2)\n编曲：Ayk(1,2)、kents(2)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-05-25T12:16:06.225Z"
+  }
+}
