@@ -21,26 +21,6 @@
         }
       ]
     },
-    "1.2": {
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:90872",
-            "text": "凍傷のエト"
-          }
-        }
-      ],
-      "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:90872",
-            "text": "凍傷のエト"
-          }
-        }
-      ]
-    },
     "1.3": {
       "composer": [
         {
@@ -67,7 +47,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:91765",
+          "ref": null,
           "text": "えん"
         }
       }
@@ -101,11 +81,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：えん\n混音：夜のロサンゼルス\n母带制作：夜のロサンゼルス\n插图：あすみん\n\n作曲：iro(1)、凍傷のエト(2)、quxono(3)\n编曲：iro(1)、凍傷のエト(2)、quxono(3)"
+    "editor": "艺术家：えん\n混音：夜のロサンゼルス\n母带制作：夜のロサンゼルス\n插图：あすみん\n\n作曲：iro(1)、quxono(3)\n编曲：iro(1)、quxono(3)"
   },
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-05-25T04:28:51.731Z"
+    "submittedAt": "2026-05-25T04:28:56.191Z"
   }
 }
