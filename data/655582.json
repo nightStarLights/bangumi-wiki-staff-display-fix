@@ -1,0 +1,93 @@
+{
+  "subjectId": 655582,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83275",
+            "text": "N"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65571",
+            "text": "東雪蓮"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69029",
+            "text": "RANASOL"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:68919",
+          "text": "Adomiori"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:68919",
+          "text": "Adomiori"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:68919",
+          "text": "Adomiori"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Adomiori Sound Repository"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:93800",
+          "text": "CUZ"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "作词：Adomiori\n作曲：Adomiori\n编曲：Adomiori\n厂牌：Adomiori Sound Repository\n插图：CUZ\n\n艺术家：N(1)、東雪蓮(4)、RANASOL(5)"
+  },
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-05-26T16:14:48.373Z"
+  }
+}
