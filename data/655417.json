@@ -7,14 +7,14 @@
           "parts": [
             "漂泊者·男(CV.",
             {
-              "ref": null,
+              "ref": "p:8710",
               "text": "増田俊樹"
             },
             ")",
             " & ",
             "漂泊者·女(CV.",
             {
-              "ref": null,
+              "ref": "p:13683",
               "text": "田中美海"
             },
             ")"
@@ -59,7 +59,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:9254",
             "text": "堀江晶太"
           },
           "inst": "Bass"
@@ -75,7 +75,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:7330",
             "text": "中山真斗"
           },
           "inst": "Guitar"
@@ -83,7 +83,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:7330",
             "text": "中山真斗"
           },
           "inst": "All Other Instruments"
@@ -132,7 +132,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:46975",
           "text": "库洛游戏"
         }
       }
@@ -151,8 +151,8 @@
     "editor": "制作人: 廣井結実 \ncustom-Directer: 佐々木海斗\n混音: 藤巻兄将\n母带制作: 藤巻兄将\n厂牌: 库洛游戏\ncustom-设计: Kaoru Miyazaki\n艺术家: 漂泊者·男(CV.増田俊樹) & 漂泊者·女(CV.田中美海) (1)\n作词: 渡辺翔(1)\n作曲: 中山真斗(1)、渡辺翔(1)\n编曲: 中山真斗(1)\n乐器-Bass: 堀江晶太 (1)\n乐器-Drum:髭白健 (1)\n乐器-Guitar:中山真斗 (1)\n乐器-All Other Instruments:中山真斗 (1)"
   },
   "_meta": {
-    "submittedBy": "sakarin",
+    "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-05-26T03:43:29.216Z"
+    "submittedAt": "2026-05-26T06:40:56.582Z"
   }
 }
