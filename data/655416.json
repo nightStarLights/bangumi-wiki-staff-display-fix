@@ -50,7 +50,7 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:65570",
               "text": "Purukichi"
             },
             " feat. ",
@@ -68,7 +68,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:48924",
           "text": "Puru"
         }
       }
@@ -77,7 +77,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:31962",
           "text": "YsK439"
         }
       }
@@ -86,7 +86,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:8215",
           "text": "Diverse System"
         }
       }
@@ -98,6 +98,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-05-26T03:28:38.500Z"
+    "submittedAt": "2026-05-26T03:28:42.762Z"
   }
 }
