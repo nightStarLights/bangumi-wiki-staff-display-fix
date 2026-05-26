@@ -7,14 +7,14 @@
           "parts": [
             "漂泊者·男(CV.",
             {
-              "ref": null,
+              "ref": "p:8710",
               "text": "増田俊樹"
             },
             ")",
             " & ",
             "漂泊者·女(CV.",
             {
-              "ref": null,
+              "ref": "p:13683",
               "text": "田中美海"
             },
             ")"
@@ -25,7 +25,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:7621",
             "text": "渡辺翔"
           }
         }
@@ -34,14 +34,14 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:7330",
             "text": "中山真斗"
           }
         },
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:7621",
             "text": "渡辺翔"
           }
         }
@@ -50,7 +50,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:7330",
             "text": "中山真斗"
           }
         }
@@ -59,7 +59,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:9254",
             "text": "堀江晶太"
           },
           "inst": "Bass"
@@ -75,7 +75,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:7330",
             "text": "中山真斗"
           },
           "inst": "Guitar"
@@ -83,7 +83,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:7330",
             "text": "中山真斗"
           },
           "inst": "All Other Instruments"
@@ -132,7 +132,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:46975",
           "text": "库洛游戏"
         }
       }
@@ -144,6 +144,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-05-26T03:43:12.232Z"
+    "submittedAt": "2026-05-26T03:43:16.740Z"
   }
 }
