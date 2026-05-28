@@ -6,37 +6,8 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:69525",
-            "text": "Masayoshi Iimori"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
             "ref": null,
             "text": "DJYOUTH"
-          }
-        }
-      ]
-    },
-    "1.2": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:69525",
-            "text": "Masayoshi Iimori"
-          }
-        }
-      ]
-    },
-    "1.3": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:69525",
-            "text": "Masayoshi Iimori"
           }
         }
       ]
@@ -47,18 +18,18 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:86237",
+          "ref": null,
           "text": "TREKKIE TRAX"
         }
       }
     ]
   },
   "rawPatches": {
-    "editor": "厂牌：TREKKIE TRAX\n\n艺术家：Masayoshi Iimori(1,2,3)、DJYOUTH(1)"
+    "editor": "厂牌：TREKKIE TRAX\n\n艺术家：DJYOUTH(1)"
   },
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-05-28T15:03:10.830Z"
+    "submittedAt": "2026-05-28T15:03:12.190Z"
   }
 }
