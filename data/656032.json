@@ -1,28 +1,6 @@
 {
   "subjectId": 656032,
   "trackCredits": {
-    "1.1": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:86940",
-            "text": "andrew"
-          }
-        }
-      ]
-    },
-    "1.2": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:86939",
-            "text": "Carpainter"
-          }
-        }
-      ]
-    },
     "1.3": {
       "artist": [
         {
@@ -66,17 +44,6 @@
           }
         }
       ]
-    },
-    "1.7": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:86941",
-            "text": "Seimei"
-          }
-        }
-      ]
     }
   },
   "epinfo": {
@@ -91,18 +58,18 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:86237",
+          "ref": null,
           "text": "TREKKIE TRAX"
         }
       }
     ]
   },
   "rawPatches": {
-    "editor": "厂牌：Highball Records、TREKKIE TRAX\n\n艺术家：andrew(1)、Carpainter(2)、Fetus(3)、NirBorna(4)、K8(5)、Oyubi(6)、Seimei(7)"
+    "editor": "厂牌：Highball Records、TREKKIE TRAX\n\n艺术家：Fetus(3)、NirBorna(4)、K8(5)、Oyubi(6)"
   },
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-05-28T14:56:56.596Z"
+    "submittedAt": "2026-05-28T14:56:58.090Z"
   }
 }
