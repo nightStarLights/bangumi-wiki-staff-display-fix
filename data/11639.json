@@ -1,0 +1,572 @@
+{
+  "subjectId": 11639,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5761",
+            "text": "霜月はるか"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:3618",
+            "text": "藤田淳平"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7794",
+            "text": "菊田大介"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5761",
+            "text": "霜月はるか"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5761",
+            "text": "霜月はるか"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:3618",
+            "text": "藤田淳平"
+          }
+        }
+      ]
+    },
+    "1.13": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5761",
+            "text": "霜月はるか"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5761",
+            "text": "霜月はるか"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5910",
+            "text": "MANYO"
+          }
+        }
+      ],
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36187",
+            "text": "KAKO"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65925",
+            "text": "坂知学"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5910",
+            "text": "MANYO"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:67696",
+            "text": "渡邉\"nabeken\"賢一"
+          },
+          "inst": "Guiters"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:45639",
+            "text": "福田真一朗"
+          },
+          "inst": "Guiters"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "河瀬英樹"
+          },
+          "inst": "Bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "矢吹卓"
+          },
+          "inst": "Keyboards"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:70436",
+            "text": "矢吹正則"
+          },
+          "inst": "Drums"
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "kanaco"
+            },
+            " (",
+            {
+              "ref": "p:83259",
+              "text": "山口佳名子"
+            },
+            ")",
+            " (Violin)"
+          ]
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8810",
+            "text": "bassy"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8810",
+            "text": "bassy"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8810",
+            "text": "bassy"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:3064",
+            "text": "上松範康"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7794",
+            "text": "菊田大介"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7794",
+            "text": "菊田大介"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11154",
+            "text": "日山尚"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "ぺさま"
+            },
+            " (",
+            {
+              "ref": "p:8608",
+              "text": "ぺーじゅん"
+            },
+            ")"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "ぺさま"
+            },
+            " (",
+            {
+              "ref": "p:8608",
+              "text": "ぺーじゅん"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.7": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11154",
+            "text": "日山尚"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "ぺさま"
+            },
+            " (",
+            {
+              "ref": "p:8608",
+              "text": "ぺーじゅん"
+            },
+            ")"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "ぺさま"
+            },
+            " (",
+            {
+              "ref": "p:8608",
+              "text": "ぺーじゅん"
+            },
+            ")"
+          ]
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:76057",
+            "text": "竹花直樹"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11154",
+            "text": "日山尚"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7794",
+            "text": "菊田大介"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7794",
+            "text": "菊田大介"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11154",
+            "text": "日山尚"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5761",
+            "text": "霜月はるか"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "ぺさま"
+            },
+            " (",
+            {
+              "ref": "p:8608",
+              "text": "ぺーじゅん"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.12": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11154",
+            "text": "日山尚"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:3618",
+            "text": "藤田淳平"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:3618",
+            "text": "藤田淳平"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66112",
+            "text": "澄田まお"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:13435",
+            "text": "忍"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:13435",
+            "text": "忍"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:85906",
+            "text": "Ryo Fujimura"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10737",
+            "text": "森空青"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10737",
+            "text": "森空青"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "水坪啓一"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "水坪啓一"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10841",
+            "text": "RUCCA"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:3618",
+            "text": "藤田淳平"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:3618",
+            "text": "藤田淳平"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:5761",
+          "text": "霜月はるか"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "b-green"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:7516",
+          "text": "BUNBUN"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:264",
+          "text": "キングレコード"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：霜月はるか\n厂牌：b-green\n插图：BUNBUN\n出版方：キングレコード\n\n作词：霜月はるか(1,9,13)、bassy(2)、上松範康(3)、日山尚(4,7,8,10,12)、澄田まお(5)、Ryo Fujimura(6)、RUCCA(11)\n作曲：藤田淳平(1,11,12)、bassy(2)、菊田大介(3,8)、ぺさま(ぺーじゅん)(4,7)、忍(5)、森空青(6)、霜月はるか(9,10,13)\n编曲：菊田大介(1,3,8)、bassy(2)、ぺさま(ぺーじゅん)(4,7,10)、忍(5)、森空青(6)、藤田淳平(9,11,12)、MANYO(13)\n声乐：KAKO(13)\n录音：水坪啓一(6)、坂知学(13)、MANYO(13)\n混音：水坪啓一(6)、竹花直樹(7)\n乐器-Guiters：渡邉\"nabeken\"賢一(13)、福田真一朗(13)\n乐器-Bass：河瀬英樹(13)\n乐器-Keyboards：矢吹卓(13)\n乐器-Drums：矢吹正則(13)\n乐器-Violin：kanaco (山口佳名子)(13)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-05-28T17:45:25.616Z"
+  }
+}
