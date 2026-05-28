@@ -1,0 +1,629 @@
+{
+  "subjectId": 8115,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:13816",
+            "text": "土屋暁"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:13816",
+            "text": "土屋暁"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:13816",
+            "text": "土屋暁"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83248",
+            "text": "稲垣貴繁"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5761",
+            "text": "霜月はるか"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5909",
+            "text": "たくまる"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5909",
+            "text": "たくまる"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5761",
+            "text": "霜月はるか"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5761",
+            "text": "霜月はるか"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5909",
+            "text": "たくまる"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5761",
+            "text": "霜月はるか"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5761",
+            "text": "霜月はるか"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9037",
+            "text": "myu"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9037",
+            "text": "myu"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "石垣 CHICA"
+            },
+            " (",
+            {
+              "ref": "p:93864",
+              "text": "石垣千香"
+            },
+            ")",
+            " (Violin)"
+          ]
+        }
+      ]
+    },
+    "1.8": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5761",
+            "text": "霜月はるか"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5909",
+            "text": "たくまる"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5909",
+            "text": "たくまる"
+          }
+        }
+      ],
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ミズヒ"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5761",
+            "text": "霜月はるか"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5909",
+            "text": "たくまる"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5909",
+            "text": "たくまる"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "MSG"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.10": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5761",
+            "text": "霜月はるか"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5761",
+            "text": "霜月はるか"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "土井英範"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5761",
+            "text": "霜月はるか"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5761",
+            "text": "霜月はるか"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5910",
+            "text": "MANYO"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "飯室博"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "石垣 CHICA"
+            },
+            " (",
+            {
+              "ref": "p:93864",
+              "text": "石垣千香"
+            },
+            ")",
+            " (Violin)"
+          ]
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:75079",
+            "text": "上條貴史"
+          },
+          "inst": "Bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:5910",
+            "text": "MANYO"
+          },
+          "inst": "Hand clap"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:75079",
+            "text": "上條貴史"
+          },
+          "inst": "Hand clap"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:6310",
+            "text": "真理絵"
+          },
+          "inst": "Hand clap"
+        }
+      ]
+    },
+    "1.12": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5761",
+            "text": "霜月はるか"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "加藤恒太"
+            },
+            " (",
+            {
+              "ref": "p:5909",
+              "text": "たくまる"
+            },
+            ")"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "加藤恒太"
+            },
+            " (",
+            {
+              "ref": "p:5909",
+              "text": "たくまる"
+            },
+            ")"
+          ]
+        }
+      ],
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5761",
+            "text": "霜月はるか"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5909",
+            "text": "たくまる"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:5909",
+            "text": "たくまる"
+          },
+          "inst": "Percussion"
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "桜沢大"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1274",
+            "text": "細井聡司"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1274",
+            "text": "細井聡司"
+          }
+        }
+      ],
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5761",
+            "text": "霜月はるか"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5893",
+            "text": "片霧烈火"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1274",
+            "text": "細井聡司"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "TOMA"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "山下雅倫"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.4": {
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "六浦館"
+            },
+            " (",
+            {
+              "ref": "p:5910",
+              "text": "MANYO"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5910",
+            "text": "MANYO"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5910",
+            "text": "MANYO"
+          }
+        }
+      ],
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6310",
+            "text": "真理絵"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "MSG"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.7": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "森永桐子"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5909",
+            "text": "たくまる"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:37580",
+            "text": "HIR"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:37580",
+            "text": "HIR"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:75079",
+            "text": "上條貴史"
+          },
+          "inst": "Bass"
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:5761",
+          "text": "霜月はるか"
+        }
+      }
+    ],
+    "label": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "Mellow Head"
+          },
+          " (",
+          {
+            "ref": "p:2568",
+            "text": "メロウヘッド"
+          },
+          ")"
+        ]
+      }
+    ],
+    "publisher": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:1470",
+          "text": "ジェネオンエンタテインメント"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：霜月はるか\n厂牌：Mellow Head(メロウヘッド)\n出版方：ジェネオンエンタテインメント\n\n作词：土屋暁(1)、霜月はるか(2,5,6,8,9,10,11,12)、桜沢大(3)、六浦館(MANYO)(4)、森永桐子(7)\n作曲：土屋暁(1)、たくまる(2,7,8,9)、細井聡司(3)、MANYO(4)、霜月はるか(5,10,11)、myu(6)、加藤恒太(たくまる)(12)\n编曲：土屋暁(1)、稲垣貴繁(1)、たくまる(2,5,8,9)、細井聡司(3)、MANYO(4,11)、霜月はるか(5)、myu(6)、HIR(7)、土井英範(10)、加藤恒太(たくまる)(12)\n声乐：霜月はるか(3,12)、片霧烈火(3)、細井聡司(3)、真理絵(4)、ミズヒ(8)、たくまる(12)\n乐器-Guitar：TOMA(3)、山下雅倫(3)、MSG(4,9)、HIR(7)、飯室博(11)\n乐器-Violin：石垣 CHICA (石垣千香)(6,11)\n乐器-Bass：上條貴史(7,11)\n乐器-Hand clap：MANYO(11)、上條貴史(11)、真理絵(11)\n乐器-Percussion：たくまる(12)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-05-28T16:51:49.479Z"
+  }
+}
