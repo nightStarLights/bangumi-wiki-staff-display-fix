@@ -1,0 +1,64 @@
+{
+  "subjectId": 656100,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "fuki"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hinano"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "緒乃ワサビ"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Muu Dogg"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Laplacian"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家: fuki(1)、Hinano(2)\n作词: 緒乃ワサビ\n作曲: Muu Dogg\n厂牌: Laplacian"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-05-29T06:46:23.578Z"
+  }
+}
