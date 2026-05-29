@@ -1,0 +1,320 @@
+{
+  "subjectId": 656134,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71455",
+            "text": "NARUMI HELVETICA"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71455",
+            "text": "NARUMI HELVETICA"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71455",
+            "text": "NARUMI HELVETICA"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "NNZN"
+            },
+            " (",
+            {
+              "ref": "p:79648",
+              "text": "南前修司"
+            },
+            ")"
+          ]
+        }
+      ],
+      "mixing": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "NNZN"
+            },
+            " (",
+            {
+              "ref": "p:79648",
+              "text": "南前修司"
+            },
+            ")"
+          ]
+        }
+      ],
+      "illustrator": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "hasuimo"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "⟳"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "⟳"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "⟳"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "NNZN"
+            },
+            " (",
+            {
+              "ref": "p:79648",
+              "text": "南前修司"
+            },
+            ")"
+          ]
+        }
+      ],
+      "mixing": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "NNZN"
+            },
+            " (",
+            {
+              "ref": "p:79648",
+              "text": "南前修司"
+            },
+            ")"
+          ]
+        }
+      ],
+      "illustrator": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "⟳"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:54422",
+            "text": "由末イリ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:54422",
+            "text": "由末イリ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:54422",
+            "text": "由末イリ"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "NNZN"
+            },
+            " (",
+            {
+              "ref": "p:79648",
+              "text": "南前修司"
+            },
+            ")"
+          ]
+        }
+      ],
+      "mixing": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "NNZN"
+            },
+            " (",
+            {
+              "ref": "p:79648",
+              "text": "南前修司"
+            },
+            ")"
+          ]
+        }
+      ],
+      "illustrator": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:54422",
+            "text": "由末イリ"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66305",
+            "text": "高城みよ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66305",
+            "text": "高城みよ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66305",
+            "text": "高城みよ"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "NNZN"
+            },
+            " (",
+            {
+              "ref": "p:79648",
+              "text": "南前修司"
+            },
+            ")"
+          ]
+        }
+      ],
+      "mixing": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "NNZN"
+            },
+            " (",
+            {
+              "ref": "p:79648",
+              "text": "南前修司"
+            },
+            ")"
+          ]
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:66187",
+          "text": "現実みろ"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Que Sera Sera"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:82037",
+          "text": "組長"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:46356",
+          "text": "夜の羊雲"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：現実みろ\n厂牌：Que Sera Sera\n插图：組長、夜の羊雲\n\n作词：NARUMI HELVETICA(1)、⟳(2)、由末イリ(3)、高城みよ(4)\n作曲：NARUMI HELVETICA(1)、⟳(2)、由末イリ(3)、高城みよ(4)\n编曲：NARUMI HELVETICA(1)、⟳(2)、由末イリ(3)、高城みよ(4)\n录音：NNZN(南前修司)(1,2,3,4)\n混音：NNZN(南前修司)(1,2,3,4)\n插图：hasuimo(1)、⟳(2)、由末イリ(3)"
+  },
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-05-29T10:54:02.834Z"
+  }
+}
