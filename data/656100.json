@@ -17,7 +17,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:49331",
             "text": "Hinano"
           }
         }
@@ -29,7 +29,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:33208",
           "text": "緒乃ワサビ"
         }
       }
@@ -47,7 +47,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:30034",
           "text": "Laplacian"
         }
       }
@@ -59,6 +59,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-05-29T06:46:23.578Z"
+    "submittedAt": "2026-05-29T06:46:28.423Z"
   }
 }
