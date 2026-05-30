@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:92626",
             "text": "citrus"
           }
         }
@@ -28,7 +28,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93948",
             "text": "m4titann"
           }
         }
@@ -83,8 +83,8 @@
     "editor": "艺术家：citrus(2)、CHS(3)、m4titann(4)、0yama(5)、Null Specification(6)、岩盤浴(7)、Rio Momose(8)"
   },
   "_meta": {
-    "submittedBy": "459115",
+    "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-24T11:55:40.275Z"
+    "submittedAt": "2026-05-30T16:58:27.562Z"
   }
 }
