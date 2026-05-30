@@ -14,7 +14,7 @@
           "type": "person",
           "person": {
             "ref": null,
-            "text": "U-zhaan"
+            "text": "Uzhaan"
           }
         }
       ]
@@ -25,32 +25,14 @@
           "type": "person",
           "person": {
             "ref": null,
-            "text": "U-zhaan"
+            "text": "Uzhaan"
           }
         },
         {
           "type": "person",
           "person": {
             "ref": null,
-            "text": "環ROY"
-          }
-        }
-      ]
-    },
-    "1.22": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "U-zhaan"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "いとうせいこう"
+            "text": "環roy"
           }
         }
       ]
@@ -66,83 +48,31 @@
         }
       ]
     },
-    "1.16": {
+    "1.22": {
       "artist": [
         {
           "type": "person",
           "person": {
             "ref": null,
-            "text": "重音テト"
+            "text": "いとうせいこう"
           }
-        }
-      ]
-    },
-    "1.18": {
-      "artist": [
+        },
         {
           "type": "person",
           "person": {
             "ref": null,
-            "text": "重音テト"
+            "text": "U-zhaan"
           }
         }
       ]
     }
   },
   "epinfo": {
-    "artist": [
-      {
-        "type": "person",
-        "person": {
-          "ref": null,
-          "text": "原口沙輔"
-        }
-      }
-    ],
-    "lyricist": [
-      {
-        "type": "person",
-        "person": {
-          "ref": null,
-          "text": "いとうせいこう"
-        }
-      },
-      {
-        "type": "person",
-        "person": {
-          "ref": null,
-          "text": "環ROY"
-        }
-      },
-      {
-        "type": "person",
-        "person": {
-          "ref": null,
-          "text": "原口沙輔"
-        }
-      },
-      {
-        "type": "person",
-        "person": {
-          "ref": null,
-          "text": "鎮座DOPENESS"
-        }
-      }
-    ],
     "composer": [
       {
         "type": "person",
         "person": {
-          "ref": null,
-          "text": "原口沙輔"
-        }
-      }
-    ],
-    "arranger": [
-      {
-        "type": "person",
-        "person": {
-          "ref": null,
+          "ref": "p:59104",
           "text": "原口沙輔"
         }
       }
@@ -151,26 +81,8 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:71352",
           "text": "CDs"
-        }
-      }
-    ],
-    "mixing": [
-      {
-        "type": "person",
-        "person": {
-          "ref": null,
-          "text": "原口沙輔"
-        }
-      }
-    ],
-    "mastering": [
-      {
-        "type": "person",
-        "person": {
-          "ref": null,
-          "text": "原口沙輔"
         }
       }
     ],
@@ -178,18 +90,18 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:59104",
           "text": "原口沙輔"
         }
       }
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：原口沙輔\n作词：いとうせいこう、環ROY、原口沙輔、鎮座DOPENESS\n作曲：原口沙輔\n编曲：原口沙輔\n厂牌：CDs\n混音：原口沙輔\n母带制作：原口沙輔\n制作人：原口沙輔\n\n艺术家：鎮座DOPENESS(6)、U-zhaan(6,13,22)、月ノ美兎(11)、環ROY(13)、重音テト(16,18)、いとうせいこう(22)"
+    "editor": "作曲：原口沙輔\n厂牌：CDs\n制作人：原口沙輔\n\n艺术家：鎮座DOPENESS(6)、Uzhaan(6,13)、月ノ美兎(11)、環roy(13)、いとうせいこう(22)、U-zhaan(22)"
   },
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-05-30T09:05:50.300Z"
+    "submittedAt": "2026-05-30T09:06:39.338Z"
   }
 }
