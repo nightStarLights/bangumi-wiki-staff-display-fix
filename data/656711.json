@@ -19,7 +19,7 @@
         "type": "person",
         "person": {
           "ref": null,
-          "text": "Dominant Space艺术家：Dominant Space"
+          "text": "Dominant Space"
         }
       }
     ],
@@ -27,7 +27,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:9649",
+          "ref": null,
           "text": "Otographic Music"
         }
       }
@@ -36,18 +36,18 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:69506",
+          "ref": null,
           "text": "SoU"
         }
       }
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：Dominant Space艺术家：Dominant Space\n厂牌：Otographic Music\n插图：SoU\n\n编曲：Nhato(2)"
+    "editor": "艺术家：Dominant Space\n厂牌：Otographic Music\n插图：SoU\n\n编曲：Nhato(2)"
   },
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-05-31T08:18:27.783Z"
+    "submittedAt": "2026-05-31T08:20:02.385Z"
   }
 }
