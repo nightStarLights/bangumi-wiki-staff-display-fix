@@ -1,0 +1,208 @@
+{
+  "subjectId": 657164,
+  "trackCredits": {
+    "1.1": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:94058",
+            "text": "nion"
+          },
+          "inst": "Piano"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Imanishi"
+          },
+          "inst": "Bass"
+        }
+      ]
+    },
+    "1.2": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:94058",
+            "text": "nion"
+          },
+          "inst": "Piano"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Imanishi"
+          },
+          "inst": "Bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "マコトシアカ"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.5": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:94058",
+            "text": "nion"
+          },
+          "inst": "Piano"
+        }
+      ]
+    },
+    "1.7": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:94058",
+            "text": "nion"
+          },
+          "inst": "Piano"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Imanishi"
+          },
+          "inst": "Bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "しもぞの"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.3": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Imanishi"
+          },
+          "inst": "Bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "りっか"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.6": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Imanishi"
+          },
+          "inst": "Bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "マコトシアカ"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.4": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:72314",
+            "text": "あんいち"
+          },
+          "inst": "Bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "しもぞの"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:93455",
+          "text": "なずしろ"
+        }
+      }
+    ],
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:93455",
+          "text": "なずしろ"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:93455",
+          "text": "なずしろ"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:93455",
+          "text": "なずしろ"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:94058",
+          "text": "nion"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：なずしろ\n作词：なずしろ\n作曲：なずしろ\n编曲：なずしろ\n母带制作：nion\n\n乐器-Piano：nion(1,2,5,7)\n乐器-Bass：Imanishi(1,2,3,6,7)、あんいち(4)\n乐器-Guitar：マコトシアカ(2,6)、りっか(3)、しもぞの(4,7)"
+  },
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-06-01T12:58:08.171Z"
+  }
+}
