@@ -1,0 +1,181 @@
+{
+  "subjectId": 657129,
+  "trackCredits": {
+    "1.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:94015",
+            "text": "葉月ひな"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73528",
+            "text": "dama"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:94015",
+            "text": "葉月ひな"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73528",
+            "text": "dama"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73528",
+            "text": "dama"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73528",
+            "text": "dama"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:94015",
+            "text": "葉月ひな"
+          },
+          "inst": "Flute"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:94027",
+            "text": "舞弦ウラ"
+          },
+          "inst": "Violin"
+        }
+      ]
+    },
+    "1.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:94015",
+            "text": "葉月ひな"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "アサノマチ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:94015",
+            "text": "葉月ひな"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "アサノマチ"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73528",
+            "text": "dama"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73528",
+            "text": "dama"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:94015",
+            "text": "葉月ひな"
+          },
+          "inst": "Flute"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:94027",
+            "text": "舞弦ウラ"
+          },
+          "inst": "Violin"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:94027",
+            "text": "舞弦ウラ"
+          },
+          "inst": "Viola"
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:94015",
+          "text": "葉月ひな"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:82114",
+          "text": "星彩"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：葉月ひな\n插图：星彩\n\n作曲：葉月ひな(1,2)、dama(1)、アサノマチ(2)\n编曲：葉月ひな(1,2)、dama(1)、アサノマチ(2)\n混音：dama(1,2)\n母带制作：dama(1,2)\n乐器-Flute：葉月ひな(1,2)\n乐器-Violin：舞弦ウラ(1,2)\n乐器-Viola：舞弦ウラ(2)"
+  },
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-06-01T09:39:19.838Z"
+  }
+}
