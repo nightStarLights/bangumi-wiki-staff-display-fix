@@ -1,0 +1,721 @@
+{
+  "subjectId": 657289,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55175",
+            "text": "Nego_tiator"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83762",
+            "text": "utzbo"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:47324",
+              "text": "litmus*"
+            },
+            " ft. ",
+            {
+              "ref": null,
+              "text": "分散型自律ゴーレム"
+            }
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "りむる"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Mr.Faine"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64862",
+            "text": "muyu"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "*レイナヒトミ"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Aliesrite*"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Ym1024 feat. lamie*"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:83762",
+              "text": "utzbo"
+            },
+            " × ",
+            {
+              "ref": null,
+              "text": "etowa"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "mihira"
+            }
+          ]
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "T2o"
+            },
+            " Feat ",
+            {
+              "ref": null,
+              "text": "未名行星"
+            }
+          ]
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "NASA"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "vo.花隈千冬"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "chilldive"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Trina Lydia"
+          }
+        }
+      ]
+    },
+    "2.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "roop"
+          }
+        }
+      ]
+    },
+    "2.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15412",
+            "text": "tigerlily"
+          }
+        }
+      ]
+    },
+    "2.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Kyuzo Sameura"
+          }
+        }
+      ]
+    },
+    "2.4": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "etowa"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "mihira"
+            }
+          ]
+        }
+      ]
+    },
+    "2.5": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "ag"
+            },
+            " feat. ",
+            {
+              "ref": "p:47374",
+              "text": "倉先"
+            }
+          ]
+        }
+      ]
+    },
+    "2.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "atmbzk"
+          }
+        }
+      ]
+    },
+    "2.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "nebulaimako"
+          }
+        }
+      ]
+    },
+    "2.8": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "RykSeb"
+            },
+            " with ",
+            {
+              "ref": null,
+              "text": "Quint"
+            }
+          ]
+        }
+      ]
+    },
+    "2.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81067",
+            "text": "Lamanya"
+          }
+        }
+      ]
+    },
+    "4.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81067",
+            "text": "Lamanya"
+          }
+        }
+      ]
+    },
+    "2.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "kdcysth"
+          }
+        }
+      ]
+    },
+    "2.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Yutopia Qremia"
+          }
+        }
+      ]
+    },
+    "2.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "えびです"
+          }
+        }
+      ]
+    },
+    "3.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Neonffy"
+          }
+        }
+      ]
+    },
+    "3.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:77620",
+            "text": "HOUJIROU"
+          }
+        }
+      ]
+    },
+    "3.3": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:25689",
+              "text": "立秋"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "ちょこ"
+            }
+          ]
+        }
+      ]
+    },
+    "3.4": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:9411",
+              "text": "U-ske"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "MIE"
+            }
+          ]
+        }
+      ]
+    },
+    "3.5": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "nebulaimako"
+            },
+            " vs ",
+            {
+              "ref": null,
+              "text": "PRAYROOM"
+            }
+          ]
+        }
+      ]
+    },
+    "3.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "牧野"
+          }
+        }
+      ]
+    },
+    "3.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "shadow_bling"
+          }
+        }
+      ]
+    },
+    "3.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "AIR"
+          }
+        }
+      ]
+    },
+    "3.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Fisky"
+          }
+        }
+      ]
+    },
+    "3.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "VXΛ"
+          }
+        }
+      ]
+    },
+    "3.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Heya"
+          }
+        }
+      ]
+    },
+    "3.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "NoKANY"
+          }
+        }
+      ]
+    },
+    "4.1": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "noyrfa"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "tanP"
+            }
+          ]
+        }
+      ]
+    },
+    "4.2": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:69634",
+              "text": "LucaProject"
+            },
+            " vs ",
+            {
+              "ref": null,
+              "text": "Neptune"
+            },
+            " X ",
+            {
+              "ref": null,
+              "text": "I"
+            }
+          ]
+        }
+      ]
+    },
+    "4.3": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "らふむ"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "lufm"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "4.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Abel"
+          }
+        }
+      ]
+    },
+    "4.5": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "F411εν"
+            },
+            " vs ",
+            {
+              "ref": null,
+              "text": "watch"
+            }
+          ]
+        }
+      ]
+    },
+    "4.7": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Lidelle"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "eili"
+            },
+            " + ",
+            {
+              "ref": null,
+              "text": "AKA"
+            }
+          ]
+        }
+      ]
+    },
+    "4.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Lime / Kankitsu"
+          }
+        }
+      ]
+    },
+    "4.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:88616",
+            "text": "kooridori"
+          }
+        }
+      ]
+    },
+    "4.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66912",
+            "text": "otoshi.b"
+          }
+        }
+      ]
+    },
+    "4.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "UANwork"
+          }
+        }
+      ]
+    },
+    "4.12": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Arkplot"
+            },
+            " × ",
+            {
+              "ref": "p:55175",
+              "text": "Nego_tiator"
+            }
+          ]
+        }
+      ]
+    },
+    "4.13": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:91873",
+              "text": "Juka_Box"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "綜花"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "GroundbreakinG"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:48924",
+          "text": "Puru"
+        }
+      }
+    ],
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:84403",
+          "text": "FALL"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Landscaper"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：GroundbreakinG\n母带制作：Puru\n制作人：FALL、Landscaper\n\n艺术家：Nego_tiator(1.1)、utzbo(1.2)、litmus* ft. 分散型自律ゴーレム(1.3)、りむる(1.3)、Mr.Faine(1.4)、muyu(1.5)、*レイナヒトミ(1.6)、Aliesrite* (Ym1024 feat. lamie*)(1.7)、utzbo × etowa feat.mihira(1.8)、T2o Feat 未名行星(1.9)、NASA (vo.花隈千冬)(1.10)、chilldive(1.11)、Trina Lydia(1.12)、roop(2.1)、tigerlily(2.2)、Kyuzo Sameura(2.3)、etowa feat.mihira(2.4)、ag feat. 倉先(2.5)、atmbzk(2.6)、nebulaimako(2.7)、RykSeb with Quint(2.8)、Lamanya(2.9,4.6)、kdcysth(2.10)、Yutopia Qremia(2.11)、えびです(2.12)、Neonffy(3.1)、HOUJIROU(3.2)、立秋 feat.ちょこ(3.3)、U-ske feat. MIE(3.4)、nebulaimako vs PRAYROOM(3.5)、牧野(3.6)、shadow_bling(3.7)、AIR(3.8)、Fisky(3.9)、VXΛ(3.10)、Heya(3.11)、NoKANY(3.12)、noyrfa feat. tanP(4.1)、LucaProject vs Neptune XI(4.2)、らふむ(lufm)(4.3)、Abel(4.4)、F411εν vs watch(4.5)、Lidelle feat. eili + AKA(4.7)、《Lime / Kankitsu》(4.8)、kooridori(4.9)、otoshi.b(4.10)、UANwork(4.11)、Arkplot × Nego_tiator(4.12)、Juka_Box feat. 綜花(4.13)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-06-01T16:26:08.216Z"
+  }
+}
