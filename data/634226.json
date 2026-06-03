@@ -1,0 +1,188 @@
+{
+  "subjectId": 634226,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "牛丸ありさ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "牛丸ありさ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Taiyo Doki"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91793",
+            "text": "yonige"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "牛丸ありさ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "牛丸ありさ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Taiyo Doki"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91793",
+            "text": "yonige"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "牛丸ありさ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "牛丸ありさ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Taiyo Doki"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91793",
+            "text": "yonige"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "牛丸ありさ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "牛丸ありさ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Taiyo Doki"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:91793",
+          "text": "yonige"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Epic"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:10006",
+          "text": "吉成鋼"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:28606",
+          "text": "ソニー・ミュージックソリューションズ"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：yonige\n厂牌：Epic\n插图：吉成鋼\n出版方：ソニー・ミュージックソリューションズ\n\n作词：牛丸ありさ(1.1,1.2,1.3,1.4)\n作曲：牛丸ありさ(1.1,1.2,1.3,1.4)\n编曲：Taiyo Doki(1.1,1.2,1.3,1.4)、yonige(1.1,1.2,1.3)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-06-03T11:35:44.557Z"
+  }
+}
