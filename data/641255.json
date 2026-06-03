@@ -169,7 +169,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:94115",
             "text": "イマニシ"
           }
         }
@@ -178,7 +178,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:94115",
             "text": "イマニシ"
           }
         }
@@ -187,7 +187,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:94115",
             "text": "イマニシ"
           }
         }
@@ -442,8 +442,8 @@
     "editor": "作词：皆川溺(1)、KBSNK(2)、Adomiori(3)、KAIRUI(4)、Uztama(5)、イマニシ(6)、灰色ねむり(7)、ともだち(8)、可ラッカ(9)、rinri(10)、kaza(11)、シャノン(12)\n作曲：皆川溺(1)、KBSNK(2)、Adomiori(3)、KAIRUI(4)、Uztama(5)、イマニシ(6)、灰色ねむり(7)、ともだち(8)、可ラッカ(9)、rinri(10)、kaza(11)、effe(11)、シャノン(12)\n编曲：皆川溺(1)、KBSNK(2)、Adomiori(3)、KAIRUI(4)、Uztama(5)、イマニシ(6)、灰色ねむり(7)、ともだち(8)、可ラッカ(9)、rinri(10)、effe(11)、シャノン(12)\n混音：ししおー(1,3,7,8,10,11)、uhei(6)、chill(9,12)"
   },
   "_meta": {
-    "submittedBy": "sakarin",
+    "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-13T11:34:13.527Z"
+    "submittedAt": "2026-06-03T15:54:40.509Z"
   }
 }
