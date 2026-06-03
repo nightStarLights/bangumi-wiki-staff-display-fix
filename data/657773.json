@@ -117,7 +117,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:91793",
           "text": "yonige"
         }
       }
@@ -129,6 +129,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-06-03T11:44:18.875Z"
+    "submittedAt": "2026-06-03T11:44:25.207Z"
   }
 }
