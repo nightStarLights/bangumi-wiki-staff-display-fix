@@ -4,165 +4,285 @@
     "1.1": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:92520",
-            "text": "宵夜Mpa"
-          }
+          "parts": [
+            {
+              "ref": "p:92520",
+              "text": "宵夜Mpa"
+            },
+            " ft. ",
+            {
+              "ref": null,
+              "text": "诗岸"
+            }
+          ]
         }
       ]
     },
     "1.2": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "鹿野潭之"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "鹿野潭之"
+            },
+            " ft. ",
+            {
+              "ref": null,
+              "text": "诗岸"
+            }
+          ]
         }
       ]
     },
     "1.3": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "雨樱"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "雨樱"
+            },
+            " ft. ",
+            {
+              "ref": null,
+              "text": "诗岸"
+            }
+          ]
         }
       ]
     },
     "1.4": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "XenonP"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "XenonP"
+            },
+            " ft. ",
+            {
+              "ref": null,
+              "text": "洛天依"
+            }
+          ]
         }
       ]
     },
     "1.5": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "TerminalP"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "TerminalP"
+            },
+            " ft. ",
+            {
+              "ref": null,
+              "text": "诗岸"
+            },
+            " & ",
+            {
+              "ref": null,
+              "text": "ナースロボ_タイプT"
+            }
+          ]
         }
       ]
     },
     "1.6": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "hanayaP"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "hanayaP"
+            },
+            " ft. ",
+            {
+              "ref": null,
+              "text": "洛天依"
+            }
+          ]
         }
       ]
     },
     "1.7": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "藕卜切片"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "藕卜切片"
+            },
+            " ft. ",
+            {
+              "ref": null,
+              "text": "重音テト"
+            }
+          ]
         }
       ]
     },
     "1.8": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Hsichun"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "Hsichun"
+            },
+            " ft. ",
+            {
+              "ref": null,
+              "text": "重音テト"
+            },
+            " & ",
+            {
+              "ref": null,
+              "text": "Mai"
+            }
+          ]
         }
       ]
     },
     "1.9": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "愈忧"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "愈忧"
+            },
+            " ft. ",
+            {
+              "ref": null,
+              "text": "言和"
+            }
+          ]
         }
       ]
     },
     "1.10": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "3xREV"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "3xREV"
+            },
+            " ft. ",
+            {
+              "ref": null,
+              "text": "GUMI"
+            }
+          ]
         }
       ]
     },
     "1.11": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Broken_T"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "Broken_T"
+            },
+            " ft. ",
+            {
+              "ref": null,
+              "text": "宮舞モカ"
+            },
+            " & ",
+            {
+              "ref": null,
+              "text": "弦卷マキ"
+            }
+          ]
         }
       ]
     },
     "1.12": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "crash909☆"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "crash909☆"
+            },
+            " ft. ",
+            {
+              "ref": null,
+              "text": "花隈千冬"
+            }
+          ]
         }
       ]
     },
     "1.13": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Karasu乌鸦P"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "Karasu乌鸦P"
+            },
+            " ft. ",
+            {
+              "ref": null,
+              "text": "星尘Infinity"
+            },
+            " & ",
+            {
+              "ref": null,
+              "text": "诗岸"
+            }
+          ]
         }
       ]
     },
     "1.14": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:70257",
-            "text": "神遛儿"
-          }
+          "parts": [
+            {
+              "ref": "p:70257",
+              "text": "神遛儿"
+            },
+            " ft. ",
+            {
+              "ref": null,
+              "text": "重音テト"
+            }
+          ]
         }
       ]
     },
     "1.15": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Xit宇"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "Xit宇"
+            },
+            " ft. ",
+            {
+              "ref": null,
+              "text": "重音テト"
+            },
+            " & ",
+            {
+              "ref": null,
+              "text": "Mai"
+            },
+            " & ",
+            {
+              "ref": null,
+              "text": "从铮"
+            }
+          ]
         }
       ]
     }
@@ -188,11 +308,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "厂牌：铁头动力 T^T Dynamics\n插图：米粥\n\n艺术家：宵夜Mpa(1)、鹿野潭之(2)、雨樱(3)、XenonP(4)、TerminalP(5)、hanayaP(6)、藕卜切片(7)、Hsichun(8)、愈忧(9)、3xREV(10)、Broken_T(11)、crash909☆(12)、Karasu乌鸦P(13)、神遛儿(14)、Xit宇(15)"
+    "editor": "厂牌：铁头动力 T^T Dynamics\n插图：米粥\n\n艺术家：宵夜Mpa ft. 诗岸(1)、鹿野潭之 ft. 诗岸(2)、雨樱 ft. 诗岸(3)、XenonP ft. 洛天依(4)、TerminalP ft. 诗岸 & ナースロボ_タイプT(5)、hanayaP ft. 洛天依(6)、藕卜切片 ft. 重音テト(7)、Hsichun ft. 重音テト & Mai(8)、愈忧 ft. 言和(9)、3xREV ft. GUMI(10)、Broken_T ft. 宮舞モカ & 弦卷マキ(11)、crash909☆ ft. 花隈千冬(12)、Karasu乌鸦P ft. 星尘Infinity & 诗岸(13)、神遛儿 ft. 重音テト(14)、Xit宇 ft. 重音テト & Mai & 从铮(15)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-06-04T17:25:41.559Z"
+    "submittedAt": "2026-06-04T17:28:50.127Z"
   }
 }
