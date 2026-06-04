@@ -305,14 +305,23 @@
           "text": "米粥"
         }
       }
+    ],
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "云南山歌研究会"
+        }
+      }
     ]
   },
   "rawPatches": {
-    "editor": "厂牌：铁头动力 T^T Dynamics\n插图：米粥\n\n艺术家：宵夜Mpa ft. 诗岸(1)、鹿野潭之 ft. 诗岸(2)、雨樱 ft. 诗岸(3)、XenonP ft. 洛天依(4)、TerminalP ft. 诗岸 & ナースロボ_タイプT(5)、hanayaP ft. 洛天依(6)、藕卜切片 ft. 重音テト(7)、Hsichun ft. 重音テト & Mai(8)、愈忧 ft. 言和(9)、3xREV ft. GUMI(10)、Broken_T ft. 宮舞モカ & 弦卷マキ(11)、crash909☆ ft. 花隈千冬(12)、Karasu乌鸦P ft. 星尘Infinity & 诗岸(13)、神遛儿 ft. 重音テト(14)、Xit宇 ft. 重音テト & Mai & 从铮(15)"
+    "editor": "厂牌：铁头动力 T^T Dynamics\n插图：米粥\n制作人: 云南山歌研究会\n艺术家：宵夜Mpa ft. 诗岸(1)、鹿野潭之 ft. 诗岸(2)、雨樱 ft. 诗岸(3)、XenonP ft. 洛天依(4)、TerminalP ft. 诗岸 & ナースロボ_タイプT(5)、hanayaP ft. 洛天依(6)、藕卜切片 ft. 重音テト(7)、Hsichun ft. 重音テト & Mai(8)、愈忧 ft. 言和(9)、3xREV ft. GUMI(10)、Broken_T ft. 宮舞モカ & 弦卷マキ(11)、crash909☆ ft. 花隈千冬(12)、Karasu乌鸦P ft. 星尘Infinity & 诗岸(13)、神遛儿 ft. 重音テト(14)、Xit宇 ft. 重音テト & Mai & 从铮(15)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-06-04T17:28:50.127Z"
+    "submittedAt": "2026-06-04T17:35:37.165Z"
   }
 }
