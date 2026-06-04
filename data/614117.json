@@ -1,0 +1,24 @@
+{
+  "subjectId": 614117,
+  "trackCredits": {
+    "1.4": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ジムノケイ"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "编曲：ジムノケイ(4)"
+  },
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-06-04T16:57:47.243Z"
+  }
+}
