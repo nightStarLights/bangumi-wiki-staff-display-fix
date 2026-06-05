@@ -12,24 +12,6 @@
         }
       ]
     },
-    "1.2": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Pvin Connect Reason"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "144p"
-          }
-        }
-      ]
-    },
     "1.3": {
       "artist": [
         {
@@ -37,38 +19,6 @@
           "person": {
             "ref": null,
             "text": "Pvin Connect Reason"
-          }
-        }
-      ]
-    },
-    "1.4": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Pvin Connect Reason"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "初音ミク"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "RAM FIGHTER"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:77515",
-            "text": "yaginiwa"
           }
         }
       ]
@@ -117,24 +67,6 @@
         }
       ]
     },
-    "1.9": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Pvin Connect Reason"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Frau"
-          }
-        }
-      ]
-    },
     "1.10": {
       "artist": [
         {
@@ -156,6 +88,67 @@
           }
         }
       ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Pvin Connect Reason"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "144p"
+            }
+          ]
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Pvin Connect Reason"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "初音ミク"
+            },
+            " & ",
+            {
+              "ref": null,
+              "text": "RAM FIGHTER"
+            },
+            " & ",
+            {
+              "ref": "p:77515",
+              "text": "yaginiwa"
+            }
+          ]
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Pvin Connect Reason"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "Frau"
+            }
+          ]
+        }
+      ]
     }
   },
   "epinfo": {
@@ -170,11 +163,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "制作人：Pvin Connect Reason\n\n艺术家：Pvin Connect Reason(1,2,3,4,5,6,7,8,9,10,11)、144p(2)、初音ミク(4)、RAM FIGHTER(4)、yaginiwa(4)、Frau(9)"
+    "editor": "制作人：Pvin Connect Reason\n\n艺术家：Pvin Connect Reason(1,3,,5,6,7,8,10,11)、Pvin Connect Reason feat.144p(2)、Pvin Connect Reason feat. 初音ミク & RAM FIGHTER & yaginiwa(4)、Pvin Connect Reason feat. Frau(9)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-06-05T18:46:48.174Z"
+    "submittedAt": "2026-06-05T18:47:52.225Z"
   }
 }
