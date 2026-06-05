@@ -27,18 +27,11 @@
           }
         },
         {
-          "parts": [
-            {
-              "ref": null,
-              "text": "静月星海"
-            },
-            " (",
-            {
-              "ref": null,
-              "text": "二色幽紫蝶"
-            },
-            ")"
-          ]
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "静月星海"
+          }
         }
       ],
       "arranger": [
@@ -269,7 +262,7 @@
           "type": "person",
           "person": {
             "ref": null,
-            "text": "静月星海（二色幽紫蝶）"
+            "text": "静月星海"
           }
         }
       ],
@@ -403,7 +396,7 @@
           "type": "person",
           "person": {
             "ref": null,
-            "text": "静月星海（二色幽紫蝶）"
+            "text": "静月星海"
           }
         }
       ],
@@ -455,11 +448,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "厂牌：bunny rhyTHm、Dichroic Purpilion\n\n艺术家：缨缨Ei(1,2,3,4,5,6,7)、琉芸Miruku(1,7)\n作词：氷霜暗月(1,2,3,4,5,6,7)、静月星海(二色幽紫蝶)(1)、穰静叶(4)、静月星海（二色幽紫蝶）(5,7)\n编曲：Rayven(1,3,4,5,7)、术晴(2)、zayze_(6)\n混音：小洋(1,2,3,4,5,6,7)\n母带制作：小洋(1,2,3,4,5,6,7)\n乐器-Guitar：Rayven(1)、术晴(2)、zayze_(4,6)\n乐器-Bass：zayze_(6)\n乐器-Drums：zayze_(6)"
+    "editor": "厂牌：bunny rhyTHm、Dichroic Purpilion\n\n艺术家：缨缨Ei(1,2,3,4,5,6,7)、琉芸Miruku(1,7)\n作词：氷霜暗月(1,2,3,4,5,6,7)、静月星海(1)、穰静叶(4)、静月星海(5,7)\n编曲：Rayven(1,3,4,5,7)、术晴(2)、zayze_(6)\n混音：小洋(1,2,3,4,5,6,7)\n母带制作：小洋(1,2,3,4,5,6,7)\n乐器-Guitar：Rayven(1)、术晴(2)、zayze_(4,6)\n乐器-Bass：zayze_(6)\n乐器-Drums：zayze_(6)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-06-05T09:49:35.604Z"
+    "submittedAt": "2026-06-05T09:50:08.449Z"
   }
 }
