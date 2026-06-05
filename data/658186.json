@@ -160,14 +160,41 @@
           "text": "Pvin Connect Reason"
         }
       }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "davyvolnutt"
+        }
+      }
+    ],
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "cultme ERAN"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "cultme ERAN 144p"
+        }
+      }
     ]
   },
   "rawPatches": {
-    "editor": "制作人：Pvin Connect Reason\n\n艺术家：Pvin Connect Reason(1,3,,5,6,7,8,10,11)、Pvin Connect Reason feat.144p(2)、Pvin Connect Reason feat. 初音ミク & RAM FIGHTER & yaginiwa(4)、Pvin Connect Reason feat. Frau(9)"
+    "editor": "制作人：Pvin Connect Reason\n插图: davyvolnutt\nMixing: cultme ERAN\nMastering: cultme ERAN 144p\n\n艺术家：Pvin Connect Reason(1,3,,5,6,7,8,10,11)、Pvin Connect Reason feat.144p(2)、Pvin Connect Reason feat. 初音ミク & RAM FIGHTER & yaginiwa(4)、Pvin Connect Reason feat. Frau(9)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-06-05T18:47:52.225Z"
+    "submittedAt": "2026-06-05T18:50:26.056Z"
   }
 }
