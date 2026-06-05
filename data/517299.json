@@ -1,0 +1,195 @@
+{
+  "subjectId": 517299,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70695",
+            "text": "缨缨Ei"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70687",
+            "text": "琉芸Miruku"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70686",
+            "text": "氷霜暗月"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "静月星海"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70682",
+            "text": "Rayven"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "小洋"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "小洋"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:70682",
+            "text": "Rayven"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70695",
+            "text": "缨缨Ei"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70687",
+            "text": "琉芸Miruku"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70686",
+            "text": "氷霜暗月"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "静月星海"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70682",
+            "text": "Rayven"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "小洋"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "小洋"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70682",
+            "text": "Rayven"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:70682",
+            "text": "Rayven"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.4": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70682",
+            "text": "Rayven"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "bunny rhyTHm"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Dichroic Purpilion"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：bunny rhyTHm、Dichroic Purpilion\n\n艺术家：缨缨Ei(1,2)、琉芸Miruku(1,2)\n作词：氷霜暗月(1,2)、静月星海(1,2)\n编曲：Rayven(1,2,3,4)\n混音：小洋(1,2)\n母带制作：小洋(1,2)\n乐器-Guitar：Rayven(1,3)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-06-05T09:55:47.462Z"
+  }
+}
