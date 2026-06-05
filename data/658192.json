@@ -81,22 +81,36 @@
     "1.8": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Maple Cafeteria"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "Maple Cafeteria"
+            },
+            " (",
+            {
+              "ref": "p:94198",
+              "text": "Yupel"
+            },
+            ")"
+          ]
         }
       ]
     },
     "1.10": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Maple Cafeteria"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "Maple Cafeteria"
+            },
+            " (",
+            {
+              "ref": "p:94198",
+              "text": "Yupel"
+            },
+            ")"
+          ]
         }
       ]
     },
@@ -135,7 +149,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:94198",
+          "ref": null,
           "text": "Yupel"
         }
       },
@@ -149,11 +163,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "厂牌：Letter of sounds\n插图：舞桜\n制作人：Yupel、舞桜\n\n艺术家：wagataki(1)、muyu(2,5)、Yupel(3,6)、Chanor(4)、Shimoui(7)、Maple Cafeteria(8,10)、やどりぎ(9)"
+    "editor": "厂牌：Letter of sounds\n插图：舞桜\n制作人：Yupel、舞桜\n\n艺术家：wagataki(1)、muyu(2,5)、Yupel(3,6)、Chanor(4)、Shimoui(7)、Maple Cafeteria(Yupel)(8,10)、やどりぎ(9)"
   },
   "_meta": {
     "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-06-05T22:03:20.053Z"
+    "submittedAt": "2026-06-05T22:03:42.451Z"
   }
 }
