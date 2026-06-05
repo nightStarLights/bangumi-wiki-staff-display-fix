@@ -1,0 +1,145 @@
+{
+  "subjectId": 518320,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6577",
+            "text": "tororo"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6577",
+            "text": "tororo"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Mas Sawada"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Mas Sawada"
+          },
+          "inst": "Drums"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Mas Sawada"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Blcky 藤原"
+          },
+          "inst": "Guitar Solo"
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6577",
+            "text": "tororo"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:13272",
+            "text": "猫野こめっと"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:13272",
+            "text": "猫野こめっと"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Blcky 藤原"
+          },
+          "inst": "Guitar Solo"
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:7026",
+          "text": "yozuca*"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:1339",
+          "text": "CIRCUS"
+        }
+      }
+    ],
+    "recording": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "R/B2 studio"
+        }
+      }
+    ],
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Mas Sawada"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：yozuca*\n厂牌：CIRCUS\n录音：《R/B2 studio》\n制作人：Mas Sawada\n\n作词：tororo(1,2)\n作曲：tororo(1)、猫野こめっと(2)\n编曲：Mas Sawada(1)、猫野こめっと(2)\n乐器-Drums：Mas Sawada(1)\n乐器-Guitar：Mas Sawada(1)\n乐器-Guitar Solo：Blcky 藤原(1,2)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-06-05T10:07:54.947Z"
+  }
+}
