@@ -24,7 +24,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:94188",
             "text": "Mas Sawada"
           }
         }
@@ -33,7 +33,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:94188",
             "text": "Mas Sawada"
           },
           "inst": "Drums"
@@ -41,7 +41,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:94188",
             "text": "Mas Sawada"
           },
           "inst": "Guitar"
@@ -128,7 +128,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:94188",
           "text": "Mas Sawada"
         }
       }
@@ -140,6 +140,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-06-05T10:07:54.947Z"
+    "submittedAt": "2026-06-05T10:08:50.323Z"
   }
 }
