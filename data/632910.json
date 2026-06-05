@@ -162,7 +162,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:77728",
+          "ref": null,
           "text": "汽元象レコード"
         }
       }
@@ -200,14 +200,23 @@
           "text": "矢口和弥"
         }
       }
+    ],
+    "custom-Visualizar": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "yi"
+        }
+      }
     ]
   },
   "rawPatches": {
-    "editor": "厂牌：Local Visions、汽元象レコード\n母带制作：Tsudio Studio\n插图：yuwa hozaki\n制作人：sute_aca、矢口和弥\n\n艺术家：Mellow Blush(1)、長瀬有花(2,3,4,5,7,8,9)、こ.Oyama(2)、オリーブがある(3)、Tsudio Studio(4)、upusen(5)、Rhino kawara(6)、自由ヶ丘(7)、Sonic Module(8)、AOTQ(9)"
+    "editor": "厂牌：Local Visions、汽元象レコード\n母带制作：Tsudio Studio\n插图：yuwa hozaki\n制作人：sute_aca、矢口和弥\ncustom-Visualizar: yi\n\n艺术家：Mellow Blush(1)、長瀬有花(2,3,4,5,7,8,9)、こ.Oyama(2)、オリーブがある(3)、Tsudio Studio(4)、upusen(5)、Rhino kawara(6)、自由ヶ丘(7)、Sonic Module(8)、AOTQ(9)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-06-05T04:40:35.011Z"
+    "submittedAt": "2026-06-05T04:42:03.343Z"
   }
 }
