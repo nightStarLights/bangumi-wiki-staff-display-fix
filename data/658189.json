@@ -1,0 +1,247 @@
+{
+  "subjectId": 658189,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25690",
+            "text": "ちょこ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Athan_Lily"
+            },
+            " (",
+            {
+              "ref": "p:18691",
+              "text": "A than_Lily"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Athan_Lily"
+            },
+            " (",
+            {
+              "ref": "p:18691",
+              "text": "A than_Lily"
+            },
+            ")"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Athan_Lily"
+            },
+            " (",
+            {
+              "ref": "p:18691",
+              "text": "A than_Lily"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25690",
+            "text": "ちょこ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8102",
+            "text": "かたほとり"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8102",
+            "text": "かたほとり"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8102",
+            "text": "かたほとり"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25690",
+            "text": "ちょこ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:42190",
+            "text": "Kijibato"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:42190",
+            "text": "Kijibato"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:42190",
+            "text": "Kijibato"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25690",
+            "text": "ちょこ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Athan_Lily"
+            },
+            " (",
+            {
+              "ref": "p:18691",
+              "text": "A than_Lily"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Athan_Lily"
+            },
+            " (",
+            {
+              "ref": "p:18691",
+              "text": "A than_Lily"
+            },
+            ")"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Athan_Lily"
+            },
+            " (",
+            {
+              "ref": "p:18691",
+              "text": "A than_Lily"
+            },
+            ")"
+          ]
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "parts": [
+          {
+            "ref": "p:25690",
+            "text": "ちょこ"
+          },
+          "っとだけ"
+        ]
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:35068",
+          "text": "かそかそ"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "木下沙沙美"
+        }
+      }
+    ],
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:25690",
+          "text": "ちょこ"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：ちょこっとだけ\n母带制作：かそかそ\n插图：木下沙沙美\n制作人：ちょこ\n\n艺术家：ちょこ(1,2,3,4)\n作词：Athan_Lily(A than_Lily)(1,4)、かたほとり(2)、Kijibato(3)\n作曲：Athan_Lily(A than_Lily)(1,4)、かたほとり(2)、Kijibato(3)\n编曲：Athan_Lily(A than_Lily)(1,4)、かたほとり(2)、Kijibato(3)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-06-05T19:10:07.208Z"
+  }
+}
