@@ -1,0 +1,372 @@
+{
+  "subjectId": 614534,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64712",
+            "text": "CS4W"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64712",
+            "text": "CS4W"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64712",
+            "text": "CS4W"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64712",
+            "text": "CS4W"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64712",
+            "text": "CS4W"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68921",
+            "text": "RYOQUCHA"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64712",
+            "text": "CS4W"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68921",
+            "text": "RYOQUCHA"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64712",
+            "text": "CS4W"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64712",
+            "text": "CS4W"
+          }
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "ぴれんどらー"
+            },
+            " (",
+            {
+              "ref": "p:82370",
+              "text": "Pirendora"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64712",
+            "text": "CS4W"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82369",
+            "text": "KONPEKi"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64712",
+            "text": "CS4W"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68921",
+            "text": "RYOQUCHA"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64712",
+            "text": "CS4W"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64712",
+            "text": "CS4W"
+          }
+        }
+      ]
+    },
+    "1.13": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64712",
+            "text": "CS4W"
+          }
+        }
+      ]
+    },
+    "1.14": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64712",
+            "text": "CS4W"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "GARBAGECAN"
+          }
+        }
+      ]
+    },
+    "1.15": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64712",
+            "text": "CS4W"
+          }
+        }
+      ]
+    },
+    "1.16": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64712",
+            "text": "CS4W"
+          }
+        }
+      ]
+    },
+    "1.17": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64712",
+            "text": "CS4W"
+          }
+        }
+      ]
+    },
+    "1.18": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64712",
+            "text": "CS4W"
+          }
+        }
+      ]
+    },
+    "1.19": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64712",
+            "text": "CS4W"
+          }
+        }
+      ]
+    },
+    "1.20": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64712",
+            "text": "CS4W"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68921",
+            "text": "RYOQUCHA"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82369",
+            "text": "KONPEKi"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "真白あまね"
+          }
+        }
+      ]
+    },
+    "1.21": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64712",
+            "text": "CS4W"
+          }
+        }
+      ]
+    },
+    "1.22": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64712",
+            "text": "CS4W"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67306",
+            "text": "冬街緑"
+          }
+        }
+      ]
+    },
+    "1.23": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64712",
+            "text": "CS4W"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67306",
+            "text": "冬街緑"
+          }
+        }
+      ]
+    },
+    "1.24": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64712",
+            "text": "CS4W"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:64712",
+          "text": "CS4W"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：CS4W\n\n艺术家：CS4W(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24)、RYOQUCHA(5,6,10,20)、ぴれんどらー(Pirendora)(8)、KONPEKi(9,20)、GARBAGECAN(14)、真白あまね(20)、《冬街緑》(22,23)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-06-05T11:14:05.244Z"
+  }
+}
