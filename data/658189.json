@@ -199,13 +199,11 @@
   "epinfo": {
     "label": [
       {
-        "parts": [
-          {
-            "ref": "p:25690",
-            "text": "ちょこ"
-          },
-          "っとだけ"
-        ]
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ちょこっとだけ"
+        }
       }
     ],
     "mastering": [
