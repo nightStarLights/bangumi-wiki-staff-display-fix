@@ -1,0 +1,172 @@
+{
+  "subjectId": 642022,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "普阿山"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "普阿山"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:46026",
+            "text": "HeartStrings"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:46026",
+            "text": "HeartStrings"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "刘三斤"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "刘三斤"
+          }
+        }
+      ],
+      "producer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:46026",
+            "text": "HeartStrings"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "阿澜"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "8:48"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "8:48"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "8:48"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "早餐"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "早餐"
+          }
+        }
+      ],
+      "producer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "8:48"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "METAL SCAR RADIO"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:30785",
+          "text": "鹰角网络"
+        }
+      }
+    ],
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "MSR Studio"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：METAL SCAR RADIO\n出版方：鹰角网络\n制作人：MSR Studio\n\n艺术家：普阿山(1)、阿澜(2)\n作词：普阿山(1)、8:48(2)\n作曲：HeartStrings(1)、8:48(2)\n编曲：HeartStrings(1)、8:48(2)\n录音：早餐(2)\n混音：刘三斤(1)、早餐(2)\n母带制作：刘三斤(1)\n制作人：HeartStrings(1)、8:48(2)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-06-05T11:35:21.819Z"
+  }
+}
