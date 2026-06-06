@@ -615,7 +615,7 @@
             },
             " (",
             {
-              "ref": "p:88826",
+              "ref": null,
               "text": "酒井祐輝"
             },
             ")"
@@ -631,7 +631,7 @@
             },
             " (",
             {
-              "ref": "p:88826",
+              "ref": null,
               "text": "酒井祐輝"
             },
             ")"
@@ -668,7 +668,7 @@
             },
             " (",
             {
-              "ref": "p:88826",
+              "ref": null,
               "text": "酒井祐輝"
             },
             ")"
@@ -684,7 +684,7 @@
             },
             " (",
             {
-              "ref": "p:88826",
+              "ref": null,
               "text": "酒井祐輝"
             },
             ")"
@@ -700,7 +700,7 @@
             },
             " (",
             {
-              "ref": "p:88826",
+              "ref": null,
               "text": "酒井祐輝"
             },
             ")",
@@ -714,14 +714,6 @@
             "text": "namaozi"
           },
           "inst": "Guitar"
-        },
-        {
-          "type": "instrument_credit",
-          "person": {
-            "ref": "p:88828",
-            "text": "namaozi"
-          },
-          "inst": "Latin Percussions Prog."
         }
       ]
     },
@@ -907,7 +899,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:94217",
+          "ref": null,
           "text": "イタリアめがね"
         }
       }
@@ -916,18 +908,18 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:94192",
+          "ref": null,
           "text": "まくら"
         }
       }
     ]
   },
   "rawPatches": {
-    "editor": "厂牌：MOTAKU\n插图：イタリアめがね\n制作人：まくら\n\n艺术家：きゅいきゅいすたー(1)、夏色花梨(2,4,5,8,12)、さとうささら (CeVIO AI)(3)、すずきつづみ (CeVIO AI)(3)、花隈千冬 (Synthesizer V)(7)、小春六花(8)、花隈千冬(8)、夢芽(9,10)、Miku Hatsune(11)、mllln(13)\n作词：カシラテ(1,2,5,8,13)、ほろ抹茶(3)、なつアカンbot(4)、こもざわくるみ(7)、る一びお(9)、namaozi(10)、グリジェ(11)、綿雷渡(12)\n作曲：なん(1)、ワイオト(2)、ほろ抹茶(3)、なつアカンbot(4)、泡沫ラーメン(5)、Artem Tarkovskyi(6)、こもざわくるみ(7)、しすと(8)、る一びお(9)、namaozi(10)、NO.1P(酒井祐輝)(10)、グリジェ(11)、綿雷渡(12)、Moncy(13)\n编曲：なん(1)、Moncy(1,2,9,13)、ほろ抹茶(3)、なつアカンbot(4)、泡沫ラーメン(5)、Artem Tarkovskyi(6)、こもざわくるみ(7)、しすと(8)、NO.1P(酒井祐輝)(10)、namaozi(10)、グリジェ(11)、綿雷渡(12)\n声乐：夢芽(10)、namaozi(10)、NO.1P(酒井祐輝)(10)\n混音：なん(1)、Moncy(2,9,13)、ほろ抹茶(3)、泡沫ラーメン(5)、Christian Michael Poynter(6)、こもざわくるみ(7)、しすと(8)、NO.1P(酒井祐輝)(10)、グリジェ(11)、綿雷渡(12)\n乐器-Bass：カシラテ(1,2,5,9,13)、NO.1P (酒井祐輝)(10)\n乐器-Guitar：カシラテ(1)、米田聖斗(2,5,9,13)、ツチダ(4)、namaozi(10)\n乐器-Piano：なん(1)、Moncy(2,5,13)\n乐器-Electric Guitars：Artem Tarkovskyi(6)\n乐器-Acoustic Guitar：Artem Tarkovskyi(6)\n乐器-Electric Bass：カシラテ(8)\n乐器-Latin Percussions Prog.：namaozi(10)"
+    "editor": "厂牌：MOTAKU\n插图：イタリアめがね\n制作人：まくら\n\n艺术家：きゅいきゅいすたー(1)、夏色花梨(2,4,5,8,12)、さとうささら (CeVIO AI)(3)、すずきつづみ (CeVIO AI)(3)、花隈千冬 (Synthesizer V)(7)、小春六花(8)、花隈千冬(8)、夢芽(9,10)、Miku Hatsune(11)、mllln(13)\n作词：カシラテ(1,2,5,8,13)、ほろ抹茶(3)、なつアカンbot(4)、こもざわくるみ(7)、る一びお(9)、namaozi(10)、グリジェ(11)、綿雷渡(12)\n作曲：なん(1)、ワイオト(2)、ほろ抹茶(3)、なつアカンbot(4)、泡沫ラーメン(5)、Artem Tarkovskyi(6)、こもざわくるみ(7)、しすと(8)、る一びお(9)、namaozi(10)、NO.1P(酒井祐輝)(10)、グリジェ(11)、綿雷渡(12)、Moncy(13)\n编曲：なん(1)、Moncy(1,2,9,13)、ほろ抹茶(3)、なつアカンbot(4)、泡沫ラーメン(5)、Artem Tarkovskyi(6)、こもざわくるみ(7)、しすと(8)、NO.1P(酒井祐輝)(10)、namaozi(10)、グリジェ(11)、綿雷渡(12)\n声乐：夢芽(10)、namaozi(10)、NO.1P(酒井祐輝)(10)\n混音：なん(1)、Moncy(2,9,13)、ほろ抹茶(3)、泡沫ラーメン(5)、Christian Michael Poynter(6)、こもざわくるみ(7)、しすと(8)、NO.1P(酒井祐輝)(10)、グリジェ(11)、綿雷渡(12)\n乐器-Bass：カシラテ(1,2,5,9,13)、NO.1P (酒井祐輝)(10)\n乐器-Guitar：カシラテ(1)、米田聖斗(2,5,9,13)、ツチダ(4)、namaozi(10)\n乐器-Piano：なん(1)、Moncy(2,5,13)\n乐器-Electric Guitars：Artem Tarkovskyi(6)\n乐器-Acoustic Guitar：Artem Tarkovskyi(6)\n乐器-Electric Bass：カシラテ(8)"
   },
   "_meta": {
     "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-06-06T20:02:28.027Z"
+    "submittedAt": "2026-06-06T20:20:26.189Z"
   }
 }
