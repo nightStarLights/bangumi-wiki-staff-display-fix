@@ -1,0 +1,933 @@
+{
+  "subjectId": 658430,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "きゅいきゅいすたー"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86879",
+            "text": "カシラテ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "なん"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "なん"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86886",
+            "text": "Moncy"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "なん"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:86879",
+            "text": "カシラテ"
+          },
+          "inst": "Bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:86879",
+            "text": "カシラテ"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "なん"
+          },
+          "inst": "Piano"
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "夏色花梨"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86879",
+            "text": "カシラテ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ワイオト"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86886",
+            "text": "Moncy"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86886",
+            "text": "Moncy"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:86879",
+            "text": "カシラテ"
+          },
+          "inst": "Bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:86899",
+            "text": "米田聖斗"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:86886",
+            "text": "Moncy"
+          },
+          "inst": "Piano"
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "夏色花梨"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "なつアカンbot"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "なつアカンbot"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "なつアカンbot"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:86887",
+            "text": "ツチダ"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "夏色花梨"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86879",
+            "text": "カシラテ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "泡沫ラーメン"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "泡沫ラーメン"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "泡沫ラーメン"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:86879",
+            "text": "カシラテ"
+          },
+          "inst": "Bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:86899",
+            "text": "米田聖斗"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:86886",
+            "text": "Moncy"
+          },
+          "inst": "Piano"
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "夏色花梨"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "小春六花"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "花隈千冬"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86879",
+            "text": "カシラテ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "しすと"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "しすと"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "しすと"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:86879",
+            "text": "カシラテ"
+          },
+          "inst": "Electric Bass"
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "夏色花梨"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "綿雷渡"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "綿雷渡"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "綿雷渡"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "綿雷渡"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "さとうささら"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "CeVIO AI"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "すずきつづみ"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "CeVIO AI"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ほろ抹茶"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ほろ抹茶"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ほろ抹茶"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ほろ抹茶"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "花隈千冬"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Synthesizer V"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "こもざわくるみ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "こもざわくるみ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "こもざわくるみ"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "こもざわくるみ"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:88829",
+            "text": "夢芽"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "る一びお"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "る一びお"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86886",
+            "text": "Moncy"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86886",
+            "text": "Moncy"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:86879",
+            "text": "カシラテ"
+          },
+          "inst": "Bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:86899",
+            "text": "米田聖斗"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:88829",
+            "text": "夢芽"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:88828",
+            "text": "namaozi"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:88828",
+            "text": "namaozi"
+          }
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "NO.1P"
+            },
+            " (",
+            {
+              "ref": "p:88826",
+              "text": "酒井祐輝"
+            },
+            ")"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "NO.1P"
+            },
+            " (",
+            {
+              "ref": "p:88826",
+              "text": "酒井祐輝"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:88828",
+            "text": "namaozi"
+          }
+        }
+      ],
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:88829",
+            "text": "夢芽"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:88828",
+            "text": "namaozi"
+          }
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "NO.1P"
+            },
+            " (",
+            {
+              "ref": "p:88826",
+              "text": "酒井祐輝"
+            },
+            ")"
+          ]
+        }
+      ],
+      "mixing": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "NO.1P"
+            },
+            " (",
+            {
+              "ref": "p:88826",
+              "text": "酒井祐輝"
+            },
+            ")"
+          ]
+        }
+      ],
+      "instrument": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "NO.1P"
+            },
+            " (",
+            {
+              "ref": "p:88826",
+              "text": "酒井祐輝"
+            },
+            ")",
+            " (Bass)"
+          ]
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:88828",
+            "text": "namaozi"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:88828",
+            "text": "namaozi"
+          },
+          "inst": "Latin Percussions Prog."
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Miku Hatsune"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "グリジェ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "グリジェ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "グリジェ"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "グリジェ"
+          }
+        }
+      ]
+    },
+    "1.13": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "mllln"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86879",
+            "text": "カシラテ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86886",
+            "text": "Moncy"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86886",
+            "text": "Moncy"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86886",
+            "text": "Moncy"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:86879",
+            "text": "カシラテ"
+          },
+          "inst": "Bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:86899",
+            "text": "米田聖斗"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:86886",
+            "text": "Moncy"
+          },
+          "inst": "Piano"
+        }
+      ]
+    },
+    "1.6": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Artem Tarkovskyi"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Artem Tarkovskyi"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Christian Michael Poynter"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Artem Tarkovskyi"
+          },
+          "inst": "Electric Guitars"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Artem Tarkovskyi"
+          },
+          "inst": "Acoustic Guitar"
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "MOTAKU"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:94217",
+          "text": "イタリアめがね"
+        }
+      }
+    ],
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:94192",
+          "text": "まくら"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：MOTAKU\n插图：イタリアめがね\n制作人：まくら\n\n艺术家：きゅいきゅいすたー(1)、夏色花梨(2,4,5,8,12)、さとうささら (CeVIO AI)(3)、すずきつづみ (CeVIO AI)(3)、花隈千冬 (Synthesizer V)(7)、小春六花(8)、花隈千冬(8)、夢芽(9,10)、Miku Hatsune(11)、mllln(13)\n作词：カシラテ(1,2,5,8,13)、ほろ抹茶(3)、なつアカンbot(4)、こもざわくるみ(7)、る一びお(9)、namaozi(10)、グリジェ(11)、綿雷渡(12)\n作曲：なん(1)、ワイオト(2)、ほろ抹茶(3)、なつアカンbot(4)、泡沫ラーメン(5)、Artem Tarkovskyi(6)、こもざわくるみ(7)、しすと(8)、る一びお(9)、namaozi(10)、NO.1P(酒井祐輝)(10)、グリジェ(11)、綿雷渡(12)、Moncy(13)\n编曲：なん(1)、Moncy(1,2,9,13)、ほろ抹茶(3)、なつアカンbot(4)、泡沫ラーメン(5)、Artem Tarkovskyi(6)、こもざわくるみ(7)、しすと(8)、NO.1P(酒井祐輝)(10)、namaozi(10)、グリジェ(11)、綿雷渡(12)\n声乐：夢芽(10)、namaozi(10)、NO.1P(酒井祐輝)(10)\n混音：なん(1)、Moncy(2,9,13)、ほろ抹茶(3)、泡沫ラーメン(5)、Christian Michael Poynter(6)、こもざわくるみ(7)、しすと(8)、NO.1P(酒井祐輝)(10)、グリジェ(11)、綿雷渡(12)\n乐器-Bass：カシラテ(1,2,5,9,13)、NO.1P (酒井祐輝)(10)\n乐器-Guitar：カシラテ(1)、米田聖斗(2,5,9,13)、ツチダ(4)、namaozi(10)\n乐器-Piano：なん(1)、Moncy(2,5,13)\n乐器-Electric Guitars：Artem Tarkovskyi(6)\n乐器-Acoustic Guitar：Artem Tarkovskyi(6)\n乐器-Electric Bass：カシラテ(8)\n乐器-Latin Percussions Prog.：namaozi(10)"
+  },
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-06-06T20:02:28.027Z"
+  }
+}
