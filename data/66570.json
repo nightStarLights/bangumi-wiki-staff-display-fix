@@ -1,0 +1,556 @@
+{
+  "subjectId": 66570,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6141",
+            "text": "Ceui"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6141",
+            "text": "Ceui"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7456",
+            "text": "小高光太郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7456",
+            "text": "小高光太郎"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6141",
+            "text": "Ceui"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6141",
+            "text": "Ceui"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7456",
+            "text": "小高光太郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7456",
+            "text": "小高光太郎"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "西沢はぐみ"
+            },
+            " (",
+            {
+              "ref": "p:9158",
+              "text": "槇ななり"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:26844",
+            "text": "藤井亮太"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:26844",
+            "text": "藤井亮太"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "西沢はぐみ"
+            },
+            " (",
+            {
+              "ref": "p:9158",
+              "text": "槇ななり"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6392",
+            "text": "松本慎一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6392",
+            "text": "松本慎一郎"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "parts": [
+            "白崎つぐみ(CV.",
+            {
+              "ref": "p:5117",
+              "text": "米澤円"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7456",
+            "text": "小高光太郎"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:26844",
+            "text": "藤井亮太"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7456",
+            "text": "小高光太郎"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:26844",
+            "text": "藤井亮太"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "parts": [
+            "白崎つぐみ(CV.",
+            {
+              "ref": "p:5117",
+              "text": "米澤円"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            "桜庭玉藻(CV.",
+            {
+              "ref": "p:5158",
+              "text": "斉藤佑圭"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            "御園千莉(CV.",
+            {
+              "ref": "p:7147",
+              "text": "山本希望"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            "鈴木佳奈(CV.",
+            {
+              "ref": "p:4749",
+              "text": "仙台エリ"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            "小太刀凪(CV.",
+            {
+              "ref": "p:7575",
+              "text": "種﨑敦美"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6141",
+            "text": "Ceui"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7456",
+            "text": "小高光太郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7456",
+            "text": "小高光太郎"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "parts": [
+            "桜庭玉藻(CV.",
+            {
+              "ref": "p:5158",
+              "text": "斉藤佑圭"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7456",
+            "text": "小高光太郎"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:26844",
+            "text": "藤井亮太"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7456",
+            "text": "小高光太郎"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:26844",
+            "text": "藤井亮太"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "parts": [
+            "御園千莉(CV.",
+            {
+              "ref": "p:7147",
+              "text": "山本希望"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "sumiisan"
+            },
+            " (",
+            {
+              "ref": "p:11049",
+              "text": "スミイ酸"
+            },
+            ")"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "sumiisan"
+            },
+            " (",
+            {
+              "ref": "p:11049",
+              "text": "スミイ酸"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "parts": [
+            "鈴木佳奈(CV.",
+            {
+              "ref": "p:4749",
+              "text": "仙台エリ"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7456",
+            "text": "小高光太郎"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:26844",
+            "text": "藤井亮太"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6761",
+            "text": "DJ Shimamura"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "parts": [
+            "小太刀凪(CV.",
+            {
+              "ref": "p:7575",
+              "text": "種﨑敦美"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7456",
+            "text": "小高光太郎"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:26844",
+            "text": "藤井亮太"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:89044",
+            "text": "Bos"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "parts": [
+            "嬉野紗弓実(CV.",
+            {
+              "ref": "p:6540",
+              "text": "柏木美優"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            "望月真帆(CV.",
+            {
+              "ref": "p:4500",
+              "text": "中島沙樹"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            "芹沢水結(CV.",
+            {
+              "ref": "p:4670",
+              "text": "佐藤利奈"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6141",
+            "text": "Ceui"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7456",
+            "text": "小高光太郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7456",
+            "text": "小高光太郎"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:15773",
+          "text": "永原さくら"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:6672",
+          "text": "Active Planets"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:6672",
+          "text": "Active Planets"
+        }
+      }
+    ],
+    "label": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "August"
+          },
+          " (",
+          {
+            "ref": "p:1935",
+            "text": "オーガスト"
+          },
+          ")"
+        ]
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "作词：永原さくら\n作曲：Active Planets\n编曲：Active Planets\n厂牌：August(オーガスト)\n\n艺术家：Ceui(1,9)、西沢はぐみ(槇ななり)(2,8)、白崎つぐみ(CV.米澤円)(3,11)、桜庭玉藻(CV.斉藤佑圭)(4,11)、御園千莉(CV.山本希望)(5,11)、鈴木佳奈(CV.仙台エリ)(6,11)、小太刀凪(CV.種﨑敦美)(7,11)、嬉野紗弓実(CV.柏木美優)(10)、望月真帆(CV.中島沙樹)(10)、芹沢水結(CV.佐藤利奈)(10)\n作曲：Ceui(1,9,10,11)、小高光太郎(1,3,4,6,7,9,10,11)、藤井亮太(2,3,4,6,7)、sumiisan(スミイ酸)(5)、松本慎一郎(8)\n编曲：小高光太郎(1,3,4,9,10,11)、藤井亮太(2,3,4)、sumiisan(スミイ酸)(5)、DJ Shimamura(6)、Bos(7)、松本慎一郎(8)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-06-06T08:49:50.265Z"
+  }
+}
