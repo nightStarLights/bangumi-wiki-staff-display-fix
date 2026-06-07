@@ -1,0 +1,107 @@
+{
+  "subjectId": 658639,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:40140",
+            "text": "棗いつき"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33350",
+            "text": "藍月なくる"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:40140",
+            "text": "棗いつき"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:16251",
+            "text": "草野華余子"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93581",
+            "text": "BLACK ALBATROSS"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55408",
+            "text": "是"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55408",
+            "text": "是"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55408",
+            "text": "是"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:48239",
+          "text": "グリーエンターテインメント"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:67882",
+          "text": "猫山桜梨"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：グリーエンターテインメント\n插图：猫山桜梨\n\n艺术家：棗いつき(1)、藍月なくる(1)\n作词：棗いつき(1)、是(2)\n作曲：草野華余子(1)、是(2)\n编曲：BLACK ALBATROSS(1)、是(2)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-06-07T12:10:13.448Z"
+  }
+}
