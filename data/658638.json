@@ -1,0 +1,116 @@
+{
+  "subjectId": 658638,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:40140",
+            "text": "棗いつき"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33350",
+            "text": "藍月なくる"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:40140",
+            "text": "棗いつき"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:16251",
+            "text": "草野華余子"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93581",
+            "text": "BLACK ALBATROSS"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:40140",
+            "text": "棗いつき"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9034",
+            "text": "におP"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9034",
+            "text": "におP"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9034",
+            "text": "におP"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:48239",
+          "text": "グリーエンターテインメント"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:67882",
+          "text": "猫山桜梨"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：グリーエンターテインメント\n插图：猫山桜梨\n\n艺术家：棗いつき(1,2)、藍月なくる(1)\n作词：棗いつき(1)、におP(2)\n作曲：草野華余子(1)、におP(2)\n编曲：BLACK ALBATROSS(1)、におP(2)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-06-07T12:15:10.967Z"
+  }
+}
