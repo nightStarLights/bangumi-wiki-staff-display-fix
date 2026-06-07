@@ -47,6 +47,15 @@
       ]
     },
     "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33350",
+            "text": "藍月なくる"
+          }
+        }
+      ],
       "lyricist": [
         {
           "type": "person",
@@ -97,11 +106,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "厂牌：グリーエンターテインメント\n插图：猫山桜梨\n\n艺术家：棗いつき(1)、藍月なくる(1)\n作词：棗いつき(1)、是(2)\n作曲：草野華余子(1)、是(2)\n编曲：BLACK ALBATROSS(1)、是(2)"
+    "editor": "厂牌：グリーエンターテインメント\n插图：猫山桜梨\n\n艺术家：棗いつき(1)、藍月なくる(1,2)\n作词：棗いつき(1)、是(2)\n作曲：草野華余子(1)、是(2)\n编曲：BLACK ALBATROSS(1)、是(2)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-06-07T12:10:13.448Z"
+    "submittedAt": "2026-06-07T12:15:36.906Z"
   }
 }
