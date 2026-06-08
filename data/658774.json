@@ -1,0 +1,364 @@
+{
+  "subjectId": 658774,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:35903",
+            "text": "nmk"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "the椅子"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "dj MASTER a.k.a 223-0P"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "tanow"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69390",
+            "text": "シカクドット"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ていらー"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "七指P"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Keiji Imamura Black"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Azulia_at"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "声優ガチ恋部"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "めかおん"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "めかおん"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "PowderCheese"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "あおや"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "natsuzaki_aoi"
+          }
+        }
+      ]
+    },
+    "1.13": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "このみさんと酒が飲み隊（仮）(Vocal: yona, 四条六間)"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "ライトゴロP"
+            },
+            " (",
+            {
+              "ref": "p:81452",
+              "text": "956"
+            },
+            ")"
+          ]
+        }
+      ],
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "yona"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "四条六間"
+          }
+        }
+      ]
+    },
+    "1.14": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "しおはる"
+          }
+        }
+      ]
+    },
+    "1.15": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "かえみゆハウスの観葉植物くん"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "b-UMB"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.16": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Müxek"
+          }
+        }
+      ]
+    },
+    "1.17": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Tak.com"
+          }
+        }
+      ]
+    },
+    "1.18": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ビーカーP"
+          }
+        }
+      ]
+    },
+    "1.19": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ライム"
+          }
+        }
+      ]
+    },
+    "1.20": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ちーぷ"
+          }
+        }
+      ]
+    },
+    "1.21": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "四方八方神谷奈緒 (チーナゲ、Dozu)"
+          }
+        }
+      ]
+    },
+    "1.22": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47410",
+            "text": "HASEKO"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Nonstop Mix Edit: HASEKO"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Studio Cantabile"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "江戸切子職人"
+        }
+      }
+    ],
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:35903",
+          "text": "nmk"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "めかおん"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：Studio Cantabile\n插图：江戸切子職人\n制作人：nmk、めかおん\n\n艺术家：nmk(1)、the椅子(2)、dj MASTER a.k.a 223-0P(3)、tanow(4)、シカクドット(5)、ていらー(6)、七指P(Keiji Imamura Black)(7)、Azulia_at(8)、声優ガチ恋部(9)、PowderCheese(10)、あおや(11)、natsuzaki_aoi(12)、《このみさんと酒が飲み隊（仮）(Vocal: yona, 四条六間)》(13)、しおはる(14)、かえみゆハウスの観葉植物くん (b-UMB)(15)、Müxek(16)、Tak.com(17)、ビーカーP(18)、ライム(19)、ちーぷ(20)、《四方八方神谷奈緒 (チーナゲ、Dozu)》(21)、HASEKO(22)\n编曲：めかおん(9)、ライトゴロP(956)(13)\n声乐：yona(13)、四条六間(13)\n混音：Nonstop Mix Edit: HASEKO(22)\n母带制作：めかおん(9)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-06-08T08:42:54.545Z"
+  }
+}
