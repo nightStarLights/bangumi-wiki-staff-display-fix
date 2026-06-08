@@ -1,0 +1,1020 @@
+{
+  "subjectId": 297165,
+  "trackCredits": {
+    "1.67": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "RIN"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "ほのかりん"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Gemie"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Mira.Z"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "夏铜子"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "G.K"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "G.K"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Haloweak"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Xin"
+          }
+        }
+      ]
+    },
+    "1.68": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "花たん"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "lucius."
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "G.K"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "G.K"
+          }
+        }
+      ]
+    },
+    "1.69": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Tielle"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Tielle"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "G.K"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "G.K"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Rabbit J"
+          }
+        }
+      ]
+    },
+    "1.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "G.K"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "G.K"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "G.K"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "G.K"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "G.K"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Rabbit J"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "G.K"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Haloweak"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "G.K"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "G.K"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Haloweak"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "G.K"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Haloweak"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "G.K"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Haloweak"
+          }
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Dr.RD"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "段然-noVaTion"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.13": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "G.K"
+          }
+        }
+      ]
+    },
+    "1.14": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "G.K"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Rabbit J"
+          }
+        }
+      ]
+    },
+    "1.16": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "G.K"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Haloweak"
+          }
+        }
+      ]
+    },
+    "1.17": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "G.K"
+          }
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Tenyu"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "天遊"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.19": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "G.K"
+          }
+        }
+      ]
+    },
+    "1.22": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "G.K"
+          }
+        }
+      ]
+    },
+    "1.24": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "G.K"
+          }
+        }
+      ]
+    },
+    "1.42": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "G.K"
+          }
+        }
+      ]
+    },
+    "1.45": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "G.K"
+          }
+        }
+      ]
+    },
+    "1.49": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "G.K"
+          }
+        }
+      ]
+    },
+    "1.66": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "G.K"
+          }
+        }
+      ]
+    },
+    "1.53": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Rabbit J"
+          }
+        }
+      ]
+    },
+    "1.54": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Rabbit J"
+          }
+        }
+      ]
+    },
+    "1.55": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Rabbit J"
+          }
+        }
+      ]
+    },
+    "1.56": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Rabbit J"
+          }
+        }
+      ]
+    },
+    "1.57": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Rabbit J"
+          }
+        }
+      ]
+    },
+    "1.59": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Rabbit J"
+          }
+        }
+      ]
+    },
+    "1.61": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Rabbit J"
+          }
+        }
+      ]
+    },
+    "1.62": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Rabbit J"
+          }
+        }
+      ]
+    },
+    "1.63": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Rabbit J"
+          }
+        }
+      ]
+    },
+    "1.64": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Rabbit J"
+          }
+        }
+      ]
+    },
+    "1.65": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Rabbit J"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Haloweak"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Haloweak"
+          }
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Dr.RD"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "段然-noVaTion"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.15": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Haloweak"
+          }
+        }
+      ]
+    },
+    "1.21": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Haloweak"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "moto"
+          }
+        }
+      ]
+    },
+    "1.46": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Haloweak"
+          }
+        }
+      ]
+    },
+    "1.47": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Haloweak"
+          }
+        }
+      ]
+    },
+    "1.48": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Haloweak"
+          }
+        }
+      ]
+    },
+    "1.18": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "MeLo"
+          }
+        }
+      ]
+    },
+    "1.20": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "moto"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "D.Yi"
+          }
+        }
+      ]
+    },
+    "1.25": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "moto"
+          }
+        }
+      ]
+    },
+    "1.39": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "moto"
+          }
+        }
+      ]
+    },
+    "1.40": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "moto"
+          }
+        }
+      ]
+    },
+    "1.23": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "D.Yi"
+          }
+        }
+      ]
+    },
+    "1.29": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "D.Yi"
+          }
+        }
+      ]
+    },
+    "1.60": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "D.Yi"
+          }
+        }
+      ]
+    },
+    "1.26": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "山崎泰之"
+          }
+        }
+      ]
+    },
+    "1.27": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "山崎泰之"
+          }
+        }
+      ]
+    },
+    "1.28": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "山崎泰之"
+          }
+        }
+      ]
+    },
+    "1.33": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "山崎泰之"
+          }
+        }
+      ]
+    },
+    "1.34": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "山崎泰之"
+          }
+        }
+      ]
+    },
+    "1.35": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "山崎泰之"
+          }
+        }
+      ]
+    },
+    "1.36": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "山崎泰之"
+          }
+        }
+      ]
+    },
+    "1.37": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "山崎泰之"
+          }
+        }
+      ]
+    },
+    "1.43": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "山崎泰之"
+          }
+        }
+      ]
+    },
+    "1.44": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "山崎泰之"
+          }
+        }
+      ]
+    },
+    "1.50": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "山崎泰之"
+          }
+        }
+      ]
+    },
+    "1.51": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "山崎泰之"
+          }
+        }
+      ]
+    },
+    "1.52": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "山崎泰之"
+          }
+        }
+      ]
+    },
+    "1.30": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "T-Nymph"
+          }
+        }
+      ]
+    },
+    "1.31": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "T-Nymph"
+          }
+        }
+      ]
+    },
+    "1.32": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "T-Nymph"
+          }
+        }
+      ]
+    },
+    "1.38": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Various"
+          }
+        }
+      ]
+    },
+    "1.41": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Coyde"
+          }
+        }
+      ]
+    },
+    "1.58": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Coyde"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Vanguard Sound"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "散爆网络"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：Vanguard Sound\n出版方：散爆网络\n\n艺术家：RIN(ほのかりん)(67)、Gemie(67)、花たん(68)、Tielle(69)\n作词：Mira.Z(夏铜子)(67)、lucius.(68)、Tielle(69)\n作曲：G.K(1,2,3,4,5,6,7,10,11,12,13,14,16,17,19,22,24,42,45,49,66,67,68,69)、Rabbit J(5,14,53,54,55,56,57,59,61,62,63,64,65)、Haloweak(6,8,9,10,11,12,15,16,21,46,47,48)、Dr.RD(段然-noVaTion)(9,12)、Tenyu(天遊)(17)、MeLo(18)、moto(20,21,25,39,40)、D.Yi(20,23,29,60)、山崎泰之(26,27,28,33,34,35,36,37,43,44,50,51,52)、T-Nymph(30,31,32)、Various(38)、Coyde(41,58)\n编曲：G.K(67,68,69)、Haloweak(67)、Xin(67)、Rabbit J(69)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-06-08T10:16:25.690Z"
+  }
+}
