@@ -1003,7 +1003,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:36934",
           "text": "散爆网络"
         }
       }
@@ -1015,6 +1015,6 @@
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-06-08T10:18:16.227Z"
+    "submittedAt": "2026-06-08T10:18:27.861Z"
   }
 }
