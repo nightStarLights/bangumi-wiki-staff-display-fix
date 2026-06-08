@@ -1,0 +1,276 @@
+{
+  "subjectId": 658812,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Salty Salt"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Syrlvia"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Litchee"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Koiflower"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "IneSim"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "loved Master Machine"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Eléxia"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Lftee"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Razor Storm"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "W1ldflow3r"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Flow3ry"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "F3azor4_"
+          }
+        }
+      ]
+    },
+    "2.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Kamino Yoruneko"
+          }
+        }
+      ]
+    },
+    "2.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Pleinerz"
+          }
+        }
+      ]
+    },
+    "2.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Trashyboi"
+          }
+        }
+      ]
+    },
+    "2.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Choefeker"
+          }
+        }
+      ]
+    },
+    "2.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "JINGYAN"
+          }
+        }
+      ]
+    },
+    "2.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Unreload"
+          }
+        }
+      ]
+    },
+    "2.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Afrixon"
+          }
+        }
+      ]
+    },
+    "2.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Mirage_Sonata"
+          }
+        }
+      ]
+    },
+    "2.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Rainbow Illusion"
+          }
+        }
+      ]
+    },
+    "2.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Relemo"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Chroma_Sounds虹彩"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Excillex"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Unon"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：Chroma_Sounds虹彩\n母带制作：Excillex\n插图：Unon\n\n艺术家：Salty Salt(1.1)、Syrlvia(1.2)、Litchee(1.3)、Koiflower(1.4)、IneSim(1.5)、loved Master Machine(1.6)、Eléxia(1.6)、Lftee(1.7)、Razor Storm(1.8)、W1ldflow3r(Flow3ry)(1.9)、F3azor4_(1.10)、Kamino Yoruneko(2.1)、Pleinerz(2.2)、Trashyboi(2.3)、Choefeker(2.4)、JINGYAN(2.5)、Unreload(2.6)、Afrixon(2.7)、Mirage_Sonata(2.8)、Rainbow Illusion(2.9)、Relemo(2.10)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-06-08T10:44:34.759Z"
+  }
+}
