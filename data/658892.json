@@ -1,0 +1,157 @@
+{
+  "subjectId": 658892,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "π"
+            },
+            " (",
+            {
+              "ref": "p:81556",
+              "text": "白迦"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "π"
+            },
+            " (",
+            {
+              "ref": "p:81556",
+              "text": "白迦"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93798",
+            "text": "サ柄直生"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93798",
+            "text": "サ柄直生"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93798",
+            "text": "サ柄直生"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93798",
+            "text": "サ柄直生"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "π"
+            },
+            " (",
+            {
+              "ref": "p:81556",
+              "text": "白迦"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71746",
+            "text": "KAIRUI"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71746",
+            "text": "KAIRUI"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71746",
+            "text": "KAIRUI"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71746",
+            "text": "KAIRUI"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71746",
+            "text": "KAIRUI"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "浅見あさと"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "插图：浅見あさと\n\n艺术家：π(白迦)(1,2)\n作词：π(白迦)(1)、KAIRUI(2)\n作曲：サ柄直生(1)、KAIRUI(2)\n编曲：サ柄直生(1)、KAIRUI(2)\n混音：サ柄直生(1)、KAIRUI(2)\n母带制作：サ柄直生(1)、KAIRUI(2)"
+  },
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-06-08T17:24:17.701Z"
+  }
+}
