@@ -11,7 +11,7 @@
             },
             " (",
             {
-              "ref": "p:78674",
+              "ref": null,
               "text": "ほのかりん"
             },
             ")"
@@ -34,7 +34,7 @@
             },
             " (",
             {
-              "ref": "p:85783",
+              "ref": null,
               "text": "夏铜子"
             },
             ")"
@@ -308,7 +308,7 @@
             },
             " (",
             {
-              "ref": "p:69308",
+              "ref": null,
               "text": "段然-noVaTion"
             },
             ")"
@@ -380,7 +380,7 @@
             },
             " (",
             {
-              "ref": "p:70697",
+              "ref": null,
               "text": "天遊"
             },
             ")"
@@ -614,7 +614,7 @@
             },
             " (",
             {
-              "ref": "p:69308",
+              "ref": null,
               "text": "段然-noVaTion"
             },
             ")"
@@ -994,7 +994,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:11210",
+          "ref": null,
           "text": "Vanguard Sound"
         }
       }
@@ -1003,7 +1003,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:36934",
+          "ref": null,
           "text": "散爆网络"
         }
       }
@@ -1015,6 +1015,6 @@
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-06-08T10:18:27.861Z"
+    "submittedAt": "2026-06-08T10:18:32.661Z"
   }
 }
