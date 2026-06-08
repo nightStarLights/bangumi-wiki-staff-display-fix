@@ -1,0 +1,212 @@
+{
+  "subjectId": 656581,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "宮舞摩卡"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "彩澄梨理世"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "彩澄梨理世"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "彩澄梨理世"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "彩澄梨理世"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "花隈千冬"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "花隈千冬"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "花隈千冬"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "彩澄珠紻"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "彩澄珠紻"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "GUMI"
+          }
+        }
+      ]
+    },
+    "1.13": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "GUMI"
+          }
+        }
+      ]
+    },
+    "1.14": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "GUMI"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Natsume Itsuki"
+          }
+        }
+      ]
+    },
+    "1.15": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Natsume Itsuki"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "estha"
+          },
+          " (",
+          {
+            "ref": "p:71751",
+            "text": "野原卓"
+          },
+          ")"
+        ]
+      }
+    ],
+    "mastering": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "haLRu"
+          },
+          " (",
+          {
+            "ref": "p:71780",
+            "text": "Halyuki Neki"
+          },
+          ")"
+        ]
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：estha(野原卓)\n母带制作：haLRu(Halyuki Neki)\n\n艺术家：宮舞摩卡(1)、彩澄梨理世(2,6,10,11)、花隈千冬(3,4,5)、彩澄珠紻(7,12)、GUMI(8,13,14)、Natsume Itsuki(9,15)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-06-08T13:50:54.717Z"
+  }
+}
