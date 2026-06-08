@@ -11,7 +11,7 @@
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:78674",
               "text": "ほのかりん"
             },
             ")"
@@ -34,7 +34,7 @@
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:85783",
               "text": "夏铜子"
             },
             ")"
@@ -308,7 +308,7 @@
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:69308",
               "text": "段然-noVaTion"
             },
             ")"
@@ -380,7 +380,7 @@
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:70697",
               "text": "天遊"
             },
             ")"
@@ -614,7 +614,7 @@
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:69308",
               "text": "段然-noVaTion"
             },
             ")"
@@ -645,7 +645,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:70693",
             "text": "moto"
           }
         }
@@ -700,7 +700,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:70693",
             "text": "moto"
           }
         },
@@ -718,7 +718,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:70693",
             "text": "moto"
           }
         }
@@ -729,7 +729,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:70693",
             "text": "moto"
           }
         }
@@ -740,7 +740,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:70693",
             "text": "moto"
           }
         }
@@ -994,7 +994,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:11210",
           "text": "Vanguard Sound"
         }
       }
@@ -1003,7 +1003,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:36934",
           "text": "散爆网络"
         }
       }
@@ -1015,6 +1015,6 @@
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-06-08T10:18:32.661Z"
+    "submittedAt": "2026-06-08T10:25:35.747Z"
   }
 }
