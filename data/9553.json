@@ -1,0 +1,24 @@
+{
+  "subjectId": 9553,
+  "trackCredits": {
+    "1.6": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "桜沢大"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "Lyrics: 桜沢大(6)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-06-08T17:22:58.006Z"
+  }
+}
