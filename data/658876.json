@@ -151,7 +151,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:86703",
             "text": "河图"
           }
         }
@@ -378,7 +378,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:18829",
           "text": "REI"
         }
       }
@@ -390,6 +390,6 @@
   "_meta": {
     "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-06-08T16:06:09.329Z"
+    "submittedAt": "2026-06-08T16:11:06.179Z"
   }
 }
