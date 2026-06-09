@@ -173,14 +173,32 @@
           "text": "Otographic Music"
         }
       }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:7094",
+          "text": "Nhato"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:6012",
+          "text": "かんざきひろ"
+        }
+      }
     ]
   },
   "rawPatches": {
-    "editor": "作曲：Hiroyuki ODA(かんざきひろ)\n厂牌：《Otographic Music》\n\n艺术家：Kyohei Akagawa(赤川享平)(1)、KIWAMU(2)、KaNa(3)、MAKOTRAX(4)、Shingo Nakamura(5)、Tomoyuki Sakakida(6)、Masanori Yasuda(7)、Taishi(河合泰志)(8)、Nhato(9,12)、NAYUTA Underlight(10)、OCOT(11)"
+    "editor": "作曲：Hiroyuki ODA(かんざきひろ)\n厂牌：《Otographic Music》\n母带制作: Nhato\n插图: かんざきひろ\n\n艺术家：Kyohei Akagawa(赤川享平)(1)、KIWAMU(2)、KaNa(3)、MAKOTRAX(4)、Shingo Nakamura(5)、Tomoyuki Sakakida(6)、Masanori Yasuda(7)、Taishi(河合泰志)(8)、Nhato(9,12)、NAYUTA Underlight(10)、OCOT(11)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-06-09T06:50:31.410Z"
+    "submittedAt": "2026-06-09T06:56:39.772Z"
   }
 }
