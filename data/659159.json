@@ -28,20 +28,34 @@
       ],
       "composer": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:84603",
-            "text": "あんざい"
-          }
+          "parts": [
+            {
+              "ref": "p:84603",
+              "text": "あんざい"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "路傍の石"
+            },
+            ")"
+          ]
         }
       ],
       "arranger": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:84603",
-            "text": "あんざい"
-          }
+          "parts": [
+            {
+              "ref": "p:84603",
+              "text": "あんざい"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "路傍の石"
+            },
+            ")"
+          ]
         }
       ]
     },
@@ -57,20 +71,34 @@
       ],
       "composer": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:80745",
-            "text": "ハタユウスケ"
-          }
+          "parts": [
+            {
+              "ref": "p:80745",
+              "text": "ハタユウスケ"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "cruyff in the bedroom"
+            },
+            ")"
+          ]
         }
       ],
       "arranger": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:80745",
-            "text": "ハタユウスケ"
-          }
+          "parts": [
+            {
+              "ref": "p:80745",
+              "text": "ハタユウスケ"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "cruyff in the bedroom"
+            },
+            ")"
+          ]
         }
       ]
     },
@@ -86,20 +114,34 @@
       ],
       "composer": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:84603",
-            "text": "あんざい"
-          }
+          "parts": [
+            {
+              "ref": "p:84603",
+              "text": "あんざい"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "路傍の石"
+            },
+            ")"
+          ]
         }
       ],
       "arranger": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:84603",
-            "text": "あんざい"
-          }
+          "parts": [
+            {
+              "ref": "p:84603",
+              "text": "あんざい"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "路傍の石"
+            },
+            ")"
+          ]
         }
       ]
     },
@@ -144,20 +186,34 @@
       ],
       "composer": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:84603",
-            "text": "あんざい"
-          }
+          "parts": [
+            {
+              "ref": "p:84603",
+              "text": "あんざい"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "路傍の石"
+            },
+            ")"
+          ]
         }
       ],
       "arranger": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:84603",
-            "text": "あんざい"
-          }
+          "parts": [
+            {
+              "ref": "p:84603",
+              "text": "あんざい"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "路傍の石"
+            },
+            ")"
+          ]
         }
       ]
     },
@@ -173,20 +229,34 @@
       ],
       "composer": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:84603",
-            "text": "あんざい"
-          }
+          "parts": [
+            {
+              "ref": "p:84603",
+              "text": "あんざい"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "路傍の石"
+            },
+            ")"
+          ]
         }
       ],
       "arranger": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:84603",
-            "text": "あんざい"
-          }
+          "parts": [
+            {
+              "ref": "p:84603",
+              "text": "あんざい"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "路傍の石"
+            },
+            ")"
+          ]
         }
       ]
     },
@@ -231,20 +301,34 @@
       ],
       "composer": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:84603",
-            "text": "あんざい"
-          }
+          "parts": [
+            {
+              "ref": "p:84603",
+              "text": "あんざい"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "路傍の石"
+            },
+            ")"
+          ]
         }
       ],
       "arranger": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:84603",
-            "text": "あんざい"
-          }
+          "parts": [
+            {
+              "ref": "p:84603",
+              "text": "あんざい"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "路傍の石"
+            },
+            ")"
+          ]
         }
       ]
     },
@@ -308,11 +392,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：zia\n混音：Siroyuki Sinozuka\n母带制作：Siroyuki Sinozuka\n\n艺术家：Project zia feat. 古泉葉月(1)\n作词：zia(1,2,3,4,5,6,7,8,9)\n作曲：あんざい(1,3,5,6,8)、ハタユウスケ(2)、FILEIN(4)、Siroyuki Sinozuka(7)、越雲龍馬(9)\n编曲：あんざい(1,3,5,6,8)、ハタユウスケ(2)、FILEIN(4)、Siroyuki Sinozuka(7)、越雲龍馬(9)"
+    "editor": "艺术家：zia\n混音：Siroyuki Sinozuka\n母带制作：Siroyuki Sinozuka\n\n艺术家：Project zia feat. 古泉葉月(1)\n作词：zia(1,2,3,4,5,6,7,8,9)\n作曲：あんざい (路傍の石)(1,3,5,6,8)、ハタユウスケ (cruyff in the bedroom)(2)、FILEIN(4)、Siroyuki Sinozuka(7)、越雲龍馬(9)\n编曲：あんざい (路傍の石)(1,3,5,6,8)、ハタユウスケ (cruyff in the bedroom)(2)、FILEIN(4)、Siroyuki Sinozuka(7)、越雲龍馬(9)"
   },
   "_meta": {
     "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-06-09T15:28:14.912Z"
+    "submittedAt": "2026-06-09T16:21:42.536Z"
   }
 }
