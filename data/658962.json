@@ -165,22 +165,6 @@
         ]
       }
     ],
-    "arranger": [
-      {
-        "parts": [
-          {
-            "ref": null,
-            "text": "Hiroyuki ODA"
-          },
-          " (",
-          {
-            "ref": "p:6012",
-            "text": "かんざきひろ"
-          },
-          ")"
-        ]
-      }
-    ],
     "label": [
       {
         "type": "person",
@@ -192,11 +176,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "作曲：Hiroyuki ODA(かんざきひろ)\n编曲：Hiroyuki ODA(かんざきひろ)\n厂牌：《Otographic Music》\n\n艺术家：Kyohei Akagawa(赤川享平)(1)、KIWAMU(2)、KaNa(3)、MAKOTRAX(4)、Shingo Nakamura(5)、Tomoyuki Sakakida(6)、Masanori Yasuda(7)、Taishi(河合泰志)(8)、Nhato(9,12)、NAYUTA Underlight(10)、OCOT(11)"
+    "editor": "作曲：Hiroyuki ODA(かんざきひろ)\n厂牌：《Otographic Music》\n\n艺术家：Kyohei Akagawa(赤川享平)(1)、KIWAMU(2)、KaNa(3)、MAKOTRAX(4)、Shingo Nakamura(5)、Tomoyuki Sakakida(6)、Masanori Yasuda(7)、Taishi(河合泰志)(8)、Nhato(9,12)、NAYUTA Underlight(10)、OCOT(11)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-06-09T06:50:23.487Z"
+    "submittedAt": "2026-06-09T06:50:31.410Z"
   }
 }
