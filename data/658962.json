@@ -1,0 +1,202 @@
+{
+  "subjectId": 658962,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Kyohei Akagawa"
+            },
+            " (",
+            {
+              "ref": "p:69567",
+              "text": "赤川享平"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81406",
+            "text": "KIWAMU"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:39779",
+            "text": "KaNa"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "MAKOTRAX"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15809",
+            "text": "Shingo Nakamura"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7785",
+            "text": "Tomoyuki Sakakida"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81405",
+            "text": "Masanori Yasuda"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Taishi"
+            },
+            " (",
+            {
+              "ref": "p:8023",
+              "text": "河合泰志"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7094",
+            "text": "Nhato"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7094",
+            "text": "Nhato"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "NAYUTA Underlight"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:80325",
+            "text": "OCOT"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "composer": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "Hiroyuki ODA"
+          },
+          " (",
+          {
+            "ref": "p:6012",
+            "text": "かんざきひろ"
+          },
+          ")"
+        ]
+      }
+    ],
+    "arranger": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "Hiroyuki ODA"
+          },
+          " (",
+          {
+            "ref": "p:6012",
+            "text": "かんざきひろ"
+          },
+          ")"
+        ]
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:9649",
+          "text": "Otographic Music"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "作曲：Hiroyuki ODA(かんざきひろ)\n编曲：Hiroyuki ODA(かんざきひろ)\n厂牌：《Otographic Music》\n\n艺术家：Kyohei Akagawa(赤川享平)(1)、KIWAMU(2)、KaNa(3)、MAKOTRAX(4)、Shingo Nakamura(5)、Tomoyuki Sakakida(6)、Masanori Yasuda(7)、Taishi(河合泰志)(8)、Nhato(9,12)、NAYUTA Underlight(10)、OCOT(11)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-06-09T06:50:23.487Z"
+  }
+}
