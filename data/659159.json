@@ -346,7 +346,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:94293",
             "text": "越雲龍馬"
           }
         }
@@ -355,7 +355,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:94293",
             "text": "越雲龍馬"
           }
         }
@@ -367,7 +367,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:80740",
           "text": "zia"
         }
       }
@@ -376,7 +376,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:80742",
           "text": "Siroyuki Sinozuka"
         }
       }
@@ -385,7 +385,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:80742",
           "text": "Siroyuki Sinozuka"
         }
       }
@@ -397,6 +397,6 @@
   "_meta": {
     "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-06-09T16:21:42.536Z"
+    "submittedAt": "2026-06-09T16:23:40.613Z"
   }
 }
