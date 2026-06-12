@@ -1,0 +1,123 @@
+{
+  "subjectId": 659978,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:94404",
+            "text": "salicina"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:94404",
+            "text": "salicina"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:94404",
+            "text": "salicina"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "d0tc0mmie"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "d0tc0mmie"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "d0tc0mmie"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:66187",
+          "text": "現実みろ"
+        }
+      }
+    ],
+    "recording": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "NNZN"
+          },
+          " (",
+          {
+            "ref": "p:79648",
+            "text": "南前修司"
+          },
+          ")"
+        ]
+      }
+    ],
+    "mixing": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "NNZN"
+          },
+          " (",
+          {
+            "ref": "p:79648",
+            "text": "南前修司"
+          },
+          ")"
+        ]
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "あんころもちこ先生"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：現実みろ\n录音：NNZN(南前修司)\n混音：NNZN(南前修司)\n插图：あんころもちこ先生\n\n作词：salicina(1)、d0tc0mmie(2)\n作曲：salicina(1)、d0tc0mmie(2)\n编曲：salicina(1)、d0tc0mmie(2)"
+  },
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-06-12T11:41:59.494Z"
+  }
+}
