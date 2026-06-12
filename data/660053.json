@@ -1,0 +1,141 @@
+{
+  "subjectId": 660053,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:94426",
+            "text": "ANK"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:94426",
+            "text": "ANK"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:94426",
+            "text": "ANK"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:94426",
+            "text": "ANK"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:94423",
+            "text": "熊子"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:94426",
+            "text": "ANK"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:94423",
+            "text": "熊子"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:94426",
+            "text": "ANK"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:94423",
+            "text": "熊子"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:94426",
+            "text": "ANK"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:94423",
+            "text": "熊子"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:94426",
+            "text": "ANK"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:94424",
+          "text": "砂糖协会"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "可可"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：砂糖协会\n插图：可可\n\n作词：ANK(1,3)、熊子(2,3)\n作曲：ANK(1,2,3)、熊子(2,3)\n编曲：ANK(1,2,3)"
+  },
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-06-12T13:51:09.200Z"
+  }
+}
