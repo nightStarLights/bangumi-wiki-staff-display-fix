@@ -55,43 +55,14 @@
           }
         }
       ]
-    },
-    "1.6": {
-      "artist": [
-        {
-          "parts": [
-            {
-              "ref": null,
-              "text": "毒ヶ崎情緒"
-            },
-            " (",
-            {
-              "ref": "p:82312",
-              "text": "vionan"
-            },
-            ")"
-          ]
-        }
-      ]
-    },
-    "1.7": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:84536",
-            "text": "Mused"
-          }
-        }
-      ]
     }
   },
   "rawPatches": {
-    "editor": "艺术家：exp10050(1,2)、ニンジャハムスター(3)、Nosqipe(4)、Suguru Ohtaka(5)、毒ヶ崎情緒(vionan)(6)、Mused(7)"
+    "editor": "艺术家：exp10050(1,2)、ニンジャハムスター(3)、Nosqipe(4)、Suguru Ohtaka(5)"
   },
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-06-12T16:25:13.604Z"
+    "submittedAt": "2026-06-12T16:25:18.586Z"
   }
 }
