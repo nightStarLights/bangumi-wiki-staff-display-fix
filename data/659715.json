@@ -1,0 +1,112 @@
+{
+  "subjectId": 659715,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:101",
+            "text": "菅野よう子"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Casey Edwards"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:101",
+            "text": "菅野よう子"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Casey Edwards"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "柒寒"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "陈玉婷"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:101",
+          "text": "菅野よう子"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:101",
+          "text": "菅野よう子"
+        }
+      }
+    ],
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "薮原正史"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "薮原正史"
+        }
+      }
+    ],
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:101",
+          "text": "菅野よう子"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：陈玉婷\n作曲：菅野よう子\n编曲：菅野よう子\n混音：薮原正史\n母带制作：薮原正史\n制作人：菅野よう子\n\n作词：菅野よう子(1,2)、Casey Edwards(1,2)、柒寒(2)"
+  },
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-06-12T01:08:18.858Z"
+  }
+}
