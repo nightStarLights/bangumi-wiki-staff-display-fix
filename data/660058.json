@@ -1,7 +1,7 @@
 {
   "subjectId": 660058,
   "trackCredits": {
-    "1.5": {
+    "1.4": {
       "mastering": [
         {
           "type": "person",
@@ -14,11 +14,11 @@
     }
   },
   "rawPatches": {
-    "editor": "母带制作: 圈太(5)"
+    "editor": "母带制作: 圈太(4)"
   },
   "_meta": {
     "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-06-12T13:57:50.445Z"
+    "submittedAt": "2026-06-12T13:58:16.695Z"
   }
 }
