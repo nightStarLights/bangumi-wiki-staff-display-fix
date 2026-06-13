@@ -107,6 +107,22 @@
           },
           "inst": "Horns"
         }
+      ],
+      "custom-Programming": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84546",
+            "text": "ふじそば"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86886",
+            "text": "Moncy"
+          }
+        }
       ]
     }
   },
@@ -167,11 +183,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：ことの\n录音：Studio アステロイド\n混音：でん\n母带制作：でん\n插图：よういち\n制作人：ことの\n\n作词：x-x(1)、カシラテ(2)\n作曲：x-x(1)、ふじそば(2)\n编曲：x-x(1)、ふじそば(2)\n乐器-Bass：カシラテ(2)\n乐器-All Other Instruments：ふじそば(2)\n乐器-Guitar：ゾウリムシ(2)\n乐器-Piano：kanakanakanatch(2)\n乐器-Strings：Moncy(2)\n乐器-Horns：Moncy(2)"
+    "editor": "艺术家：ことの\n录音：Studio アステロイド\n混音：でん\n母带制作：でん\n插图：よういち\n制作人：ことの\n\n作词：x-x(1)、カシラテ(2)\n作曲：x-x(1)、ふじそば(2)\n编曲：x-x(1)、ふじそば(2)\n乐器-Bass：カシラテ(2)\n乐器-All Other Instruments：ふじそば(2)\n乐器-Guitar：ゾウリムシ(2)\n乐器-Piano：kanakanakanatch(2)\n乐器-Strings：Moncy(2)\n乐器-Horns：Moncy(2)\ncustom-Programming：ふじそば(2),Moncy(2)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-06-13T14:20:33.633Z"
+    "submittedAt": "2026-06-13T14:21:17.630Z"
   }
 }
