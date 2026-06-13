@@ -1,0 +1,177 @@
+{
+  "subjectId": 660358,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "x-x"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "x-x"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "x-x"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86879",
+            "text": "カシラテ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84546",
+            "text": "ふじそば"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84546",
+            "text": "ふじそば"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:86879",
+            "text": "カシラテ"
+          },
+          "inst": "Bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:84546",
+            "text": "ふじそば"
+          },
+          "inst": "All Other Instruments"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:86898",
+            "text": "ゾウリムシ"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:86882",
+            "text": "kanakanakanatch"
+          },
+          "inst": "Piano"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:86886",
+            "text": "Moncy"
+          },
+          "inst": "Strings"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:86886",
+            "text": "Moncy"
+          },
+          "inst": "Horns"
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:65403",
+          "text": "ことの"
+        }
+      }
+    ],
+    "recording": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Studio アステロイド"
+        }
+      }
+    ],
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:84808",
+          "text": "でん"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:84808",
+          "text": "でん"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:68438",
+          "text": "よういち"
+        }
+      }
+    ],
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:65403",
+          "text": "ことの"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：ことの\n录音：Studio アステロイド\n混音：でん\n母带制作：でん\n插图：よういち\n制作人：ことの\n\n作词：x-x(1)、カシラテ(2)\n作曲：x-x(1)、ふじそば(2)\n编曲：x-x(1)、ふじそば(2)\n乐器-Bass：カシラテ(2)\n乐器-All Other Instruments：ふじそば(2)\n乐器-Guitar：ゾウリムシ(2)\n乐器-Piano：kanakanakanatch(2)\n乐器-Strings：Moncy(2)\n乐器-Horns：Moncy(2)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-06-13T14:20:33.633Z"
+  }
+}
