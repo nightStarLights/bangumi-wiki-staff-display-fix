@@ -1,0 +1,395 @@
+{
+  "subjectId": 660390,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64155",
+            "text": "水槽"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64155",
+            "text": "水槽"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55206",
+            "text": "KOTONOHOUSE"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64155",
+            "text": "水槽"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55206",
+            "text": "KOTONOHOUSE"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64155",
+            "text": "水槽"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64155",
+            "text": "水槽"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55206",
+            "text": "KOTONOHOUSE"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64155",
+            "text": "水槽"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55206",
+            "text": "KOTONOHOUSE"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64155",
+            "text": "水槽"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64155",
+            "text": "水槽"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:60294",
+            "text": "maeshima soshi"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64155",
+            "text": "水槽"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:60294",
+            "text": "maeshima soshi"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:51350",
+            "text": "辻村有記"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83239",
+            "text": "導凰"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "小林樹音（JitteryJackal）"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "小林樹音（JitteryJackal）"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:51350",
+            "text": "辻村有記"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "小林樹音（JitteryJackal）"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "小林樹音（JitteryJackal）"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83239",
+            "text": "導凰"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55206",
+            "text": "KOTONOHOUSE"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55206",
+            "text": "KOTONOHOUSE"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83239",
+            "text": "導凰"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "JUN"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83240",
+            "text": "朔雀"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "小林樹音（JitteryJackal）"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "小林樹音（JitteryJackal）"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56821",
+            "text": "宮守文学"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56821",
+            "text": "宮守文学"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56821",
+            "text": "宮守文学"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:40037",
+            "text": "ポリスピカデリー"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:40037",
+            "text": "ポリスピカデリー"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:40037",
+            "text": "ポリスピカデリー"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "雨良 Amala"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "雨良 Amala"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "雨良 Amala"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:83239",
+          "text": "導凰"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "HAMMER COLLECTIVE"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:64",
+          "text": "ポニーキャニオン"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：導凰\n厂牌：HAMMER COLLECTIVE\n出版方：ポニーキャニオン\n\n作词：水槽(1,7,10)、辻村有記(2,3)、導凰(2,8,9)、宮守文学(4)、ポリスピカデリー(5)、雨良 Amala(6)、JUN(9)、朔雀(9)\n作曲：水槽(1,7,10)、KOTONOHOUSE(1,7,8)、小林樹音（JitteryJackal）(2,3,9)、宮守文学(4)、ポリスピカデリー(5)、雨良 Amala(6)、maeshima soshi(10)\n编曲：水槽(1,7,10)、KOTONOHOUSE(1,7,8)、小林樹音（JitteryJackal）(2,3,9)、宮守文学(4)、ポリスピカデリー(5)、雨良 Amala(6)、maeshima soshi(10)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-06-13T15:44:11.952Z"
+  }
+}
