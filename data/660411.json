@@ -1,0 +1,138 @@
+{
+  "subjectId": 660411,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86500",
+            "text": "citybridge"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Dynamo"
+            },
+            " (",
+            {
+              "ref": "p:86499",
+              "text": "Erixa"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86501",
+            "text": "Ata"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "dotη"
+            },
+            " (",
+            {
+              "ref": "p:66918",
+              "text": "Riku"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "KFeach"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86497",
+            "text": "GaziGaji"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:68297",
+          "text": "Koshico Records"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "dotη"
+          },
+          " (",
+          {
+            "ref": "p:66918",
+            "text": "Riku"
+          },
+          ")"
+        ]
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Kaway"
+        }
+      }
+    ],
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:86500",
+          "text": "citybridge"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：Koshico Records\n母带制作：dotη(Riku)\n插图：Kaway\n制作人：citybridge\n\n艺术家：citybridge(1)、Dynamo(Erixa)(2)、Ata(3)、dotη(Riku)(4)、KFeach(5)、GaziGaji(6)"
+  },
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-06-13T20:16:27.449Z"
+  }
+}
