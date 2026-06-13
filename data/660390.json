@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:64155",
+            "ref": null,
             "text": "水槽"
           }
         }
@@ -15,14 +15,14 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:64155",
+            "ref": null,
             "text": "水槽"
           }
         },
         {
           "type": "person",
           "person": {
-            "ref": "p:55206",
+            "ref": null,
             "text": "KOTONOHOUSE"
           }
         }
@@ -31,14 +31,14 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:64155",
+            "ref": null,
             "text": "水槽"
           }
         },
         {
           "type": "person",
           "person": {
-            "ref": "p:55206",
+            "ref": null,
             "text": "KOTONOHOUSE"
           }
         }
@@ -49,7 +49,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:64155",
+            "ref": null,
             "text": "水槽"
           }
         }
@@ -58,14 +58,14 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:64155",
+            "ref": null,
             "text": "水槽"
           }
         },
         {
           "type": "person",
           "person": {
-            "ref": "p:55206",
+            "ref": null,
             "text": "KOTONOHOUSE"
           }
         }
@@ -74,14 +74,14 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:64155",
+            "ref": null,
             "text": "水槽"
           }
         },
         {
           "type": "person",
           "person": {
-            "ref": "p:55206",
+            "ref": null,
             "text": "KOTONOHOUSE"
           }
         }
@@ -92,7 +92,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:64155",
+            "ref": null,
             "text": "水槽"
           }
         }
@@ -101,14 +101,14 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:64155",
+            "ref": null,
             "text": "水槽"
           }
         },
         {
           "type": "person",
           "person": {
-            "ref": "p:60294",
+            "ref": null,
             "text": "maeshima soshi"
           }
         }
@@ -117,14 +117,14 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:64155",
+            "ref": null,
             "text": "水槽"
           }
         },
         {
           "type": "person",
           "person": {
-            "ref": "p:60294",
+            "ref": null,
             "text": "maeshima soshi"
           }
         }
@@ -135,14 +135,14 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:51350",
+            "ref": null,
             "text": "辻村有記"
           }
         },
         {
           "type": "person",
           "person": {
-            "ref": "p:83239",
+            "ref": null,
             "text": "導凰"
           }
         }
@@ -171,7 +171,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:51350",
+            "ref": null,
             "text": "辻村有記"
           }
         }
@@ -200,7 +200,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:83239",
+            "ref": null,
             "text": "導凰"
           }
         }
@@ -209,7 +209,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:55206",
+            "ref": null,
             "text": "KOTONOHOUSE"
           }
         }
@@ -218,7 +218,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:55206",
+            "ref": null,
             "text": "KOTONOHOUSE"
           }
         }
@@ -229,7 +229,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:83239",
+            "ref": null,
             "text": "導凰"
           }
         },
@@ -243,7 +243,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:83240",
+            "ref": null,
             "text": "朔雀"
           }
         }
@@ -272,7 +272,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:56821",
+            "ref": null,
             "text": "宮守文学"
           }
         }
@@ -281,7 +281,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:56821",
+            "ref": null,
             "text": "宮守文学"
           }
         }
@@ -290,7 +290,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:56821",
+            "ref": null,
             "text": "宮守文学"
           }
         }
@@ -301,7 +301,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:40037",
+            "ref": null,
             "text": "ポリスピカデリー"
           }
         }
@@ -310,7 +310,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:40037",
+            "ref": null,
             "text": "ポリスピカデリー"
           }
         }
@@ -319,7 +319,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:40037",
+            "ref": null,
             "text": "ポリスピカデリー"
           }
         }
@@ -360,7 +360,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:83239",
+          "ref": null,
           "text": "導凰"
         }
       }
@@ -378,7 +378,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:64",
+          "ref": null,
           "text": "ポニーキャニオン"
         }
       }
@@ -390,6 +390,6 @@
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-06-13T15:44:11.952Z"
+    "submittedAt": "2026-06-13T15:44:21.907Z"
   }
 }
