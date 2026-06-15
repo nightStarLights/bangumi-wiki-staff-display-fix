@@ -877,7 +877,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:781",
           "text": "坂井久太"
         }
       }
@@ -889,6 +889,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-06-15T09:40:57.365Z"
+    "submittedAt": "2026-06-15T09:46:55.393Z"
   }
 }
