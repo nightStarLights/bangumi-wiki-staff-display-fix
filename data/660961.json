@@ -1,0 +1,71 @@
+{
+  "subjectId": 660961,
+  "trackCredits": {
+    "1.3": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55206",
+            "text": "KOTONOHOUSE"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25867",
+            "text": "Stereoman"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ふない"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "OMOIDE LABEL"
+        }
+      }
+    ],
+    "artist": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "Hylen"
+          },
+          " (",
+          {
+            "ref": "p:67872",
+            "text": "宇佐美祐二"
+          },
+          ")"
+        ]
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "插图: ふない\n厂牌: OMOIDE LABEL\n艺术家: Hylen (宇佐美祐二)\n编曲: KOTONOHOUSE(3)、Stereoman(4)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-06-15T16:38:54.186Z"
+  }
+}
