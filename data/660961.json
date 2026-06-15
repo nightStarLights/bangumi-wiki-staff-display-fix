@@ -17,7 +17,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:25867",
             "text": "Stereoman"
           }
         }
@@ -38,7 +38,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:82934",
+          "ref": null,
           "text": "OMOIDE LABEL"
         }
       }
@@ -66,6 +66,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-06-15T16:38:59.980Z"
+    "submittedAt": "2026-06-15T16:51:46.905Z"
   }
 }
