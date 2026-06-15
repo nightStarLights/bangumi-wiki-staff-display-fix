@@ -1,0 +1,255 @@
+{
+  "subjectId": 660947,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "parts": [
+            "有村麻央(CV.",
+            {
+              "ref": null,
+              "text": "七瀬つむぎ"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            "姫崎莉波(CV.",
+            {
+              "ref": null,
+              "text": "薄井友里"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Kai Takahashi"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Kai Takahashi"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Kai Takahashi"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "parts": [
+            "有村麻央(CV.",
+            {
+              "ref": null,
+              "text": "七瀬つむぎ"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            "姫崎莉波(CV.",
+            {
+              "ref": null,
+              "text": "薄井友里"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:59104",
+            "text": "原口沙輔"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:59104",
+            "text": "原口沙輔"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9155",
+            "text": "宮川弾"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:59104",
+            "text": "原口沙輔"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "parts": [
+            "有村麻央(CV.",
+            {
+              "ref": null,
+              "text": "七瀬つむぎ"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            "姫崎莉波(CV.",
+            {
+              "ref": null,
+              "text": "薄井友里"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11787",
+            "text": "田淵智也"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11787",
+            "text": "田淵智也"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:27154",
+            "text": "滝澤俊輔"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "parts": [
+            "有村麻央(CV.",
+            {
+              "ref": null,
+              "text": "七瀬つむぎ"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            "姫崎莉波(CV.",
+            {
+              "ref": null,
+              "text": "薄井友里"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "十王邦夫"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:20262",
+            "text": "佐藤貴文"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:19217",
+            "text": "兼松衆"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Kai Takahashi"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Kai Takahashi"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:63705",
+          "text": "ASOBINOTES"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：ASOBINOTES\n\n艺术家：有村麻央(CV.七瀬つむぎ)(1,3,4,5)、姫崎莉波(CV.薄井友里)(1,3,4,5)\n作词：Kai Takahashi(1)、原口沙輔(3)、田淵智也(4)、十王邦夫(5)\n作曲：Kai Takahashi(1,2)、原口沙輔(3)、田淵智也(4)、佐藤貴文(5)\n编曲：Kai Takahashi(1,2)、宮川弾(3)、原口沙輔(3)、滝澤俊輔(4)、兼松衆(5)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-06-15T14:38:19.521Z"
+  }
+}
