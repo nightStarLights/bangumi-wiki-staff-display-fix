@@ -1,0 +1,223 @@
+{
+  "subjectId": 660953,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69359",
+            "text": "遠野朝海"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Cathru"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "C"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Spire"
+            },
+            " (",
+            {
+              "ref": "p:70942",
+              "text": "Supire"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ide_Co"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "shin(())code"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Adiem Ouskyer Reyskuo"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75773",
+            "text": "ninomiya tatsuki"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "fuishoo"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Y.a.M.A"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "The Burstful Of Hollow"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Oyubi"
+          }
+        }
+      ]
+    },
+    "1.13": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "1NDV"
+          }
+        }
+      ]
+    },
+    "1.14": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "SNAREWAVES"
+          }
+        }
+      ]
+    },
+    "1.15": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "上海星屑"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:82934",
+          "text": "OMOIDE LABEL"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "OMOIDE MASTERING"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "美零"
+        }
+      }
+    ],
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:93842",
+          "text": "YZOX"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：OMOIDE LABEL\n母带制作：OMOIDE MASTERING\n插图：美零\n制作人：YZOX\n\n艺术家：遠野朝海(1)、Cathru(2)、C(3)、Spire(Supire)(4)、Ide_Co(5)、shin(())code(6)、Adiem Ouskyer Reyskuo(7)、ninomiya tatsuki(8)、fuishoo(9)、Y.a.M.A(10)、The Burstful Of Hollow(11)、Oyubi(12)、1NDV(13)、SNAREWAVES(14)、上海星屑(15)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-06-15T15:13:32.073Z"
+  }
+}
