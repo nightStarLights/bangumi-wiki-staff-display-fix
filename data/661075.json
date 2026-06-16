@@ -1,0 +1,257 @@
+{
+  "subjectId": 661075,
+  "trackCredits": {
+    "1.1": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Chorus Arrange: 梓川"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Chorus Arrange: 梓川"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Chorus Arrange: ソノイ"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Chorus Arrange: ソノイ"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Chorus Arrange: ソノイ"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Chorus Arrange: ソノイ"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55206",
+            "text": "KOTONOHOUSE"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Hylen"
+            },
+            " (",
+            {
+              "ref": "p:67872",
+              "text": "宇佐美祐二"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.9": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65470",
+            "text": "picco"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47326",
+            "text": "zensen"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73988",
+            "text": "d.j.ァネイロ"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10799",
+            "text": "TeddyLoid"
+          }
+        }
+      ]
+    },
+    "1.13": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Fushi"
+          }
+        }
+      ]
+    },
+    "1.14": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ンバヂ"
+          }
+        }
+      ]
+    },
+    "1.15": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:92283",
+            "text": "KAJI"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69377",
+          "text": "Eye"
+        }
+      }
+    ],
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69137",
+          "text": "yowanecity"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69137",
+          "text": "yowanecity"
+        }
+      }
+    ],
+    "recording": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Voice Edit: ソノイ"
+        }
+      }
+    ],
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:65508",
+          "text": "ど～ぱみん"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:65508",
+          "text": "ど～ぱみん"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "tugutugu"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "鯱ノ丸"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：Eye\n作词：yowanecity\n作曲：yowanecity\n录音：Voice Edit: ソノイ\n混音：ど～ぱみん\n母带制作：ど～ぱみん\n插图：tugutugu、鯱ノ丸\n\n编曲：Chorus Arrange: 梓川(1,2)、Chorus Arrange: ソノイ(3,4)、《Chorus Arrange: ソノイ》(5,6)、KOTONOHOUSE(7)、Hylen(宇佐美祐二)(8)、picco(9)、zensen(10)、d.j.ァネイロ(11)、TeddyLoid(12)、Fushi(13)、ンバヂ(14)、KAJI(15)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-06-16T07:50:31.689Z"
+  }
+}
