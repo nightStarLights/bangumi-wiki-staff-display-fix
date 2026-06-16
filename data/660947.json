@@ -238,18 +238,18 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:63705",
-          "text": "ASOBINOTES"
+          "ref": null,
+          "text": "バンダイナムコエンターテインメント"
         }
       }
     ]
   },
   "rawPatches": {
-    "editor": "厂牌：ASOBINOTES\n\n艺术家：有村麻央(CV.七瀬つむぎ)(1,3,4,5)、姫崎莉波(CV.薄井友里)(1,3,4,5)\n作词：Kai Takahashi(1)、原口沙輔(3)、田淵智也(4)、十王邦夫(5)\n作曲：Kai Takahashi(1,2)、原口沙輔(3)、田淵智也(4)、佐藤貴文(5)\n编曲：Kai Takahashi(1,2)、宮川弾(3)、原口沙輔(3)、滝澤俊輔(4)、兼松衆(5)"
+    "editor": "厂牌：バンダイナムコエンターテインメント\n\n艺术家：有村麻央(CV.七瀬つむぎ)(1,3,4,5)、姫崎莉波(CV.薄井友里)(1,3,4,5)\n作词：Kai Takahashi(1)、原口沙輔(3)、田淵智也(4)、十王邦夫(5)\n作曲：Kai Takahashi(1,2)、原口沙輔(3)、田淵智也(4)、佐藤貴文(5)\n编曲：Kai Takahashi(1,2)、宮川弾(3)、原口沙輔(3)、滝澤俊輔(4)、兼松衆(5)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-06-15T14:39:03.120Z"
+    "submittedAt": "2026-06-16T03:42:11.273Z"
   }
 }
