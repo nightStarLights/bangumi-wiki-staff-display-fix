@@ -1,0 +1,706 @@
+{
+  "subjectId": 554435,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "parts": [
+            "十王星南(CV:",
+            {
+              "ref": "p:63623",
+              "text": "陽高真白"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Fra"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:32060",
+            "text": "中鶴潤一"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:32060",
+            "text": "中鶴潤一"
+          }
+        }
+      ],
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:17646",
+            "text": "佐々木恵梨"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "井澤渓"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "高桑秋朝"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:13587",
+            "text": "後藤貴徳"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "兼子拓真"
+          },
+          "inst": "Bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:34194",
+            "text": "山本真央樹"
+          },
+          "inst": "Drums"
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "parts": [
+            "十王星南(CV:",
+            {
+              "ref": "p:63623",
+              "text": "陽高真白"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "BOYHOOD"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "BOYHOOD"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "BOYHOOD"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "林可奈子"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "BOYHOOD"
+          },
+          "inst": "All Instruments"
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "parts": [
+            "十王星南(CV:",
+            {
+              "ref": "p:63623",
+              "text": "陽高真白"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:35869",
+            "text": "SHOW"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:35869",
+            "text": "SHOW"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33468",
+            "text": "Mitsu.J"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33468",
+            "text": "Mitsu.J"
+          }
+        }
+      ],
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:17646",
+            "text": "佐々木恵梨"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "林可奈子"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "百田尚史"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:33468",
+            "text": "Mitsu.J"
+          },
+          "inst": "All instruments"
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "parts": [
+            "十王星南(CV:",
+            {
+              "ref": "p:63623",
+              "text": "陽高真白"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:30224",
+            "text": "YUC'e"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:30224",
+            "text": "YUC'e"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:30224",
+            "text": "YUC'e"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "百田尚史"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10188",
+            "text": "烏屋茶房"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10188",
+            "text": "烏屋茶房"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10188",
+            "text": "烏屋茶房"
+          }
+        }
+      ],
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:17646",
+            "text": "佐々木恵梨"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "百田尚史"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "石川富章"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "安島龍人"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "三島想平"
+          },
+          "inst": "Bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:10188",
+            "text": "烏屋茶房"
+          },
+          "inst": "Other Instruments"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "山崎聖之"
+          },
+          "inst": "Drum"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "大谷舞"
+          },
+          "inst": "Violin"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "大谷舞"
+          },
+          "inst": "Viola"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "渡辺将也"
+          },
+          "inst": "Strings Arrangement"
+        }
+      ]
+    },
+    "1.6": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:32060",
+            "text": "中鶴潤一"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:32060",
+            "text": "中鶴潤一"
+          }
+        }
+      ],
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:17646",
+            "text": "佐々木恵梨"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "井澤渓"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "高桑秋朝"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:13587",
+            "text": "後藤貴徳"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "兼子拓真"
+          },
+          "inst": "Bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:34194",
+            "text": "山本真央樹"
+          },
+          "inst": "Drums"
+        }
+      ]
+    },
+    "1.7": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "BOYHOOD"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "BOYHOOD"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "林可奈子"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "BOYHOOD"
+          },
+          "inst": "All Instruments"
+        }
+      ]
+    },
+    "1.8": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:35869",
+            "text": "SHOW"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33468",
+            "text": "Mitsu.J"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33468",
+            "text": "Mitsu.J"
+          }
+        }
+      ],
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:17646",
+            "text": "佐々木恵梨"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "林可奈子"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:33468",
+            "text": "Mitsu.J"
+          },
+          "inst": "All instruments"
+        }
+      ]
+    },
+    "1.9": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10188",
+            "text": "烏屋茶房"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10188",
+            "text": "烏屋茶房"
+          }
+        }
+      ],
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:17646",
+            "text": "佐々木恵梨"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "石川富章"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "安島龍人"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "三島想平"
+          },
+          "inst": "Bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:10188",
+            "text": "烏屋茶房"
+          },
+          "inst": "Other Instruments"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "山崎聖之"
+          },
+          "inst": "Drum"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "大谷舞"
+          },
+          "inst": "Violin"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "大谷舞"
+          },
+          "inst": "Viola"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "渡辺将也"
+          },
+          "inst": "Strings Arrangement"
+        }
+      ]
+    },
+    "1.10": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:30224",
+            "text": "YUC'e"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:30224",
+            "text": "YUC'e"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:3502",
+          "text": "バンダイナムコエンターテインメント"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：バンダイナムコエンターテインメント\n\n艺术家：十王星南(CV:陽高真白)(1,2,3,5)\n作词：Fra(1)、BOYHOOD(2)、SHOW(3)、烏屋茶房(4)、YUC'e(5)\n作曲：中鶴潤一(1,6)、BOYHOOD(2,7)、SHOW(3,8)、Mitsu.J(3,8)、烏屋茶房(4,9)、YUC'e(5,10)\n编曲：中鶴潤一(1,6)、BOYHOOD(2,7)、Mitsu.J(3,8)、烏屋茶房(4,9)、YUC'e(5,10)\n声乐：佐々木恵梨(1,3,4,6,8,9)\n录音：井澤渓(1,6)\n混音：高桑秋朝(1,6)、林可奈子(2,3,7,8)、百田尚史(3,4,5)、石川富章(4,9)\n乐器-Guitar：後藤貴徳(1,6)、安島龍人(4,9)\n乐器-Bass：兼子拓真(1,6)、三島想平(4,9)\n乐器-Drums：山本真央樹(1,6)\n乐器-All Instruments：BOYHOOD(2,7)\n乐器-All instruments：Mitsu.J(3,8)\n乐器-Other Instruments：烏屋茶房(4,9)\n乐器-Drum：山崎聖之(4,9)\n乐器-Violin：大谷舞(4,9)\n乐器-Viola：大谷舞(4,9)\n乐器-Strings Arrangement：渡辺将也(4,9)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-06-18T15:17:12.038Z"
+  }
+}
