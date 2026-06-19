@@ -87,49 +87,6 @@
         }
       ]
     },
-    "1.10": {
-      "lyricist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:19785",
-            "text": "DAOKO"
-          }
-        }
-      ],
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:19785",
-            "text": "DAOKO"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:60294",
-            "text": "maeshima soshi"
-          }
-        }
-      ],
-      "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:19785",
-            "text": "DAOKO"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:60294",
-            "text": "maeshima soshi"
-          }
-        }
-      ]
-    },
     "1.3": {
       "lyricist": [
         {
@@ -381,6 +338,70 @@
           }
         }
       ]
+    },
+    "1.10": {
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Daoko"
+            },
+            " (",
+            {
+              "ref": "p:19785",
+              "text": "DAOKO"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Daoko"
+            },
+            " (",
+            {
+              "ref": "p:19785",
+              "text": "DAOKO"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:60294",
+            "text": "maeshima soshi"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Daoko"
+            },
+            " (",
+            {
+              "ref": "p:19785",
+              "text": "DAOKO"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:60294",
+            "text": "maeshima soshi"
+          }
+        }
+      ]
     }
   },
   "epinfo": {
@@ -388,7 +409,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:83240",
+          "ref": null,
           "text": "朔雀"
         }
       }
@@ -411,7 +432,7 @@
           },
           " (",
           {
-            "ref": "p:17845",
+            "ref": null,
             "text": "岩崎将大"
           },
           ")"
@@ -422,18 +443,18 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:64",
+          "ref": null,
           "text": "ポニーキャニオン"
         }
       }
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：朔雀\n厂牌：HAMMER COLLECTIVE\n插图：tarou2(岩崎将大)\n出版方：ポニーキャニオン\n\n作词：DAOKO(1,2,10)、Yaca(3,4)、ポリスピカデリー(5)、ケンモチヒデフミ(6)、R Sound Design(7)、朔雀(8)、biz(9)、ZERA(9)\n作曲：DAOKO(1,2,10)、KOTONOHOUSE(1,8)、Pa’s Lam System(2)、Yaca(3,4)、hirihiri(3,4)、ポリスピカデリー(5)、ケンモチヒデフミ(6)、R Sound Design(7)、biz(9)、ZERA(9)、maeshima soshi(10)\n编曲：DAOKO(1,2,10)、KOTONOHOUSE(1,8)、Pa’s Lam System(2)、Yaca(3,4)、hirihiri(3,4)、ポリスピカデリー(5)、ケンモチヒデフミ(6)、R Sound Design(7)、biz(9)、ZERA(9)、maeshima soshi(10)"
+    "editor": "艺术家：朔雀\n厂牌：HAMMER COLLECTIVE\n插图：tarou2(岩崎将大)\n出版方：ポニーキャニオン\n\n作词：DAOKO(1,2)、Yaca(3,4)、ポリスピカデリー(5)、ケンモチヒデフミ(6)、R Sound Design(7)、朔雀(8)、biz(9)、ZERA(9)、Daoko(DAOKO)(10)\n作曲：DAOKO(1,2)、KOTONOHOUSE(1,8)、Pa’s Lam System(2)、Yaca(3,4)、hirihiri(3,4)、ポリスピカデリー(5)、ケンモチヒデフミ(6)、R Sound Design(7)、biz(9)、ZERA(9)、Daoko(DAOKO)(10)、maeshima soshi(10)\n编曲：DAOKO(1,2)、KOTONOHOUSE(1,8)、Pa’s Lam System(2)、Yaca(3,4)、hirihiri(3,4)、ポリスピカデリー(5)、ケンモチヒデフミ(6)、R Sound Design(7)、biz(9)、ZERA(9)、Daoko(DAOKO)(10)、maeshima soshi(10)"
   },
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-06-19T17:36:29.313Z"
+    "submittedAt": "2026-06-19T17:36:31.883Z"
   }
 }
