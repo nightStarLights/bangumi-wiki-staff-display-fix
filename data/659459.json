@@ -222,7 +222,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:82551",
+          "ref": null,
           "text": "空爽"
         }
       }
@@ -231,7 +231,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:84123",
+          "ref": null,
           "text": "PHENOMENON RECORD"
         }
       }
@@ -252,6 +252,6 @@
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-06-19T17:28:34.020Z"
+    "submittedAt": "2026-06-19T17:28:44.691Z"
   }
 }
