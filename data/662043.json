@@ -1,0 +1,71 @@
+{
+  "subjectId": 662043,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Called by Mercury"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Evilgloom"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Called by Mercury"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Called by Mercury"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6761",
+            "text": "DJ Shimamura"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Called by Mercury"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：Called by Mercury\n\n作词：Called by Mercury(1)、Evilgloom(1)\n作曲：Called by Mercury(1)\n编曲：Called by Mercury(1)、DJ Shimamura(2)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-06-19T18:07:51.833Z"
+  }
+}
