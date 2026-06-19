@@ -217,7 +217,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:82312",
             "text": "vionan"
           }
         }
@@ -252,6 +252,6 @@
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-06-19T17:41:51.854Z"
+    "submittedAt": "2026-06-19T17:42:16.430Z"
   }
 }
