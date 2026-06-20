@@ -1,0 +1,105 @@
+{
+  "subjectId": 662417,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "parts": [
+            "ツクヨ(CV:",
+            {
+              "ref": "p:43609",
+              "text": "後藤彩佐"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10291",
+            "text": "夕野ヨシミ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47721",
+            "text": "EmoCosine"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47721",
+            "text": "EmoCosine"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "NezMayo"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47721",
+            "text": "EmoCosine"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47721",
+            "text": "EmoCosine"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "NezMayo"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:44495",
+          "text": "Yostar"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：Yostar\n\n艺术家：ツクヨ(CV:後藤彩佐)(1)\n作词：夕野ヨシミ(1)\n作曲：EmoCosine(1,2)\n编曲：EmoCosine(1,2)\n乐器-Guitar：NezMayo(1,2)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-06-20T19:22:23.255Z"
+  }
+}
