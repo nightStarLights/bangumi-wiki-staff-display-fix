@@ -1,0 +1,110 @@
+{
+  "subjectId": 640436,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:41327",
+            "text": "DÉ DÉ MOUSE"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71746",
+            "text": "KAIRUI"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:94083",
+            "text": "cat biscuit"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55206",
+            "text": "KOTONOHOUSE"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25865",
+            "text": "Yunomi"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71336",
+            "text": "Saku"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67563",
+            "text": "天使電影"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "甘口ミク"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:83316",
+          "text": "にゃもふぇ"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：甘口ミク\n插图：にゃもふぇ\n\n艺术家：DÉ DÉ MOUSE(1)、KAIRUI(2)、cat biscuit(3)、KOTONOHOUSE(4)、Yunomi(5)、Saku(6)、天使電影(7)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-06-20T10:07:27.037Z"
+  }
+}
