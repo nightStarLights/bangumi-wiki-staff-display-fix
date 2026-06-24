@@ -1,0 +1,227 @@
+{
+  "subjectId": 663398,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86620",
+            "text": "諭吉佳作/men"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "abelest"
+          }
+        }
+      ],
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86620",
+            "text": "諭吉佳作/men"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "abelest"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "木村健太郎"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "men"
+          },
+          "inst": "Other Instruments"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "abelest"
+          },
+          "inst": "Other Instruments"
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86620",
+            "text": "諭吉佳作/men"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "abelest"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86620",
+            "text": "諭吉佳作/men"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "abelest"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86620",
+            "text": "諭吉佳作/men"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "abelest"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "木村健太郎"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "abelest"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "men"
+          },
+          "inst": "Other Instruments"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "abelest"
+          },
+          "inst": "Other Instruments"
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86620",
+            "text": "諭吉佳作/men"
+          }
+        }
+      ],
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86620",
+            "text": "諭吉佳作/men"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "abelest"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "木村健太郎"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "men"
+          },
+          "inst": "Other Instruments"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "abelest"
+          },
+          "inst": "Other Instruments"
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:72450",
+          "text": "Maltine Records"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：Maltine Records\n\n艺术家：《諭吉佳作/men》(1,2,3)、abelest(1,2)\n作曲：《諭吉佳作/men》(2)、abelest(2)\n编曲：《諭吉佳作/men》(2)、abelest(2)\n声乐：《諭吉佳作/men》(1,3)\n混音：abelest(1,3)\n母带制作：木村健太郎(1,2,3)、abelest(2)\n乐器-Other Instruments：諭吉佳作/men(1,2,3)、abelest(1,2,3)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-06-24T17:19:30.262Z"
+  }
+}
