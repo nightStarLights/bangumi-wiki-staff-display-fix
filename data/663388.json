@@ -1,0 +1,124 @@
+{
+  "subjectId": 663388,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "whyminsu"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69201",
+            "text": "TAK"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "whyminsu"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69201",
+            "text": "TAK"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "whyminsu"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:69201",
+            "text": "TAK"
+          },
+          "inst": "Keyboard"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "문원우"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "네네코 마시로"
+          },
+          " (",
+          {
+            "ref": null,
+            "text": "Neneko Mashiro"
+          },
+          ")"
+        ]
+      },
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "시라유키 히나"
+          },
+          " (",
+          {
+            "ref": null,
+            "text": "Shirayuki Hina"
+          },
+          ")"
+        ]
+      }
+    ],
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69201",
+          "text": "TAK"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Kwon Namwoo"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：네네코 마시로 (Neneko Mashiro)、시라유키 히나 (Shirayuki Hina)\n混音：TAK\n母带制作：Kwon Namwoo\n\n作词：whyminsu(1)\n作曲：TAK(1)、whyminsu(1)\n编曲：TAK(1)、whyminsu(1)\n乐器-Keyboard：TAK(1)\n乐器-Guitar：문원우(1)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-06-24T16:54:57.831Z"
+  }
+}
