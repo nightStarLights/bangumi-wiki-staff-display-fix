@@ -28,7 +28,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:7002",
             "text": "t+pazolite"
           }
         }
@@ -39,7 +39,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:71745",
             "text": "sun3"
           }
         }
@@ -50,7 +50,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:71745",
             "text": "sun3"
           }
         }
@@ -61,7 +61,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:71745",
             "text": "sun3"
           }
         }
@@ -72,7 +72,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:7257",
             "text": "天音"
           }
         }
@@ -83,7 +83,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:7257",
             "text": "天音"
           }
         }
@@ -94,7 +94,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:7257",
             "text": "天音"
           }
         }
@@ -105,7 +105,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:7257",
             "text": "天音"
           }
         }
@@ -145,7 +145,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:6501",
             "text": "IRON-CHINO"
           }
         }
@@ -156,7 +156,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:65977",
             "text": "ねこみりん"
           }
         }
@@ -207,6 +207,6 @@
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-06-24T03:49:26.373Z"
+    "submittedAt": "2026-06-24T03:49:58.568Z"
   }
 }
