@@ -82,8 +82,8 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:65617",
-            "text": "nyankobrq"
+            "ref": "p:90520",
+            "text": "purini"
           }
         }
       ],
@@ -91,8 +91,8 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:65617",
-            "text": "nyankobrq"
+            "ref": "p:90520",
+            "text": "purini"
           }
         }
       ]
@@ -111,8 +111,8 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:47721",
-            "text": "EmoCosine"
+            "ref": "p:65617",
+            "text": "nyankobrq"
           }
         }
       ],
@@ -120,8 +120,8 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:47721",
-            "text": "EmoCosine"
+            "ref": "p:65617",
+            "text": "nyankobrq"
           }
         }
       ],
@@ -160,8 +160,8 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:90520",
-            "text": "purini"
+            "ref": "p:47721",
+            "text": "EmoCosine"
           }
         }
       ],
@@ -169,8 +169,8 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:90520",
-            "text": "purini"
+            "ref": "p:47721",
+            "text": "EmoCosine"
           }
         }
       ]
@@ -197,11 +197,11 @@
     }
   },
   "rawPatches": {
-    "editor": "艺术家：angelize(1)、Pvin Connect Reason(2)、iyan D1KE(5)、中村さんそ(6)\n作曲：icesawder(1)、DJ Raisei(2)、Capchii(3)、purini(4)、nyankobrq(5)、EmoCosine(6)、R1cefarm(7)\n编曲：icesawder(1)、DJ Raisei(2)、Capchii(3)、purini(4)、nyankobrq(5)、EmoCosine(6)、Yutori(7)\n混音：R1cefarm(1,6)"
+    "editor": "艺术家：angelize(1)、Pvin Connect Reason(2)、iyan D1KE(5)、中村さんそ(6)\n作曲：icesawder(1)、DJ Raisei(2)、Capchii(3)、purini(5)、nyankobrq(6)、EmoCosine(4)、R1cefarm(7)\n编曲：icesawder(1)、DJ Raisei(2)、Capchii(3)、purini(5)、nyankobrq(6)、EmoCosine(4)、Yutori(7)\n混音：R1cefarm(1,6)"
   },
   "_meta": {
     "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-06-25T15:28:26.533Z"
+    "submittedAt": "2026-06-25T15:29:13.624Z"
   }
 }
