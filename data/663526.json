@@ -1,0 +1,91 @@
+{
+  "subjectId": 663526,
+  "trackCredits": {
+    "1.42": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:27275",
+            "text": "大原ゆい子"
+          }
+        }
+      ]
+    },
+    "1.43": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:27275",
+            "text": "大原ゆい子"
+          }
+        }
+      ]
+    },
+    "1.46": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "mahoroba"
+          }
+        }
+      ]
+    },
+    "1.47": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "mahoroba"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Fumihito Uekusa"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "瓜田幸治"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Fumihito Uekusa"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "瓜田幸治"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "作曲：Fumihito Uekusa、瓜田幸治\n编曲：Fumihito Uekusa、瓜田幸治\n\n艺术家：大原ゆい子(42,43)、mahoroba(46,47)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-06-25T08:09:06.648Z"
+  }
+}
