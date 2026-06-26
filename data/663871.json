@@ -1,0 +1,363 @@
+{
+  "subjectId": 663871,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Miiro"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "DIEIN"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "HAYAKO"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "NieN"
+            },
+            " x ",
+            {
+              "ref": "p:35341",
+              "text": "seibin"
+            }
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "saewool"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:69868",
+              "text": "Pure 100%"
+            },
+            " x ",
+            {
+              "ref": null,
+              "text": "Aden K."
+            }
+          ]
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ned"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "chomin"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Funtwo"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "INFX"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "손연재"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Takahiro Eguchi"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "江口孝宏"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "eili"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Sofu"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "혜지"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:80461",
+              "text": "PahNic"
+            },
+            " x ",
+            {
+              "ref": null,
+              "text": "PANGURI"
+            }
+          ]
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "SOPHI"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "SOPHIPLANET"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Mr.Funky"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "VOLTA"
+          }
+        }
+      ]
+    },
+    "1.13": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "GhostFinal"
+          }
+        }
+      ]
+    },
+    "1.14": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Haloweak"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Kinoko蘑菇"
+          }
+        }
+      ]
+    },
+    "1.15": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "MAR VISTA"
+            },
+            " x ",
+            {
+              "ref": null,
+              "text": "HE KIM"
+            }
+          ]
+        }
+      ]
+    },
+    "1.16": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "RephyZ"
+            },
+            " x ",
+            {
+              "ref": null,
+              "text": "VoidRover"
+            }
+          ]
+        }
+      ]
+    },
+    "1.17": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Chopil"
+          }
+        }
+      ]
+    },
+    "1.18": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Casepeat"
+          }
+        }
+      ]
+    },
+    "1.19": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:77473",
+              "text": "XeoN"
+            },
+            " + ",
+            {
+              "ref": null,
+              "text": "7SEQ"
+            }
+          ]
+        }
+      ]
+    },
+    "1.20": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "7SEQ"
+            },
+            " + ",
+            {
+              "ref": "p:77473",
+              "text": "XeoN"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "DJMAX Entertainment"
+          },
+          " (",
+          {
+            "ref": null,
+            "text": "Neowiz Music Cafe"
+          },
+          ")"
+        ]
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：DJMAX Entertainment(Neowiz Music Cafe)\n\n艺术家：Miiro(1)、DIEIN(1)、HAYAKO(2)、NieN x seibin(3)、saewool(3)、Pure 100% x Aden K.(4)、ned(5)、chomin(5)、Funtwo(5)、INFX(6)、손연재(6)、Takahiro Eguchi(江口孝宏)(7)、eili(7)、Sofu(8)、혜지(8)、PahNic x PANGURI(9)、SOPHI(SOPHIPLANET)(10)、Mr.Funky(11)、VOLTA(12)、GhostFinal(13)、Haloweak(14)、Kinoko蘑菇(14)、MAR VISTA x HE KIM(15)、RephyZ x VoidRover(16)、Chopil(17)、Casepeat(18)、XeoN + 7SEQ(19)、7SEQ + XeoN(20)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-06-26T12:53:13.943Z"
+  }
+}
