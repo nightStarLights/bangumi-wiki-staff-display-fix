@@ -1,6 +1,464 @@
 {
   "subjectId": 663526,
   "trackCredits": {
+    "1.32": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Fumihito Uekusa"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "瓜田幸治"
+          }
+        }
+      ]
+    },
+    "1.33": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Fumihito Uekusa"
+          }
+        }
+      ]
+    },
+    "1.35": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Fumihito Uekusa"
+          }
+        }
+      ]
+    },
+    "1.36": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Fumihito Uekusa"
+          }
+        }
+      ]
+    },
+    "1.38": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Fumihito Uekusa"
+          }
+        }
+      ]
+    },
+    "1.39": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Fumihito Uekusa"
+          }
+        }
+      ]
+    },
+    "1.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "瓜田幸治"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "瓜田幸治"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "瓜田幸治"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "瓜田幸治"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "瓜田幸治"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "瓜田幸治"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "瓜田幸治"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "瓜田幸治"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "瓜田幸治"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "瓜田幸治"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "瓜田幸治"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "瓜田幸治"
+          }
+        }
+      ]
+    },
+    "1.13": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "瓜田幸治"
+          }
+        }
+      ]
+    },
+    "1.14": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "瓜田幸治"
+          }
+        }
+      ]
+    },
+    "1.15": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "瓜田幸治"
+          }
+        }
+      ]
+    },
+    "1.16": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "瓜田幸治"
+          }
+        }
+      ]
+    },
+    "1.17": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "瓜田幸治"
+          }
+        }
+      ]
+    },
+    "1.18": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "瓜田幸治"
+          }
+        }
+      ]
+    },
+    "1.19": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "瓜田幸治"
+          }
+        }
+      ]
+    },
+    "1.20": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "瓜田幸治"
+          }
+        }
+      ]
+    },
+    "1.21": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "瓜田幸治"
+          }
+        }
+      ]
+    },
+    "1.22": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "瓜田幸治"
+          }
+        }
+      ]
+    },
+    "1.23": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "瓜田幸治"
+          }
+        }
+      ]
+    },
+    "1.24": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "瓜田幸治"
+          }
+        }
+      ]
+    },
+    "1.25": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "瓜田幸治"
+          }
+        }
+      ]
+    },
+    "1.26": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "瓜田幸治"
+          }
+        }
+      ]
+    },
+    "1.27": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "瓜田幸治"
+          }
+        }
+      ]
+    },
+    "1.28": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "瓜田幸治"
+          }
+        }
+      ]
+    },
+    "1.29": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "瓜田幸治"
+          }
+        }
+      ]
+    },
+    "1.30": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "瓜田幸治"
+          }
+        }
+      ]
+    },
+    "1.31": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "瓜田幸治"
+          }
+        }
+      ]
+    },
+    "1.34": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "瓜田幸治"
+          }
+        }
+      ]
+    },
+    "1.37": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "瓜田幸治"
+          }
+        }
+      ]
+    },
+    "1.40": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "瓜田幸治"
+          }
+        }
+      ]
+    },
+    "1.41": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "瓜田幸治"
+          }
+        }
+      ]
+    },
     "1.42": {
       "artist": [
         {
@@ -235,30 +693,12 @@
       ]
     }
   },
-  "epinfo": {
-    "composer": [
-      {
-        "type": "person",
-        "person": {
-          "ref": null,
-          "text": "Fumihito Uekusa"
-        }
-      },
-      {
-        "type": "person",
-        "person": {
-          "ref": null,
-          "text": "瓜田幸治"
-        }
-      }
-    ]
-  },
   "rawPatches": {
-    "editor": "作曲：Fumihito Uekusa、瓜田幸治\n\n艺术家：大原ゆい子(42,43)、mahoroba(46,47)\n作词：大原ゆい子(42,43), onpu uchida(46,47)\n作曲：大原ゆい子(42,43,44,45), onpu uchida(46,47,48)\n编曲：吉田穣(42,43,44,45),  shun sato(46,47,48),noue(46,47,48)"
+    "editor": "作曲：Fumihito Uekusa(32,33,35,36,38,39)、瓜田幸治(1-32,34,37,40,41)\n\n艺术家：大原ゆい子(42,43)、mahoroba(46,47)\n作词：大原ゆい子(42,43), onpu uchida(46,47)\n作曲：大原ゆい子(42,43,44,45), onpu uchida(46,47,48)\n编曲：吉田穣(42,43,44,45),  shun sato(46,47,48),noue(46,47,48)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-06-26T09:25:03.511Z"
+    "submittedAt": "2026-06-26T15:02:43.718Z"
   }
 }
