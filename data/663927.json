@@ -22,16 +22,6 @@
             },
             ")"
           ]
-        },
-        {
-          "parts": [
-            "프리카(CV.",
-            {
-              "ref": null,
-              "text": "ZENA"
-            },
-            ")"
-          ]
         }
       ],
       "lyricist": [
@@ -106,16 +96,6 @@
             {
               "ref": null,
               "text": "Chaerin"
-            },
-            ")"
-          ]
-        },
-        {
-          "parts": [
-            "프리카(CV.",
-            {
-              "ref": null,
-              "text": "ZENA"
             },
             ")"
           ]
@@ -202,16 +182,6 @@
             },
             ")"
           ]
-        },
-        {
-          "parts": [
-            "프리카(CV.",
-            {
-              "ref": null,
-              "text": "ZENA"
-            },
-            ")"
-          ]
         }
       ],
       "lyricist": [
@@ -276,16 +246,6 @@
             {
               "ref": null,
               "text": "Chaerin"
-            },
-            ")"
-          ]
-        },
-        {
-          "parts": [
-            "프리카(CV.",
-            {
-              "ref": null,
-              "text": "ZENA"
             },
             ")"
           ]
@@ -371,14 +331,26 @@
           "text": "Cosmograph"
         }
       }
+    ],
+    "artist": [
+      {
+        "parts": [
+          "프리카(CV.",
+          {
+            "ref": null,
+            "text": "ZENA"
+          },
+          ")"
+        ]
+      }
     ]
   },
   "rawPatches": {
-    "editor": "厂牌：LEVEL NINE\n母带制作：Park Moonsoo、U-IL Soundworks\n制作人：Cosmograph\n\n艺术家：아니스(CV.Sunnie)(1,2,3,4)、민트(CV.Chaerin)(1,2,3,4)、프리카(CV.ZENA)(1,2,3,4)\n作词：Corbin(1,2,3,4)、Xuxhiz(3)\n作曲：Cosmograph(1,2,4)、Corbin(1,2,4)、Xuxhiz(3)\n编曲：Cosmograph(1,2,4)、Xuxhiz(2,3)\n录音：B.A.Wheeler(1,3)\n乐器-Guitar：NieN(1,2,4)\n乐器-Bass：H.J.Freaks(2)"
+    "editor": "厂牌：LEVEL NINE\n母带制作：Park Moonsoo、U-IL Soundworks\n制作人：Cosmograph\n\n艺术家：아니스(CV.Sunnie)(1,2,3,4)、민트(CV.Chaerin)(1,2,3,4)、프리카(CV.ZENA)\n作词：Corbin(1,2,3,4)、Xuxhiz(3)\n作曲：Cosmograph(1,2,4)、Corbin(1,2,4)、Xuxhiz(3)\n编曲：Cosmograph(1,2,4)、Xuxhiz(2,3)\n录音：B.A.Wheeler(1,3)\n乐器-Guitar：NieN(1,2,4)\n乐器-Bass：H.J.Freaks(2)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-06-26T17:03:50.458Z"
+    "submittedAt": "2026-06-26T17:04:20.422Z"
   }
 }
