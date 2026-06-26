@@ -22,11 +22,18 @@
     "1.2": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "HAYAKO"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "HAYAKO"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "TAK"
+            },
+            ")"
+          ]
         }
       ]
     },
@@ -40,7 +47,7 @@
             },
             " x ",
             {
-              "ref": "p:35341",
+              "ref": null,
               "text": "seibin"
             }
           ]
@@ -59,7 +66,7 @@
         {
           "parts": [
             {
-              "ref": "p:69868",
+              "ref": null,
               "text": "Pure 100%"
             },
             " x ",
@@ -101,7 +108,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:43274",
             "text": "INFX"
           }
         },
@@ -133,7 +140,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:66298",
             "text": "eili"
           }
         }
@@ -162,7 +169,7 @@
         {
           "parts": [
             {
-              "ref": "p:80461",
+              "ref": null,
               "text": "PahNic"
             },
             " x ",
@@ -197,8 +204,15 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:86601",
             "text": "Mr.Funky"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Re.may"
           }
         }
       ]
@@ -208,7 +222,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:69025",
             "text": "VOLTA"
           }
         }
@@ -219,7 +233,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:38919",
             "text": "GhostFinal"
           }
         }
@@ -230,14 +244,14 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:71464",
             "text": "Haloweak"
           }
         },
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:40208",
             "text": "Kinoko蘑菇"
           }
         }
@@ -304,7 +318,7 @@
         {
           "parts": [
             {
-              "ref": "p:77473",
+              "ref": null,
               "text": "XeoN"
             },
             " + ",
@@ -326,7 +340,7 @@
             },
             " + ",
             {
-              "ref": "p:77473",
+              "ref": null,
               "text": "XeoN"
             }
           ]
@@ -353,11 +367,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "厂牌：DJMAX Entertainment(Neowiz Music Cafe)\n\n艺术家：Miiro(1)、DIEIN(1)、HAYAKO(2)、NieN x seibin(3)、saewool(3)、Pure 100% x Aden K.(4)、ned(5)、chomin(5)、Funtwo(5)、INFX(6)、손연재(6)、Takahiro Eguchi(江口孝宏)(7)、eili(7)、Sofu(8)、혜지(8)、PahNic x PANGURI(9)、SOPHI(SOPHIPLANET)(10)、Mr.Funky(11)、VOLTA(12)、GhostFinal(13)、Haloweak(14)、Kinoko蘑菇(14)、MAR VISTA x HE KIM(15)、RephyZ x VoidRover(16)、Chopil(17)、Casepeat(18)、XeoN + 7SEQ(19)、7SEQ + XeoN(20)"
+    "editor": "厂牌：DJMAX Entertainment(Neowiz Music Cafe)\n\n艺术家：Miiro(1)、DIEIN(1)、HAYAKO(TAK)(2)、NieN x seibin(3)、saewool(3)、Pure 100% x Aden K.(4)、ned(5)、chomin(5)、Funtwo(5)、INFX(6)、손연재(6)、Takahiro Eguchi(江口孝宏)(7)、eili(7)、Sofu(8)、혜지(8)、PahNic x PANGURI(9)、SOPHI(SOPHIPLANET)(10)、Mr.Funky(11)、Re.may(11)、VOLTA(12)、GhostFinal(13)、Haloweak(14)、Kinoko蘑菇(14)、MAR VISTA x HE KIM(15)、RephyZ x VoidRover(16)、Chopil(17)、Casepeat(18)、XeoN + 7SEQ(19)、7SEQ + XeoN(20)"
   },
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-06-26T12:53:13.943Z"
+    "submittedAt": "2026-06-26T12:53:57.583Z"
   }
 }
