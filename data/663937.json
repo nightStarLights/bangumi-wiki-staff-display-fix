@@ -179,8 +179,8 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
-          "text": "葉音©"
+          "ref": "p:90865",
+          "text": "葉音©︎"
         }
       }
     ],
@@ -195,11 +195,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：葉音©\n厂牌：シアーミュージックエンタテインメント︎\n\n作词：corin.(1)、神野メイ(2)、SACHIKO(3)、葉音©︎(4)、水野あつ(5)\n作曲：corin.(1)、神野メイ(2)、FlapJack(3)、葉音©︎(4)、水野あつ(5)\n编曲：corin.(1)、神野メイ(2)、FlapJack(3)、葉音©︎(4)、SERANO(4)、水野あつ(5)\n乐器-Guitars：神野メイ(2)、FlapJack(3)"
+    "editor": "艺术家：葉音©︎\n厂牌：シアーミュージックエンタテインメント︎\n\n作词：corin.(1)、神野メイ(2)、SACHIKO(3)、葉音©︎(4)、水野あつ(5)\n作曲：corin.(1)、神野メイ(2)、FlapJack(3)、葉音©︎(4)、水野あつ(5)\n编曲：corin.(1)、神野メイ(2)、FlapJack(3)、葉音©︎(4)、SERANO(4)、水野あつ(5)\n乐器-Guitars：神野メイ(2)、FlapJack(3)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-06-26T17:47:07.569Z"
+    "submittedAt": "2026-06-26T17:48:14.001Z"
   }
 }
