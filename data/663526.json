@@ -10,6 +10,33 @@
             "text": "大原ゆい子"
           }
         }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:27275",
+            "text": "大原ゆい子"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:27275",
+            "text": "大原ゆい子"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:18672",
+            "text": "吉田穣"
+          }
+        }
       ]
     },
     "1.43": {
@@ -19,6 +46,33 @@
           "person": {
             "ref": "p:27275",
             "text": "大原ゆい子"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:27275",
+            "text": "大原ゆい子"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:27275",
+            "text": "大原ゆい子"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:18672",
+            "text": "吉田穣"
           }
         }
       ]
@@ -32,6 +86,33 @@
             "text": "mahoroba"
           }
         }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "onpu uchida"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "onpu uchida"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "shun sato/noue"
+          }
+        }
       ]
     },
     "1.47": {
@@ -41,6 +122,93 @@
           "person": {
             "ref": null,
             "text": "mahoroba"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "onpu uchida"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "onpu uchida"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "shun sato/noue"
+          }
+        }
+      ]
+    },
+    "1.44": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:27275",
+            "text": "大原ゆい子"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:18672",
+            "text": "吉田穣"
+          }
+        }
+      ]
+    },
+    "1.45": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:27275",
+            "text": "大原ゆい子"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:18672",
+            "text": "吉田穣"
+          }
+        }
+      ]
+    },
+    "1.48": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "onpu uchida"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "shun sato/noue"
           }
         }
       ]
@@ -81,11 +249,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "作曲：Fumihito Uekusa、瓜田幸治\n编曲：Fumihito Uekusa、瓜田幸治\n\n艺术家：大原ゆい子(42,43)、mahoroba(46,47)"
+    "editor": "作曲：Fumihito Uekusa、瓜田幸治\n编曲：Fumihito Uekusa、瓜田幸治\n\n艺术家：大原ゆい子(42,43)、mahoroba(46,47)\n作词：大原ゆい子(42,43), onpu uchida(46,47)\n作曲：大原ゆい子(42,43,44,45), onpu uchida(46,47,48)\n编曲：吉田穣(42,43,44,45),  《shun sato/noue》(46,47,48)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-06-25T08:09:06.648Z"
+    "submittedAt": "2026-06-26T09:13:40.637Z"
   }
 }
