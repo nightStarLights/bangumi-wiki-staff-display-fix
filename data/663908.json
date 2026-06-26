@@ -211,12 +211,23 @@
       ]
     }
   },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:73713",
+          "text": "LEVEL NINE"
+        }
+      }
+    ]
+  },
   "rawPatches": {
-    "editor": "Vocal:Malcha (01, 02),chilldive (03, 04),7mai (05, 07),DoubleTO (06, 12),Cosmograph (08, 09, 11, 14, 15, 17),Nauts (10, 13, 19),Mori+ (16, 18),"
+    "editor": "厂牌：LEVEL NINE\n\n艺术家：Malcha(1,2)、chilldive(3,4)、7mai(5,7)、DoubleTO(6,12)、Cosmograph(8,9,11,14,15,17)、Nauts(10,13,19)、Mori+(16,18)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-06-26T15:34:02.689Z"
+    "submittedAt": "2026-06-26T15:35:02.618Z"
   }
 }
