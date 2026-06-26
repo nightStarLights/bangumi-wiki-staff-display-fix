@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:95435",
             "text": "Malcha"
           }
         }
@@ -17,7 +17,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:95435",
             "text": "Malcha"
           }
         }
@@ -228,6 +228,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-06-26T15:35:02.618Z"
+    "submittedAt": "2026-06-26T15:35:26.975Z"
   }
 }
