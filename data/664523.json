@@ -1,0 +1,33 @@
+{
+  "subjectId": 664523,
+  "trackCredits": {
+    "1.2": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Koichi Tani"
+          },
+          "inst": "Folk Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "玉木宏樹"
+          },
+          "inst": "Fiddle"
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "乐器-Folk Guitar：Koichi Tani (2)\n乐器-Fiddle：玉木宏樹 (2)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-06-28T19:40:40.496Z"
+  }
+}
