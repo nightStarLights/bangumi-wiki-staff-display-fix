@@ -1,0 +1,709 @@
+{
+  "subjectId": 38768,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Zwei艺术家：Zwei"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "志倉千代丸"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "志倉千代丸"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "大島こうすけ"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "成田明日美"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "大島こうすけ"
+          }
+        }
+      ]
+    },
+    "3.1": {
+      "artist": [
+        {
+          "parts": [
+            "八汐海翔(CV.",
+            {
+              "ref": null,
+              "text": "木村良平"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            "瀬乃宮あき穂(CV.",
+            {
+              "ref": null,
+              "text": "南條愛乃"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            "大徳淳和(CV.",
+            {
+              "ref": null,
+              "text": "徳井青空"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "3.2": {
+      "artist": [
+        {
+          "parts": [
+            "八汐海翔(CV.",
+            {
+              "ref": null,
+              "text": "木村良平"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            "瀬乃宮あき穂(CV.",
+            {
+              "ref": null,
+              "text": "南條愛乃"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            "大徳淳和(CV.",
+            {
+              "ref": null,
+              "text": "徳井青空"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "3.3": {
+      "artist": [
+        {
+          "parts": [
+            "八汐海翔(CV.",
+            {
+              "ref": null,
+              "text": "木村良平"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            "瀬乃宮あき穂(CV.",
+            {
+              "ref": null,
+              "text": "南條愛乃"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            "大徳淳和(CV.",
+            {
+              "ref": null,
+              "text": "徳井青空"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "3.4": {
+      "artist": [
+        {
+          "parts": [
+            "八汐海翔(CV.",
+            {
+              "ref": null,
+              "text": "木村良平"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            "瀬乃宮あき穂(CV.",
+            {
+              "ref": null,
+              "text": "南條愛乃"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            "大徳淳和(CV.",
+            {
+              "ref": null,
+              "text": "徳井青空"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "阿保剛"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "阿保剛"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "阿保剛"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "阿保剛"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "阿保剛"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "阿保剛"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "阿保剛"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "阿保剛"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "阿保剛"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "阿保剛"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "阿保剛"
+          }
+        }
+      ]
+    },
+    "1.13": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "阿保剛"
+          }
+        }
+      ]
+    },
+    "1.14": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "阿保剛"
+          }
+        }
+      ]
+    },
+    "1.15": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "阿保剛"
+          }
+        }
+      ]
+    },
+    "1.16": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "阿保剛"
+          }
+        }
+      ]
+    },
+    "1.17": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "阿保剛"
+          }
+        }
+      ]
+    },
+    "1.18": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "阿保剛"
+          }
+        }
+      ]
+    },
+    "1.19": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "阿保剛"
+          }
+        }
+      ]
+    },
+    "1.20": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "阿保剛"
+          }
+        }
+      ]
+    },
+    "1.21": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "阿保剛"
+          }
+        }
+      ]
+    },
+    "1.22": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "阿保剛"
+          }
+        }
+      ]
+    },
+    "1.23": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "阿保剛"
+          }
+        }
+      ]
+    },
+    "1.24": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "阿保剛"
+          }
+        }
+      ]
+    },
+    "2.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "阿保剛"
+          }
+        }
+      ]
+    },
+    "2.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "阿保剛"
+          }
+        }
+      ]
+    },
+    "2.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "阿保剛"
+          }
+        }
+      ]
+    },
+    "2.4": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "阿保剛"
+          }
+        }
+      ]
+    },
+    "2.5": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "阿保剛"
+          }
+        }
+      ]
+    },
+    "2.6": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "阿保剛"
+          }
+        }
+      ]
+    },
+    "2.7": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "阿保剛"
+          }
+        }
+      ]
+    },
+    "2.8": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "阿保剛"
+          }
+        }
+      ]
+    },
+    "2.9": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "阿保剛"
+          }
+        }
+      ]
+    },
+    "2.10": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "阿保剛"
+          }
+        }
+      ]
+    },
+    "2.11": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "阿保剛"
+          }
+        }
+      ]
+    },
+    "2.12": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "阿保剛"
+          }
+        }
+      ]
+    },
+    "2.13": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "阿保剛"
+          }
+        }
+      ]
+    },
+    "2.14": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "阿保剛"
+          }
+        }
+      ]
+    },
+    "2.15": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "阿保剛"
+          }
+        }
+      ]
+    },
+    "2.16": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "阿保剛"
+          }
+        }
+      ]
+    },
+    "2.17": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "阿保剛"
+          }
+        }
+      ]
+    },
+    "2.18": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "阿保剛"
+          }
+        }
+      ]
+    },
+    "2.19": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "阿保剛"
+          }
+        }
+      ]
+    },
+    "2.20": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "阿保剛"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "5pb."
+          },
+          "Records"
+        ]
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "上田佳子"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "福田知則"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：5pb.Records(5pb.)\n母带制作：上田佳子\n插图：福田知則\n\n艺术家：Zwei艺术家：Zwei(1.1)、八汐海翔(CV.木村良平)(3.1,3.2,3.3,3.4)、瀬乃宮あき穂(CV.南條愛乃)(3.1,3.2,3.3,3.4)、大徳淳和(CV.徳井青空)(3.1,3.2,3.3,3.4)\n作词：志倉千代丸(1.1)\n作曲：志倉千代丸(1.1)、阿保剛(1.2,1.3,1.4,1.5,1.6,1.7,1.8,1.9,1.10,1.11,1.12,1.13,1.14,1.15,1.16,1.17,1.18,1.19,1.20,1.21,1.22,1.23,1.24,2.1,2.2,2.3,2.4,2.5,2.6,2.7,2.8,2.9,2.10,2.11,2.12,2.13,2.14,2.15,2.16,2.17,2.18,2.19,2.20)\n编曲：大島こうすけ(1.1)\n录音：成田明日美(1.1)\n混音：大島こうすけ(1.1)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-06-28T13:25:06.758Z"
+  }
+}
