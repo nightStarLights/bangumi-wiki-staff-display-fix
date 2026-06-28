@@ -14,7 +14,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:2804",
             "text": "玉木宏樹"
           },
           "inst": "Fiddle"
@@ -28,6 +28,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-06-28T19:40:40.496Z"
+    "submittedAt": "2026-06-28T19:40:45.646Z"
   }
 }
