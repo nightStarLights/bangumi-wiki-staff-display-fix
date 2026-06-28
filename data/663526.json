@@ -9,13 +9,6 @@
             "ref": "p:95433",
             "text": "Fumihito Uekusa"
           }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:95432",
-            "text": "瓜田幸治"
-          }
         }
       ]
     },
@@ -694,11 +687,11 @@
     }
   },
   "rawPatches": {
-    "editor": "作曲：Fumihito Uekusa(32,33,35,36,38,39)、瓜田幸治(1-32,34,37,40,41)\n\n艺术家：大原ゆい子(42,43)、mahoroba(46,47)\n作词：大原ゆい子(42,43), onpu uchida(46,47)\n作曲：大原ゆい子(42,43,44,45), onpu uchida(46,47,48)\n编曲：吉田穣(42,43,44,45),  shun sato(46,47,48),noue(46,47,48)"
+    "editor": "作曲：Fumihito Uekusa(32,33,35,36,38,39)、瓜田幸治(1-31,34,37,40,41)\n\n艺术家：大原ゆい子(42,43)、mahoroba(46,47)\n作词：大原ゆい子(42,43), onpu uchida(46,47)\n作曲：大原ゆい子(42,43,44,45), onpu uchida(46,47,48)\n编曲：吉田穣(42,43,44,45),  shun sato(46,47,48),noue(46,47,48)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-06-26T15:15:37.125Z"
+    "submittedAt": "2026-06-28T18:56:37.495Z"
   }
 }
