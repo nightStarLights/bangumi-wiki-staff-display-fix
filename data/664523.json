@@ -14,7 +14,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": "p:2804",
+            "ref": null,
             "text": "玉木宏樹"
           },
           "inst": "Fiddle"
@@ -22,12 +22,50 @@
       ]
     }
   },
+  "epinfo": {
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:6672",
+          "text": "Active Planets"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:6672",
+          "text": "Active Planets"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:1935",
+          "text": "オーガスト"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ARIA"
+        }
+      }
+    ]
+  },
   "rawPatches": {
-    "editor": "乐器-Folk Guitar：Koichi Tani (2)\n乐器-Fiddle：玉木宏樹 (2)"
+    "editor": "作曲、编曲：Active Planets\n出版方：オーガスト\n厂牌：ARIA\n\n乐器-Folk Guitar：Koichi Tani (2)\n乐器-Fiddle：玉木宏樹 (2)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-06-28T19:40:45.646Z"
+    "submittedAt": "2026-06-28T20:57:58.934Z"
   }
 }
