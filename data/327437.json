@@ -1,0 +1,169 @@
+{
+  "subjectId": 327437,
+  "trackCredits": {
+    "1.1": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65352",
+            "text": "TORIENA"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65352",
+            "text": "TORIENA"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65352",
+            "text": "TORIENA"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65352",
+            "text": "TORIENA"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65352",
+            "text": "TORIENA"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Giga"
+            },
+            " (",
+            {
+              "ref": "p:9124",
+              "text": "ギガP"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.5": {
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Giga"
+            },
+            " (",
+            {
+              "ref": "p:9124",
+              "text": "ギガP"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.6": {
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Giga"
+            },
+            " (",
+            {
+              "ref": "p:9124",
+              "text": "ギガP"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.8": {
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Giga"
+            },
+            " (",
+            {
+              "ref": "p:9124",
+              "text": "ギガP"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.10": {
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Giga"
+            },
+            " (",
+            {
+              "ref": "p:9124",
+              "text": "ギガP"
+            },
+            ")"
+          ]
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:57",
+          "text": "ランティス"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：ランティス\n\n编曲：《TORIENA》(1,3,4,7,9)、Giga(ギガP)(2,5,6,8,10)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-06-30T20:02:52.011Z"
+  }
+}
