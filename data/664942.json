@@ -28,7 +28,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:66181",
             "text": "長瀬有花"
           }
         }
@@ -50,7 +50,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:95569",
             "text": "Blume popo"
           }
         }
@@ -128,7 +128,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:85033",
           "text": "AVYSS"
         }
       }
@@ -138,8 +138,8 @@
     "editor": "厂牌：AVYSS\n\n艺术家：yuzuha(1)、おそロシア革命(2)、長瀬有花(3)、文藝天国(4)、Blume popo(5)、XAMIYA(6)、えんどあ。(7)、揺れるは幽霊(8)、小雨ちゃん(9)、くゆる(10)、soccer.(11)"
   },
   "_meta": {
-    "submittedBy": "459115",
+    "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-06-30T16:39:58.618Z"
+    "submittedAt": "2026-06-30T16:56:04.177Z"
   }
 }
