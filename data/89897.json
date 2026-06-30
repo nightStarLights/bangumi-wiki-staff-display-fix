@@ -144,7 +144,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:47404",
+            "ref": null,
             "text": "DEKU"
           }
         }
@@ -155,7 +155,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:47404",
+            "ref": null,
             "text": "DEKU"
           }
         }
@@ -238,7 +238,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:47404",
+          "ref": null,
           "text": "DEKU"
         }
       }
@@ -250,6 +250,6 @@
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-06-30T08:27:54.242Z"
+    "submittedAt": "2026-06-30T08:28:03.937Z"
   }
 }
