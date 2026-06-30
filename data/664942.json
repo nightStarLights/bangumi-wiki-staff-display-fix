@@ -28,7 +28,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:66181",
+            "ref": null,
             "text": "長瀬有花"
           }
         }
@@ -128,7 +128,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:85033",
+          "ref": null,
           "text": "AVYSS"
         }
       }
@@ -140,6 +140,6 @@
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-06-30T16:39:54.267Z"
+    "submittedAt": "2026-06-30T16:39:58.618Z"
   }
 }
