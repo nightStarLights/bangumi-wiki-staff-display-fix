@@ -122,12 +122,12 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:81943",
               "text": "前澤"
             },
             " feat. ",
             {
-              "ref": null,
+              "ref": "p:94327",
               "text": "ผ้าอ้อม99999"
             }
           ]
@@ -173,7 +173,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:85033",
           "text": "AVYSS"
         }
       }
@@ -185,6 +185,6 @@
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-07-01T07:59:39.669Z"
+    "submittedAt": "2026-07-01T07:59:44.729Z"
   }
 }
