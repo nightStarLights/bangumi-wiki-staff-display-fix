@@ -1,0 +1,285 @@
+{
+  "subjectId": 663128,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Kawaii Psycho 倶楽部"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:40239",
+            "text": "星銀乃丈"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ぜったくん"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:40239",
+            "text": "星銀乃丈"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:40239",
+            "text": "星銀乃丈"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Kawaii Psycho 倶楽部"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:40239",
+            "text": "星銀乃丈"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ぜったくん"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:40239",
+            "text": "星銀乃丈"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:40239",
+            "text": "星銀乃丈"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:51101",
+            "text": "柿沼雅美"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:35840",
+            "text": "ArmySlick"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:50003",
+            "text": "Giz'Mo"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:35840",
+            "text": "ArmySlick"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:51101",
+            "text": "柿沼雅美"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:35840",
+            "text": "ArmySlick"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:50003",
+            "text": "Giz'Mo"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:35840",
+            "text": "ArmySlick"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:40239",
+            "text": "星銀乃丈"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:40239",
+            "text": "星銀乃丈"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:35840",
+            "text": "ArmySlick"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:50003",
+            "text": "Giz'Mo"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:35840",
+            "text": "ArmySlick"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "parts": [
+          "三峰結華(CV:",
+          {
+            "ref": "p:44359",
+            "text": "希水しお"
+          },
+          ")"
+        ]
+      },
+      {
+        "parts": [
+          "大崎甘奈(CV:",
+          {
+            "ref": "p:26044",
+            "text": "黒木ほの香"
+          },
+          ")"
+        ]
+      },
+      {
+        "parts": [
+          "杜野凛世(CV:",
+          {
+            "ref": "p:32091",
+            "text": "丸岡和佳奈"
+          },
+          ")"
+        ]
+      },
+      {
+        "parts": [
+          "福丸小糸(CV:",
+          {
+            "ref": "p:37193",
+            "text": "田嶌紗蘭"
+          },
+          ")"
+        ]
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "BANDAI NAMCO"
+        }
+      },
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "Lantis"
+          },
+          " (",
+          {
+            "ref": "p:57",
+            "text": "ランティス"
+          },
+          ")"
+        ]
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：三峰結華(CV:希水しお)、大崎甘奈(CV:黒木ほの香)、杜野凛世(CV:丸岡和佳奈)、福丸小糸(CV:田嶌紗蘭)\n厂牌：BANDAI NAMCO、Lantis(ランティス)\n\n作词：Kawaii Psycho 倶楽部(1,3)、星銀乃丈(1,3)、ぜったくん(1,3)、柿沼雅美(2,4)\n作曲：星銀乃丈(1,3,5)、ArmySlick(2,4,6)、Giz'Mo(2,4,6)\n编曲：星銀乃丈(1,3,5)、ArmySlick(2,4,6)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-07-01T06:26:19.690Z"
+  }
+}
