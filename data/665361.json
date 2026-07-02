@@ -94,7 +94,7 @@
             },
             " (",
             {
-              "ref": "p:79648",
+              "ref": null,
               "text": "南前修司"
             },
             ")"
@@ -117,7 +117,7 @@
           "type": "person",
           "person": {
             "ref": null,
-            "text": "Moe shop"
+            "text": "Moe Shop"
           }
         }
       ],
@@ -126,7 +126,7 @@
           "type": "person",
           "person": {
             "ref": null,
-            "text": "Moe shop"
+            "text": "Moe Shop"
           }
         }
       ],
@@ -144,7 +144,7 @@
           "type": "person",
           "person": {
             "ref": null,
-            "text": "Moe shop"
+            "text": "Moe Shop"
           }
         }
       ]
@@ -155,7 +155,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:69964",
+          "ref": null,
           "text": "KMNZ"
         }
       }
@@ -164,18 +164,18 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:70877",
+          "ref": null,
           "text": "RK Music"
         }
       }
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：KMNZ\n厂牌：RK Music\n\n作词：Yaca(1)、ケンモチヒデフミ(2)、KMNZ(3)\n作曲：Neko Hacker(1)、ケンモチヒデフミ(2)、Moe shop(3)\n编曲：Neko Hacker(1)、ケンモチヒデフミ(2)、Moe shop(3)\n录音：Yuhi Sumino(1,2,3)\n混音：Neko Hacker(1)、NNZN(南前修司)(2)、Moe shop(3)"
+    "editor": "艺术家：KMNZ\n厂牌：RK Music\n\n作词：Yaca(1)、ケンモチヒデフミ(2)、KMNZ(3)\n作曲：Neko Hacker(1)、ケンモチヒデフミ(2)、Moe Shop(3)\n编曲：Neko Hacker(1)、ケンモチヒデフミ(2)、Moe Shop(3)\n录音：Yuhi Sumino(1,2,3)\n混音：Neko Hacker(1)、NNZN(南前修司)(2)、Moe Shop(3)"
   },
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-07-02T12:20:29.136Z"
+    "submittedAt": "2026-07-02T12:22:00.760Z"
   }
 }
