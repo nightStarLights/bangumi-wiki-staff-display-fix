@@ -1,0 +1,101 @@
+{
+  "subjectId": 665397,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47371",
+            "text": "Juggernaut."
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36776",
+            "text": "KO3"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "leviern"
+            },
+            " × ",
+            {
+              "ref": null,
+              "text": "らふむ"
+            },
+            " × ",
+            {
+              "ref": "p:83765",
+              "text": "iole"
+            }
+          ]
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7094",
+            "text": "Nhato"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Alleyy"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47424",
+            "text": "Relect"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Attack The Music"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：Attack The Music\n\n艺术家：Juggernaut.(1)、KO3(2)、leviern × らふむ × iole(3)、Nhato(4)、Alleyy(5)、Relect(6)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-07-02T17:24:14.969Z"
+  }
+}
