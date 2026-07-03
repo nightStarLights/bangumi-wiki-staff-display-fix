@@ -120,7 +120,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:92626",
             "text": "citrus"
           }
         }
@@ -164,7 +164,7 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:96234",
               "text": "Temma"
             },
             " x ",
@@ -192,8 +192,8 @@
     "editor": "艺术家：furrybooty2004(1.1)、cosh(1.2)、toyod ine(1.4)、ric3show3r(1.5)、DJハルウララ(アニメ版)(1.6)、totsumal(1.7)、JKmegane(1.8)、konachan(1.9)、toa(1.10)、refia(2.3)、citrus(2.4)、qooryan(2.5)、Madi-san(2.6)、sakinq(2.7)、Temma x Slippy(2.8)、MES19(2.9)"
   },
   "_meta": {
-    "submittedBy": "459115",
+    "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-14T16:37:03.484Z"
+    "submittedAt": "2026-07-03T11:24:56.737Z"
   }
 }
