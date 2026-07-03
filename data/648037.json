@@ -1,19 +1,145 @@
 {
   "subjectId": 648037,
   "trackCredits": {
-    "1.6": {
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:44464",
+            "text": "にゃるら"
+          }
+        }
+      ],
       "composer": [
         {
           "type": "person",
           "person": {
-            "ref": "p:96169",
-            "text": "Telematic Visions"
+            "ref": "p:71339",
+            "text": "Namitape"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71339",
+            "text": "Namitape"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "喜多野清樹"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hiroaki OBA"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:44464",
+            "text": "にゃるら"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:18444",
+            "text": "大沢伸一"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:18444",
+            "text": "大沢伸一"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:18444",
+            "text": "大沢伸一"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "橋本まさし"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:18444",
+            "text": "大沢伸一"
           }
         }
       ]
     },
     "1.7": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:44464",
+            "text": "にゃるら"
+          }
+        }
+      ],
       "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:96170",
+            "text": "idrop"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:96170",
+            "text": "idrop"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:80568",
+            "text": "中村創"
+          }
+        }
+      ],
+      "mixing": [
         {
           "type": "person",
           "person": {
@@ -23,7 +149,148 @@
         }
       ]
     },
+    "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71335",
+            "text": "すずめのめ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71335",
+            "text": "すずめのめ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71335",
+            "text": "すずめのめ"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "喜多野清樹"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71335",
+            "text": "すずめのめ"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84015",
+            "text": "零進法"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84015",
+            "text": "零進法"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84015",
+            "text": "零進法"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84015",
+            "text": "零進法"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64862",
+            "text": "muyu"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64862",
+            "text": "muyu"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64862",
+            "text": "muyu"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:80568",
+            "text": "中村創"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64862",
+            "text": "muyu"
+          }
+        }
+      ]
+    },
     "1.10": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:96171",
+            "text": "POPFACES"
+          }
+        }
+      ],
       "composer": [
         {
           "type": "person",
@@ -32,15 +299,190 @@
             "text": "POPFACES"
           }
         }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:96171",
+            "text": "POPFACES"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:80568",
+            "text": "中村創"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hiroaki OBA"
+          }
+        }
+      ]
+    },
+    "1.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:59104",
+            "text": "原口沙輔"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:59104",
+            "text": "原口沙輔"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:59104",
+            "text": "原口沙輔"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:59104",
+            "text": "原口沙輔"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:59104",
+            "text": "原口沙輔"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:59104",
+            "text": "原口沙輔"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:96169",
+            "text": "Telematic Visions"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:96169",
+            "text": "Telematic Visions"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:96169",
+            "text": "Telematic Visions"
+          }
+        }
       ]
     }
   },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:93379",
+          "text": "テクノポップ・有機・シンセサイザーちゃん"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Universal Music Group"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "EMI"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "根本智視"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "paid"
+        }
+      }
+    ],
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:44464",
+          "text": "にゃるら"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:59104",
+          "text": "原口沙輔"
+        }
+      }
+    ]
+  },
   "rawPatches": {
-    "editor": "作曲：Telematic Visions(6)、idrop(7)、POPFACES(10)"
+    "editor": "艺术家：《テクノポップ・有機・シンセサイザーちゃん》\n厂牌：《Universal Music Group》、EMI\n母带制作：根本智視\n插图：paid\n制作人：にゃるら、原口沙輔\n\n作词：にゃるら(2,3,7)、大沢伸一(3)、すずめのめ(4)、零進法(5)、muyu(8)、POPFACES(10)\n作曲：原口沙輔(1,9)、Namitape(2)、大沢伸一(3)、すずめのめ(4)、零進法(5)、Telematic Visions(6)、idrop(7)、muyu(8)、POPFACES(10)\n编曲：原口沙輔(1,9)、Namitape(2)、大沢伸一(3)、すずめのめ(4)、零進法(5)、Telematic Visions(6)、idrop(7)、muyu(8)、POPFACES(10)\n录音：喜多野清樹(2,4)、橋本まさし(3)、中村創(7,8,10)\n混音：原口沙輔(1,9)、Hiroaki OBA(2,10)、大沢伸一(3)、すずめのめ(4)、零進法(5)、Telematic Visions(6)、idrop(7)、muyu(8)"
   },
   "_meta": {
     "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-07-03T04:01:43.402Z"
+    "submittedAt": "2026-07-03T04:09:13.455Z"
   }
 }
