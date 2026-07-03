@@ -1,0 +1,293 @@
+{
+  "subjectId": 665593,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "COPYRiGHT JOKER"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Casio Lamb"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "degrade"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82123",
+            "text": "sanmal"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "DJ GATO GRANDE"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81688",
+            "text": "sabi"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "exnoiz"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:88028",
+            "text": "Tektheist"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "blobdash"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73174",
+            "text": "DJKurara"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ECLAIR"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Internet Baby"
+          }
+        }
+      ]
+    },
+    "1.13": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "IZEI"
+          }
+        }
+      ]
+    },
+    "1.14": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:76449",
+            "text": "pencil"
+          }
+        }
+      ]
+    },
+    "1.15": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "PSYQUO"
+          }
+        }
+      ]
+    },
+    "1.16": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Sonance"
+          }
+        }
+      ]
+    },
+    "1.17": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Temma"
+          }
+        }
+      ]
+    },
+    "1.18": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Yozu C"
+          }
+        }
+      ]
+    },
+    "1.19": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:88266",
+            "text": "zot!k"
+          }
+        }
+      ]
+    },
+    "1.20": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": ".noise"
+          }
+        }
+      ]
+    },
+    "1.21": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:88051",
+            "text": "Round Wave Crusher"
+          }
+        }
+      ]
+    },
+    "1.22": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55203",
+            "text": "Oversleep"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:96233",
+          "text": "COUNTERFEST RECORDS"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "malicent"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ChocoPain"
+        }
+      }
+    ],
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:85330",
+          "text": "Fivda"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：COUNTERFEST RECORDS\n母带制作：malicent\n插图：ChocoPain\n制作人：Fivda\n\n艺术家：COPYRiGHT JOKER(1)、Casio Lamb(2)、degrade(3)、sanmal(4)、DJ GATO GRANDE(5)、sabi(6)、exnoiz(7)、Tektheist(8)、blobdash(9)、DJKurara(10)、ECLAIR(11)、Internet Baby(12)、IZEI(13)、pencil(14)、PSYQUO(15)、Sonance(16)、Temma(17)、Yozu C(18)、zot!k(19)、.noise(20)、Round Wave Crusher(21)、Oversleep(22)"
+  },
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-07-03T10:20:19.096Z"
+  }
+}
