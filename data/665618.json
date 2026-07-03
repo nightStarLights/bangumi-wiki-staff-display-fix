@@ -1,0 +1,64 @@
+{
+  "subjectId": 665618,
+  "trackCredits": {
+    "1.4": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:88051",
+            "text": "Round Wave Crusher"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:49127",
+            "text": "望月真白"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:96236",
+          "text": "TOMOYU"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:84401",
+          "text": "OthermanRecords"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:84402",
+          "text": "Othermoon"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：TOMOYU\n厂牌：OthermanRecords\n插图：Othermoon\n\n编曲：Round Wave Crusher(4)、望月真白(5)"
+  },
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-07-03T11:51:07.304Z"
+  }
+}
