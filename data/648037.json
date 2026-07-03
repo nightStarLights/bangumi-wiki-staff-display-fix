@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:96169",
             "text": "Telematic Visions"
           }
         }
@@ -17,7 +17,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:96170",
             "text": "idrop"
           }
         }
@@ -28,7 +28,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:96171",
             "text": "POPFACES"
           }
         }
@@ -39,8 +39,8 @@
     "editor": "作曲：Telematic Visions(6)、idrop(7)、POPFACES(10)"
   },
   "_meta": {
-    "submittedBy": "459115",
+    "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-05-08T14:30:21.195Z"
+    "submittedAt": "2026-07-03T04:01:43.402Z"
   }
 }
