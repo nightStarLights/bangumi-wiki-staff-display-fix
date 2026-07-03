@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:47404",
+            "ref": null,
             "text": "DEKU"
           }
         }
@@ -17,7 +17,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:47404",
+            "ref": null,
             "text": "DEKU"
           }
         }
@@ -28,7 +28,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:43715",
+            "ref": null,
             "text": "ziki_7"
           }
         }
@@ -39,7 +39,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:43715",
+            "ref": null,
             "text": "ziki_7"
           }
         }
@@ -50,7 +50,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:43715",
+            "ref": null,
             "text": "ziki_7"
           }
         }
@@ -61,7 +61,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:43715",
+            "ref": null,
             "text": "ziki_7"
           }
         }
@@ -72,7 +72,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:8787",
+            "ref": null,
             "text": "どぶウサギ"
           }
         }
@@ -83,7 +83,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:8787",
+            "ref": null,
             "text": "どぶウサギ"
           }
         }
@@ -94,7 +94,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:7071",
+            "ref": null,
             "text": "源屋"
           }
         }
@@ -116,7 +116,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:6966",
+            "ref": null,
             "text": "REDALiCE"
           }
         }
@@ -132,7 +132,7 @@
             },
             " (",
             {
-              "ref": "p:9030",
+              "ref": null,
               "text": "ゆうゆ"
             },
             ")"
@@ -150,7 +150,7 @@
             },
             " (",
             {
-              "ref": "p:9030",
+              "ref": null,
               "text": "ゆうゆ"
             },
             ")"
@@ -168,7 +168,7 @@
             },
             " (",
             {
-              "ref": "p:9030",
+              "ref": null,
               "text": "ゆうゆ"
             },
             ")"
@@ -186,7 +186,7 @@
             },
             " (",
             {
-              "ref": "p:9030",
+              "ref": null,
               "text": "ゆうゆ"
             },
             ")"
@@ -215,7 +215,7 @@
             },
             " (",
             {
-              "ref": "p:71751",
+              "ref": null,
               "text": "野原卓"
             },
             ")"
@@ -233,7 +233,7 @@
             },
             " (",
             {
-              "ref": "p:72288",
+              "ref": null,
               "text": "守屋忠慶"
             },
             ")"
@@ -269,7 +269,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:33458",
+          "ref": null,
           "text": "Iemitsu."
         }
       }
@@ -287,7 +287,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:8295",
+          "ref": null,
           "text": "KEI"
         }
       }
@@ -299,6 +299,6 @@
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-07-03T10:05:36.279Z"
+    "submittedAt": "2026-07-03T10:05:45.145Z"
   }
 }
