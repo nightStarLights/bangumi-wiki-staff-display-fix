@@ -1,0 +1,239 @@
+{
+  "subjectId": 665587,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47404",
+            "text": "DEKU"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47404",
+            "text": "DEKU"
+          }
+        }
+      ]
+    },
+    "2.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47404",
+            "text": "DEKU"
+          }
+        }
+      ]
+    },
+    "2.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47404",
+            "text": "DEKU"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ZEN-U"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "透木 明"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "しら"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "wonder"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hiroshi Nakajima"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "DhiArk"
+          }
+        }
+      ]
+    },
+    "2.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ヘキ"
+          }
+        }
+      ]
+    },
+    "2.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Progressive_P3"
+          }
+        }
+      ]
+    },
+    "2.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "heric"
+          }
+        }
+      ]
+    },
+    "2.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "heric"
+          }
+        }
+      ]
+    },
+    "2.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "windsplite"
+          }
+        }
+      ]
+    },
+    "2.6": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "透木 明"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "ZEN-U"
+            }
+          ]
+        }
+      ]
+    },
+    "2.8": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "ZEN-U"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "ゆううつ"
+            }
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "白虎崎 八皇"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "B.N.E"
+        }
+      }
+    ],
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:47404",
+          "text": "DEKU"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：B.N.E\n制作人：DEKU\n\n艺术家：DEKU(1.1,1.5,2.4,2.7)、ZEN-U(1.2)、透木 明(1.3)、しら(1.4)、wonder(1.6)、Hiroshi Nakajima(1.7)、DhiArk(1.8)、ヘキ(2.1)、Progressive_P3(2.2)、heric(2.3,2.9)、windsplite(2.5)、透木 明 feat. ZEN-U(2.6)、ZEN-U feat. ゆううつ(2.8)、白虎崎 八皇(2.8)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-07-03T09:57:08.207Z"
+  }
+}
