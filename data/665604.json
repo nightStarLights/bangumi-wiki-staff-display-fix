@@ -1,0 +1,238 @@
+{
+  "subjectId": 665604,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Jorts"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73656",
+            "text": "moyu"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "NGHTHYP"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "JAKAZiD"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Josh McInnes"
+            },
+            ")",
+            " x ",
+            {
+              "ref": null,
+              "text": "shiQwasa"
+            }
+          ]
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "NTG"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47396",
+            "text": "S2i8"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Anplode"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:16034",
+            "text": "Freezer"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36653",
+            "text": "Nizikawa"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "ReeK"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Mei Naganowa"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:87263",
+            "text": "keiki."
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "dBH"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ark_ui"
+          }
+        }
+      ]
+    },
+    "1.13": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69933",
+            "text": "KikKuU"
+          }
+        }
+      ]
+    },
+    "1.14": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7094",
+            "text": "Nhato"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "NotThatRecords"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "NTG"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "JTEIO"
+        }
+      }
+    ],
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "NTG / Assistant Production: Anplode"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Jorts"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：NotThatRecords\n母带制作：NTG\n插图：JTEIO\n制作人：《NTG / Assistant Production: Anplode》、Jorts\n\n艺术家：Jorts(1)、moyu(2)、NGHTHYP(3)、JAKAZiD (Josh McInnes) x shiQwasa(4)、NTG(5)、S2i8(6)、Anplode(7)、Freezer(8)、Nizikawa(8)、ReeK (Mei Naganowa)(9)、keiki.(10)、dBH(11)、ark_ui(12)、KikKuU(13)、Nhato(14)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-07-03T10:42:08.116Z"
+  }
+}
