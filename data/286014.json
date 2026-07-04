@@ -1,212 +1,13 @@
 {
   "subjectId": 286014,
   "trackCredits": {
-    "1.1": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:48606",
-            "text": "765 MILLION ALLSTARS"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:14635",
-            "text": "765PRO ALLSTARS"
-          }
-        },
-        {
-          "parts": [
-            {
-              "ref": null,
-              "text": "765THEATER ALLSTARS"
-            },
-            " (",
-            {
-              "ref": "p:29427",
-              "text": "MILLIONSTARS"
-            },
-            ")"
-          ]
-        }
-      ],
-      "lyricist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:11243",
-            "text": "唐沢美帆"
-          }
-        }
-      ],
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:29783",
-            "text": "新田目翔"
-          }
-        }
-      ],
-      "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:29783",
-            "text": "新田目翔"
-          }
-        }
-      ],
-      "instrument": [
-        {
-          "type": "instrument_credit",
-          "person": {
-            "ref": "p:68425",
-            "text": "佐々木貴之"
-          },
-          "inst": "Guitar"
-        },
-        {
-          "type": "instrument_credit",
-          "person": {
-            "ref": "p:74849",
-            "text": "二家本亮介"
-          },
-          "inst": "Bass"
-        },
-        {
-          "type": "instrument_credit",
-          "person": {
-            "ref": null,
-            "text": "髭白健"
-          },
-          "inst": "Drums"
-        },
-        {
-          "type": "instrument_credit",
-          "person": {
-            "ref": "p:74331",
-            "text": "真部裕ストリングス"
-          },
-          "inst": "Strings"
-        },
-        {
-          "type": "instrument_credit",
-          "person": {
-            "ref": null,
-            "text": "吉澤達彦"
-          },
-          "inst": "Trumpet"
-        },
-        {
-          "type": "instrument_credit",
-          "person": {
-            "ref": null,
-            "text": "小澤篤士"
-          },
-          "inst": "Trumpet"
-        },
-        {
-          "type": "instrument_credit",
-          "person": {
-            "ref": null,
-            "text": "鹿討奏"
-          },
-          "inst": "Trombone"
-        },
-        {
-          "type": "instrument_credit",
-          "person": {
-            "ref": null,
-            "text": "佐藤洋樹"
-          },
-          "inst": "Trombone"
-        },
-        {
-          "type": "instrument_credit",
-          "person": {
-            "ref": null,
-            "text": "竹上良成"
-          },
-          "inst": "A.Sax"
-        },
-        {
-          "type": "instrument_credit",
-          "person": {
-            "ref": "p:91205",
-            "text": "藤田乙比古"
-          },
-          "inst": "Horn"
-        },
-        {
-          "type": "instrument_credit",
-          "person": {
-            "ref": null,
-            "text": "田島花林"
-          },
-          "inst": "Horn"
-        }
-      ]
-    },
     "1.2": {
       "artist": [
         {
-          "parts": [
-            "白石紬(CV.",
-            {
-              "ref": "p:23854",
-              "text": "南早紀"
-            },
-            ")"
-          ]
-        },
-        {
-          "parts": [
-            "桜守歌織(CV.",
-            {
-              "ref": "p:29215",
-              "text": "香里有佐"
-            },
-            ")"
-          ]
-        },
-        {
-          "parts": [
-            "ジュリア(CV.",
-            {
-              "ref": "p:9188",
-              "text": "愛美"
-            },
-            ")"
-          ]
-        },
-        {
-          "parts": [
-            "菊地真(CV.",
-            {
-              "ref": "p:5439",
-              "text": "平田宏美"
-            },
-            ")"
-          ]
-        },
-        {
-          "parts": [
-            "野々原茜(CV.",
-            {
-              "ref": "p:7804",
-              "text": "小笠原早紀"
-            },
-            ")"
-          ]
-        },
-        {
           "type": "person",
           "person": {
             "ref": null,
-            "text": "ジェネシス×ネメシス"
+            "text": "野々原茜(CV.小笠原早紀)]"
           }
         }
       ],
@@ -349,6 +150,155 @@
           }
         }
       ]
+    },
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:48606",
+            "text": "765 MILLION ALLSTARS"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:14635",
+            "text": "765PRO ALLSTARS"
+          }
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:29427",
+              "text": "765THEATER ALLSTARS"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "MILLIONSTARS"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11243",
+            "text": "唐沢美帆"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:29783",
+            "text": "新田目翔"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:29783",
+            "text": "新田目翔"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:68425",
+            "text": "佐々木貴之"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:74849",
+            "text": "二家本亮介"
+          },
+          "inst": "Bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "髭白健"
+          },
+          "inst": "Drums"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:74331",
+            "text": "真部裕ストリングス"
+          },
+          "inst": "Strings"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "吉澤達彦"
+          },
+          "inst": "Trumpet"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "小澤篤士"
+          },
+          "inst": "Trumpet"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "鹿討奏"
+          },
+          "inst": "Trombone"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "佐藤洋樹"
+          },
+          "inst": "Trombone"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "竹上良成"
+          },
+          "inst": "A.Sax"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "藤田乙比古"
+          },
+          "inst": "Horn"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "田島花林"
+          },
+          "inst": "Horn"
+        }
+      ]
     }
   },
   "epinfo": {
@@ -392,14 +342,56 @@
           "text": "高田浩太郎"
         }
       }
+    ],
+    "artist": [
+      {
+        "parts": [
+          "ジェネシス×ネメシス [白石紬(CV.",
+          {
+            "ref": "p:23854",
+            "text": "南早紀"
+          },
+          ")"
+        ]
+      },
+      {
+        "parts": [
+          "桜守歌織(CV.",
+          {
+            "ref": "p:29215",
+            "text": "香里有佐"
+          },
+          ")"
+        ]
+      },
+      {
+        "parts": [
+          "ジュリア(CV.",
+          {
+            "ref": "p:9188",
+            "text": "愛美"
+          },
+          ")"
+        ]
+      },
+      {
+        "parts": [
+          "菊地真(CV.",
+          {
+            "ref": "p:5439",
+            "text": "平田宏美"
+          },
+          ")"
+        ]
+      }
     ]
   },
   "rawPatches": {
-    "editor": "厂牌：ランティス\n录音：岸本泰明、吉田和也、森田信之\n混音：高田浩太郎\n\n艺术家：765 MILLION ALLSTARS(1)、765PRO ALLSTARS(1)、765THEATER ALLSTARS(MILLIONSTARS)(1)、白石紬(CV.南早紀)(2)、桜守歌織(CV.香里有佐)(2,3)、ジュリア(CV.愛美)(2)、菊地真(CV.平田宏美)(2)、野々原茜(CV.小笠原早紀)(2)、ジェネシス×ネメシス(2)、豊川風花(CV.末柄里恵)(3)、馬場このみ(CV.髙橋未奈美 (髙橋ミナミ))(3)、百瀬莉緒(CV.山口立花子)(3)、二階堂千鶴(CV.野村香菜子)(3)\n作词：唐沢美帆(1)、真崎エリカ(2)、結城アイラ(3)\n作曲：新田目翔(1)、矢鴇つかさ(2)、遠藤直弥(3)\n编曲：新田目翔(1)、矢鴇つかさ(2)、遠藤直弥(3)\n乐器-Guitar：佐々木貴之(1)、佐々木正明(2)\n乐器-Bass：二家本亮介(1)、小林修己(2)\n乐器-Drums：髭白健(1)、裕木レオン(2)\n乐器-Strings：真部裕ストリングス(1)\n乐器-Trumpet：吉澤達彦(1)、小澤篤士(1)\n乐器-Trombone：鹿討奏(1)、佐藤洋樹(1)\n乐器-A.Sax：竹上良成(1)\n乐器-Horn：藤田乙比古(1)、田島花林(1)"
+    "editor": "厂牌：ランティス\n录音：岸本泰明、吉田和也、森田信之\n混音：高田浩太郎\n\n艺术家：ジェネシス×ネメシス [白石紬(CV.南早紀)、桜守歌織(CV.香里有佐)、ジュリア(CV.愛美)、菊地真(CV.平田宏美)、野々原茜(CV.小笠原早紀)] (2)\n\n艺术家：桜守歌織(CV.香里有佐)(3)、豊川風花(CV.末柄里恵)(3)、馬場このみ(CV.髙橋未奈美 (髙橋ミナミ))(3)、百瀬莉緒(CV.山口立花子)(3)、二階堂千鶴(CV.野村香菜子)(3)\n\n艺术家：765 MILLION ALLSTARS(1)、765PRO ALLSTARS(1)、765THEATER ALLSTARS(MILLIONSTARS)(1)\n\n\n作词：唐沢美帆(1)、真崎エリカ(2)、結城アイラ(3)\n作曲：新田目翔(1)、矢鴇つかさ(2)、遠藤直弥(3)\n编曲：新田目翔(1)、矢鴇つかさ(2)、遠藤直弥(3)\n乐器-Guitar：佐々木貴之(1)、佐々木正明(2)\n乐器-Bass：二家本亮介(1)、小林修己(2)\n乐器-Drums：髭白健(1)、裕木レオン(2)\n乐器-Strings：真部裕ストリングス(1)\n乐器-Trumpet：吉澤達彦(1)、小澤篤士(1)\n乐器-Trombone：鹿討奏(1)、佐藤洋樹(1)\n乐器-A.Sax：竹上良成(1)\n乐器-Horn：藤田乙比古(1)、田島花林(1)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-07-04T11:45:38.916Z"
+    "submittedAt": "2026-07-04T11:55:16.517Z"
   }
 }
