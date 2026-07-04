@@ -203,12 +203,12 @@
             },
             "、",
             {
-              "ref": "p:29427",
+              "ref": null,
               "text": "765THEATER ALLSTARS"
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:29427",
               "text": "MILLIONSTARS"
             },
             ")",
@@ -319,7 +319,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:91205",
             "text": "藤田乙比古"
           },
           "inst": "Horn"
@@ -384,6 +384,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-07-04T18:41:58.410Z"
+    "submittedAt": "2026-07-04T18:43:39.353Z"
   }
 }
