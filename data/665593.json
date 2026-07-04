@@ -4,11 +4,18 @@
     "1.1": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "COPYRiGHT JOKER"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "COPYRiGHT JOKER"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Hexacube"
+            },
+            ")"
+          ]
         }
       ]
     },
@@ -249,7 +256,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:96233",
+          "ref": null,
           "text": "COUNTERFEST RECORDS"
         }
       }
@@ -276,18 +283,18 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:85330",
+          "ref": null,
           "text": "Fivda"
         }
       }
     ]
   },
   "rawPatches": {
-    "editor": "厂牌：COUNTERFEST RECORDS\n母带制作：malicent\n插图：ChocoPain\n制作人：Fivda\n\n艺术家：COPYRiGHT JOKER(1)、Casio Lamb(2)、degrade(3)、sanmal(4)、DJ GATO GRANDE(5)、sabi(6)、exnoiz(7)、Tektheist(8)、blobdash(9)、DJKurara(10)、ECLAIR(11)、Internet Baby(12)、IZEI(13)、pencil(14)、PSYQUO(15)、Sonance(16)、Temma(17)、Yozu C(18)、zot!k(19)、.noise(20)、Round Wave Crusher(21)、Oversleep(22)"
+    "editor": "厂牌：COUNTERFEST RECORDS\n母带制作：malicent\n插图：ChocoPain\n制作人：Fivda\n\n艺术家：COPYRiGHT JOKER(Hexacube)(1)、Casio Lamb(2)、degrade(3)、sanmal(4)、DJ GATO GRANDE(5)、sabi(6)、exnoiz(7)、Tektheist(8)、blobdash(9)、DJKurara(10)、ECLAIR(11)、Internet Baby(12)、IZEI(13)、pencil(14)、PSYQUO(15)、Sonance(16)、Temma(17)、Yozu C(18)、zot!k(19)、.noise(20)、Round Wave Crusher(21)、Oversleep(22)"
   },
   "_meta": {
     "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-07-03T11:22:58.523Z"
+    "submittedAt": "2026-07-04T03:51:47.693Z"
   }
 }
