@@ -7,7 +7,7 @@
           "type": "person",
           "person": {
             "ref": null,
-            "text": "野々原茜(CV.小笠原早紀)]"
+            "text": "《ジェネシス×ネメシス》 [白石紬(CV.南早紀)、桜守歌織(CV.香里有佐)、ジュリア(CV.愛美)、菊地真(CV.平田宏美)、野々原茜(CV.小笠原早紀)]"
           }
         }
       ],
@@ -170,12 +170,12 @@
         {
           "parts": [
             {
-              "ref": "p:29427",
+              "ref": null,
               "text": "765THEATER ALLSTARS"
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:29427",
               "text": "MILLIONSTARS"
             },
             ")"
@@ -342,48 +342,6 @@
           "text": "高田浩太郎"
         }
       }
-    ],
-    "artist": [
-      {
-        "parts": [
-          "《ジェネシス×ネメシス》 [白石紬(CV.",
-          {
-            "ref": "p:23854",
-            "text": "南早紀"
-          },
-          ")"
-        ]
-      },
-      {
-        "parts": [
-          "桜守歌織(CV.",
-          {
-            "ref": "p:29215",
-            "text": "香里有佐"
-          },
-          ")"
-        ]
-      },
-      {
-        "parts": [
-          "ジュリア(CV.",
-          {
-            "ref": "p:9188",
-            "text": "愛美"
-          },
-          ")"
-        ]
-      },
-      {
-        "parts": [
-          "菊地真(CV.",
-          {
-            "ref": "p:5439",
-            "text": "平田宏美"
-          },
-          ")"
-        ]
-      }
     ]
   },
   "rawPatches": {
@@ -392,6 +350,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-07-04T12:08:42.915Z"
+    "submittedAt": "2026-07-04T16:36:39.866Z"
   }
 }
