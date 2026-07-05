@@ -1,0 +1,295 @@
+{
+  "subjectId": 77557,
+  "trackCredits": {
+    "1.3": {
+      "artist": [
+        {
+          "parts": [
+            "所恵美(CV.",
+            {
+              "ref": "p:10640",
+              "text": "藤井ゆきよ"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8336",
+            "text": "ZAQ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10866",
+            "text": "増谷賢"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10866",
+            "text": "増谷賢"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "parts": [
+            "所恵美(CV.",
+            {
+              "ref": "p:10640",
+              "text": "藤井ゆきよ"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            "田中琴葉(CV.",
+            {
+              "ref": "p:8138",
+              "text": "種田梨沙"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            "北沢志保(CV.",
+            {
+              "ref": "p:12568",
+              "text": "雨宮天"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            "如月千早(CV.",
+            {
+              "ref": "p:4061",
+              "text": "今井麻美"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7970",
+            "text": "こだまさおり"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8952",
+            "text": "山口朗彦"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8952",
+            "text": "山口朗彦"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "parts": [
+            "田中琴葉(CV.",
+            {
+              "ref": "p:8138",
+              "text": "種田梨沙"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7970",
+            "text": "こだまさおり"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7143",
+            "text": "松田彬人"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7143",
+            "text": "松田彬人"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "parts": [
+            "北沢志保(CV.",
+            {
+              "ref": "p:12568",
+              "text": "雨宮天"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10602",
+            "text": "松井洋平"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8791",
+            "text": "西添健"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8791",
+            "text": "西添健"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "parts": [
+            "如月千早(CV.",
+            {
+              "ref": "p:4061",
+              "text": "今井麻美"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7334",
+            "text": "森由里子"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:4387",
+            "text": "rino"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9153",
+            "text": "増田武史"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:57",
+          "text": "ランティス"
+        }
+      }
+    ],
+    "recording": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:20070",
+          "text": "studio Magic Garden"
+        }
+      }
+    ],
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "高田浩太郎"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:92499",
+          "text": "袴田剛史"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:12499",
+          "text": "河野恵美"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：ランティス\n录音：studio Magic Garden\n混音：高田浩太郎\n母带制作：袴田剛史\n插图：河野恵美\n\n艺术家：所恵美(CV.藤井ゆきよ)(3,11)、田中琴葉(CV.種田梨沙)(5,11)、北沢志保(CV.雨宮天)(7,11)、如月千早(CV.今井麻美)(9,11)\n作词：ZAQ(3)、こだまさおり(5,11)、松井洋平(7)、森由里子(9)\n作曲：増谷賢(3)、松田彬人(5)、西添健(7)、rino(9)、山口朗彦(11)\n编曲：増谷賢(3)、松田彬人(5)、西添健(7)、増田武史(9)、山口朗彦(11)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-07-05T15:34:37.836Z"
+  }
+}
