@@ -1,0 +1,346 @@
+{
+  "subjectId": 76909,
+  "trackCredits": {
+    "1.2": {
+      "artist": [
+        {
+          "parts": [
+            "春日未来(CV:",
+            {
+              "ref": "p:9298",
+              "text": "山崎はるか"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10603",
+            "text": "岡本健介"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10603",
+            "text": "岡本健介"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10603",
+            "text": "岡本健介"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "parts": [
+            "春日未来(CV:",
+            {
+              "ref": "p:9298",
+              "text": "山崎はるか"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            "横山奈緒(CV:",
+            {
+              "ref": "p:6133",
+              "text": "渡部優衣"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            "望月杏奈(CV:",
+            {
+              "ref": "p:13581",
+              "text": "夏川椎菜"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            "豊川風花(CV:",
+            {
+              "ref": "p:12356",
+              "text": "末柄里恵"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            "我那覇響(CV:",
+            {
+              "ref": "p:5824",
+              "text": "沼倉愛美"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7970",
+            "text": "こだまさおり"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6979",
+            "text": "矢鴇つかさ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6979",
+            "text": "矢鴇つかさ"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "parts": [
+            "横山奈緒(CV:",
+            {
+              "ref": "p:6133",
+              "text": "渡部優衣"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "由貴野ひめか"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8074",
+            "text": "江並哲志"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9946",
+            "text": "佐々木裕"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "parts": [
+            "望月杏奈(CV:",
+            {
+              "ref": "p:13581",
+              "text": "夏川椎菜"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:4387",
+            "text": "rino"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10590",
+            "text": "山元祐介"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10590",
+            "text": "山元祐介"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "parts": [
+            "豊川風花(CV:",
+            {
+              "ref": "p:12356",
+              "text": "末柄里恵"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7970",
+            "text": "こだまさおり"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10603",
+            "text": "岡本健介"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:14453",
+            "text": "森谷敏紀"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "parts": [
+            "我那覇響(CV:",
+            {
+              "ref": "p:5824",
+              "text": "沼倉愛美"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8336",
+            "text": "ZAQ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7205",
+            "text": "前山田健一"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33778",
+            "text": "石井健太郎"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:57",
+          "text": "ランティス"
+        }
+      }
+    ],
+    "recording": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:20070",
+          "text": "studio Magic Garden"
+        }
+      }
+    ],
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "高田浩太郎"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:92499",
+          "text": "袴田剛史"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:12499",
+          "text": "河野恵美"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：ランティス\n录音：studio Magic Garden\n混音：高田浩太郎\n母带制作：袴田剛史\n插图：河野恵美\n\n艺术家：春日未来(CV:山崎はるか)(2,12)、横山奈緒(CV:渡部優衣)(4,12)、望月杏奈(CV:夏川椎菜)(6,12)、豊川風花(CV:末柄里恵)(8,12)、我那覇響(CV:沼倉愛美)(10,12)\n作词：岡本健介(2)、由貴野ひめか(4)、rino(6)、こだまさおり(8,12)、ZAQ(10)\n作曲：岡本健介(2,8)、江並哲志(4)、山元祐介(6)、前山田健一(10)、矢鴇つかさ(12)\n编曲：岡本健介(2)、佐々木裕(4)、山元祐介(6)、森谷敏紀(8)、石井健太郎(10)、矢鴇つかさ(12)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-07-05T15:00:04.705Z"
+  }
+}
