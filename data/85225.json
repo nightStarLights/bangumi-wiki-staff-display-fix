@@ -1,0 +1,270 @@
+{
+  "subjectId": 85225,
+  "trackCredits": {
+    "1.3": {
+      "artist": [
+        {
+          "parts": [
+            "福田のり子(CV.",
+            {
+              "ref": "p:15899",
+              "text": "浜崎奈々"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10602",
+            "text": "松井洋平"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10866",
+            "text": "増谷賢"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10866",
+            "text": "増谷賢"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "parts": [
+            "福田のり子(CV.",
+            {
+              "ref": "p:15899",
+              "text": "浜崎奈々"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            "高山紗代子(CV.",
+            {
+              "ref": "p:13401",
+              "text": "駒形友梨"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            "篠宮可憐(CV.",
+            {
+              "ref": "p:12822",
+              "text": "近藤唯"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            "三浦あずさ(CV.",
+            {
+              "ref": "p:4604",
+              "text": "たかはし智秋"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7970",
+            "text": "こだまさおり"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15243",
+            "text": "藤本記子"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9067",
+            "text": "福富雅之"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "parts": [
+            "高山紗代子(CV.",
+            {
+              "ref": "p:13401",
+              "text": "駒形友梨"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "parts": [
+            "篠宮可憐(CV.",
+            {
+              "ref": "p:12822",
+              "text": "近藤唯"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7970",
+            "text": "こだまさおり"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8006",
+            "text": "高田暁"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8006",
+            "text": "高田暁"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "parts": [
+            "三浦あずさ(CV.",
+            {
+              "ref": "p:4604",
+              "text": "たかはし智秋"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15243",
+            "text": "藤本記子"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15243",
+            "text": "藤本記子"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9067",
+            "text": "福富雅之"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:4387",
+            "text": "rino"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9067",
+            "text": "福富雅之"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9067",
+            "text": "福富雅之"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:57",
+          "text": "ランティス"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "横山なつき"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：ランティス\n插图：横山なつき\n\n艺术家：福田のり子(CV.浜崎奈々)(3,11)、高山紗代子(CV.駒形友梨)(4,11)、篠宮可憐(CV.近藤唯)(7,11)、三浦あずさ(CV.たかはし智秋)(9,11)\n作词：松井洋平(3)、rino(5)、こだまさおり(7,11)、藤本記子(9)\n作曲：増谷賢(3)、福富雅之(5)、高田暁(7)、藤本記子(9,11)\n编曲：増谷賢(3)、福富雅之(5,9,11)、高田暁(7)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-07-05T16:05:16.175Z"
+  }
+}
