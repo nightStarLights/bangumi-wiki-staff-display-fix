@@ -1,0 +1,382 @@
+{
+  "subjectId": 75496,
+  "trackCredits": {
+    "1.2": {
+      "artist": [
+        {
+          "parts": [
+            "天海春香(CV:",
+            {
+              "ref": "p:4991",
+              "text": "中村繪里子"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:4387",
+            "text": "rino"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8006",
+            "text": "高田暁"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8006",
+            "text": "高田暁"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "parts": [
+            "天海春香(CV:",
+            {
+              "ref": "p:4991",
+              "text": "中村繪里子"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            "七尾百合子(CV:",
+            {
+              "ref": "p:10600",
+              "text": "伊藤美来"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            "箱崎星梨花(CV:",
+            {
+              "ref": "p:13565",
+              "text": "麻倉もも"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            "天空橋朋花(CV:",
+            {
+              "ref": "p:7837",
+              "text": "小岩井ことり"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            "最上静香(CV:",
+            {
+              "ref": "p:10601",
+              "text": "田所あずさ"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7970",
+            "text": "こだまさおり"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10097",
+            "text": "白戸佑輔"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10097",
+            "text": "白戸佑輔"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:9982",
+            "text": "草野よしひろ"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:10097",
+            "text": "白戸佑輔"
+          },
+          "inst": "Bass"
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "parts": [
+            "七尾百合子(CV:",
+            {
+              "ref": "p:10600",
+              "text": "伊藤美来"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7970",
+            "text": "こだまさおり"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9984",
+            "text": "若林充"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9984",
+            "text": "若林充"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "parts": [
+            "箱崎星梨花(CV:",
+            {
+              "ref": "p:13565",
+              "text": "麻倉もも"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:4387",
+            "text": "rino"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10603",
+            "text": "岡本健介"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10603",
+            "text": "岡本健介"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "くるくる"
+          },
+          "inst": "Synthesizer"
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "parts": [
+            "天空橋朋花(CV:",
+            {
+              "ref": "p:7837",
+              "text": "小岩井ことり"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8336",
+            "text": "ZAQ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9979",
+            "text": "三浦誠司"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9979",
+            "text": "三浦誠司"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Keita \"Corey\" Takanashi"
+            },
+            " (",
+            {
+              "ref": "p:96397",
+              "text": "高梨佳汰"
+            },
+            ")",
+            " (Guitar)"
+          ]
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "parts": [
+            "最上静香(CV:",
+            {
+              "ref": "p:10601",
+              "text": "田所あずさ"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10602",
+            "text": "松井洋平"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9946",
+            "text": "佐々木裕"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9946",
+            "text": "佐々木裕"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:57",
+          "text": "ランティス"
+        }
+      }
+    ],
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "高田浩太郎"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "滝瀬真代"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:12578",
+          "text": "雨宮哲"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：ランティス\n混音：高田浩太郎\n母带制作：滝瀬真代\n插图：雨宮哲\n\n艺术家：天海春香(CV:中村繪里子)(2,12)、七尾百合子(CV:伊藤美来)(4,12)、箱崎星梨花(CV:麻倉もも)(6,12)、天空橋朋花(CV:小岩井ことり)(8,12)、最上静香(CV:田所あずさ)(10,12)\n作词：rino(2,6)、こだまさおり(4,12)、ZAQ(8)、松井洋平(10)\n作曲：高田暁(2)、若林充(4)、岡本健介(6)、三浦誠司(8)、佐々木裕(10)、白戸佑輔(12)\n编曲：高田暁(2)、若林充(4)、岡本健介(6)、三浦誠司(8)、佐々木裕(10)、白戸佑輔(12)\n乐器-Synthesizer：くるくる(6)\n乐器-Guitar：Keita \"Corey\" Takanashi (高梨佳汰)(8)、草野よしひろ(12)\n乐器-Bass：白戸佑輔(12)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-07-05T11:15:30.434Z"
+  }
+}
