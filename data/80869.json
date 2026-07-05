@@ -1,0 +1,337 @@
+{
+  "subjectId": 80869,
+  "trackCredits": {
+    "1.3": {
+      "artist": [
+        {
+          "parts": [
+            "エミリー スチュアート(CV.",
+            {
+              "ref": "p:15619",
+              "text": "郁原ゆう"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:4387",
+            "text": "rino"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:4387",
+            "text": "rino"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9067",
+            "text": "福富雅之"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "parts": [
+            "エミリー スチュアート(CV.",
+            {
+              "ref": "p:15619",
+              "text": "郁原ゆう"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            "真壁瑞希(CV.",
+            {
+              "ref": "p:15303",
+              "text": "阿部里果"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            "百瀬莉緒(CV.",
+            {
+              "ref": "p:7556",
+              "text": "山口立花子"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            "水瀬伊織(CV.",
+            {
+              "ref": "p:3936",
+              "text": "釘宮理恵"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7970",
+            "text": "こだまさおり"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:4387",
+            "text": "rino"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10103",
+            "text": "関野元規"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "江草一平"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "村山潤"
+            },
+            " (",
+            {
+              "ref": "p:39859",
+              "text": "村山☆潤"
+            },
+            ")",
+            " (Keyboard)"
+          ]
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "parts": [
+            "真壁瑞希(CV.",
+            {
+              "ref": "p:15303",
+              "text": "阿部里果"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10602",
+            "text": "松井洋平"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:3587",
+            "text": "橋本由香利"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:3587",
+            "text": "橋本由香利"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:9557",
+            "text": "宮崎誠"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "parts": [
+            "百瀬莉緒(CV.",
+            {
+              "ref": "p:7556",
+              "text": "山口立花子"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:49150",
+            "text": "mavie"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:18731",
+            "text": "KOH"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:18731",
+            "text": "KOH"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "parts": [
+            "水瀬伊織(CV.",
+            {
+              "ref": "p:3936",
+              "text": "釘宮理恵"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10602",
+            "text": "松井洋平"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7143",
+            "text": "松田彬人"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7143",
+            "text": "松田彬人"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:57",
+          "text": "ランティス"
+        }
+      }
+    ],
+    "recording": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:20070",
+          "text": "studio Magic Garden"
+        }
+      }
+    ],
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "高田浩太郎"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "白井康裕"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "滝瀬真代"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:11346",
+          "text": "三宮昌太"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：ランティス\n录音：studio Magic Garden\n混音：高田浩太郎、白井康裕\n母带制作：滝瀬真代\n插图：三宮昌太\n\n艺术家：エミリー スチュアート(CV.郁原ゆう)(3,11)、真壁瑞希(CV.阿部里果)(5,11)、百瀬莉緒(CV.山口立花子)(7,11)、水瀬伊織(CV.釘宮理恵)(9,11)\n作词：rino(3)、松井洋平(5,9)、mavie(7)、こだまさおり(11)\n作曲：rino(3,11)、橋本由香利(5)、KOH(7)、松田彬人(9)\n编曲：福富雅之(3)、橋本由香利(5)、KOH(7)、松田彬人(9)、関野元規(11)\n乐器-Guitar：宮崎誠(5)、江草一平(11)\n乐器-Keyboard：村山潤 (村山☆潤)(11)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-07-05T15:48:03.624Z"
+  }
+}
