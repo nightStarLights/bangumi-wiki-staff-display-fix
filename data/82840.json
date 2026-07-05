@@ -1,0 +1,278 @@
+{
+  "subjectId": 82840,
+  "trackCredits": {
+    "1.3": {
+      "artist": [
+        {
+          "parts": [
+            "伊吹翼(CV.",
+            {
+              "ref": "p:15302",
+              "text": "Machico"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7970",
+            "text": "こだまさおり"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10069",
+            "text": "nyanyannya"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10069",
+            "text": "nyanyannya"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "parts": [
+            "伊吹翼(CV.",
+            {
+              "ref": "p:15302",
+              "text": "Machico"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            "北上麗花(CV.",
+            {
+              "ref": "p:7163",
+              "text": "平山笑美"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            "星井美希(CV.",
+            {
+              "ref": "p:5826",
+              "text": "長谷川明子"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            "ジュリア(CV.",
+            {
+              "ref": "p:9188",
+              "text": "愛美"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7970",
+            "text": "こだまさおり"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8006",
+            "text": "高田暁"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8006",
+            "text": "高田暁"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "parts": [
+            "北上麗花(CV.",
+            {
+              "ref": "p:7163",
+              "text": "平山笑美"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10602",
+            "text": "松井洋平"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9913",
+            "text": "中土智博"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9913",
+            "text": "中土智博"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "parts": [
+            "星井美希(CV.",
+            {
+              "ref": "p:5826",
+              "text": "長谷川明子"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8336",
+            "text": "ZAQ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8006",
+            "text": "高田暁"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8006",
+            "text": "高田暁"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "parts": [
+            "ジュリア(CV.",
+            {
+              "ref": "p:9188",
+              "text": "愛美"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9770",
+            "text": "きみコ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10587",
+            "text": "黒須克彦"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10587",
+            "text": "黒須克彦"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:10587",
+            "text": "黒須克彦"
+          },
+          "inst": "Bass"
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:57",
+          "text": "ランティス"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:24670",
+          "text": "Ryota-H"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：ランティス\n插图：Ryota-H\n\n艺术家：伊吹翼(CV.Machico)(3,11)、北上麗花(CV.平山笑美)(5,11)、星井美希(CV.長谷川明子)(7,11)、ジュリア(CV.愛美)(9,11)\n作词：こだまさおり(3,11)、松井洋平(5)、ZAQ(7)、きみコ(9)\n作曲：nyanyannya(3)、中土智博(5)、高田暁(7,11)、黒須克彦(9)\n编曲：nyanyannya(3)、中土智博(5)、高田暁(7,11)、黒須克彦(9)\n乐器-Bass：黒須克彦(9)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-07-05T15:55:57.974Z"
+  }
+}
