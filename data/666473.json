@@ -157,34 +157,27 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:96622",
+          "ref": null,
           "text": "Excillex"
         }
       }
     ],
     "illustrator": [
       {
-        "parts": [
-          {
-            "ref": null,
-            "text": "KAIKA"
-          },
-          " (",
-          {
-            "ref": null,
-            "text": "廻花"
-          },
-          ")"
-        ]
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "KAIKA"
+        }
       }
     ]
   },
   "rawPatches": {
-    "editor": "母带制作：Excillex\n插图：KAIKA(廻花)\n\n艺术家：DIKO(1)、Firzen(2)、Mirage_Sonata(3)、Noir-D(4)、ak1NaN(5)、MossyStone(6)、Syrlvia(7)、postt(7)、PhantomBlind(8)、F3azor4_(9)、Eléxia(10)、ArrAy-P(11)、Farah(12)、vxis(13)"
+    "editor": "母带制作：Excillex\n插图：KAIKA\n\n艺术家：DIKO(1)、Firzen(2)、Mirage_Sonata(3)、Noir-D(4)、ak1NaN(5)、MossyStone(6)、Syrlvia(7)、postt(7)、PhantomBlind(8)、F3azor4_(9)、Eléxia(10)、ArrAy-P(11)、Farah(12)、vxis(13)"
   },
   "_meta": {
     "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-07-06T04:16:17.578Z"
+    "submittedAt": "2026-07-06T04:17:25.509Z"
   }
 }
