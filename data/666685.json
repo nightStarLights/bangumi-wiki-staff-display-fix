@@ -1,0 +1,268 @@
+{
+  "subjectId": 666685,
+  "trackCredits": {
+    "1.1": {
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "lbg_萝卜根"
+            },
+            " (",
+            {
+              "ref": "p:24375",
+              "text": "罗赓"
+            },
+            ")"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "lbg_萝卜根"
+            },
+            " (",
+            {
+              "ref": "p:24375",
+              "text": "罗赓"
+            },
+            ")"
+          ]
+        }
+      ],
+      "mixing": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "lbg_萝卜根"
+            },
+            " (",
+            {
+              "ref": "p:24375",
+              "text": "罗赓"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "辻原一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "辻原一郎"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "辻原一郎"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "雪人Snowman"
+            },
+            " (",
+            {
+              "ref": "p:73356",
+              "text": "潘政韬"
+            },
+            ")"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "雪人Snowman"
+            },
+            " (",
+            {
+              "ref": "p:73356",
+              "text": "潘政韬"
+            },
+            ")"
+          ]
+        }
+      ],
+      "mixing": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "雪人Snowman"
+            },
+            " (",
+            {
+              "ref": "p:73356",
+              "text": "潘政韬"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.4": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:38973",
+            "text": "星辉p"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:38973",
+            "text": "星辉p"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:38973",
+            "text": "星辉p"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36412",
+            "text": "Litterzy"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36412",
+            "text": "Litterzy"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36412",
+            "text": "Litterzy"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "言和"
+        }
+      }
+    ],
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:38971",
+          "text": "大九_LN"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "秘宝旅人"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "多尔及利亚"
+        }
+      }
+    ],
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:38973",
+          "text": "星辉p"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "多尔及利亚"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:38971",
+          "text": "大九_LN"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "白以慧"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：言和\n作词：大九_LN\n厂牌：秘宝旅人\n插图：多尔及利亚\n制作人：星辉p、多尔及利亚、大九_LN、白以慧\n\n作曲：lbg_萝卜根(罗赓)(1)、辻原一郎(2)、雪人Snowman(潘政韬)(3)、星辉p(4)、Litterzy(5)\n编曲：lbg_萝卜根(罗赓)(1)、辻原一郎(2)、雪人Snowman(潘政韬)(3)、星辉p(4)、Litterzy(5)\n混音：lbg_萝卜根(罗赓)(1)、辻原一郎(2)、雪人Snowman(潘政韬)(3)、星辉p(4)、Litterzy(5)"
+  },
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-07-06T12:27:22.882Z"
+  }
+}
