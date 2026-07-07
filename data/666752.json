@@ -25,7 +25,7 @@
           "type": "person",
           "person": {
             "ref": null,
-            "text": "goth club holiday"
+            "text": "Goth Club Holiday"
           }
         }
       ],
@@ -34,7 +34,7 @@
           "type": "person",
           "person": {
             "ref": null,
-            "text": "goth club holiday"
+            "text": "Goth Club Holiday"
           }
         }
       ]
@@ -63,7 +63,7 @@
           "type": "person",
           "person": {
             "ref": null,
-            "text": "goth club holiday"
+            "text": "Goth Club Holiday"
           }
         }
       ],
@@ -81,7 +81,7 @@
           "type": "person",
           "person": {
             "ref": null,
-            "text": "goth club holiday"
+            "text": "Goth Club Holiday"
           }
         }
       ]
@@ -185,7 +185,7 @@
           "type": "person",
           "person": {
             "ref": null,
-            "text": "goth club holiday"
+            "text": "Goth Club Holiday"
           }
         }
       ],
@@ -298,11 +298,11 @@
     }
   },
   "rawPatches": {
-    "editor": "艺术家：Chikafuji Lisa(1,2,3,4,5,6)\n作词：Chikafuji Lisa(1,2,3,4,5,6)、eivesohn(3)\n作曲：goth club holiday(1,2)、eivesohn(3)、Chikafuji Lisa(3,6)、Eivesohn(3,6)、Scro(4)、Lil Lotus(4)、Avaire(5)\n混音：Eivesohn(2)、goth club holiday(4)\n制作人：goth club holiday(1,2)、Eivesohn(3,6)、Scro(4)、Lil Lotus(4)、Avaire(5)、Chikafuji Lisa(6)"
+    "editor": "艺术家：Chikafuji Lisa(1,2,3,4,5,6)\n作词：Chikafuji Lisa(1,2,3,4,5,6)、eivesohn(3)\n作曲：Goth Club Holiday(1,2)、eivesohn(3)、Chikafuji Lisa(3,6)、Eivesohn(3,6)、Scro(4)、Lil Lotus(4)、Avaire(5)\n混音：Eivesohn(2)、Goth Club Holiday(4)\n制作人：Goth Club Holiday(1,2)、Eivesohn(3,6)、Scro(4)、Lil Lotus(4)、Avaire(5)、Chikafuji Lisa(6)"
   },
   "_meta": {
     "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-07-07T11:08:57.407Z"
+    "submittedAt": "2026-07-07T11:12:10.392Z"
   }
 }
