@@ -29,15 +29,6 @@
           }
         }
       ],
-      "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "goth club holiday"
-          }
-        }
-      ],
       "producer": [
         {
           "type": "person",
@@ -68,15 +59,6 @@
         }
       ],
       "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "goth club holiday"
-          }
-        }
-      ],
-      "arranger": [
         {
           "type": "person",
           "person": {
@@ -153,15 +135,6 @@
           }
         }
       ],
-      "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Eivesohn"
-          }
-        }
-      ],
       "producer": [
         {
           "type": "person",
@@ -192,22 +165,6 @@
         }
       ],
       "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Scro"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Lil Lotus"
-          }
-        }
-      ],
-      "arranger": [
         {
           "type": "person",
           "person": {
@@ -277,15 +234,6 @@
           }
         }
       ],
-      "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Avaire"
-          }
-        }
-      ],
       "producer": [
         {
           "type": "person",
@@ -331,22 +279,6 @@
           }
         }
       ],
-      "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Eivesohn"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:97171",
-            "text": "Chikafuji Lisa"
-          }
-        }
-      ],
       "producer": [
         {
           "type": "person",
@@ -366,11 +298,11 @@
     }
   },
   "rawPatches": {
-    "editor": "艺术家：Chikafuji Lisa(1,2,3,4,5,6)\n作词：Chikafuji Lisa(1,2,4,5,6)、eivesohn(3)、Chikafuji LIsa(3)\n作曲：goth club holiday(1,2)、eivesohn(3)、Chikafuji LIsa(3)、Eivesohn(3,6)、Scro(4)、Lil Lotus(4)、Avaire(5)、Chikafuji Lisa(6)\n编曲：goth club holiday(1,2)、Eivesohn(3,6)、Scro(4)、Lil Lotus(4)、Avaire(5)、Chikafuji Lisa(6)\n混音：Eivesohn(2)、goth club holiday(4)\n制作人：goth club holiday(1,2)、Eivesohn(3,6)、Scro(4)、Lil Lotus(4)、Avaire(5)、Chikafuji Lisa(6)"
+    "editor": "艺术家：Chikafuji Lisa(1,2,3,4,5,6)\n作词：Chikafuji Lisa(1,2,4,5,6)、eivesohn(3)、Chikafuji LIsa(3)\n作曲：goth club holiday(1,2)、eivesohn(3)、Chikafuji LIsa(3)、Eivesohn(3,6)、Scro(4)、Lil Lotus(4)、Avaire(5)、Chikafuji Lisa(6)\n混音：Eivesohn(2)、goth club holiday(4)\n制作人：goth club holiday(1,2)、Eivesohn(3,6)、Scro(4)、Lil Lotus(4)、Avaire(5)、Chikafuji Lisa(6)"
   },
   "_meta": {
     "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-07-07T04:25:19.310Z"
+    "submittedAt": "2026-07-07T04:26:08.785Z"
   }
 }
