@@ -446,7 +446,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:73046",
             "text": "加藤浩義"
           }
         }
@@ -457,7 +457,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:73046",
             "text": "加藤浩義"
           }
         }
@@ -468,7 +468,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:73046",
             "text": "加藤浩義"
           }
         }
@@ -578,7 +578,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:66884",
             "text": "白澤亮"
           }
         }
@@ -589,7 +589,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:66884",
             "text": "白澤亮"
           }
         }
@@ -600,7 +600,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:66884",
             "text": "白澤亮"
           }
         }
@@ -633,7 +633,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:83636",
             "text": "輪堂千速"
           }
         }
@@ -644,7 +644,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:83636",
             "text": "輪堂千速"
           }
         }
@@ -687,7 +687,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:26518",
           "text": "元気"
         }
       }
@@ -699,6 +699,6 @@
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-07-07T16:06:54.054Z"
+    "submittedAt": "2026-07-07T16:07:19.963Z"
   }
 }
