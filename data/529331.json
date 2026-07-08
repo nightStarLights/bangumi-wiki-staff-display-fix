@@ -1,0 +1,25 @@
+{
+  "subjectId": 529331,
+  "trackCredits": {
+    "1.1": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:14913",
+            "text": "川口千里"
+          },
+          "inst": "Drums"
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "乐器-Drums：川口千里 (1)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-07-08T07:03:49.878Z"
+  }
+}
