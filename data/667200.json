@@ -1,0 +1,131 @@
+{
+  "subjectId": 667200,
+  "trackCredits": {
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69236",
+            "text": "miya"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66190",
+            "text": "Ray_Oh"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66190",
+            "text": "Ray_Oh"
+          }
+        }
+      ]
+    },
+    "1.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73349",
+            "text": "R1cefarm"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73349",
+            "text": "R1cefarm"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84529",
+            "text": "tomatoism"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84529",
+            "text": "tomatoism"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82018",
+            "text": "uncalc"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82018",
+            "text": "uncalc"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:82017",
+          "text": "天乃おつげ"
+        }
+      }
+    ],
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:82017",
+          "text": "天乃おつげ"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:82631",
+          "text": "てんひなた"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：天乃おつげ\n作词：天乃おつげ\n插图：てんひなた\n\n艺术家：miya(4)\n作曲：R1cefarm(1)、tomatoism(2)、uncalc(3)、Ray_Oh(4)\n编曲：R1cefarm(1)、tomatoism(2)、uncalc(3)、Ray_Oh(4)"
+  },
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-07-08T17:15:13.484Z"
+  }
+}
