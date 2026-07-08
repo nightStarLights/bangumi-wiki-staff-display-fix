@@ -10,16 +10,40 @@
             "text": "川口千里"
           },
           "inst": "Drums"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:65614",
+            "text": "NieN"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:73716",
+            "text": "H.J.Freaks"
+          },
+          "inst": "Bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:73717",
+            "text": "JamString"
+          },
+          "inst": "String"
         }
       ]
     }
   },
   "rawPatches": {
-    "editor": "乐器-Drums：川口千里 (1)"
+    "editor": "乐器-Drums：川口千里 (1)\n乐器-Guitar：NieN (1)\n乐器-Bass：H.J.Freaks (1)\n乐器-String：JamString (1)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-07-08T07:03:49.878Z"
+    "submittedAt": "2026-07-08T07:04:40.898Z"
   }
 }
