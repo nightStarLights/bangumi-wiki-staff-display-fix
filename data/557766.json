@@ -35,7 +35,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:69960",
             "text": "カスカ"
           }
         }
@@ -44,7 +44,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:18108",
             "text": "kamome sano"
           }
         }
@@ -53,7 +53,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:18108",
             "text": "kamome sano"
           }
         }
@@ -69,7 +69,7 @@
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:34127",
               "text": "きあと"
             },
             ")"
@@ -80,7 +80,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:55206",
             "text": "KOTONOHOUSE"
           }
         }
@@ -89,7 +89,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:55206",
             "text": "KOTONOHOUSE"
           }
         }
@@ -100,7 +100,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:66188",
             "text": "BOOGEY VOXX"
           }
         }
@@ -109,7 +109,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:66188",
             "text": "BOOGEY VOXX"
           }
         }
@@ -118,7 +118,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:36776",
             "text": "KO3"
           }
         }
@@ -129,7 +129,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:33350",
             "text": "藍月なくる"
           }
         }
@@ -138,7 +138,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:66178",
             "text": "Kakeru"
           }
         }
@@ -176,7 +176,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:47721",
             "text": "EmoCosine"
           }
         }
@@ -187,7 +187,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:61502",
             "text": "江戸レナ"
           }
         }
@@ -230,7 +230,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:66174",
             "text": "式部めぐり"
           }
         }
@@ -239,7 +239,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:66173",
             "text": "Tsubusare BOZZ"
           }
         }
@@ -248,7 +248,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:66173",
             "text": "Tsubusare BOZZ"
           }
         }
@@ -259,7 +259,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:7253",
             "text": "ななひら"
           }
         }
@@ -268,7 +268,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:10169",
             "text": "colate"
           }
         }
@@ -277,7 +277,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:10169",
             "text": "colate"
           }
         }
@@ -288,7 +288,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:71676",
             "text": "Aethral"
           }
         }
@@ -299,7 +299,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:77598",
             "text": "Dotnoi"
           }
         }
@@ -310,7 +310,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:82123",
             "text": "sanmal"
           }
         }
@@ -321,7 +321,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:69936",
             "text": "FAIZ"
           }
         }
@@ -333,7 +333,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:66172",
           "text": "MOTTO MUSIC"
         }
       }
@@ -342,7 +342,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:26042",
           "text": "まみむ"
         }
       }
@@ -351,7 +351,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:66178",
           "text": "Kakeru"
         }
       }
@@ -363,6 +363,6 @@
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-07-09T12:01:29.256Z"
+    "submittedAt": "2026-07-09T12:02:04.100Z"
   }
 }
