@@ -1,0 +1,82 @@
+{
+  "subjectId": 667359,
+  "trackCredits": {
+    "1.5": {
+      "illustrator": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "shuuyakikou"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "illustrator": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "shuuyakikou"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:73995",
+          "text": "ariiol"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:73995",
+          "text": "ariiol"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:73995",
+          "text": "ariiol"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:73995",
+          "text": "ariiol"
+        }
+      }
+    ],
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:73995",
+          "text": "ariiol"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：ariiol\n作曲：ariiol\n编曲：ariiol\n插图：ariiol\n制作人：ariiol\n\n插图：shuuyakikou(5,8)"
+  },
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-07-09T16:14:20.473Z"
+  }
+}
