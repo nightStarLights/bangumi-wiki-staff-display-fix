@@ -4,155 +4,267 @@
     "1.1": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "lapix (石谷桂亮) × PINK PONG (黒光雄輝) × ASLETICS × Kent Alexander"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "lapix"
+            },
+            " (",
+            {
+              "ref": "p:7049",
+              "text": "石谷桂亮"
+            },
+            ")",
+            " × ",
+            {
+              "ref": null,
+              "text": "PINK PONG"
+            },
+            " (",
+            {
+              "ref": "p:13645",
+              "text": "黒光雄輝"
+            },
+            ")",
+            " × ",
+            {
+              "ref": "p:72381",
+              "text": "ASLETICS"
+            },
+            " × ",
+            {
+              "ref": "p:68585",
+              "text": "Kent Alexander"
+            }
+          ]
         }
       ]
     },
     "1.2": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Yamajet (山路圭一朗) × サイモンマン"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yamajet"
+            },
+            " (",
+            {
+              "ref": "p:47373",
+              "text": "山路圭一朗"
+            },
+            ")",
+            " × ",
+            {
+              "ref": null,
+              "text": "サイモンマン"
+            }
+          ]
         }
       ]
     },
     "1.3": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "DJ Noriken × RAM"
-          }
+          "parts": [
+            {
+              "ref": "p:7750",
+              "text": "DJ Noriken"
+            },
+            " × ",
+            {
+              "ref": "p:72382",
+              "text": "RAM"
+            }
+          ]
         }
       ]
     },
     "1.4": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "元気くんバンド × 小野秀幸"
-          }
+          "parts": [
+            {
+              "ref": "p:86284",
+              "text": "元気くんバンド"
+            },
+            " × ",
+            {
+              "ref": null,
+              "text": "小野秀幸"
+            }
+          ]
         }
       ]
     },
     "1.5": {
       "artist": [
         {
-          "type": "alias_person",
-          "alias": {
-            "ref": null,
-            "text": "C-Show × good-cool"
-          },
-          "person": {
-            "ref": "p:47369",
-            "text": "古川竜也"
-          }
+          "parts": [
+            {
+              "ref": "p:26134",
+              "text": "C-Show"
+            },
+            " × ",
+            {
+              "ref": null,
+              "text": "good-cool"
+            },
+            " (",
+            {
+              "ref": "p:47369",
+              "text": "古川竜也"
+            },
+            ")"
+          ]
         }
       ]
     },
     "1.6": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Getty × DJ Shimamura"
-          }
+          "parts": [
+            {
+              "ref": "p:36947",
+              "text": "Getty"
+            },
+            " × ",
+            {
+              "ref": "p:6761",
+              "text": "DJ Shimamura"
+            }
+          ]
         }
       ]
     },
     "1.7": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "KO3 × DJ Genki"
-          }
+          "parts": [
+            {
+              "ref": "p:36776",
+              "text": "KO3"
+            },
+            " × ",
+            {
+              "ref": "p:7865",
+              "text": "DJ Genki"
+            }
+          ]
         }
       ]
     },
     "1.8": {
       "artist": [
         {
-          "type": "alias_person",
-          "alias": {
-            "ref": null,
-            "text": "Tatsh × PINK PONG"
-          },
-          "person": {
-            "ref": "p:13645",
-            "text": "黒光雄輝"
-          }
+          "parts": [
+            {
+              "ref": "p:6604",
+              "text": "Tatsh"
+            },
+            " × ",
+            {
+              "ref": null,
+              "text": "PINK PONG"
+            },
+            " (",
+            {
+              "ref": "p:13645",
+              "text": "黒光雄輝"
+            },
+            ")"
+          ]
         }
       ]
     },
     "1.9": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "RoughSketch × すわひでお"
-          }
+          "parts": [
+            {
+              "ref": "p:7561",
+              "text": "RoughSketch"
+            },
+            " × ",
+            {
+              "ref": null,
+              "text": "すわひでお"
+            }
+          ]
         }
       ]
     },
     "1.10": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Maozon × RAM"
-          }
+          "parts": [
+            {
+              "ref": "p:31965",
+              "text": "Maozon"
+            },
+            " × ",
+            {
+              "ref": "p:72382",
+              "text": "RAM"
+            }
+          ]
         }
       ]
     },
     "1.11": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Relect × DJ Noriken"
-          }
+          "parts": [
+            {
+              "ref": "p:47424",
+              "text": "Relect"
+            },
+            " × ",
+            {
+              "ref": "p:7750",
+              "text": "DJ Noriken"
+            }
+          ]
         }
       ]
     },
     "1.12": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Dirty Androids × SYMPHONIC DEFOGGERS"
-          }
+          "parts": [
+            {
+              "ref": "p:15907",
+              "text": "Dirty Androids"
+            },
+            " × ",
+            {
+              "ref": null,
+              "text": "SYMPHONIC DEFOGGERS"
+            }
+          ]
         }
       ]
     },
     "1.13": {
       "artist": [
         {
-          "type": "alias_person",
-          "alias": {
-            "ref": null,
-            "text": "黒沢ダイスケ × PINK PONG"
-          },
-          "person": {
-            "ref": "p:13645",
-            "text": "黒光雄輝"
-          }
+          "parts": [
+            {
+              "ref": "p:25605",
+              "text": "黒沢ダイスケ"
+            },
+            " × ",
+            {
+              "ref": null,
+              "text": "PINK PONG"
+            },
+            " (",
+            {
+              "ref": "p:13645",
+              "text": "黒光雄輝"
+            },
+            ")"
+          ]
         }
       ]
     },
@@ -174,6 +286,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-21T05:47:23.548Z"
+    "submittedAt": "2026-07-09T14:32:48.660Z"
   }
 }
