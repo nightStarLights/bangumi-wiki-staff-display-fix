@@ -69,7 +69,7 @@
             },
             " (",
             {
-              "ref": "p:34127",
+              "ref": null,
               "text": "きあと"
             },
             ")"
@@ -156,11 +156,18 @@
     "1.6": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "紡音れい"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "紡音れい"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "ChumuNote"
+            },
+            ")"
+          ]
         }
       ],
       "lyricist": [
@@ -201,7 +208,7 @@
             },
             " (",
             {
-              "ref": "p:68093",
+              "ref": null,
               "text": "tokiwa"
             },
             ")"
@@ -217,7 +224,7 @@
             },
             " (",
             {
-              "ref": "p:68093",
+              "ref": null,
               "text": "tokiwa"
             },
             ")"
@@ -288,7 +295,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:71676",
+            "ref": null,
             "text": "Aethral"
           }
         }
@@ -299,7 +306,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:77598",
+            "ref": null,
             "text": "Dotnoi"
           }
         }
@@ -310,7 +317,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:82123",
+            "ref": null,
             "text": "sanmal"
           }
         }
@@ -321,7 +328,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:69936",
+            "ref": null,
             "text": "FAIZ"
           }
         }
@@ -333,7 +340,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:66172",
+          "ref": null,
           "text": "MOTTO MUSIC"
         }
       }
@@ -342,7 +349,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:26042",
+          "ref": null,
           "text": "まみむ"
         }
       }
@@ -351,18 +358,18 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:66178",
+          "ref": null,
           "text": "Kakeru"
         }
       }
     ]
   },
   "rawPatches": {
-    "editor": "厂牌：《MOTTO MUSIC》\n插图：まみむ\n制作人：Kakeru\n\n艺术家：KMNZ LIZ（リズ）(1.1)、カスカ(1.2)、くいしんぼあかちゃん(きあと)(1.3)、BOOGEY VOXX(1.4)、藍月なくる(1.5)、紡音れい(1.6)、江戸レナ(1.7)、式部めぐり(1.8)、ななひら(1.9)\n作词：YOCO(1.1)、kamome sano(1.2)、KOTONOHOUSE(1.3)、BOOGEY VOXX(1.4)、Kakeru(1.5)、Vetaliss(1.6)、常盤 (tokiwa)(1.7)、Tsubusare BOZZ(1.8)、colate(1.9)\n作曲：Avec Avec(1.1)、kamome sano(1.2)、KOTONOHOUSE(1.3)、KO3(1.4)、Hyleo(1.5)、EmoCosine(1.6)、常盤 (tokiwa)(1.7)、Tsubusare BOZZ(1.8)、colate(1.9)\n编曲：Aethral(2.1)、Dotnoi(2.2)、sanmal(2.3)、FAIZ(2.4)"
+    "editor": "厂牌：《MOTTO MUSIC》\n插图：まみむ\n制作人：Kakeru\n\n艺术家：KMNZ LIZ（リズ）(1.1)、カスカ(1.2)、くいしんぼあかちゃん(きあと)(1.3)、BOOGEY VOXX(1.4)、藍月なくる(1.5)、紡音れい (ChumuNote)(1.6)、江戸レナ(1.7)、式部めぐり(1.8)、ななひら(1.9)\n作词：YOCO(1.1)、kamome sano(1.2)、KOTONOHOUSE(1.3)、BOOGEY VOXX(1.4)、Kakeru(1.5)、Vetaliss(1.6)、常盤 (tokiwa)(1.7)、Tsubusare BOZZ(1.8)、colate(1.9)\n作曲：Avec Avec(1.1)、kamome sano(1.2)、KOTONOHOUSE(1.3)、KO3(1.4)、Hyleo(1.5)、EmoCosine(1.6)、常盤 (tokiwa)(1.7)、Tsubusare BOZZ(1.8)、colate(1.9)\n编曲：Aethral(2.1)、Dotnoi(2.2)、sanmal(2.3)、FAIZ(2.4)"
   },
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-07-09T12:04:01.721Z"
+    "submittedAt": "2026-07-09T12:04:22.780Z"
   }
 }
