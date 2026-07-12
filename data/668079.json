@@ -109,7 +109,7 @@
           "inst": "Bass"
         }
       ],
-      "custom-MIDI Programming": [
+      "custom-MIDI编程": [
         {
           "type": "person",
           "person": {
@@ -164,7 +164,7 @@
           }
         }
       ],
-      "custom-Associate Producer": [
+      "custom-联合制作人": [
         {
           "parts": [
             {
@@ -525,11 +525,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "厂牌：LEVEL NINE\n\n艺术家：Yuri(ゆーり)(2)、Sunnie(14)\n作词：Joong Geun Ahn(2)、N.U.(14)、Cosmograph(14)\n作曲：Soochan(1)、LVPS(2,15)、haru(2,15)、Mori+(3,4,5,7)、NieN(6)、Corners Groove(8,9)、K.Shiraki(10,11,12,13)、Cosmograph(14,16)\n编曲：LVPS(2,15)、haru(2,15)、Cosmograph(14,16)、NieN(14,16)\n录音：Noriyuki Kisou(2,15)、Ayari(彩莉-Ayari-)(2,15)\n混音：PRIKA(2,15)\n母带制作：Cosmograph(14,16)\n乐器-Guitar：Roséthic(2,15)\n乐器-Bass：kaon(2,15)\n\ncustom-MIDI Programming: LVPS (2)\ncustom-人声指导: haru(2)、Joong Geun Ahn(2)、LVPS(2)、Ayari (彩莉-Ayari-) (2)\nProducer: Cosmograph\nProducer: Cosmograph(2,14)\ncustom-Associate Producer: Hakui To (TU POWEI) (2)"
+    "editor": "厂牌：LEVEL NINE\n\n艺术家：Yuri(ゆーり)(2)、Sunnie(14)\n作词：Joong Geun Ahn(2)、N.U.(14)、Cosmograph(14)\n作曲：Soochan(1)、LVPS(2,15)、haru(2,15)、Mori+(3,4,5,7)、NieN(6)、Corners Groove(8,9)、K.Shiraki(10,11,12,13)、Cosmograph(14,16)\n编曲：LVPS(2,15)、haru(2,15)、Cosmograph(14,16)、NieN(14,16)\n录音：Noriyuki Kisou(2,15)、Ayari(彩莉-Ayari-)(2,15)\n混音：PRIKA(2,15)\n母带制作：Cosmograph(14,16)\n乐器-Guitar：Roséthic(2,15)\n乐器-Bass：kaon(2,15)\n\ncustom-MIDI编程: LVPS (2)\ncustom-人声指导: haru(2)、Joong Geun Ahn(2)、LVPS(2)、Ayari (彩莉-Ayari-) (2)\nProducer: Cosmograph\nProducer: Cosmograph(2,14)\ncustom-联合制作人: Hakui To (TU POWEI) (2)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-07-12T09:10:44.941Z"
+    "submittedAt": "2026-07-12T09:14:52.038Z"
   }
 }
