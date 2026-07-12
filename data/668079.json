@@ -11,7 +11,7 @@
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:98084",
               "text": "ゆーり"
             },
             ")"
@@ -38,7 +38,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:83132",
             "text": "haru"
           }
         }
@@ -54,7 +54,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:83132",
             "text": "haru"
           }
         }
@@ -194,7 +194,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:83132",
             "text": "haru"
           }
         }
@@ -210,7 +210,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:83132",
             "text": "haru"
           }
         }
@@ -441,6 +441,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-07-12T09:07:47.717Z"
+    "submittedAt": "2026-07-12T09:08:04.572Z"
   }
 }
