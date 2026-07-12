@@ -1,6 +1,44 @@
 {
   "subjectId": 663910,
   "trackCredits": {
+    "1.8": {
+      "producer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69731",
+            "text": "Cosmograph"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69731",
+            "text": "Cosmograph"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65614",
+            "text": "NieN"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "B.A.Wheeler"
+          }
+        }
+      ]
+    },
     "1.1": {
       "composer": [
         {
@@ -177,17 +215,6 @@
         }
       ]
     },
-    "1.8": {
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:65614",
-            "text": "NieN"
-          }
-        }
-      ]
-    },
     "1.21": {
       "composer": [
         {
@@ -234,24 +261,6 @@
     }
   },
   "epinfo": {
-    "producer": [
-      {
-        "type": "person",
-        "person": {
-          "ref": "p:69731",
-          "text": "Cosmograph"
-        }
-      }
-    ],
-    "mastering": [
-      {
-        "type": "person",
-        "person": {
-          "ref": "p:69731",
-          "text": "Cosmograph"
-        }
-      }
-    ],
     "mixing": [
       {
         "type": "person",
@@ -272,11 +281,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "制作人、母带制作：Cosmograph\n混音：NieN\n厂牌：LEVEL NINE\nComposer: Powerless (01-05, 09-13),Ternarious(6),Cosmograph (07, 17-20),NieN (08, 21),Nauts (14, 15),ZxNX(16)\nArrangement・NieN (05, 13), DoubleTO (20)"
+    "editor": "制作人、母带制作：Cosmograph(8)\n混音：NieN\n厂牌：LEVEL NINE\nComposer: Powerless (01-05, 09-13),Ternarious(6),Cosmograph (07, 17-20),NieN (08, 21),Nauts (14, 15),ZxNX(16)\nArrangement・NieN (05, 13), DoubleTO (20)\n\nVocal： B.A.Wheeler (8)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-07-12T09:40:09.840Z"
+    "submittedAt": "2026-07-12T09:41:15.304Z"
   }
 }
