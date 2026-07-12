@@ -212,23 +212,11 @@
     "1.12": {
       "composer": [
         {
-          "parts": [
-            {
-              "ref": null,
-              "text": "Ternarious"
-            },
-            " (",
-            {
-              "ref": null,
-              "text": "I"
-            },
-            " x ",
-            {
-              "ref": null,
-              "text": "ia"
-            },
-            ")"
-          ]
+          "type": "person",
+          "person": {
+            "ref": "p:98085",
+            "text": "Ternarious"
+          }
         }
       ]
     }
@@ -245,11 +233,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "厂牌：LEVEL NINE\n\n作曲：Corners Groove(1,2,3,6,7,8,9)、Cosmograph(4,5,10,11,13)、Ternarious(Ixia)(12)\n编曲：Cosmograph(4,5,10,11)\n乐器-Guitar：NieN(4,5,10,11)"
+    "editor": "厂牌：LEVEL NINE\n\n作曲：Corners Groove(1,2,3,6,7,8,9)、Cosmograph(4,5,10,11,13)、Ternarious(12)\n编曲：Cosmograph(4,5,10,11)\n乐器-Guitar：NieN(4,5,10,11)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-07-12T09:35:18.376Z"
+    "submittedAt": "2026-07-12T09:36:59.887Z"
   }
 }
