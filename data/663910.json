@@ -116,7 +116,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:98085",
             "text": "Ternarious"
           }
         }
@@ -277,6 +277,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-06-26T15:46:01.300Z"
+    "submittedAt": "2026-07-12T09:40:09.840Z"
   }
 }
