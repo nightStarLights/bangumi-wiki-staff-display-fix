@@ -1,0 +1,1220 @@
+{
+  "subjectId": 668399,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "nachi"
+            },
+            " (",
+            {
+              "ref": "p:6247",
+              "text": "坂上なち"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70721",
+            "text": "Haruka"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6965",
+            "text": "Masayoshi Minoshima"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "nachi"
+            },
+            " (",
+            {
+              "ref": "p:6247",
+              "text": "坂上なち"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33894",
+            "text": "ayame"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6965",
+            "text": "Masayoshi Minoshima"
+          }
+        }
+      ]
+    },
+    "2.2": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "nachi"
+            },
+            " (",
+            {
+              "ref": "p:6247",
+              "text": "坂上なち"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10270",
+            "text": "かめりあ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6965",
+            "text": "Masayoshi Minoshima"
+          }
+        }
+      ]
+    },
+    "2.3": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "nachi"
+            },
+            " (",
+            {
+              "ref": "p:6247",
+              "text": "坂上なち"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6280",
+            "text": "綾倉盟"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6376",
+            "text": "Tracy"
+          }
+        }
+      ]
+    },
+    "2.4": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "nachi"
+            },
+            " (",
+            {
+              "ref": "p:6247",
+              "text": "坂上なち"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6280",
+            "text": "綾倉盟"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6965",
+            "text": "Masayoshi Minoshima"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "nomico"
+            },
+            " (",
+            {
+              "ref": "p:6625",
+              "text": "のみこ"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6280",
+            "text": "綾倉盟"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6965",
+            "text": "Masayoshi Minoshima"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "nomico"
+            },
+            " (",
+            {
+              "ref": "p:6625",
+              "text": "のみこ"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6280",
+            "text": "綾倉盟"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6965",
+            "text": "Masayoshi Minoshima"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "nomico"
+            },
+            " (",
+            {
+              "ref": "p:6625",
+              "text": "のみこ"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33894",
+            "text": "ayame"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6965",
+            "text": "Masayoshi Minoshima"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "nomico"
+            },
+            " (",
+            {
+              "ref": "p:6625",
+              "text": "のみこ"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6280",
+            "text": "綾倉盟"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6965",
+            "text": "Masayoshi Minoshima"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "nomico"
+            },
+            " (",
+            {
+              "ref": "p:6625",
+              "text": "のみこ"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33894",
+            "text": "ayame"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6965",
+            "text": "Masayoshi Minoshima"
+          }
+        }
+      ]
+    },
+    "2.12": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "nomico"
+            },
+            " (",
+            {
+              "ref": "p:6625",
+              "text": "のみこ"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33894",
+            "text": "ayame"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6965",
+            "text": "Masayoshi Minoshima"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6280",
+            "text": "綾倉盟"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70721",
+            "text": "Haruka"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6965",
+            "text": "Masayoshi Minoshima"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6280",
+            "text": "綾倉盟"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10270",
+            "text": "かめりあ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10270",
+            "text": "かめりあ"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6280",
+            "text": "綾倉盟"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10270",
+            "text": "かめりあ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10270",
+            "text": "かめりあ"
+          }
+        }
+      ]
+    },
+    "1.14": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6280",
+            "text": "綾倉盟"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70721",
+            "text": "Haruka"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6965",
+            "text": "Masayoshi Minoshima"
+          }
+        }
+      ]
+    },
+    "2.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6280",
+            "text": "綾倉盟"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6280",
+            "text": "綾倉盟"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Amane Oikawa"
+            },
+            " (",
+            {
+              "ref": "p:7257",
+              "text": "天音"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "2.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6280",
+            "text": "綾倉盟"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70721",
+            "text": "Haruka"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6965",
+            "text": "Masayoshi Minoshima"
+          }
+        }
+      ]
+    },
+    "2.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6280",
+            "text": "綾倉盟"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70721",
+            "text": "Haruka"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6965",
+            "text": "Masayoshi Minoshima"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47519",
+            "text": "mikicco"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33894",
+            "text": "ayame"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6965",
+            "text": "Masayoshi Minoshima"
+          }
+        }
+      ]
+    },
+    "1.13": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47519",
+            "text": "mikicco"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33894",
+            "text": "ayame"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6965",
+            "text": "Masayoshi Minoshima"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33894",
+            "text": "ayame"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70721",
+            "text": "Haruka"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6965",
+            "text": "Masayoshi Minoshima"
+          }
+        }
+      ]
+    },
+    "2.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33894",
+            "text": "ayame"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6280",
+            "text": "綾倉盟"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6965",
+            "text": "Masayoshi Minoshima"
+          }
+        }
+      ]
+    },
+    "2.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33894",
+            "text": "ayame"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33894",
+            "text": "ayame"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6965",
+            "text": "Masayoshi Minoshima"
+          }
+        }
+      ]
+    },
+    "2.14": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33894",
+            "text": "ayame"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6280",
+            "text": "綾倉盟"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6965",
+            "text": "Masayoshi Minoshima"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6965",
+            "text": "Masayoshi Minoshima"
+          }
+        }
+      ]
+    },
+    "2.15": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33894",
+            "text": "ayame"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33894",
+            "text": "ayame"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6965",
+            "text": "Masayoshi Minoshima"
+          }
+        }
+      ]
+    },
+    "2.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7253",
+            "text": "ななひら"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10270",
+            "text": "かめりあ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10270",
+            "text": "かめりあ"
+          }
+        }
+      ]
+    },
+    "2.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6967",
+            "text": "mican*"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6280",
+            "text": "綾倉盟"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6965",
+            "text": "Masayoshi Minoshima"
+          }
+        }
+      ]
+    },
+    "2.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33527",
+            "text": "miketama"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33894",
+            "text": "ayame"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6965",
+            "text": "Masayoshi Minoshima"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6965",
+            "text": "Masayoshi Minoshima"
+          }
+        }
+      ]
+    },
+    "2.13": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6277",
+            "text": "美里"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33894",
+            "text": "ayame"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6965",
+            "text": "Masayoshi Minoshima"
+          }
+        }
+      ]
+    },
+    "3.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33076",
+            "text": "Kanata.N"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33894",
+            "text": "ayame"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6965",
+            "text": "Masayoshi Minoshima"
+          }
+        }
+      ]
+    },
+    "3.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33076",
+            "text": "Kanata.N"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:38601",
+            "text": "海兎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6965",
+            "text": "Masayoshi Minoshima"
+          }
+        }
+      ]
+    },
+    "3.14": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "KUMI"
+            },
+            " (",
+            {
+              "ref": "p:7032",
+              "text": "ヲタみん"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7858",
+            "text": "築山さえ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6965",
+            "text": "Masayoshi Minoshima"
+          }
+        }
+      ]
+    },
+    "3.13": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6965",
+            "text": "Masayoshi Minoshima"
+          }
+        }
+      ]
+    },
+    "3.15": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6965",
+            "text": "Masayoshi Minoshima"
+          }
+        }
+      ]
+    },
+    "3.9": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10270",
+            "text": "かめりあ"
+          }
+        }
+      ]
+    },
+    "3.1": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70663",
+            "text": "Nardis"
+          }
+        }
+      ]
+    },
+    "3.12": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70663",
+            "text": "Nardis"
+          }
+        }
+      ]
+    },
+    "3.2": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7094",
+            "text": "Nhato"
+          }
+        }
+      ]
+    },
+    "3.3": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7094",
+            "text": "Nhato"
+          }
+        }
+      ]
+    },
+    "3.4": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7094",
+            "text": "Nhato"
+          }
+        }
+      ]
+    },
+    "3.5": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7094",
+            "text": "Nhato"
+          }
+        }
+      ]
+    },
+    "3.6": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7094",
+            "text": "Nhato"
+          }
+        }
+      ]
+    },
+    "3.7": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7094",
+            "text": "Nhato"
+          }
+        }
+      ]
+    },
+    "3.8": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7094",
+            "text": "Nhato"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:6442",
+          "text": "Alstroemeria Records"
+        }
+      }
+    ],
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:6965",
+          "text": "Masayoshi Minoshima"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:6965",
+          "text": "Masayoshi Minoshima"
+        }
+      }
+    ],
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:6965",
+          "text": "Masayoshi Minoshima"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：Alstroemeria Records\n混音：Masayoshi Minoshima\n母带制作：Masayoshi Minoshima\n制作人：Masayoshi Minoshima\n\n艺术家：nachi(坂上なち)(1.1,1.3,2.2,2.3,2.4)、nomico(のみこ)(1.2,1.4,1.7,1.11,1.12,2.12)、綾倉盟(1.5,1.8,1.10,1.14,2.6,2.7,2.8)、mikicco(1.6,1.13)、ayame(1.9,2.5,2.10,2.14,2.15)、ななひら(2.1)、mican*(2.9)、miketama(2.11)、美里(2.13)、Kanata.N(3.10,3.11)、KUMI(ヲタみん)(3.14)\n作词：Haruka(1.1,1.5,1.9,1.14,2.7,2.8)、綾倉盟(1.2,1.4,1.11,2.3,2.4,2.5,2.6,2.9,2.14)、ayame(1.3,1.6,1.7,1.12,1.13,2.10,2.11,2.12,2.13,2.15,3.10)、かめりあ(1.8,1.10,2.1,2.2)、海兎(3.11)、築山さえ(3.14)\n作曲：Masayoshi Minoshima(2.11,2.14)\n编曲：Masayoshi Minoshima(1.1,1.2,1.3,1.4,1.5,1.6,1.7,1.9,1.11,1.12,1.13,1.14,2.2,2.4,2.5,2.7,2.8,2.9,2.10,2.11,2.12,2.13,2.14,2.15,3.10,3.11,3.13,3.14,3.15)、かめりあ(1.8,1.10,2.1,3.9)、Tracy(2.3)、Amane Oikawa(天音)(2.6)、Nardis(3.1,3.12)、Nhato(3.2,3.3,3.4,3.5,3.6,3.7,3.8)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-07-14T07:57:47.510Z"
+  }
+}
