@@ -2,21 +2,12 @@
   "subjectId": 663910,
   "trackCredits": {
     "1.8": {
-      "producer": [
+      "lyricist": [
         {
           "type": "person",
           "person": {
-            "ref": "p:69731",
-            "text": "Cosmograph"
-          }
-        }
-      ],
-      "mastering": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:69731",
-            "text": "Cosmograph"
+            "ref": "p:73718",
+            "text": "N.U."
           }
         }
       ],
@@ -29,12 +20,12 @@
           }
         }
       ],
-      "artist": [
+      "mastering": [
         {
           "type": "person",
           "person": {
-            "ref": null,
-            "text": "B.A.Wheeler"
+            "ref": "p:69731",
+            "text": "Cosmograph"
           }
         }
       ]
@@ -92,6 +83,15 @@
             "text": "Powerless"
           }
         }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65614",
+            "text": "NieN"
+          }
+        }
       ]
     },
     "1.9": {
@@ -147,16 +147,37 @@
             "text": "Powerless"
           }
         }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65614",
+            "text": "NieN"
+          }
+        }
       ]
     },
     "1.6": {
       "composer": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:98085",
-            "text": "Ternarious"
-          }
+          "parts": [
+            {
+              "ref": "p:98085",
+              "text": "Ternarious"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "I"
+            },
+            " x ",
+            {
+              "ref": null,
+              "text": "ia"
+            },
+            ")"
+          ]
         }
       ]
     },
@@ -213,6 +234,15 @@
             "text": "Cosmograph"
           }
         }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73715",
+            "text": "DoubleTO"
+          }
+        }
       ]
     },
     "1.21": {
@@ -261,12 +291,12 @@
     }
   },
   "epinfo": {
-    "mixing": [
+    "artist": [
       {
         "type": "person",
         "person": {
-          "ref": "p:65614",
-          "text": "NieN"
+          "ref": null,
+          "text": "B.A.Wheeler"
         }
       }
     ],
@@ -278,14 +308,32 @@
           "text": "LEVEL NINE"
         }
       }
+    ],
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:65614",
+          "text": "NieN"
+        }
+      }
+    ],
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69731",
+          "text": "Cosmograph"
+        }
+      }
     ]
   },
   "rawPatches": {
-    "editor": "制作人、母带制作：Cosmograph(8)\n混音：NieN\n厂牌：LEVEL NINE\nComposer: Powerless (01-05, 09-13),Ternarious(6),Cosmograph (07, 17-20),NieN (08, 21),Nauts (14, 15),ZxNX(16)\nArrangement・NieN (05, 13), DoubleTO (20)\n\nVocal： B.A.Wheeler (8)"
+    "editor": "艺术家：B.A.Wheeler\n厂牌：LEVEL NINE\n混音：NieN\n制作人：Cosmograph\n\n作词：N.U.(8)\n作曲：Powerless(1,2,3,4,5,9,10,11,12,13)、Ternarious(Ixia)(6)、Cosmograph(7,17,18,19,20)、NieN(8,21)、Nauts(14,15)、ZxNX(16)\n编曲：NieN(5,13)、DoubleTO(20)\n母带制作：Cosmograph(8)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-07-12T09:41:15.304Z"
+    "submittedAt": "2026-07-14T18:10:52.089Z"
   }
 }
