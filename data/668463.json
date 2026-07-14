@@ -1,0 +1,433 @@
+{
+  "subjectId": 668463,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69133",
+            "text": "Pernelle"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69133",
+            "text": "Pernelle"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69731",
+            "text": "Cosmograph"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69731",
+            "text": "Cosmograph"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71314",
+            "text": "Nauts"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:73717",
+            "text": "JamString"
+          },
+          "inst": "String"
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69133",
+            "text": "Pernelle"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69133",
+            "text": "Pernelle"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71314",
+            "text": "Nauts"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71314",
+            "text": "Nauts"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:65614",
+            "text": "NieN"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69133",
+            "text": "Pernelle"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69133",
+            "text": "Pernelle"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69731",
+            "text": "Cosmograph"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69731",
+            "text": "Cosmograph"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71314",
+            "text": "Nauts"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:73717",
+            "text": "JamString"
+          },
+          "inst": "String"
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69133",
+            "text": "Pernelle"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69133",
+            "text": "Pernelle"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69731",
+            "text": "Cosmograph"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69731",
+            "text": "Cosmograph"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71314",
+            "text": "Nauts"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:73717",
+            "text": "JamString"
+          },
+          "inst": "String"
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69133",
+            "text": "Pernelle"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69133",
+            "text": "Pernelle"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65614",
+            "text": "NieN"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69133",
+            "text": "Pernelle"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69133",
+            "text": "Pernelle"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73715",
+            "text": "DoubleTO"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69133",
+            "text": "Pernelle"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69133",
+            "text": "Pernelle"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73715",
+            "text": "DoubleTO"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69731",
+            "text": "Cosmograph"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69731",
+            "text": "Cosmograph"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69731",
+            "text": "Cosmograph"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69731",
+            "text": "Cosmograph"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71314",
+            "text": "Nauts"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69731",
+            "text": "Cosmograph"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65614",
+            "text": "NieN"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69731",
+            "text": "Cosmograph"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73715",
+            "text": "DoubleTO"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69731",
+            "text": "Cosmograph"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "SHIFTUP SoundStudio"
+        }
+      }
+    ],
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69731",
+          "text": "Cosmograph"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "母带制作：SHIFTUP SoundStudio\n制作人：Cosmograph\n\n艺术家：Pernelle(1,2,3,4,5,6,7)\n作词：Pernelle(1,2,3,4,5,6,7)\n作曲：Cosmograph(1,3,4,8,10)、Nauts(2,9)、NieN(5,11)、DoubleTO(6,7,12)\n编曲：Cosmograph(1,3,4,8,9,10,11,12)、Nauts(1,2,3,4)\n乐器-String：JamString(1,3,4)\n乐器-Guitar：NieN(2)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-07-14T18:29:31.497Z"
+  }
+}
