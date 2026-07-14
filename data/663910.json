@@ -161,23 +161,11 @@
     "1.6": {
       "composer": [
         {
-          "parts": [
-            {
-              "ref": "p:98085",
-              "text": "Ternarious"
-            },
-            " (",
-            {
-              "ref": null,
-              "text": "I"
-            },
-            " x ",
-            {
-              "ref": null,
-              "text": "ia"
-            },
-            ")"
-          ]
+          "type": "person",
+          "person": {
+            "ref": "p:98085",
+            "text": "Ternarious"
+          }
         }
       ]
     },
@@ -329,11 +317,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：B.A.Wheeler\n厂牌：LEVEL NINE\n混音：NieN\n制作人：Cosmograph\n\n作词：N.U.(8)\n作曲：Powerless(1,2,3,4,5,9,10,11,12,13)、Ternarious(Ixia)(6)、Cosmograph(7,17,18,19,20)、NieN(8,21)、Nauts(14,15)、ZxNX(16)\n编曲：NieN(5,13)、DoubleTO(20)\n母带制作：Cosmograph(8)"
+    "editor": "艺术家：B.A.Wheeler\n厂牌：LEVEL NINE\n混音：NieN\n制作人：Cosmograph\n\n作词：N.U.(8)\n作曲：Powerless(1,2,3,4,5,9,10,11,12,13)、Ternarious(6)、Cosmograph(7,17,18,19,20)、NieN(8,21)、Nauts(14,15)、ZxNX(16)\n编曲：NieN(5,13)、DoubleTO(20)\n母带制作：Cosmograph(8)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-07-14T18:11:19.953Z"
+    "submittedAt": "2026-07-14T18:11:33.757Z"
   }
 }
