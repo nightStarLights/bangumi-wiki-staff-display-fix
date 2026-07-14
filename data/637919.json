@@ -1,0 +1,24 @@
+{
+  "subjectId": 637919,
+  "trackCredits": {
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "A.MON"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "Vocal: A.MON (11)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-07-14T18:15:46.252Z"
+  }
+}
