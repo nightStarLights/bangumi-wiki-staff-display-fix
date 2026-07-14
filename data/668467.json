@@ -1,0 +1,100 @@
+{
+  "subjectId": 668467,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:40208",
+            "text": "Kinoko蘑菇"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:40208",
+            "text": "Kinoko蘑菇"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:40208",
+            "text": "Kinoko蘑菇"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:40208",
+            "text": "Kinoko蘑菇"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hyoukuro"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hyoukuro"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hyoukuro"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Polyblue"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:11210",
+          "text": "Vanguard Sound"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：Vanguard Sound\n\n艺术家：Kinoko蘑菇(1)\n作词：Kinoko蘑菇(1)\n作曲：Kinoko蘑菇(1)、Polyblue(2)\n编曲：Kinoko蘑菇(1)\n录音：Hyoukuro(1)\n混音：Hyoukuro(1)\n母带制作：Hyoukuro(1)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-07-14T19:29:39.199Z"
+  }
+}
