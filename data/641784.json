@@ -4,18 +4,17 @@
     "1.1": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Fracus"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Darwin"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "Fracus"
+            },
+            " & ",
+            {
+              "ref": null,
+              "text": "Darwin"
+            }
+          ]
         }
       ]
     },
@@ -62,15 +61,18 @@
     "1.4": {
       "artist": [
         {
-          "type": "alias_person",
-          "alias": {
-            "ref": null,
-            "text": "Hyphen"
-          },
-          "person": {
-            "ref": null,
-            "text": "Le Dos-on"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "Hyphen"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Le Dos-on"
+            },
+            ")"
+          ]
         }
       ]
     },
@@ -121,18 +123,17 @@
     "1.9": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Ectomorph feat."
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Richard Whitethread"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "Ectomorph"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "Richard Whitethread"
+            }
+          ]
         }
       ]
     },
@@ -151,11 +152,11 @@
     }
   },
   "rawPatches": {
-    "editor": "艺术家：Fracus(1)、Darwin(1)、Oddman(2)、EFU(3,11)、Hyphen(Le Dos-on)(4)、Hommarju(5)、Hypnotize(6)、Eryk Orpheus(7)、paieru(8)、Ectomorph feat.(9)、Richard Whitethread(9)、KaKi(10)、NONAKA+CHIN(11)"
+    "editor": "艺术家：Fracus & Darwin(1)、Oddman(2)、EFU(3,11)、Hyphen(Le Dos-on)(4)、Hommarju(5)、Hypnotize(6)、Eryk Orpheus(7)、paieru(8)、Ectomorph feat. Richard Whitethread(9)、KaKi(10)、NONAKA+CHIN(11)"
   },
   "_meta": {
-    "submittedBy": "sakarin",
+    "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-16T13:03:58.719Z"
+    "submittedAt": "2026-07-16T08:47:51.446Z"
   }
 }
