@@ -1,0 +1,1118 @@
+{
+  "subjectId": 669049,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5749",
+            "text": "橋本みゆき"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6996",
+            "text": "佐咲紗花"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:32722",
+            "text": "中山マミ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:31435",
+            "text": "Famishin"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:18500",
+            "text": "井ノ原智"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:32901",
+            "text": "Yasuo Asai"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5761",
+            "text": "霜月はるか"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Lise"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:31435",
+            "text": "Famishin"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:32724",
+            "text": "佐々倉マコト"
+          }
+        }
+      ]
+    },
+    "1.18": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5761",
+            "text": "霜月はるか"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:32736",
+            "text": "羽生みいな"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:31435",
+            "text": "Famishin"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:22568",
+            "text": "森まもる"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:32730",
+            "text": "葉月"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:32730",
+            "text": "葉月"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:31435",
+            "text": "Famishin"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:32723",
+            "text": "椎名俊介"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:32723",
+            "text": "椎名俊介"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:32730",
+            "text": "葉月"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:32730",
+            "text": "葉月"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:31435",
+            "text": "Famishin"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:32723",
+            "text": "椎名俊介"
+          }
+        }
+      ]
+    },
+    "1.17": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:32730",
+            "text": "葉月"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:32730",
+            "text": "葉月"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:31435",
+            "text": "Famishin"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:32723",
+            "text": "椎名俊介"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:32723",
+            "text": "椎名俊介"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "tohko"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "tohko"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:31435",
+            "text": "Famishin"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:22568",
+            "text": "森まもる"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:32901",
+            "text": "Yasuo Asai"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:32736",
+            "text": "羽生みいな"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:32736",
+            "text": "羽生みいな"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:31435",
+            "text": "Famishin"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:18500",
+            "text": "井ノ原智"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:32901",
+            "text": "Yasuo Asai"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:32736",
+            "text": "羽生みいな"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:32736",
+            "text": "羽生みいな"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:31435",
+            "text": "Famishin"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "紅原電次"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "春風まゆき"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "春風まゆき"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:31435",
+            "text": "Famishin"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:32726",
+            "text": "伊福部武史"
+          }
+        }
+      ],
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:32829",
+            "text": "鈴木ルヒカ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:32726",
+            "text": "伊福部武史"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:31435",
+            "text": "Famishin"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "米倉千尋"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "春風まゆき"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:31435",
+            "text": "Famishin"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:18500",
+            "text": "井ノ原智"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:32901",
+            "text": "Yasuo Asai"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "奥澤大輔"
+          },
+          "inst": "Trumpet"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "鹿討奏"
+          },
+          "inst": "Trombone"
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "中司ハルヲ"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "中司晴夫"
+            },
+            ")",
+            " (Saxophone)"
+          ]
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7843",
+            "text": "神代あみ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7843",
+            "text": "神代あみ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:31435",
+            "text": "Famishin"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:32726",
+            "text": "伊福部武史"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "中山♡マミ"
+            },
+            " (",
+            {
+              "ref": "p:32722",
+              "text": "中山マミ"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "中山♡マミ"
+            },
+            " (",
+            {
+              "ref": "p:32722",
+              "text": "中山マミ"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:31435",
+            "text": "Famishin"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:32727",
+            "text": "ユージ・ナイトー"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:32728",
+            "text": "山田屋カズ"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "emari+"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9835",
+            "text": "Riryka"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:31435",
+            "text": "Famishin"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36089",
+            "text": "仲村洸祐"
+          }
+        }
+      ],
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9835",
+            "text": "Riryka"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:32901",
+            "text": "Yasuo Asai"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.13": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33465",
+            "text": "安月名莉子"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33465",
+            "text": "安月名莉子"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:31435",
+            "text": "Famishin"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:18500",
+            "text": "井ノ原智"
+          }
+        }
+      ]
+    },
+    "1.14": {
+      "artist": [
+        {
+          "parts": [
+            "茨木リノ・城門ツバサ(CV:",
+            {
+              "ref": "p:6010",
+              "text": "東山奈央"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:32736",
+            "text": "羽生みいな"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:31435",
+            "text": "Famishin"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ena"
+          }
+        }
+      ]
+    },
+    "1.15": {
+      "artist": [
+        {
+          "parts": [
+            "白雪乃愛(CV:",
+            {
+              "ref": null,
+              "text": "瀬戸乃マリエ"
+            },
+            " (",
+            {
+              "ref": "p:10869",
+              "text": "大地葉"
+            },
+            "))"
+          ]
+        },
+        {
+          "parts": [
+            "谷風天音(CV.",
+            {
+              "ref": null,
+              "text": "夏和小"
+            },
+            " (",
+            {
+              "ref": "p:17981",
+              "text": "藤田茜"
+            },
+            "))"
+          ]
+        },
+        {
+          "parts": [
+            "小雲雀来海(CV.",
+            {
+              "ref": null,
+              "text": "柳ひとみ"
+            },
+            " (",
+            {
+              "ref": "p:13562",
+              "text": "戸田めぐみ"
+            },
+            "))"
+          ]
+        },
+        {
+          "parts": [
+            "星河かぐ耶(CV.",
+            {
+              "ref": null,
+              "text": "遥そら"
+            },
+            " (",
+            {
+              "ref": "p:4749",
+              "text": "仙台エリ"
+            },
+            "))"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "QUARTET☆RE-BOOT!"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:32736",
+            "text": "羽生みいな"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:31435",
+            "text": "Famishin"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:18500",
+            "text": "井ノ原智"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:32901",
+            "text": "Yasuo Asai"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.16": {
+      "artist": [
+        {
+          "parts": [
+            "白雪乃愛(CV:",
+            {
+              "ref": null,
+              "text": "瀬戸乃マリエ"
+            },
+            " (",
+            {
+              "ref": "p:10869",
+              "text": "大地葉"
+            },
+            "))"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:32736",
+            "text": "羽生みいな"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:31435",
+            "text": "Famishin"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:32724",
+            "text": "佐々倉マコト"
+          }
+        }
+      ]
+    },
+    "1.19": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9835",
+            "text": "Riryka"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9835",
+            "text": "Riryka"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:31435",
+            "text": "Famishin"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9573",
+            "text": "Meis Clauson"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:9573",
+            "text": "Meis Clauson"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.20": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:53924",
+            "text": "月城花梨"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "中山♡マミ"
+            },
+            " (",
+            {
+              "ref": "p:32722",
+              "text": "中山マミ"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:31435",
+            "text": "Famishin"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:18500",
+            "text": "井ノ原智"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:32901",
+            "text": "Yasuo Asai"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.21": {
+      "artist": [
+        {
+          "parts": [
+            "百里風実花(CV:",
+            {
+              "ref": null,
+              "text": "明羽杏子"
+            },
+            " (",
+            {
+              "ref": "p:30858",
+              "text": "長谷川育美"
+            },
+            "))"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "ange"
+            },
+            " (",
+            {
+              "ref": "p:36090",
+              "text": "志來紗衣華"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:31435",
+            "text": "Famishin"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8917",
+            "text": "流歌"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "ミヤケリョウ"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ゆずソフト"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：ゆずソフト\n\n艺术家：橋本みゆき(1)、佐咲紗花(1)、霜月はるか(2,18)、葉月(3,11,17)、tohko(4)、羽生みいな(5,9)、春風まゆき(6)、米倉千尋(7)、神代あみ(8)、中山♡マミ(中山マミ)(10)、emari+(12)、安月名莉子(13)、茨木リノ・城門ツバサ(CV:東山奈央)(14)、白雪乃愛(CV:瀬戸乃マリエ (大地葉))(15,16)、谷風天音(CV.夏和小 (藤田茜))(15)、小雲雀来海(CV.柳ひとみ (戸田めぐみ))(15)、星河かぐ耶(CV.遥そら (仙台エリ))(15)、QUARTET☆RE-BOOT!(15)、Riryka(19)、月城花梨(20)、百里風実花(CV:明羽杏子 (長谷川育美))(21)\n作词：中山マミ(1)、Lise(2)、葉月(3,11,17)、tohko(4)、羽生みいな(5,9,14,15,16,18)、春風まゆき(6,7)、神代あみ(8)、中山♡マミ(中山マミ)(10,20)、Riryka(12,19)、安月名莉子(13)、ange(志來紗衣華)(21)\n作曲：Famishin(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21)\n编曲：井ノ原智(1,5,7,13,15,20)、佐々倉マコト(2,16)、椎名俊介(3,11,17)、森まもる(4,18)、伊福部武史(6,8)、紅原電次(9)、ユージ・ナイトー(10)、仲村洸祐(12)、Ena(14)、Meis Clauson(19)、流歌(21)\n声乐：鈴木ルヒカ(6)、伊福部武史(6)、Famishin(6)、Riryka(12)\n母带制作：山田屋カズ(10)\n乐器-Guitar：Yasuo Asai(1,4,5,7,12,15,20)、椎名俊介(3,17)、Meis Clauson(19)、ミヤケリョウ(21)\n乐器-Trumpet：奥澤大輔(7)\n乐器-Trombone：鹿討奏(7)\n乐器-Saxophone：中司ハルヲ (中司晴夫)(7)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-07-17T15:55:13.695Z"
+  }
+}
