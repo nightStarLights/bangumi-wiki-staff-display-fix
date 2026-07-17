@@ -1,0 +1,198 @@
+{
+  "subjectId": 668957,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "只野楓"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "A4。"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "只野楓"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "A4。"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "yowa from CLAN QUEEN"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "只野楓"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "A4。"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "只野楓"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "A4。"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "只野楓"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "A4。"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "只野楓"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "A4。"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "水槽"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "只野楓"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "A4。"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "只野楓"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "A4。"
+            },
+            ")"
+          ]
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "TRIPOD Records"
+        }
+      }
+    ],
+    "producer": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "只野楓"
+          },
+          " (",
+          {
+            "ref": null,
+            "text": "A4。"
+          },
+          ")"
+        ]
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：TRIPOD Records\n制作人：只野楓 (A4。)\n\n艺术家：只野楓 (A4。)(1,2,3,4,5,6,7,8)、yowa from CLAN QUEEN(2)、水槽(6)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-07-17T10:10:25.999Z"
+  }
+}
