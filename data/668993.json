@@ -1,0 +1,86 @@
+{
+  "subjectId": 668993,
+  "trackCredits": {
+    "1.13": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Nyacktas"
+          }
+        }
+      ]
+    },
+    "1.14": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Wipecore"
+          }
+        }
+      ]
+    },
+    "1.15": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ИASU"
+          }
+        }
+      ]
+    },
+    "1.16": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "POHMu"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "あんたれすP"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "あんたれすわぁるど"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "MAiCO"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：あんたれすP\n厂牌：あんたれすわぁるど\n插图：MAiCO\n\n编曲：Nyacktas(13)、Wipecore(14)、ИASU(15)、POHMu(16)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-07-17T13:21:09.201Z"
+  }
+}
