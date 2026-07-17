@@ -73,7 +73,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:67419",
             "text": "竹馬あお"
           }
         }
@@ -82,7 +82,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:67419",
             "text": "竹馬あお"
           }
         }
@@ -91,7 +91,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:67419",
             "text": "竹馬あお"
           }
         }
@@ -102,7 +102,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:67419",
             "text": "竹馬あお"
           }
         }
@@ -111,7 +111,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:67419",
             "text": "竹馬あお"
           }
         }
@@ -120,7 +120,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:67419",
             "text": "竹馬あお"
           }
         }
@@ -567,6 +567,6 @@
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-07-17T15:04:01.233Z"
+    "submittedAt": "2026-07-17T15:05:26.429Z"
   }
 }
