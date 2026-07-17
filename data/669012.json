@@ -1,0 +1,71 @@
+{
+  "subjectId": 669012,
+  "trackCredits": {
+    "1.2": {
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65570",
+            "text": "Purukichi"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:55164",
+          "text": "icesawder"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "SAWDALIGHT"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:55164",
+          "text": "icesawder"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:55164",
+          "text": "icesawder"
+        }
+      }
+    ],
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:55164",
+          "text": "icesawder"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：icesawder\n厂牌：SAWDALIGHT\n母带制作：icesawder\n插图：icesawder\n制作人：icesawder\n\n母带制作：Purukichi(2)"
+  },
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-07-17T14:33:40.243Z"
+  }
+}
