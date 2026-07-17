@@ -1,0 +1,572 @@
+{
+  "subjectId": 669024,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "かぷりしゃす"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "かぷりしゃす"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "かぷりしゃす"
+          }
+        }
+      ],
+      "illustrator": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ロコ"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "かぷりしゃす"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "かぷりしゃす"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "かぷりしゃす"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "竹馬あお"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "竹馬あお"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "竹馬あお"
+          }
+        }
+      ]
+    },
+    "1.13": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "竹馬あお"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "竹馬あお"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "竹馬あお"
+          }
+        }
+      ],
+      "illustrator": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ロコ"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "葉/柊P"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "葉/柊P"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "葉/柊P"
+          }
+        }
+      ],
+      "illustrator": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "翠澤しのん"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "葉/柊P"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "葉/柊P"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "葉/柊P"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Uekura Katsushi"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Uekura Katsushi"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Uekura Katsushi"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Uekura Katsushi"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Uekura Katsushi"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Uekura Katsushi"
+          }
+        }
+      ],
+      "illustrator": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "水霊れい"
+          }
+        }
+      ]
+    },
+    "1.15": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Uekura Katsushi"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Uekura Katsushi"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Uekura Katsushi"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "黒依遥"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "黒依遥"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "黒依遥"
+          }
+        }
+      ],
+      "illustrator": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "溝"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "黒依遥"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "黒依遥"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "黒依遥"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ロイナタナ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ロイナタナ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ロイナタナ"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ロイナタナ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ロイナタナ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ロイナタナ"
+          }
+        }
+      ],
+      "illustrator": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "溝"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "こうていも"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "こうていも"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "こうていも"
+          }
+        }
+      ],
+      "illustrator": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "翠澤しのん"
+          }
+        }
+      ]
+    },
+    "1.14": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "こうていも"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "こうていも"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "こうていも"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "60分調声大会運営"
+        }
+      }
+    ],
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "侑凪継"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "侑凪継"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Icon: ぺしゆー / Jacket: 水霊れい"
+        }
+      }
+    ],
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Uekura Katsushi"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "岩鳶"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "柚葉"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：60分調声大会運営\n混音：侑凪継\n母带制作：侑凪継\n插图：《Icon: ぺしゆー / Jacket: 水霊れい》\n制作人：Uekura Katsushi、岩鳶、柚葉\n\n作词：かぷりしゃす(1,12)、竹馬あお(2,13)、《葉/柊P》(3,10)、Uekura Katsushi(4,7,15)、黒依遥(5,8)、ロイナタナ(6,9)、こうていも(11,14)\n作曲：かぷりしゃす(1,12)、竹馬あお(2,13)、《葉/柊P》(3,10)、Uekura Katsushi(4,7,15)、黒依遥(5,8)、ロイナタナ(6,9)、こうていも(11,14)\n编曲：かぷりしゃす(1,12)、竹馬あお(2,13)、《葉/柊P》(3,10)、Uekura Katsushi(4,7,15)、黒依遥(5,8)、ロイナタナ(6,9)、こうていも(11,14)\n插图：ロコ(1,13)、翠澤しのん(3,11)、溝(5,9)、水霊れい(7)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-07-17T15:04:01.233Z"
+  }
+}
