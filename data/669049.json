@@ -70,7 +70,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:32900",
             "text": "Lise"
           }
         }
@@ -271,7 +271,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:13194",
             "text": "tohko"
           }
         }
@@ -280,7 +280,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:13194",
             "text": "tohko"
           }
         }
@@ -394,7 +394,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:36092",
             "text": "紅原電次"
           }
         }
@@ -405,7 +405,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:32735",
             "text": "春風まゆき"
           }
         }
@@ -414,7 +414,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:32735",
             "text": "春風まゆき"
           }
         }
@@ -466,7 +466,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:8382",
             "text": "米倉千尋"
           }
         }
@@ -475,7 +475,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:32735",
             "text": "春風まゆき"
           }
         }
@@ -510,7 +510,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:98395",
             "text": "奥澤大輔"
           },
           "inst": "Trumpet"
@@ -518,7 +518,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:98398",
             "text": "鹿討奏"
           },
           "inst": "Trombone"
@@ -531,7 +531,7 @@
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:98397",
               "text": "中司晴夫"
             },
             ")",
@@ -644,7 +644,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:36091",
             "text": "emari+"
           }
         }
@@ -1101,7 +1101,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:7175",
           "text": "ゆずソフト"
         }
       }
@@ -1113,6 +1113,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-07-17T15:55:13.695Z"
+    "submittedAt": "2026-07-17T15:55:47.708Z"
   }
 }
