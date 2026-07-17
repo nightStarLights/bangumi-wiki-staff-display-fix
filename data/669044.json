@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:71275",
             "text": "gaburyu"
           }
         }
@@ -17,7 +17,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:59104",
             "text": "原口沙輔"
           }
         }
@@ -28,7 +28,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:71276",
             "text": "LanPage"
           }
         }
@@ -63,6 +63,6 @@
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-07-17T15:37:51.159Z"
+    "submittedAt": "2026-07-17T15:38:15.582Z"
   }
 }
