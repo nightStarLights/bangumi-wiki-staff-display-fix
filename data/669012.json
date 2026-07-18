@@ -18,17 +18,8 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:55164",
-          "text": "icesawder"
-        }
-      }
-    ],
-    "label": [
-      {
-        "type": "person",
-        "person": {
           "ref": null,
-          "text": "SAWDALIGHT"
+          "text": "icesawder"
         }
       }
     ],
@@ -36,7 +27,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:55164",
+          "ref": null,
           "text": "icesawder"
         }
       }
@@ -45,7 +36,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:55164",
+          "ref": null,
           "text": "icesawder"
         }
       }
@@ -54,18 +45,18 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:55164",
+          "ref": null,
           "text": "icesawder"
         }
       }
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：icesawder\n厂牌：SAWDALIGHT\n母带制作：icesawder\n插图：icesawder\n制作人：icesawder\n\n母带制作：Purukichi(2)"
+    "editor": "艺术家：icesawder\n母带制作：icesawder\n插图：icesawder\n制作人：icesawder\n\n母带制作：Purukichi(2)"
   },
   "_meta": {
     "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-07-17T14:33:40.243Z"
+    "submittedAt": "2026-07-18T15:48:15.433Z"
   }
 }
