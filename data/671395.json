@@ -17,7 +17,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:48276",
             "text": "ITM"
           }
         }
@@ -39,7 +39,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:47336",
             "text": "Niveus"
           }
         }
@@ -69,7 +69,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:74090",
           "text": "RockRiverRecords"
         }
       }
@@ -81,6 +81,6 @@
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-07-19T15:53:00.783Z"
+    "submittedAt": "2026-07-19T15:54:02.518Z"
   }
 }
