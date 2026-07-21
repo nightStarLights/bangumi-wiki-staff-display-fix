@@ -1,0 +1,55 @@
+{
+  "subjectId": 674513,
+  "trackCredits": {
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64155",
+            "text": "水槽"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65821",
+            "text": "yuigot"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:48358",
+          "text": "cadode"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "AniTone Music"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：cadode\n厂牌：AniTone Music\n\n艺术家：水槽(7)\n编曲：yuigot(12)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-07-21T15:34:48.808Z"
+  }
+}
