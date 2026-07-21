@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:55992",
             "text": "Twinfield"
           }
         }
@@ -17,7 +17,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:66019",
             "text": "ckwa"
           }
         }
@@ -39,7 +39,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:71303",
             "text": "幽霊一文字"
           }
         }
@@ -50,7 +50,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:73539",
             "text": "tekalu"
           }
         }
@@ -61,7 +61,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:35932",
             "text": "Capchii"
           }
         },
@@ -89,7 +89,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:55992",
           "text": "Twinfield"
         }
       }
@@ -98,7 +98,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:74340",
           "text": "めるのめる"
         }
       }
@@ -107,7 +107,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:74340",
           "text": "めるのめる"
         }
       }
@@ -119,6 +119,6 @@
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-07-21T17:17:02.341Z"
+    "submittedAt": "2026-07-21T17:17:30.325Z"
   }
 }
