@@ -1,0 +1,124 @@
+{
+  "subjectId": 674531,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Twinfield"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ckwa"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "惑井"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "幽霊一文字"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "tekalu"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Capchii"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Capchii Manager"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Popism"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Twinfield"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "めるのめる"
+        }
+      }
+    ],
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "めるのめる"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：Popism\n母带制作：Twinfield\n插图：めるのめる\n制作人：めるのめる\n\n艺术家：Twinfield(1)、ckwa(2)、惑井(3)、幽霊一文字(4)、tekalu(5)、Capchii(6)、Capchii Manager(6)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-07-21T17:17:02.341Z"
+  }
+}
