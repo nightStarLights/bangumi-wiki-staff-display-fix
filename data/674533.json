@@ -1,0 +1,86 @@
+{
+  "subjectId": 674533,
+  "trackCredits": {
+    "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Capchii Manager"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7865",
+            "text": "DJ Genki"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6604",
+            "text": "Tatsh"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6761",
+            "text": "DJ Shimamura"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:35932",
+          "text": "Capchii"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Popism"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "れんこんぱんち"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：Capchii\n厂牌：Popism\n插图：れんこんぱんち\n\n作词：Capchii Manager(4)\n编曲：DJ Genki(8)、Tatsh(9)、DJ Shimamura(10)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-07-21T17:20:35.932Z"
+  }
+}
