@@ -17,49 +17,6 @@
             ")"
           ]
         }
-      ],
-      "lyricist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:10291",
-            "text": "夕野ヨシミ"
-          }
-        }
-      ],
-      "composer": [
-        {
-          "parts": [
-            {
-              "ref": null,
-              "text": "Mitsukiyo"
-            },
-            " (",
-            {
-              "ref": "p:55345",
-              "text": "ミツキヨ"
-            },
-            ")"
-          ]
-        }
-      ],
-      "mixing": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Taramaxu"
-          }
-        }
-      ],
-      "mastering": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Taramaxu"
-          }
-        }
       ]
     },
     "1.2": {
@@ -81,12 +38,57 @@
       ]
     }
   },
+  "epinfo": {
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:10291",
+          "text": "夕野ヨシミ"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "Mitsukiyo"
+          },
+          " (",
+          {
+            "ref": "p:55345",
+            "text": "ミツキヨ"
+          },
+          ")"
+        ]
+      }
+    ],
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Taramaxu"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Taramaxu"
+        }
+      }
+    ]
+  },
   "rawPatches": {
-    "editor": "艺术家：DAZBEE(ダズビー)(1,2)\n作词：夕野ヨシミ(1)\n作曲：Mitsukiyo(ミツキヨ)(1)\n混音：Taramaxu(1)\n母带制作：Taramaxu(1)"
+    "editor": "艺术家：DAZBEE(ダズビー)(1,2)\n作词：夕野ヨシミ\n作曲：Mitsukiyo(ミツキヨ)\n混音：Taramaxu\n母带制作：Taramaxu"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-07-21T09:25:45.719Z"
+    "submittedAt": "2026-07-22T17:39:39.974Z"
   }
 }
