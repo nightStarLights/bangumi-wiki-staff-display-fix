@@ -1,0 +1,397 @@
+{
+  "subjectId": 623300,
+  "trackCredits": {
+    "1.1": {
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Mitsukiyo"
+            },
+            " (",
+            {
+              "ref": "p:55345",
+              "text": "ミツキヨ"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.2": {
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Mitsukiyo"
+            },
+            " (",
+            {
+              "ref": "p:55345",
+              "text": "ミツキヨ"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.3": {
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Mitsukiyo"
+            },
+            " (",
+            {
+              "ref": "p:55345",
+              "text": "ミツキヨ"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.4": {
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Mitsukiyo"
+            },
+            " (",
+            {
+              "ref": "p:55345",
+              "text": "ミツキヨ"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.12": {
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Mitsukiyo"
+            },
+            " (",
+            {
+              "ref": "p:55345",
+              "text": "ミツキヨ"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "2.1": {
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Mitsukiyo"
+            },
+            " (",
+            {
+              "ref": "p:55345",
+              "text": "ミツキヨ"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "2.9": {
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Mitsukiyo"
+            },
+            " (",
+            {
+              "ref": "p:55345",
+              "text": "ミツキヨ"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "2.10": {
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Mitsukiyo"
+            },
+            " (",
+            {
+              "ref": "p:55345",
+              "text": "ミツキヨ"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "2.11": {
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Mitsukiyo"
+            },
+            " (",
+            {
+              "ref": "p:55345",
+              "text": "ミツキヨ"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.5": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47385",
+            "text": "KARUT"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47385",
+            "text": "KARUT"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47385",
+            "text": "KARUT"
+          }
+        }
+      ]
+    },
+    "2.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47385",
+            "text": "KARUT"
+          }
+        }
+      ]
+    },
+    "2.4": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47385",
+            "text": "KARUT"
+          }
+        }
+      ]
+    },
+    "2.5": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47385",
+            "text": "KARUT"
+          }
+        }
+      ]
+    },
+    "2.7": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47385",
+            "text": "KARUT"
+          }
+        }
+      ]
+    },
+    "2.13": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47385",
+            "text": "KARUT"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Airuei"
+          }
+        }
+      ]
+    },
+    "2.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Airuei"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47721",
+            "text": "EmoCosine"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47721",
+            "text": "EmoCosine"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47721",
+            "text": "EmoCosine"
+          }
+        }
+      ]
+    },
+    "1.13": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47721",
+            "text": "EmoCosine"
+          }
+        }
+      ]
+    },
+    "1.14": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47721",
+            "text": "EmoCosine"
+          }
+        }
+      ]
+    },
+    "2.8": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47721",
+            "text": "EmoCosine"
+          }
+        }
+      ]
+    },
+    "2.12": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47721",
+            "text": "EmoCosine"
+          }
+        }
+      ]
+    },
+    "2.6": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:30225",
+            "text": "Nor"
+          }
+        }
+      ]
+    },
+    "2.14": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25866",
+            "text": "Aiobahn"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "parts": [
+          "株式会社",
+          {
+            "ref": "p:44495",
+            "text": "Yostar"
+          }
+        ]
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：株式会社Yostar(Yostar)\n\n作曲：Mitsukiyo(ミツキヨ)(1.1,1.2,1.3,1.4,1.12,2.1,2.9,2.10,2.11)、KARUT(1.5,1.8,1.10,2.3,2.4,2.5,2.7,2.13)、Airuei(1.6,2.2)、EmoCosine(1.7,1.9,1.11,1.13,1.14,2.8,2.12)、Nor(2.6)、Aiobahn(2.14)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-07-22T19:07:52.157Z"
+  }
+}
