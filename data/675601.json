@@ -1,0 +1,460 @@
+{
+  "subjectId": 675601,
+  "trackCredits": {
+    "1.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55345",
+            "text": "ミツキヨ"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55345",
+            "text": "ミツキヨ"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55345",
+            "text": "ミツキヨ"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55345",
+            "text": "ミツキヨ"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55345",
+            "text": "ミツキヨ"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55345",
+            "text": "ミツキヨ"
+          }
+        }
+      ]
+    },
+    "1.19": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55345",
+            "text": "ミツキヨ"
+          }
+        }
+      ]
+    },
+    "2.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55345",
+            "text": "ミツキヨ"
+          }
+        }
+      ]
+    },
+    "2.5": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55345",
+            "text": "ミツキヨ"
+          }
+        }
+      ]
+    },
+    "2.6": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55345",
+            "text": "ミツキヨ"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47385",
+            "text": "KARUT"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47385",
+            "text": "KARUT"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47385",
+            "text": "KARUT"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "TSK"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47385",
+            "text": "KARUT"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47385",
+            "text": "KARUT"
+          }
+        }
+      ]
+    },
+    "1.20": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47385",
+            "text": "KARUT"
+          }
+        }
+      ]
+    },
+    "2.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47385",
+            "text": "KARUT"
+          }
+        }
+      ]
+    },
+    "2.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47385",
+            "text": "KARUT"
+          }
+        }
+      ]
+    },
+    "2.4": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47385",
+            "text": "KARUT"
+          }
+        }
+      ]
+    },
+    "2.7": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47385",
+            "text": "KARUT"
+          }
+        }
+      ]
+    },
+    "2.8": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47385",
+            "text": "KARUT"
+          }
+        }
+      ]
+    },
+    "2.9": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47385",
+            "text": "KARUT"
+          }
+        }
+      ]
+    },
+    "2.10": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47385",
+            "text": "KARUT"
+          }
+        }
+      ]
+    },
+    "2.11": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47385",
+            "text": "KARUT"
+          }
+        }
+      ]
+    },
+    "2.12": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47385",
+            "text": "KARUT"
+          }
+        }
+      ]
+    },
+    "2.15": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47385",
+            "text": "KARUT"
+          }
+        }
+      ]
+    },
+    "2.16": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47385",
+            "text": "KARUT"
+          }
+        }
+      ]
+    },
+    "2.17": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47385",
+            "text": "KARUT"
+          }
+        }
+      ]
+    },
+    "2.18": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47385",
+            "text": "KARUT"
+          }
+        }
+      ]
+    },
+    "2.19": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47385",
+            "text": "KARUT"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:30225",
+            "text": "Nor"
+          }
+        }
+      ]
+    },
+    "1.13": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:30225",
+            "text": "Nor"
+          }
+        }
+      ]
+    },
+    "1.14": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:30225",
+            "text": "Nor"
+          }
+        }
+      ]
+    },
+    "1.15": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:30225",
+            "text": "Nor"
+          }
+        }
+      ]
+    },
+    "1.16": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:30225",
+            "text": "Nor"
+          }
+        }
+      ]
+    },
+    "1.17": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:30225",
+            "text": "Nor"
+          }
+        }
+      ]
+    },
+    "1.18": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:30225",
+            "text": "Nor"
+          }
+        }
+      ]
+    },
+    "2.13": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:30225",
+            "text": "Nor"
+          }
+        }
+      ]
+    },
+    "2.14": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:30225",
+            "text": "Nor"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Quarter Music"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：《Quarter Music》\n\n作曲：ミツキヨ(1.1,1.2,1.6,1.7,1.9,1.10,1.19,2.1,2.5,2.6)、KARUT(1.3,1.4,1.5,1.11,1.12,1.20,2.2,2.3,2.4,2.7,2.8,2.9,2.10,2.11,2.12,2.15,2.16,2.17,2.18,2.19)、TSK(1.5)、Nor(1.8,1.13,1.14,1.15,1.16,1.17,1.18,2.13,2.14)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-07-22T18:09:00.639Z"
+  }
+}
