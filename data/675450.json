@@ -123,7 +123,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:92835",
             "text": "Meltomi"
           }
         },
@@ -324,7 +324,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:96234",
             "text": "Temma"
           }
         }
@@ -459,8 +459,8 @@
     "editor": "厂牌：SVPACYBERIA\n插图：にゃもふぇ\n制作人：あゆ\n\n艺术家：reallerr(1.1)、Zhnoi(1.2)、Hiir0(1.3)、roər(1.3)、Kakun(1.4)、XH(1.5)、DJ Raisei(1.6)、e(r)u(1.7)、TE4RSGET(1.8)、jeko(1.9)、oksuu(1.10)、Meltomi(1.11)、PAXNKOXD(1.11)、yv55ii(1.12)、deadbeak(1.13)、C3NTELL4(1.14)、fool(1.15)、voxoku(1.16)、yualith(1.16)、FUTURE-is-NOW(1.17)、ElectroBeaty(1.18)、DJKurara(2.1)、Noisy Neko Paws(2.2)、Andy pls(2.3)、NEKOMURDERBOY(2.4)、.noise(2.5)、COPYRiGHT JOKER(2.6)、Irona(2.7)、CBR(2.8)、Akagitune(2.9)、Temma(2.10)、Harmful Logic(2.11)、Yunak(2.12)、Tektheist(2.13)、DENPA-SAMPLER(SANY-ON)(2.14)、GoldenEggs(2.15)、Aristeia(2.16)、X419(2.17)、Memi(2.18)"
   },
   "_meta": {
-    "submittedBy": "459115",
+    "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-07-22T14:06:37.516Z"
+    "submittedAt": "2026-07-22T14:17:08.782Z"
   }
 }
