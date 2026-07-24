@@ -20,11 +20,18 @@
           }
         },
         {
-          "type": "person",
-          "person": {
-            "ref": "p:99487",
-            "text": "F.R.K."
-          }
+          "parts": [
+            {
+              "ref": "p:99487",
+              "text": "F.R.K."
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "翻译"
+            },
+            ")"
+          ]
         }
       ]
     },
@@ -54,7 +61,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:99487",
+          "ref": null,
           "text": "F.R.K."
         }
       }
@@ -63,18 +70,18 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:99487",
+          "ref": null,
           "text": "F.R.K."
         }
       }
     ]
   },
   "rawPatches": {
-    "editor": "作曲：F.R.K.\n编曲：F.R.K.\n\n艺术家：Emi Evans(1)、いとうかなこ(2)\n作词：小岩井ことり(1,2)、F.R.K.(1)"
+    "editor": "作曲：F.R.K.\n编曲：F.R.K.\n\n艺术家：Emi Evans(1)、いとうかなこ(2)\n作词：小岩井ことり(1,2)、F.R.K. (翻译)(1)"
   },
   "_meta": {
     "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-07-24T16:46:57.801Z"
+    "submittedAt": "2026-07-24T16:47:38.429Z"
   }
 }
