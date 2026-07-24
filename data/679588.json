@@ -1,0 +1,80 @@
+{
+  "subjectId": 679588,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:13585",
+            "text": "Emi Evans"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7837",
+            "text": "小岩井ことり"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99487",
+            "text": "F.R.K."
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5882",
+            "text": "いとうかなこ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7837",
+            "text": "小岩井ことり"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:99487",
+          "text": "F.R.K."
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:99487",
+          "text": "F.R.K."
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "作曲：F.R.K.\n编曲：F.R.K.\n\n艺术家：Emi Evans(1)、いとうかなこ(2)\n作词：小岩井ことり(1,2)、F.R.K.(1)"
+  },
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-07-24T16:46:57.801Z"
+  }
+}
