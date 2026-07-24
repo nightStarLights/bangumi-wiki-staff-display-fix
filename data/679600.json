@@ -20,7 +20,7 @@
             },
             " (",
             {
-              "ref": "p:99378",
+              "ref": null,
               "text": "Triodust"
             },
             ")"
@@ -74,7 +74,7 @@
             },
             " (",
             {
-              "ref": "p:99378",
+              "ref": null,
               "text": "Triodust"
             },
             ")"
@@ -138,7 +138,7 @@
             },
             " (",
             {
-              "ref": "p:99378",
+              "ref": null,
               "text": "Triodust"
             },
             ")"
@@ -202,7 +202,7 @@
             },
             " (",
             {
-              "ref": "p:99378",
+              "ref": null,
               "text": "Triodust"
             },
             ")"
@@ -321,7 +321,7 @@
             },
             " (",
             {
-              "ref": "p:99378",
+              "ref": null,
               "text": "Triodust"
             },
             ")"
@@ -375,7 +375,7 @@
             },
             " (",
             {
-              "ref": "p:99378",
+              "ref": null,
               "text": "Triodust"
             },
             ")"
@@ -429,7 +429,7 @@
             },
             " (",
             {
-              "ref": "p:99378",
+              "ref": null,
               "text": "Triodust"
             },
             ")"
@@ -500,7 +500,7 @@
             },
             " (",
             {
-              "ref": "p:99378",
+              "ref": null,
               "text": "Triodust"
             },
             ")"
@@ -532,86 +532,6 @@
             "ref": null,
             "text": "林柏勲"
           }
-        }
-      ]
-    },
-    "1.22": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:99378",
-            "text": "Triodust"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Lorien"
-          }
-        }
-      ],
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Yi-Wen Hsieh"
-          }
-        }
-      ],
-      "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:99378",
-            "text": "Triodust"
-          }
-        }
-      ],
-      "mixing": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:99378",
-            "text": "Triodust"
-          }
-        }
-      ],
-      "mastering": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Troy Lin"
-          }
-        }
-      ],
-      "instrument": [
-        {
-          "type": "instrument_credit",
-          "person": {
-            "ref": null,
-            "text": "Shih-yu Liu"
-          },
-          "inst": "Flute"
-        },
-        {
-          "type": "instrument_credit",
-          "person": {
-            "ref": null,
-            "text": "Chun-Yu Lung"
-          },
-          "inst": "Violin"
-        },
-        {
-          "type": "instrument_credit",
-          "person": {
-            "ref": null,
-            "text": "Chun-Yu Lung"
-          },
-          "inst": "Viola"
         }
       ]
     },
@@ -707,7 +627,7 @@
             },
             " (",
             {
-              "ref": "p:99378",
+              "ref": null,
               "text": "Triodust"
             },
             ")"
@@ -761,7 +681,7 @@
             },
             " (",
             {
-              "ref": "p:99378",
+              "ref": null,
               "text": "Triodust"
             },
             ")"
@@ -879,7 +799,7 @@
             },
             " (",
             {
-              "ref": "p:99378",
+              "ref": null,
               "text": "Triodust"
             },
             ")"
@@ -981,7 +901,7 @@
             },
             " (",
             {
-              "ref": "p:99378",
+              "ref": null,
               "text": "Triodust"
             },
             ")"
@@ -1432,7 +1352,7 @@
             },
             " (",
             {
-              "ref": "p:99378",
+              "ref": null,
               "text": "Triodust"
             },
             ")"
@@ -1623,6 +1543,85 @@
         }
       ]
     },
+    "1.22": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:99378",
+              "text": "Triodust"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "Lorien"
+            }
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Yi-Wen Hsieh"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99378",
+            "text": "Triodust"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99378",
+            "text": "Triodust"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Troy Lin"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Shih-yu Liu"
+          },
+          "inst": "Flute"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Chun-Yu Lung"
+          },
+          "inst": "Violin"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Chun-Yu Lung"
+          },
+          "inst": "Viola"
+        }
+      ]
+    },
     "1.25": {
       "artist": [
         {
@@ -1642,7 +1641,7 @@
             },
             " (",
             {
-              "ref": "p:99378",
+              "ref": null,
               "text": "Triodust"
             },
             ")"
@@ -1683,18 +1682,18 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:99495",
+          "ref": null,
           "text": "KUSHIH"
         }
       }
     ]
   },
   "rawPatches": {
-    "editor": "制作人：KUSHIH\n\n艺术家：Triodust(1,7,9,12,14,16,17,19,21,22,23,26,27)、PHNTMBR(2,3,4,13,15,21)、10lulu(5,10,20)、林柏勲(6,8,11,18,24)、Lorien(22)、Claude Debussy(25)\n作曲：Jhen-Yang Huang(Triodust)(1,3,7,9,11,12,13,16,17,19,21,25,26,27)、Yi-Wen Hsieh(2,4,15,22,23)、En-Sheng Shih(10lulu)(5,10,20)、林柏勲(6,8,18,24)、Zhen-Yang Huang(14)\n编曲：Triodust(1,3,6,7,8,9,11,13,14,16,17,18,19,22,23,25,26)、PHNTMBR(2,4,21)、10lulu(5,10,20)、林柏勲(12,15,24,27)\n混音：Triodust(1,3,7,9,13,14,16,17,19,21,22,23,25,26)、10lulu(5,10,20)、林柏勲(6,8,11,12,15,18,24,27)\n母带制作：林柏勲(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,24,25,26,27)、Troy Lin(22,23)\n乐器-Flute：Shih-yu Liu(3,6,7,8,9,11,12,13,18,19,20,22,23)\n乐器-Orchestra：10lulu(5,10,20)、林柏勲(6,8,11,12,15,18,24,27)\n乐器-Violin：Chun-Yu Lung(22,23,24,27)\n乐器-Viola：Chun-Yu Lung(22,23,24,27)"
+    "editor": "制作人：KUSHIH\n\n艺术家：Triodust(1,7,9,12,14,16,17,19,21,23,26,27)、PHNTMBR(2,3,4,13,15,21)、10lulu(5,10,20)、林柏勲(6,8,11,18,24)、Triodust feat.Lorien(22)、Claude Debussy(25)\n作曲：Jhen-Yang Huang(Triodust)(1,3,7,9,11,12,13,16,17,19,21,25,26,27)、Yi-Wen Hsieh(2,4,15,22,23)、En-Sheng Shih(10lulu)(5,10,20)、林柏勲(6,8,18,24)、Zhen-Yang Huang(14)\n编曲：Triodust(1,3,6,7,8,9,11,13,14,16,17,18,19,22,23,25,26)、PHNTMBR(2,4,21)、10lulu(5,10,20)、林柏勲(12,15,24,27)\n混音：Triodust(1,3,7,9,13,14,16,17,19,21,22,23,25,26)、10lulu(5,10,20)、林柏勲(6,8,11,12,15,18,24,27)\n母带制作：林柏勲(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,24,25,26,27)、Troy Lin(22,23)\n乐器-Flute：Shih-yu Liu(3,6,7,8,9,11,12,13,18,19,20,22,23)\n乐器-Orchestra：10lulu(5,10,20)、林柏勲(6,8,11,12,15,18,24,27)\n乐器-Violin：Chun-Yu Lung(22,23,24,27)\n乐器-Viola：Chun-Yu Lung(22,23,24,27)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-07-24T19:14:53.364Z"
+    "submittedAt": "2026-07-24T19:17:05.006Z"
   }
 }
