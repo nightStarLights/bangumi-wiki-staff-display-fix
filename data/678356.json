@@ -1,0 +1,44 @@
+{
+  "subjectId": 678356,
+  "trackCredits": {
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Kaz Skellington"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:33491",
+          "text": "Cö shu Nie"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "RVRNC"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：Cö shu Nie\n厂牌：RVRNC\n\n艺术家：Kaz Skellington(6)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-07-24T04:35:16.794Z"
+  }
+}
