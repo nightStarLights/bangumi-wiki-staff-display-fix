@@ -1,0 +1,64 @@
+{
+  "subjectId": 679596,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:3827",
+            "text": "能登麻美子"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "霁月"
+          }
+        }
+      ]
+    },
+    "1.18": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:3827",
+            "text": "能登麻美子"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:99487",
+          "text": "F.R.K."
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:99487",
+          "text": "F.R.K."
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "作曲：F.R.K.\n编曲：F.R.K.\n\n艺术家：能登麻美子(1,18)\n作词：霁月(1)"
+  },
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-07-24T17:02:02.221Z"
+  }
+}
