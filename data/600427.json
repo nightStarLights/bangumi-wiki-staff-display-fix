@@ -1,0 +1,150 @@
+{
+  "subjectId": 600427,
+  "trackCredits": {
+    "1.4": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "夕輝"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "よこやまこうだい"
+          },
+          "inst": "Bass"
+        }
+      ]
+    },
+    "1.5": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:68648",
+            "text": "maigo"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.10": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "noxiry"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "へくぼき"
+          },
+          "inst": "Bass"
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Maru"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "custom-co-arrangement": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69683",
+            "text": "wagataki"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Maru"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:75373",
+          "text": "Viviα"
+        }
+      }
+    ],
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:75373",
+          "text": "Viviα"
+        }
+      }
+    ],
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:75373",
+          "text": "Viviα"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:75373",
+          "text": "Viviα"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:75373",
+          "text": "Viviα"
+        }
+      }
+    ],
+    "custom-设计": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:75373",
+          "text": "Viviα"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "Vocal, Music, Lyric, Mixing, Mastering: Viviα\nillust: Viviα\ncustom-设计: Viviα\n\n乐器-Guitar: 夕輝(4)、maigo (5)、noxiry(10)\n乐器-Bass：よこやまこうだい(4)、へくぼき(10)\ncustom-co-arrangement: wagataki(7)\n录音: Maru(7,10)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-07-25T05:31:38.300Z"
+  }
+}
