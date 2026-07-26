@@ -4,18 +4,11 @@
     "1.1": {
       "composer": [
         {
-          "parts": [
-            {
-              "ref": null,
-              "text": "Jhen-Yang Huang"
-            },
-            " (",
-            {
-              "ref": null,
-              "text": "Triodust"
-            },
-            ")"
-          ]
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Triodust"
+          }
         }
       ],
       "arranger": [
@@ -40,18 +33,11 @@
     "1.3": {
       "composer": [
         {
-          "parts": [
-            {
-              "ref": null,
-              "text": "Jhen-Yang Huang"
-            },
-            " (",
-            {
-              "ref": null,
-              "text": "Triodust"
-            },
-            ")"
-          ]
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Triodust"
+          }
         }
       ],
       "arranger": [
@@ -86,18 +72,11 @@
     "1.7": {
       "composer": [
         {
-          "parts": [
-            {
-              "ref": null,
-              "text": "Jhen-Yang Huang"
-            },
-            " (",
-            {
-              "ref": null,
-              "text": "Triodust"
-            },
-            ")"
-          ]
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Triodust"
+          }
         }
       ],
       "arranger": [
@@ -132,18 +111,11 @@
     "1.9": {
       "composer": [
         {
-          "parts": [
-            {
-              "ref": null,
-              "text": "Jhen-Yang Huang"
-            },
-            " (",
-            {
-              "ref": null,
-              "text": "Triodust"
-            },
-            ")"
-          ]
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Triodust"
+          }
         }
       ],
       "arranger": [
@@ -178,18 +150,11 @@
     "1.11": {
       "composer": [
         {
-          "parts": [
-            {
-              "ref": null,
-              "text": "Jhen-Yang Huang"
-            },
-            " (",
-            {
-              "ref": null,
-              "text": "Triodust"
-            },
-            ")"
-          ]
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Triodust"
+          }
         }
       ],
       "arranger": [
@@ -232,18 +197,11 @@
     "1.12": {
       "composer": [
         {
-          "parts": [
-            {
-              "ref": null,
-              "text": "Jhen-Yang Huang"
-            },
-            " (",
-            {
-              "ref": null,
-              "text": "Triodust"
-            },
-            ")"
-          ]
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Triodust"
+          }
         }
       ],
       "arranger": [
@@ -286,18 +244,11 @@
     "1.13": {
       "composer": [
         {
-          "parts": [
-            {
-              "ref": null,
-              "text": "Jhen-Yang Huang"
-            },
-            " (",
-            {
-              "ref": null,
-              "text": "Triodust"
-            },
-            ")"
-          ]
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Triodust"
+          }
         }
       ],
       "arranger": [
@@ -332,18 +283,11 @@
     "1.16": {
       "composer": [
         {
-          "parts": [
-            {
-              "ref": null,
-              "text": "Jhen-Yang Huang"
-            },
-            " (",
-            {
-              "ref": null,
-              "text": "Triodust"
-            },
-            ")"
-          ]
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Triodust"
+          }
         }
       ],
       "arranger": [
@@ -368,18 +312,11 @@
     "1.17": {
       "composer": [
         {
-          "parts": [
-            {
-              "ref": null,
-              "text": "Jhen-Yang Huang"
-            },
-            " (",
-            {
-              "ref": null,
-              "text": "Triodust"
-            },
-            ")"
-          ]
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Triodust"
+          }
         }
       ],
       "arranger": [
@@ -404,18 +341,11 @@
     "1.19": {
       "composer": [
         {
-          "parts": [
-            {
-              "ref": null,
-              "text": "Jhen-Yang Huang"
-            },
-            " (",
-            {
-              "ref": null,
-              "text": "Triodust"
-            },
-            ")"
-          ]
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Triodust"
+          }
         }
       ],
       "arranger": [
@@ -450,18 +380,11 @@
     "1.21": {
       "composer": [
         {
-          "parts": [
-            {
-              "ref": null,
-              "text": "Jhen-Yang Huang"
-            },
-            " (",
-            {
-              "ref": null,
-              "text": "Triodust"
-            },
-            ")"
-          ]
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Triodust"
+          }
         }
       ],
       "arranger": [
@@ -486,18 +409,11 @@
     "1.25": {
       "composer": [
         {
-          "parts": [
-            {
-              "ref": null,
-              "text": "Jhen-Yang Huang"
-            },
-            " (",
-            {
-              "ref": null,
-              "text": "Triodust"
-            },
-            ")"
-          ]
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Triodust"
+          }
         }
       ],
       "arranger": [
@@ -522,18 +438,11 @@
     "1.26": {
       "composer": [
         {
-          "parts": [
-            {
-              "ref": null,
-              "text": "Jhen-Yang Huang"
-            },
-            " (",
-            {
-              "ref": null,
-              "text": "Triodust"
-            },
-            ")"
-          ]
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Triodust"
+          }
         }
       ],
       "arranger": [
@@ -558,18 +467,11 @@
     "1.27": {
       "composer": [
         {
-          "parts": [
-            {
-              "ref": null,
-              "text": "Jhen-Yang Huang"
-            },
-            " (",
-            {
-              "ref": null,
-              "text": "Triodust"
-            },
-            ")"
-          ]
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Triodust"
+          }
         }
       ],
       "arranger": [
@@ -809,18 +711,11 @@
     "1.5": {
       "composer": [
         {
-          "parts": [
-            {
-              "ref": null,
-              "text": "En-Sheng Shih"
-            },
-            " (",
-            {
-              "ref": "p:81766",
-              "text": "10lulu"
-            },
-            ")"
-          ]
+          "type": "person",
+          "person": {
+            "ref": "p:81766",
+            "text": "10lulu"
+          }
         }
       ],
       "arranger": [
@@ -855,18 +750,11 @@
     "1.10": {
       "composer": [
         {
-          "parts": [
-            {
-              "ref": null,
-              "text": "En-Sheng Shih"
-            },
-            " (",
-            {
-              "ref": "p:81766",
-              "text": "10lulu"
-            },
-            ")"
-          ]
+          "type": "person",
+          "person": {
+            "ref": "p:81766",
+            "text": "10lulu"
+          }
         }
       ],
       "arranger": [
@@ -901,18 +789,11 @@
     "1.20": {
       "composer": [
         {
-          "parts": [
-            {
-              "ref": null,
-              "text": "En-Sheng Shih"
-            },
-            " (",
-            {
-              "ref": "p:81766",
-              "text": "10lulu"
-            },
-            ")"
-          ]
+          "type": "person",
+          "person": {
+            "ref": "p:81766",
+            "text": "10lulu"
+          }
         }
       ],
       "arranger": [
@@ -1190,11 +1071,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "制作人：KUSHIH\n\n作曲：Jhen-Yang Huang(Triodust)(1,3,7,9,11,12,13,16,17,19,21,25,26,27)、Yi-Wen Hsieh(2,4,15,22,23)、En-Sheng Shih(10lulu)(5,10,20)、林柏勲(6,8,18,24)、Zhen-Yang Huang(14)\n编曲：Triodust(1,3,6,7,8,9,11,13,14,16,17,18,19,22,23,25,26)、PHNTMBR(2,4,21)、10lulu(5,10,20)、林柏勲(12,15,24,27)\n混音：Triodust(1,3,7,9,13,14,16,17,19,21,22,23,25,26)、10lulu(5,10,20)、林柏勲(6,8,11,12,15,18,24,27)\n乐器-Flute：Shih-yu Liu(3,6,7,8,9,11,12,13,18,19,20,22,23)\n乐器-Orchestra：10lulu(5,10,20)、林柏勲(6,8,11,12,15,18,24,27)\n乐器-Violin：Chun-Yu Lung(22,23,24,27)\n乐器-Viola：Chun-Yu Lung(22,23,24,27)"
+    "editor": "制作人：KUSHIH\n\n作曲：Triodust(1,3,7,9,11,12,13,16,17,19,21,25,26,27)、Yi-Wen Hsieh(2,4,15,22,23)、10lulu(5,10,20)、林柏勲(6,8,18,24)、Zhen-Yang Huang(14)\n编曲：Triodust(1,3,6,7,8,9,11,13,14,16,17,18,19,22,23,25,26)、PHNTMBR(2,4,21)、10lulu(5,10,20)、林柏勲(12,15,24,27)\n混音：Triodust(1,3,7,9,13,14,16,17,19,21,22,23,25,26)、10lulu(5,10,20)、林柏勲(6,8,11,12,15,18,24,27)\n乐器-Flute：Shih-yu Liu(3,6,7,8,9,11,12,13,18,19,20,22,23)\n乐器-Orchestra：10lulu(5,10,20)、林柏勲(6,8,11,12,15,18,24,27)\n乐器-Violin：Chun-Yu Lung(22,23,24,27)\n乐器-Viola：Chun-Yu Lung(22,23,24,27)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-07-25T07:30:26.156Z"
+    "submittedAt": "2026-07-26T07:36:59.393Z"
   }
 }
