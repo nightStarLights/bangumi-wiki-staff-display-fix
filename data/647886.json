@@ -35,7 +35,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:99619",
             "text": "Dreamira"
           }
         }
@@ -46,8 +46,8 @@
     "editor": "艺术家：CiAirV(1)、レリP(1)、RaiNElya(2)、Dreamira(3)"
   },
   "_meta": {
-    "submittedBy": "sakarin",
+    "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-05-08T12:10:01.653Z"
+    "submittedAt": "2026-07-26T14:02:05.961Z"
   }
 }
