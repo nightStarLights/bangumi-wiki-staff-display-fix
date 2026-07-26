@@ -1,0 +1,122 @@
+{
+  "subjectId": 683338,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "kaokao"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "RedCloud"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "F3azor4_"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "D.O.R.I."
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99619",
+            "text": "Dreamira"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Settled Edge"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Moonset"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "RaiNElya"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:99621",
+          "text": "Nameless Catalogue"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:99620",
+          "text": "Ceru_"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:99616",
+          "text": "XxxxxG"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：Nameless Catalogue\n母带制作：Ceru_\n插图：XxxxxG\n\n艺术家：kaokao(1)、RedCloud(1)、F3azor4_(2)、D.O.R.I.(3)、Dreamira(3)、Settled Edge(4)、Moonset(5)、RaiNElya(6)"
+  },
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-07-26T14:32:46.750Z"
+  }
+}
