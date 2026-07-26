@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:99620",
             "text": "Ceru_"
           }
         }
@@ -95,8 +95,8 @@
     "editor": "custom-策划：YkN\nMastering：IceflameCat\nIllustrator：XxxxxG\ncustom-设计：X-ENON\n\n\nVocal：Ceru_(1), Aria Ashwood(2), Ardyn Ashwood(2), Array-P(3), Jason Kusunoki(4)"
   },
   "_meta": {
-    "submittedBy": "sakarin",
+    "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-07-26T07:04:48.486Z"
+    "submittedAt": "2026-07-26T14:18:10.273Z"
   }
 }
