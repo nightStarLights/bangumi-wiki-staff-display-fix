@@ -1,0 +1,102 @@
+{
+  "subjectId": 682160,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ceru_"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Aria Ashwood"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ardyn Ashwood"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Array-P"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Jason Kusunoki"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "custom-策划": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "YkN"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "IceflameCat"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "XxxxxG"
+        }
+      }
+    ],
+    "custom-设计": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "X-ENON"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "custom-策划：YkN\nMastering：IceflameCat\nIllustrator：XxxxxG\ncustom-设计：X-ENON\n\n\nVocal：Ceru_(1), Aria Ashwood(2), Ardyn Ashwood(2), Array-P(3), Jason Kusunoki(4)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-07-26T07:04:48.486Z"
+  }
+}
