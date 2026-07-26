@@ -1,0 +1,77 @@
+{
+  "subjectId": 683335,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Moonset"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Neonscape"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99619",
+            "text": "Dreamira"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Settled Edge"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:99621",
+          "text": "Nameless Catalogue"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:99620",
+          "text": "Ceru_"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：Nameless Catalogue\n母带制作：Ceru_\n\n艺术家：Moonset(1)、Neonscape(2)、Dreamira(3)、Settled Edge(4)"
+  },
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-07-26T14:24:30.636Z"
+  }
+}
