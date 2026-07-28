@@ -1,0 +1,501 @@
+{
+  "subjectId": 686310,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66987",
+            "text": "松永依織"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68549",
+            "text": "皇美緒奈"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68550",
+            "text": "朝倉杏子"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "伊月知世"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "白河しらせ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "時庭らんぜ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ミナミイズミ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "朱名"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "メーメントヴァニタス"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:58674",
+            "text": "長谷川大介"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:58674",
+            "text": "長谷川大介"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:58674",
+            "text": "長谷川大介"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66987",
+            "text": "松永依織"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "白河しらせ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "朱名"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:63231",
+            "text": "新谷風太"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:63435",
+            "text": "鈴谷皆人"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:63435",
+            "text": "鈴谷皆人"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66987",
+            "text": "松永依織"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68550",
+            "text": "朝倉杏子"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "伊月知世"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "白河しらせ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "時庭らんぜ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ミナミイズミ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "朱名"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "メーメントヴァニタス"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "皇 美緒奈"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "一川まさや"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "一川まさや"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "一川まさや"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68549",
+            "text": "皇美緒奈"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "伊月知世"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "メーメントヴァニタス"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36135",
+            "text": "野村勇輔"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36135",
+            "text": "野村勇輔"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36135",
+            "text": "野村勇輔"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68550",
+            "text": "朝倉杏子"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "時庭らんぜ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ミナミイズミ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10841",
+            "text": "RUCCA"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:48449",
+            "text": "フワリ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:48449",
+            "text": "フワリ"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "伊月知世"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "白河しらせ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "時庭らんぜ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36947",
+            "text": "Getty"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36947",
+            "text": "Getty"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36947",
+            "text": "Getty"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ミナミイズミ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "朱名"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "メーメントヴァニタス"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83292",
+            "text": "Natrium"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83292",
+            "text": "Natrium"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83292",
+            "text": "Natrium"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:41799",
+            "text": "大熊淳生"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:41799",
+            "text": "大熊淳生"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:41799",
+            "text": "大熊淳生"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:77727",
+          "text": "無原唱レコード"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：無原唱レコード\n\n艺术家：松永依織(1.1,1.3,1.8)、皇美緒奈(1.1,1.4)、朝倉杏子(1.1,1.2,1.8)、伊月知世(1.1,1.4,1.6,1.8)、白河しらせ(1.1,1.3,1.6,1.8)、時庭らんぜ(1.1,1.2,1.6,1.8)、ミナミイズミ(1.1,1.2,1.7,1.8)、朱名(1.1,1.3,1.7,1.8)、メーメントヴァニタス(1.1,1.4,1.7,1.8)、皇 美緒奈(1.8)\n作词：長谷川大介(1.1)、RUCCA(1.2)、新谷風太(1.3)、野村勇輔(1.4)、大熊淳生(1.5)、Getty(1.6)、Natrium(1.7)、一川まさや(1.8)\n作曲：長谷川大介(1.1)、フワリ(1.2)、鈴谷皆人(1.3)、野村勇輔(1.4)、大熊淳生(1.5)、Getty(1.6)、Natrium(1.7)、一川まさや(1.8)\n编曲：長谷川大介(1.1)、フワリ(1.2)、鈴谷皆人(1.3)、野村勇輔(1.4)、大熊淳生(1.5)、Getty(1.6)、Natrium(1.7)、一川まさや(1.8)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-07-28T16:56:42.401Z"
+  }
+}
