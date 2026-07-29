@@ -1,0 +1,104 @@
+{
+  "subjectId": 686823,
+  "trackCredits": {
+    "1.1": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67624",
+            "text": "Nyarons"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67624",
+            "text": "Nyarons"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67624",
+            "text": "Nyarons"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Pictured Resort"
+          },
+          "inst": "ギター"
+        }
+      ]
+    },
+    "1.3": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Pictured Resort"
+          },
+          "inst": "ギター"
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "原田美桜"
+        }
+      }
+    ],
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Luminous Cloud"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Luminous Cloud"
+        }
+      }
+    ],
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Luminous Cloud"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：原田美桜\n作词：Luminous Cloud\n作曲：Luminous Cloud\n制作人：Luminous Cloud\n\n编曲：Nyarons(1)\n混音：Nyarons(1)\n母带制作：Nyarons(1)\n乐器-ギター：Pictured Resort(2,3)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-07-29T08:24:30.121Z"
+  }
+}
