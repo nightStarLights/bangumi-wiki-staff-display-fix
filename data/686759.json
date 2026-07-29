@@ -1,0 +1,71 @@
+{
+  "subjectId": 686759,
+  "trackCredits": {
+    "1.1": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71275",
+            "text": "gaburyu"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:13842",
+          "text": "さよならポニーテール"
+        }
+      }
+    ],
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:99885",
+          "text": "Luminous Cloud"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:99885",
+          "text": "Luminous Cloud"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "MINT SOUNDS LINK"
+        }
+      }
+    ],
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:99885",
+          "text": "Luminous Cloud"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：さよならポニーテール\n作词：Luminous Cloud\n作曲：Luminous Cloud\n厂牌：MINT SOUNDS LINK\n制作人：Luminous Cloud\n\n编曲：gaburyu(1)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-07-29T08:15:27.066Z"
+  }
+}
