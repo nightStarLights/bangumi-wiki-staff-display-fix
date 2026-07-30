@@ -62,7 +62,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:99947",
             "text": "阿澜"
           }
         }
@@ -98,7 +98,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:99946",
             "text": "早餐"
           }
         }
@@ -107,7 +107,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:99946",
             "text": "早餐"
           }
         }
@@ -147,8 +147,8 @@
     "editor": "厂牌：METAL SCAR RADIO\n出版方：鹰角网络\n制作人：MSR Studio\n\n艺术家：普阿山(1)、阿澜(2)\n作词：普阿山(1)、8:48(2)\n作曲：HeartStrings(1)、8:48(2)\n编曲：HeartStrings(1)、8:48(2)\n录音：早餐(2)\n混音：刘三斤(1)、早餐(2)\n母带制作：刘三斤(1)"
   },
   "_meta": {
-    "submittedBy": "sakarin",
+    "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-06-05T11:35:55.799Z"
+    "submittedAt": "2026-07-30T04:54:41.303Z"
   }
 }
