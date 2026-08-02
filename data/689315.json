@@ -1,0 +1,157 @@
+{
+  "subjectId": 689315,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Okgw"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67419",
+            "text": "竹馬あお"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67419",
+            "text": "竹馬あお"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67419",
+            "text": "竹馬あお"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67419",
+            "text": "竹馬あお"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67419",
+            "text": "竹馬あお"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67419",
+            "text": "竹馬あお"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "とだな"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67419",
+            "text": "竹馬あお"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67419",
+            "text": "竹馬あお"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "スタジオ加速"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "kiki"
+        }
+      }
+    ],
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "kiki"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Okgw"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "とだな"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:67419",
+          "text": "竹馬あお"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：スタジオ加速\n插图：kiki\n制作人：kiki、Okgw、とだな、竹馬あお\n\n作词：Okgw(1)、竹馬あお(2,3)、とだな(3)\n作曲：竹馬あお(1,2,3)\n编曲：竹馬あお(1,2,3)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-08-02T11:35:08.261Z"
+  }
+}
