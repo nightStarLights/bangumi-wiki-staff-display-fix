@@ -17,7 +17,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:47386",
             "text": "Go^Ma"
           }
         }
@@ -55,7 +55,7 @@
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:19928",
               "text": "Hiroshi Watanabe"
             },
             ")"
@@ -70,6 +70,6 @@
   "_meta": {
     "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-05-19T14:48:58.778Z"
+    "submittedAt": "2026-08-02T04:16:23.562Z"
   }
 }
