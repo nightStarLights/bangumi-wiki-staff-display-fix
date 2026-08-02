@@ -1,0 +1,253 @@
+{
+  "subjectId": 689408,
+  "trackCredits": {
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6210",
+            "text": "葉月ゆら"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8726",
+            "text": "塚越雄一朗"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8726",
+            "text": "塚越雄一朗"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6210",
+            "text": "葉月ゆら"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36097",
+            "text": "オッカ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36097",
+            "text": "オッカ"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6210",
+            "text": "葉月ゆら"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25843",
+            "text": "Drop"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25843",
+            "text": "Drop"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67599",
+            "text": "sioborn"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67549",
+            "text": "やっすん"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67549",
+            "text": "やっすん"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25843",
+            "text": "Drop"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67549",
+            "text": "やっすん"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "林\"カルロス\"隆治"
+          },
+          "inst": "ギター"
+        }
+      ]
+    },
+    "1.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67549",
+            "text": "やっすん"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67549",
+            "text": "やっすん"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67549",
+            "text": "やっすん"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67549",
+            "text": "やっすん"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65710",
+            "text": "あ子"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65710",
+            "text": "あ子"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25843",
+            "text": "Drop"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:6210",
+          "text": "葉月ゆら"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "スタジオグレース"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:67715",
+          "text": "月棘苑子"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：葉月ゆら\n母带制作：スタジオグレース\n插图：月棘苑子\n\n作词：葉月ゆら(2,4,6)、sioborn(5)\n作曲：やっすん(1,5,7)、塚越雄一朗(2)、あ子(3)、オッカ(4)、Drop(6)\n编曲：やっすん(1,5,7)、塚越雄一朗(2)、あ子(3)、オッカ(4)、Drop(6)\n混音：Drop(3,5)、やっすん(5)\n乐器-ギター：林\"カルロス\"隆治(5)"
+  },
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-08-02T16:06:55.313Z"
+  }
+}
