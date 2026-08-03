@@ -2,7 +2,7 @@
   "subjectId": 689469,
   "trackCredits": {
     "1.4": {
-      "artist": [
+      "custom-Vocals": [
         {
           "type": "person",
           "person": {
@@ -22,7 +22,7 @@
       ]
     },
     "1.20": {
-      "artist": [
+      "custom-Vocals": [
         {
           "type": "person",
           "person": {
@@ -72,7 +72,7 @@
       ]
     },
     "2.20": {
-      "artist": [
+      "custom-Vocals": [
         {
           "type": "person",
           "person": {
@@ -280,11 +280,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "作曲：池頼広\n编曲：池頼広\n厂牌：Cygames RECORDS\n母带制作：片田浩史\n\n艺术家：大槻孝志(1.4)、Sasja Antheunis(1.20,2.20)\n作词：矢崎恭子(1.4,1.17)、Joseph Mohr(1.20)、Hugh Martin(2.20)\n作曲：Franz Xaver Gruber(1.20)、Ralph Blane(2.20)\n编曲：Franz Xaver Gruber(1.20)、Ralph Blane(2.20)\nCustom-Alto：星野恵里(1.17)、山口清子(1.17)、小林由佳(1.17)、長谷川忍(1.17)\nCustom-Bass：畠山茂(1.17)、廣田亮(1.17)、武田直之(1.17)、北川辰彦(1.17)\nCustom-Soprano：佐藤祥(1.17)、二見麻衣子(1.17)、東中千佳(1.17)、後藤真美(1.17)\nCustom-Tenor：大槻孝志(1.17)、駒田敏章(1.17)、石塚幹信(1.17)、根本俊介(1.17)"
+    "editor": "作曲：池頼広\n编曲：池頼広\n厂牌：Cygames RECORDS\n母带制作：片田浩史\n\nCustom-Vocals：大槻孝志(1.4)、Sasja Antheunis(1.20,2.20)\n作词：矢崎恭子(1.4,1.17)、Joseph Mohr(1.20)、Hugh Martin(2.20)\n作曲：Franz Xaver Gruber(1.20)、Ralph Blane(2.20)\n编曲：Franz Xaver Gruber(1.20)、Ralph Blane(2.20)\nCustom-Alto：星野恵里(1.17)、山口清子(1.17)、小林由佳(1.17)、長谷川忍(1.17)\nCustom-Bass：畠山茂(1.17)、廣田亮(1.17)、武田直之(1.17)、北川辰彦(1.17)\nCustom-Soprano：佐藤祥(1.17)、二見麻衣子(1.17)、東中千佳(1.17)、後藤真美(1.17)\nCustom-Tenor：大槻孝志(1.17)、駒田敏章(1.17)、石塚幹信(1.17)、根本俊介(1.17)"
   },
   "_meta": {
     "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-08-03T04:53:00.235Z"
+    "submittedAt": "2026-08-03T04:54:36.898Z"
   }
 }
