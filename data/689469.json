@@ -119,134 +119,124 @@
           }
         }
       ],
-      "instrument": [
+      "custom-Alto": [
         {
-          "type": "instrument_credit",
+          "type": "person",
           "person": {
             "ref": null,
             "text": "星野恵里"
-          },
-          "inst": "Alto"
+          }
         },
         {
-          "type": "instrument_credit",
+          "type": "person",
           "person": {
             "ref": null,
             "text": "山口清子"
-          },
-          "inst": "Alto"
+          }
         },
         {
-          "type": "instrument_credit",
+          "type": "person",
           "person": {
             "ref": null,
             "text": "小林由佳"
-          },
-          "inst": "Alto"
+          }
         },
         {
-          "type": "instrument_credit",
+          "type": "person",
           "person": {
             "ref": null,
             "text": "長谷川忍"
-          },
-          "inst": "Alto"
-        },
+          }
+        }
+      ],
+      "custom-Bass": [
         {
-          "type": "instrument_credit",
+          "type": "person",
           "person": {
             "ref": null,
             "text": "畠山茂"
-          },
-          "inst": "Bass"
+          }
         },
         {
-          "type": "instrument_credit",
+          "type": "person",
           "person": {
             "ref": null,
             "text": "廣田亮"
-          },
-          "inst": "Bass"
+          }
         },
         {
-          "type": "instrument_credit",
+          "type": "person",
           "person": {
             "ref": null,
             "text": "武田直之"
-          },
-          "inst": "Bass"
+          }
         },
         {
-          "type": "instrument_credit",
+          "type": "person",
           "person": {
             "ref": null,
             "text": "北川辰彦"
-          },
-          "inst": "Bass"
-        },
+          }
+        }
+      ],
+      "custom-Soprano": [
         {
-          "type": "instrument_credit",
+          "type": "person",
           "person": {
             "ref": null,
             "text": "佐藤祥"
-          },
-          "inst": "Soprano"
+          }
         },
         {
-          "type": "instrument_credit",
+          "type": "person",
           "person": {
             "ref": null,
             "text": "二見麻衣子"
-          },
-          "inst": "Soprano"
+          }
         },
         {
-          "type": "instrument_credit",
+          "type": "person",
           "person": {
             "ref": null,
             "text": "東中千佳"
-          },
-          "inst": "Soprano"
+          }
         },
         {
-          "type": "instrument_credit",
+          "type": "person",
           "person": {
             "ref": null,
             "text": "後藤真美"
-          },
-          "inst": "Soprano"
-        },
+          }
+        }
+      ],
+      "custom-Tenor": [
         {
-          "type": "instrument_credit",
+          "type": "person",
           "person": {
             "ref": null,
             "text": "大槻孝志"
-          },
-          "inst": "Tenor"
+          }
         },
         {
-          "type": "instrument_credit",
+          "type": "person",
           "person": {
             "ref": null,
             "text": "駒田敏章"
-          },
-          "inst": "Tenor"
+          }
         },
         {
-          "type": "instrument_credit",
+          "type": "person",
           "person": {
             "ref": null,
             "text": "石塚幹信"
-          },
-          "inst": "Tenor"
+          }
         },
         {
-          "type": "instrument_credit",
+          "type": "person",
           "person": {
             "ref": null,
             "text": "根本俊介"
-          },
-          "inst": "Tenor"
+          }
         }
       ]
     }
@@ -256,7 +246,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:663",
+          "ref": null,
           "text": "池頼広"
         }
       }
@@ -265,7 +255,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:663",
+          "ref": null,
           "text": "池頼広"
         }
       }
@@ -274,7 +264,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:55409",
+          "ref": null,
           "text": "Cygames RECORDS"
         }
       }
@@ -290,11 +280,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "作曲：池頼広\n编曲：池頼広\n厂牌：Cygames RECORDS\n母带制作：片田浩史\n\n艺术家：大槻孝志(1.4)、Sasja Antheunis(1.20,2.20)\n作词：矢崎恭子(1.4,1.17)、Joseph Mohr(1.20)、Hugh Martin(2.20)\n作曲：Franz Xaver Gruber(1.20)、Ralph Blane(2.20)\n编曲：Franz Xaver Gruber(1.20)、Ralph Blane(2.20)\n乐器-Alto：星野恵里(1.17)、山口清子(1.17)、小林由佳(1.17)、長谷川忍(1.17)\n乐器-Bass：畠山茂(1.17)、廣田亮(1.17)、武田直之(1.17)、北川辰彦(1.17)\n乐器-Soprano：佐藤祥(1.17)、二見麻衣子(1.17)、東中千佳(1.17)、後藤真美(1.17)\n乐器-Tenor：大槻孝志(1.17)、駒田敏章(1.17)、石塚幹信(1.17)、根本俊介(1.17)"
+    "editor": "作曲：池頼広\n编曲：池頼広\n厂牌：Cygames RECORDS\n母带制作：片田浩史\n\n艺术家：大槻孝志(1.4)、Sasja Antheunis(1.20,2.20)\n作词：矢崎恭子(1.4,1.17)、Joseph Mohr(1.20)、Hugh Martin(2.20)\n作曲：Franz Xaver Gruber(1.20)、Ralph Blane(2.20)\n编曲：Franz Xaver Gruber(1.20)、Ralph Blane(2.20)\nCustom-Alto：星野恵里(1.17)、山口清子(1.17)、小林由佳(1.17)、長谷川忍(1.17)\nCustom-Bass：畠山茂(1.17)、廣田亮(1.17)、武田直之(1.17)、北川辰彦(1.17)\nCustom-Soprano：佐藤祥(1.17)、二見麻衣子(1.17)、東中千佳(1.17)、後藤真美(1.17)\nCustom-Tenor：大槻孝志(1.17)、駒田敏章(1.17)、石塚幹信(1.17)、根本俊介(1.17)"
   },
   "_meta": {
     "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-08-03T04:49:52.082Z"
+    "submittedAt": "2026-08-03T04:53:00.235Z"
   }
 }
