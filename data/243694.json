@@ -23,24 +23,6 @@
         }
       ]
     },
-    "1.10": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:7865",
-            "text": "DJ Genki"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "yukacco"
-          }
-        }
-      ]
-    },
     "1.2": {
       "artist": [
         {
@@ -66,18 +48,17 @@
     "1.4": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:6966",
-            "text": "REDALiCE"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "yukacco"
-          }
+          "parts": [
+            {
+              "ref": "p:6966",
+              "text": "REDALiCE"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "yukacco"
+            }
+          ]
         }
       ]
     },
@@ -131,6 +112,23 @@
           ]
         }
       ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:7865",
+              "text": "DJ Genki"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "yukacco"
+            }
+          ]
+        }
+      ]
     }
   },
   "epinfo": {
@@ -138,7 +136,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:40492",
+          "ref": null,
           "text": "djgenki.net"
         }
       }
@@ -160,14 +158,23 @@
           "text": "DJ Genki"
         }
       }
+    ],
+    "custom-设计": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ヒトマスモドル"
+        }
+      }
     ]
   },
   "rawPatches": {
-    "editor": "厂牌：djgenki.net\n插图：神谷ズズ\n制作人：DJ Genki\n\n艺术家：DJ Genki(1,5,10)、Nhato(2)、Massive New Krew(3)、REDALiCE(4)、yukacco(4,10)、MK(6)、Kobaryo(7)、Yooh(8)、lapix(石谷桂亮)(9)"
+    "editor": "厂牌：djgenki.net\n插图：神谷ズズ\n制作人：DJ Genki\ncustom-设计: ヒトマスモドル\ncustom-yukacco(4,10)\n\n艺术家：DJ Genki(1,5)、Nhato(2)、Massive New Krew(3)、REDALiCE feat.yukacco(4)、MK(6)、Kobaryo(7)、Yooh(8)、lapix(石谷桂亮)(9)、DJ Genki feat.yukacco(10)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-08-04T18:45:29.129Z"
+    "submittedAt": "2026-08-04T18:47:46.081Z"
   }
 }
