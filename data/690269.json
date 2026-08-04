@@ -1,69 +1,6 @@
 {
   "subjectId": 690269,
   "trackCredits": {
-    "1.3": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:90780",
-            "text": "朔栖まよ"
-          }
-        }
-      ],
-      "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Ken Yamamoto"
-          }
-        }
-      ],
-      "mixing": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "shu P"
-          }
-        }
-      ],
-      "instrument": [
-        {
-          "type": "instrument_credit",
-          "person": {
-            "ref": null,
-            "text": "Ken Yamamoto"
-          },
-          "inst": "Piano"
-        },
-        {
-          "type": "instrument_credit",
-          "person": {
-            "ref": "p:90780",
-            "text": "朔栖まよ"
-          },
-          "inst": "Saxophone"
-        },
-        {
-          "type": "instrument_credit",
-          "person": {
-            "ref": null,
-            "text": "Ken Yamamoto"
-          },
-          "inst": "Bass"
-        },
-        {
-          "type": "instrument_credit",
-          "person": {
-            "ref": null,
-            "text": "takuma anzai"
-          },
-          "inst": "Drums"
-        }
-      ]
-    },
     "1.4": {
       "artist": [
         {
@@ -209,14 +146,68 @@
           "inst": "Drums"
         }
       ]
+    },
+    "1.3": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ken Yamamoto"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "shu P"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Ken Yamamoto"
+          },
+          "inst": "Piano"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:90780",
+            "text": "朔栖まよ"
+          },
+          "inst": "Saxophone"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Ken Yamamoto"
+          },
+          "inst": "Bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "takuma anzai"
+          },
+          "inst": "Drums"
+        }
+      ]
     }
   },
   "rawPatches": {
-    "editor": "艺术家：朔栖まよ(3,4)\n编曲：Ken Yamamoto(1,2,3,4)\n混音：satori(1)、shu P(2,3)\n插图：Ginka Momonose(1)、shiina yanagida(2)\n乐器-Piano：Ken Yamamoto(1,2,3)\n乐器-Saxophone：朔栖まよ(1,2,3)\n乐器-Bass：tack(1)、Ken Yamamoto(2,3)\n乐器-Drums：takuma anzai(1,2,3)"
+    "editor": "艺术家：朔栖まよ(4)\n编曲：Ken Yamamoto(1,2,3,4)\n混音：satori(1)、shu P(2,3)\n插图：Ginka Momonose(1)、shiina yanagida(2)\n乐器-Piano：Ken Yamamoto(1,2,3)\n乐器-Saxophone：朔栖まよ(1,2,3)\n乐器-Bass：tack(1)、Ken Yamamoto(2,3)\n乐器-Drums：takuma anzai(1,2,3)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-08-04T09:42:22.093Z"
+    "submittedAt": "2026-08-04T09:44:40.720Z"
   }
 }
