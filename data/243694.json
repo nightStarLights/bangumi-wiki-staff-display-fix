@@ -138,7 +138,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:40492",
           "text": "djgenki.net"
         }
       }
@@ -168,6 +168,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-08-04T18:45:04.137Z"
+    "submittedAt": "2026-08-04T18:45:29.129Z"
   }
 }
