@@ -1,0 +1,180 @@
+{
+  "subjectId": 690599,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "UMARu"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ennojo"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65772",
+            "text": "Halv"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65768",
+            "text": "K-forest"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Akagitune"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:47393",
+              "text": "YUKIYANAGI"
+            },
+            " feat. ",
+            {
+              "ref": "p:67826",
+              "text": "Numb'n'dub"
+            }
+          ]
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Shibahune"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66918",
+            "text": "Riku"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:65769",
+              "text": "E0ri4"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "ゑおりあ"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65563",
+            "text": "Pokkun"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Maqμin"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47395",
+            "text": "NA7"
+          }
+        }
+      ]
+    },
+    "1.13": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86499",
+            "text": "Erixa"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:65776",
+          "text": "kokodoko"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "插图：kokodoko\n\n艺术家：UMARu(1)、Ennojo(2)、Halv(3)、K-forest(4)、Akagitune(5)、YUKIYANAGI feat. Numb'n'dub(6)、Shibahune(7)、Riku(8)、E0ri4(ゑおりあ)(9)、Pokkun(10)、Maqμin(11)、NA7(12)、Erixa(13)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-08-05T12:29:06.266Z"
+  }
+}
