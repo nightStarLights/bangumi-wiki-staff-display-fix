@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:15716",
             "text": "Alinut"
           }
         }
@@ -17,7 +17,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:15716",
             "text": "Alinut"
           }
         }
@@ -28,7 +28,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:15716",
             "text": "Alinut"
           }
         }
@@ -39,7 +39,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:15734",
             "text": "Bernis"
           }
         }
@@ -50,7 +50,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:15734",
             "text": "Bernis"
           }
         }
@@ -61,7 +61,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:15734",
             "text": "Bernis"
           }
         }
@@ -72,7 +72,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:18203",
             "text": "Nago"
           }
         }
@@ -83,7 +83,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:18203",
             "text": "Nago"
           }
         }
@@ -94,7 +94,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:18203",
             "text": "Nago"
           }
         }
@@ -106,7 +106,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:14709",
           "text": "Digital Logics"
         }
       }
@@ -115,7 +115,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:15716",
           "text": "Alinut"
         }
       }
@@ -127,6 +127,6 @@
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-08-05T16:17:28.322Z"
+    "submittedAt": "2026-08-05T16:17:40.032Z"
   }
 }
