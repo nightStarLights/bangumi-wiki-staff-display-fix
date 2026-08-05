@@ -1,0 +1,167 @@
+{
+  "subjectId": 690603,
+  "trackCredits": {
+    "1.1": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "MON/KU"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "safmusic"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "mizore"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65556",
+            "text": "KBSNK"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:58525",
+            "text": "Tomggg"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Acidclank"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "WOZNIAK"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84404",
+            "text": "ウ山あまね"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:94327",
+            "text": "ผ้าอ้อม99999"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71275",
+            "text": "gaburyu"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "aryy"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Cwondo"
+          }
+        }
+      ]
+    },
+    "1.13": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "khc"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:95569",
+          "text": "Blume popo"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：Blume popo\n\n编曲：《MON/KU》(1)、safmusic(2)、mizore(3)、KBSNK(4)、Tomggg(5)、Acidclank(6)、WOZNIAK(7)、ウ山あまね(8)、ผ้าอ้อม99999(9)、gaburyu(10)、aryy(11)、Cwondo(12)、khc(13)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-08-05T12:58:30.731Z"
+  }
+}
