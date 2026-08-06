@@ -1,0 +1,156 @@
+{
+  "subjectId": 691269,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7662",
+            "text": "aran"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8753",
+            "text": "Massive New Krew"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7750",
+            "text": "DJ Noriken"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36947",
+            "text": "Getty"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33664",
+            "text": "Laur"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:15471",
+              "text": "Kobaryo"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "Srezcat"
+            }
+          ]
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7924",
+            "text": "USAO"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Shandy Kubota"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6966",
+            "text": "REDALiCE"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7002",
+            "text": "t+pazolite"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:34064",
+            "text": "Srav3R"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:7218",
+          "text": "HARDCORE TANO*C"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:64757",
+          "text": "イセ川ヤスタカ"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：HARDCORE TANO*C\n插图：イセ川ヤスタカ\n\n艺术家：aran(1)、Massive New Krew(2)、DJ Noriken(3)、Getty(4)、Laur(5)、Kobaryo feat. Srezcat(6)、USAO(7)、Shandy Kubota(7)、REDALiCE(8)、t+pazolite(9)、Srav3R(10)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-08-06T11:15:43.475Z"
+  }
+}
