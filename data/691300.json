@@ -1,0 +1,142 @@
+{
+  "subjectId": 691300,
+  "trackCredits": {
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "猫井ミジュー"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100345",
+            "text": "LillyRazy"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "猫井ミジュー"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100345",
+            "text": "LillyRazy"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100345",
+            "text": "LillyRazy"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100345",
+            "text": "LillyRazy"
+          }
+        }
+      ]
+    },
+    "1.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100345",
+            "text": "LillyRazy"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100345",
+            "text": "LillyRazy"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100345",
+            "text": "LillyRazy"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:100345",
+          "text": "LillyRazy"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "猫井ミジュー"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:71402",
+          "text": "Unity of Raw"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "猫井ミジュー"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：LillyRazy、猫井ミジュー\n厂牌：Unity of Raw\n插图：猫井ミジュー\n\n作词：猫井ミジュー(2,4)、LillyRazy(6)\n作曲：LillyRazy(1,2,3,4,5,6)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-08-06T16:40:39.855Z"
+  }
+}
