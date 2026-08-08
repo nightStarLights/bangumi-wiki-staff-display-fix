@@ -1,0 +1,399 @@
+{
+  "subjectId": 692309,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "张志伟"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "张志伟"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "张志伟"
+          }
+        }
+      ],
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "燕子"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "张志伟"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Nate Van Fleet"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "落灀"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "张志伟"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "王磊"
+          }
+        }
+      ],
+      "producer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "张志伟"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "沉思者"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "张志伟"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Kazumi Shimokawa"
+          }
+        }
+      ],
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "燕子"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "张志伟"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Nate Van Fleet"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "落灀"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "张志伟"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Zach Fisher"
+          }
+        }
+      ],
+      "producer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "张志伟"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "张志伟"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "张志伟"
+          }
+        }
+      ],
+      "producer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "张志伟"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "张志伟"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "张志伟"
+          }
+        }
+      ],
+      "producer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "张志伟"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "张志伟"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "张志伟"
+          }
+        }
+      ],
+      "producer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "张志伟"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "张志伟"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "张志伟"
+          }
+        }
+      ],
+      "producer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "张志伟"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "张志伟"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "张志伟"
+          }
+        }
+      ],
+      "producer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "张志伟"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "张志伟"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "张志伟"
+          }
+        }
+      ],
+      "producer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "张志伟"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "张志伟"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "张志伟"
+          }
+        }
+      ],
+      "producer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "张志伟"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "龙潮唱片"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：龙潮唱片\n\n作词：张志伟(1)、沉思者(2)\n作曲：张志伟(1,2,3,4,5,6,7,8,9)\n编曲：张志伟(1,3,4,5,6,7,8,9)、Kazumi Shimokawa(2)\n声乐：燕子(1,2)\n录音：张志伟(1,2)、Nate Van Fleet(1,2)、落灀(1,2)\n混音：张志伟(1,2)、王磊(1)、Zach Fisher(2)\n制作人：张志伟(1,2,3,4,5,6,7,8,9)"
+  },
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-08-08T12:54:03.468Z"
+  }
+}
