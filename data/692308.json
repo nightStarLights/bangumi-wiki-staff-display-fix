@@ -1,0 +1,173 @@
+{
+  "subjectId": 692308,
+  "trackCredits": {
+    "1.1": {
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "初音ミク"
+          }
+        }
+      ],
+      "producer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "THE LIQUID RAY"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "初音ミク"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "初音ミク"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ナースロボ＿タイプT"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ナースロボ＿タイプT"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ナースロボ＿タイプT"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "producer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "THE LIQUID RAY"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "歩く人"
+        }
+      }
+    ],
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "歩く人"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "歩く人"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "歩く人"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "歩く人のお店"
+        }
+      }
+    ],
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "歩く人"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "歩く人"
+        }
+      }
+    ],
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "歩く人"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：歩く人\n作词：歩く人\n作曲：歩く人\n编曲：歩く人\n厂牌：歩く人のお店\n混音：歩く人\n母带制作：歩く人\n制作人：歩く人\n\n声乐：初音ミク(1,3,7)、ナースロボ＿タイプT(2,4,5)\n制作人：THE LIQUID RAY(1,6)"
+  },
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-08-08T12:45:08.586Z"
+  }
+}
