@@ -1,0 +1,180 @@
+{
+  "subjectId": 692306,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "めらみぽっぷ"
+          }
+        }
+      ],
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "めらみぽっぷ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "いお"
+          }
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "3mazeL"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "3L"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "長尾ちえみ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "nayuta"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "はなだひょう"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "miko"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "紫咲ほたる"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "めらみぽっぷ"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "3mazeL"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "3L"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "いお"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "nayuta"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ビートまりお"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "RD-Sounds"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "凋叶棕"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "はなだひょう"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "编曲：RD-Sounds\n厂牌：凋叶棕\n插图：はなだひょう\n\n艺术家：めらみぽっぷ(1,5)、3mazeL(3L)(2)、いお(4)、nayuta(7)、ビートまりお(8)\n声乐：めらみぽっぷ(1)、いお(1)、3mazeL(3L)(1)、長尾ちえみ(1)、nayuta(1)、はなだひょう(1)、miko(1)、紫咲ほたる(1)"
+  },
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-08-08T12:17:43.826Z"
+  }
+}
