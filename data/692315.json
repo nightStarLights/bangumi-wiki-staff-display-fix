@@ -1,0 +1,136 @@
+{
+  "subjectId": 692315,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81531",
+            "text": "綿菓子かんろ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81530",
+            "text": "Talich Helfen"
+          }
+        }
+      ],
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81531",
+            "text": "綿菓子かんろ"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81530",
+            "text": "Talich Helfen"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81530",
+            "text": "Talich Helfen"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81531",
+            "text": "綿菓子かんろ"
+          }
+        }
+      ],
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81531",
+            "text": "綿菓子かんろ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81532",
+            "text": "ゐつぺゑ"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81530",
+            "text": "Talich Helfen"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81530",
+            "text": "Talich Helfen"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81530",
+            "text": "Talich Helfen"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:81529",
+          "text": "V/R Converters"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:71352",
+          "text": "CDs"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：《V/R Converters》\n厂牌：CDs\n\n作词：綿菓子かんろ(1,2)\n作曲：Talich Helfen(1,3)\n声乐：綿菓子かんろ(1,2)、ゐつぺゑ(2)\n混音：Talich Helfen(1,3)\n母带制作：Talich Helfen(1,3)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-08-08T13:18:12.278Z"
+  }
+}
