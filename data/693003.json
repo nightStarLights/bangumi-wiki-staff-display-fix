@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:71409",
             "text": "RIZARDI"
           }
         }
@@ -17,7 +17,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:71409",
             "text": "RIZARDI"
           }
         }
@@ -28,7 +28,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:71409",
             "text": "RIZARDI"
           }
         }
@@ -39,7 +39,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:71409",
             "text": "RIZARDI"
           }
         },
@@ -63,7 +63,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:71409",
             "text": "RIZARDI"
           }
         }
@@ -74,14 +74,14 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:71409",
             "text": "RIZARDI"
           }
         },
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:71401",
             "text": "493Water"
           }
         }
@@ -104,7 +104,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:80609",
           "text": "Gemeinschaft GEPARD"
         }
       }
@@ -125,6 +125,6 @@
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-08-09T12:15:04.868Z"
+    "submittedAt": "2026-08-09T12:15:59.991Z"
   }
 }
