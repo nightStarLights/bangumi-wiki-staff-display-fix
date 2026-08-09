@@ -101,7 +101,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:71353",
+            "ref": null,
             "text": "おし怪"
           }
         }
@@ -145,7 +145,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:75867",
+            "ref": null,
             "text": "駱駝法師"
           }
         }
@@ -251,6 +251,6 @@
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-08-09T05:18:19.892Z"
+    "submittedAt": "2026-08-09T05:18:33.667Z"
   }
 }
