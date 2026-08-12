@@ -33,7 +33,7 @@
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:81882",
               "text": "SANY-ON"
             },
             ")"
@@ -198,7 +198,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:49044",
           "text": "Thoughost"
         }
       }
@@ -207,7 +207,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:43732",
           "text": "Joulez"
         }
       }
@@ -216,7 +216,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:100573",
           "text": "だんごむし"
         }
       }
@@ -228,6 +228,6 @@
   "_meta": {
     "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-08-12T17:11:12.506Z"
+    "submittedAt": "2026-08-12T20:13:59.254Z"
   }
 }
