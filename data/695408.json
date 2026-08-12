@@ -1,0 +1,80 @@
+{
+  "subjectId": 695408,
+  "trackCredits": {
+    "1.6": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "れりす"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Mwk"
+        }
+      }
+    ],
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Mwk"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Mwk"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Mwk"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Wakuwaku Miwaku"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "いよな"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：Mwk\n作词：Mwk\n作曲：Mwk\n编曲：Mwk\n厂牌：Wakuwaku Miwaku\n插图：いよな\n\n作词：れりす(6)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-08-12T12:43:18.280Z"
+  }
+}
