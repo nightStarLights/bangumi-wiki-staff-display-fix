@@ -123,12 +123,12 @@
         {
           "parts": [
             {
-              "ref": "p:74540",
+              "ref": null,
               "text": "Salty Salt"
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:100561",
               "text": "VISION SOUND"
             },
             ")"
@@ -141,7 +141,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:100567",
             "text": "Redux"
           }
         }
@@ -153,7 +153,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:100560",
           "text": "Stella Sora Records"
         }
       }
@@ -165,6 +165,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-08-12T08:16:46.962Z"
+    "submittedAt": "2026-08-12T09:04:40.500Z"
   }
 }
