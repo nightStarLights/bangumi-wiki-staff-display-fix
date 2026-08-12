@@ -1,0 +1,417 @@
+{
+  "subjectId": 695402,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Hiroshi Okubo"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "大久保博"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Lime"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Juggernaut."
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "SYNC"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "good-cool"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "古川竜也"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "N_dog"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "otoshi.b"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ag"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "DR.VEGAS LABORATORY"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "NGA"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ARForest"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Rootplant"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Author wind"
+          }
+        }
+      ]
+    },
+    "1.13": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Solvrae"
+          }
+        }
+      ]
+    },
+    "1.14": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "M2P"
+          }
+        }
+      ]
+    },
+    "2.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Kenichi Chiba"
+          }
+        }
+      ]
+    },
+    "2.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "KO3"
+          }
+        }
+      ]
+    },
+    "2.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "MK"
+          }
+        }
+      ]
+    },
+    "2.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "mitama."
+          }
+        }
+      ]
+    },
+    "2.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "HOUJIROU"
+          }
+        }
+      ]
+    },
+    "2.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hexacube"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "senjou"
+          }
+        }
+      ]
+    },
+    "2.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Nyolfen"
+          }
+        }
+      ]
+    },
+    "2.8": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Shoichiro Hirata"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "平田祥一郎"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "2.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Dirty Androids"
+          }
+        }
+      ]
+    },
+    "2.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Musicarus"
+          }
+        }
+      ]
+    },
+    "2.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Glancia"
+          }
+        }
+      ]
+    },
+    "2.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Xeno"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Spearman"
+          }
+        }
+      ]
+    },
+    "2.13": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Tomoki Hirata"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "平田智樹"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "2.14": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Shunji Fujii"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Diverse System"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "うこぼね"
+          },
+          " (",
+          {
+            "ref": null,
+            "text": "守屋忠慶"
+          },
+          ")"
+        ]
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "タイキ"
+        }
+      }
+    ],
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "YsK439"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：Diverse System\n母带制作：うこぼね(守屋忠慶)\n插图：タイキ\n制作人：YsK439\n\n艺术家：Hiroshi Okubo(大久保博)(1.1)、Lime(1.2)、Juggernaut.(1.3)、SYNC(1.3)、good-cool(古川竜也)(1.4)、N_dog(1.5)、otoshi.b(1.6)、ag(1.7)、DR.VEGAS LABORATORY(1.8)、NGA(1.9)、ARForest(1.10)、Rootplant(1.11)、Author wind(1.12)、Solvrae(1.13)、M2P(1.14)、Kenichi Chiba(2.1)、KO3(2.2)、MK(2.3)、mitama.(2.4)、HOUJIROU(2.5)、Hexacube(2.6)、Nyolfen(2.7)、Shoichiro Hirata(平田祥一郎)(2.8)、Dirty Androids(2.9)、Musicarus(2.10)、Glancia(2.11)、Xeno(2.12)、Spearman(2.12)、Tomoki Hirata(平田智樹)(2.13)、Shunji Fujii(2.14)\n混音：senjou(2.6)"
+  },
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-08-12T10:03:19.592Z"
+  }
+}
