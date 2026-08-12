@@ -15,36 +15,36 @@
     "1.2": {
       "composer": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:95559",
-            "text": "HJLL"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:99375",
-            "text": "Dash Sound"
-          }
+          "parts": [
+            {
+              "ref": "p:95559",
+              "text": "HJLL"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Dash Sound"
+            },
+            ")"
+          ]
         }
       ]
     },
     "1.3": {
       "composer": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:95559",
-            "text": "HJLL"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:99375",
-            "text": "Dash Sound"
-          }
+          "parts": [
+            {
+              "ref": "p:95559",
+              "text": "HJLL"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Dash Sound"
+            },
+            ")"
+          ]
         }
       ]
     },
@@ -139,36 +139,36 @@
     "1.11": {
       "composer": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:74540",
-            "text": "Salty Salt"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:100561",
-            "text": "VISION SOUND"
-          }
+          "parts": [
+            {
+              "ref": "p:74540",
+              "text": "Salty Salt"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "VISION SOUND"
+            },
+            ")"
+          ]
         }
       ]
     },
     "1.13": {
       "composer": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:74540",
-            "text": "Salty Salt"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:100561",
-            "text": "VISION SOUND"
-          }
+          "parts": [
+            {
+              "ref": "p:74540",
+              "text": "Salty Salt"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "VISION SOUND"
+            },
+            ")"
+          ]
         }
       ]
     },
@@ -196,18 +196,18 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:100560",
+          "ref": null,
           "text": "Stella Sora Records"
         }
       }
     ]
   },
   "rawPatches": {
-    "editor": "厂牌：Stella Sora Records\n\n作曲：舒奕(1)、HJLL(2,3)、Dash Sound(2,3)、dDedalus(4,5,7,10,14)、ESTIMATE(6,8)、Redux(9)、Salty Salt(11,13)、VISION SOUND(11,13)、TERRY ZHONG(钟天利)(12)"
+    "editor": "厂牌：Stella Sora Records\n\n作曲：舒奕(1)、HJLL (Dash Sound)(2,3)、dDedalus(4,5,7,10,14)、ESTIMATE(6,8)、Redux(9)、Salty Salt(VISION SOUND)(11,13)、TERRY ZHONG(钟天利)(12)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-08-12T08:25:45.086Z"
+    "submittedAt": "2026-08-12T08:29:14.231Z"
   }
 }
