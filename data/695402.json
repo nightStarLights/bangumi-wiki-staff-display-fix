@@ -11,7 +11,7 @@
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:15769",
               "text": "大久保博"
             },
             ")"
@@ -24,7 +24,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:66083",
             "text": "Lime"
           }
         }
@@ -35,14 +35,14 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:47371",
             "text": "Juggernaut."
           }
         },
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:47372",
             "text": "SYNC"
           }
         }
@@ -58,7 +58,7 @@
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:47369",
               "text": "古川竜也"
             },
             ")"
@@ -71,7 +71,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:78477",
             "text": "N_dog"
           }
         }
@@ -82,7 +82,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:66912",
             "text": "otoshi.b"
           }
         }
@@ -93,7 +93,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:47403",
             "text": "ag"
           }
         }
@@ -104,7 +104,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:66913",
             "text": "DR.VEGAS LABORATORY"
           }
         }
@@ -115,7 +115,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:85225",
             "text": "NGA"
           }
         }
@@ -126,7 +126,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:47384",
             "text": "ARForest"
           }
         }
@@ -159,7 +159,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:47587",
             "text": "Solvrae"
           }
         }
@@ -181,7 +181,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:10870",
             "text": "Kenichi Chiba"
           }
         }
@@ -192,7 +192,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:36776",
             "text": "KO3"
           }
         }
@@ -203,7 +203,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:6366",
             "text": "MK"
           }
         }
@@ -225,7 +225,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:77620",
             "text": "HOUJIROU"
           }
         }
@@ -236,7 +236,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:82121",
             "text": "Hexacube"
           }
         }
@@ -256,7 +256,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:63492",
             "text": "Nyolfen"
           }
         }
@@ -272,7 +272,7 @@
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:14703",
               "text": "平田祥一郎"
             },
             ")"
@@ -285,7 +285,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:15907",
             "text": "Dirty Androids"
           }
         }
@@ -296,7 +296,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:47364",
             "text": "Musicarus"
           }
         }
@@ -307,7 +307,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:79339",
             "text": "Glancia"
           }
         }
@@ -341,7 +341,7 @@
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:47380",
               "text": "平田智樹"
             },
             ")"
@@ -354,7 +354,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:47383",
             "text": "Shunji Fujii"
           }
         }
@@ -366,7 +366,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:8215",
           "text": "Diverse System"
         }
       }
@@ -380,7 +380,7 @@
           },
           " (",
           {
-            "ref": null,
+            "ref": "p:72288",
             "text": "守屋忠慶"
           },
           ")"
@@ -391,7 +391,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:31561",
           "text": "タイキ"
         }
       }
@@ -400,7 +400,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:31962",
           "text": "YsK439"
         }
       }
@@ -412,6 +412,6 @@
   "_meta": {
     "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-08-12T10:03:19.592Z"
+    "submittedAt": "2026-08-12T10:05:47.993Z"
   }
 }
