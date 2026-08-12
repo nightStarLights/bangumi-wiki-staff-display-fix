@@ -17,12 +17,12 @@
         {
           "parts": [
             {
-              "ref": "p:95559",
+              "ref": null,
               "text": "HJLL"
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:99375",
               "text": "Dash Sound"
             },
             ")"
@@ -35,12 +35,12 @@
         {
           "parts": [
             {
-              "ref": "p:95559",
+              "ref": null,
               "text": "HJLL"
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:99375",
               "text": "Dash Sound"
             },
             ")"
@@ -130,7 +130,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:100567",
             "text": "Redux"
           }
         }
@@ -141,12 +141,12 @@
         {
           "parts": [
             {
-              "ref": "p:74540",
+              "ref": null,
               "text": "Salty Salt"
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:100561",
               "text": "VISION SOUND"
             },
             ")"
@@ -159,12 +159,12 @@
         {
           "parts": [
             {
-              "ref": "p:74540",
+              "ref": null,
               "text": "Salty Salt"
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:100561",
               "text": "VISION SOUND"
             },
             ")"
@@ -196,7 +196,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:100560",
           "text": "Stella Sora Records"
         }
       }
@@ -208,6 +208,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-08-12T08:29:14.231Z"
+    "submittedAt": "2026-08-12T09:05:36.320Z"
   }
 }
