@@ -11,7 +11,7 @@
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:15769",
               "text": "大久保博"
             },
             ")"
@@ -58,13 +58,13 @@
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:47369",
               "text": "古川竜也"
             },
             ")",
             " feat. ",
             {
-              "ref": null,
+              "ref": "p:47374",
               "text": "倉先"
             }
           ]
@@ -98,7 +98,7 @@
             },
             " feat. ",
             {
-              "ref": null,
+              "ref": "p:66544",
               "text": "はらもりよしな"
             }
           ]
@@ -115,7 +115,7 @@
             },
             " feat. ",
             {
-              "ref": null,
+              "ref": "p:47374",
               "text": "倉先"
             }
           ]
@@ -209,7 +209,7 @@
             },
             " feat. ",
             {
-              "ref": null,
+              "ref": "p:66185",
               "text": "yosumi"
             }
           ]
@@ -243,7 +243,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:100572",
             "text": "mitama."
           }
         }
@@ -301,7 +301,7 @@
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:14703",
               "text": "平田祥一郎"
             },
             ")"
@@ -341,7 +341,7 @@
             },
             " feat. ",
             {
-              "ref": null,
+              "ref": "p:85267",
               "text": "neur6sia"
             }
           ]
@@ -376,13 +376,13 @@
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:47380",
               "text": "平田智樹"
             },
             ")",
             " feat. ",
             {
-              "ref": null,
+              "ref": "p:47381",
               "text": "Crystal Mint"
             }
           ]
@@ -399,7 +399,7 @@
             },
             " feat. ",
             {
-              "ref": null,
+              "ref": "p:15925",
               "text": "EVO+"
             }
           ]
@@ -412,7 +412,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:8215",
           "text": "Diverse System"
         }
       }
@@ -426,7 +426,7 @@
           },
           " (",
           {
-            "ref": null,
+            "ref": "p:72288",
             "text": "守屋忠慶"
           },
           ")"
@@ -437,7 +437,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:31561",
           "text": "タイキ"
         }
       }
@@ -446,7 +446,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:31962",
           "text": "YsK439"
         }
       }
@@ -456,8 +456,8 @@
     "editor": "厂牌：Diverse System\n母带制作：うこぼね(守屋忠慶)\n插图：タイキ\n制作人：YsK439\n\n艺术家：Hiroshi Okubo(大久保博)(1.1)、Lime(1.2)、Juggernaut.(1.3)、SYNC(1.3)、good-cool(古川竜也) feat. 倉先(1.4)、N_dog feat.今日山セイル(1.5)、otoshi.b feat.はらもりよしな(1.6)、ag feat. 倉先(1.7)、DR.VEGAS LABORATORY(1.8)、NGA(1.9)、ARForest(1.10)、Rootplant(1.11)、Author wind(1.12)、Solvrae(1.13)、M2P(1.14)、Kenichi Chiba feat.yosumi(2.1)、KO3(2.2)、MK(2.3)、mitama.(2.4)、HOUJIROU(2.5)、Hexacube(2.6)、Nyolfen(2.7)、Shoichiro Hirata(平田祥一郎)(2.8)、Dirty Androids(2.9)、Musicarus(2.10)、Glancia feat.neur6sia(2.11)、Xeno(2.12)、Spearman(2.12)、Tomoki Hirata(平田智樹) feat.Crystal Mint(2.13)、Shunji Fujii feat. EVO+(2.14)\n混音：senjou(2.6)"
   },
   "_meta": {
-    "submittedBy": "809907",
+    "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-08-12T10:07:56.287Z"
+    "submittedAt": "2026-08-12T10:19:07.827Z"
   }
 }
