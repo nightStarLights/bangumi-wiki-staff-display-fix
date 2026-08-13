@@ -124,6 +124,22 @@
           "text": "白河ゆい"
         }
       }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "白河ゆい"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Khrisma"
+        }
+      }
     ]
   },
   "rawPatches": {
@@ -132,6 +148,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-08-13T11:03:31.891Z"
+    "submittedAt": "2026-08-13T11:06:26.311Z"
   }
 }
