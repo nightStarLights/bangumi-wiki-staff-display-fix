@@ -111,7 +111,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:96622",
+          "ref": null,
           "text": "Excillex"
         }
       }
@@ -127,11 +127,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "厂牌：月華社\n母带制作：Excillex\n插图：白河ゆい\n\n艺术家：Khrisma(1)、Northad(2)、lem0ncry(3)、Yukira(3)、Yokisa八闪(4,5)、Pleinerz(6)、ConcordE(7)、Nesarf_Mollor(8)"
+    "editor": "厂牌：月華社\n母带制作：Excillex\n插图：白河ゆい\n设计：白河ゆい, Khrisma\n\n艺术家：Khrisma(1)、Northad(2)、lem0ncry(3)、Yukira(3)、Yokisa八闪(4,5)、Pleinerz(6)、ConcordE(7)、Nesarf_Mollor(8)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-08-13T10:50:55.026Z"
+    "submittedAt": "2026-08-13T11:03:31.891Z"
   }
 }
