@@ -168,14 +168,23 @@
           "text": "IVwRRR"
         }
       }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "C'Ryantic"
+        }
+      }
     ]
   },
   "rawPatches": {
-    "editor": "厂牌：ChillMe\n母带制作：SoilFo_yuan\n插图：IVwRRR\n\n艺术家：Shunji Fujii(1)、bk(2)、Koiflower(3)、INuya(イヌヤ)(4)、Silvery SKY(5)、Ton Magie(6)、Juggernaut.(7)、ASIION(8)、YUKIYANAGI(9)、Ear_Pregnancy(10)、FN1U(11)、杨天夏(12)"
+    "editor": "厂牌：ChillMe\n母带制作：SoilFo_yuan\n插图：IVwRRR\n设计: C'Ryantic\n\n艺术家：Shunji Fujii(1)、bk(2)、Koiflower(3)、INuya(イヌヤ)(4)、Silvery SKY(5)、Ton Magie(6)、Juggernaut.(7)、ASIION(8)、YUKIYANAGI(9)、Ear_Pregnancy(10)、FN1U(11)、杨天夏(12)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-08-15T14:52:39.630Z"
+    "submittedAt": "2026-08-15T14:53:39.271Z"
   }
 }
