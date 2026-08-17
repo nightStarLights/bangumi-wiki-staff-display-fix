@@ -1,0 +1,86 @@
+{
+  "subjectId": 696036,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:45358",
+            "text": "Tatsunoshin"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36776",
+            "text": "KO3"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47424",
+            "text": "Relect"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:41327",
+            "text": "DÉ DÉ MOUSE"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:31965",
+            "text": "Maozon"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Alley"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Attack The Music"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：Attack The Music\n\n艺术家：Tatsunoshin(1)、KO3(2)、Relect(2)、DÉ DÉ MOUSE(3)、Maozon(4)、Alley(5)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-08-17T02:54:06.033Z"
+  }
+}
