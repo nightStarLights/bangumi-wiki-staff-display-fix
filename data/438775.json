@@ -1,0 +1,245 @@
+{
+  "subjectId": 438775,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55567",
+            "text": "VALIS"
+          }
+        }
+      ]
+    },
+    "1.18": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55567",
+            "text": "VALIS"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "MYU"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "NEFFY"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "VITTE（VALIS）"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "CHINO"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "NINA"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "RARA（VALIS）"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68014",
+            "text": "Albemuth"
+          }
+        }
+      ]
+    },
+    "1.19": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68014",
+            "text": "Albemuth"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:60347",
+            "text": "明透"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:60443",
+            "text": "存流"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "跳亜"
+            },
+            " (",
+            {
+              "ref": "p:84120",
+              "text": "tobia"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "跳亜"
+            },
+            " (",
+            {
+              "ref": "p:84120",
+              "text": "tobia"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.17": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "跳亜"
+            },
+            " (",
+            {
+              "ref": "p:84120",
+              "text": "tobia"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:58065",
+            "text": "Sooda"
+          }
+        }
+      ]
+    },
+    "1.13": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:58065",
+            "text": "Sooda"
+          }
+        }
+      ]
+    },
+    "1.14": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69420",
+            "text": "梓川"
+          }
+        }
+      ]
+    },
+    "1.15": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69420",
+            "text": "梓川"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "parts": [
+          {
+            "ref": "p:84125",
+            "text": "SINSEKAI RECORD"
+          },
+          " (",
+          {
+            "ref": null,
+            "text": "KAMITSUBAKI STUDIO"
+          },
+          ")"
+        ]
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：SINSEKAI RECORD(KAMITSUBAKI STUDIO)\n\n艺术家：VALIS(1,18)、MYU(2)、NEFFY(2)、VITTE（VALIS）(2)、CHINO(3)、NINA(3)、RARA（VALIS）(3)、Albemuth(5,19)、明透(6)、存流(7)、跳亜(tobia)(9,10,17)、Sooda(12,13)、梓川(14,15)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-08-17T18:31:31.463Z"
+  }
+}
