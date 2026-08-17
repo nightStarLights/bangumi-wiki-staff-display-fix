@@ -127,7 +127,7 @@
             },
             " (",
             {
-              "ref": "p:84120",
+              "ref": null,
               "text": "tobia"
             },
             ")"
@@ -145,7 +145,7 @@
             },
             " (",
             {
-              "ref": "p:84120",
+              "ref": null,
               "text": "tobia"
             },
             ")"
@@ -163,7 +163,7 @@
             },
             " (",
             {
-              "ref": "p:84120",
+              "ref": null,
               "text": "tobia"
             },
             ")"
@@ -219,27 +219,20 @@
   "epinfo": {
     "label": [
       {
-        "parts": [
-          {
-            "ref": "p:84125",
-            "text": "SINSEKAI RECORD"
-          },
-          " (",
-          {
-            "ref": null,
-            "text": "KAMITSUBAKI STUDIO"
-          },
-          ")"
-        ]
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "SINSEKAI RECORD"
+        }
       }
     ]
   },
   "rawPatches": {
-    "editor": "厂牌：SINSEKAI RECORD(KAMITSUBAKI STUDIO)\n\n艺术家：VALIS(1,18)、MYU(2)、NEFFY(2)、VITTE（VALIS）(2)、CHINO(3)、NINA(3)、RARA（VALIS）(3)、Albemuth(5,19)、明透(6)、存流(7)、跳亜(tobia)(9,10,17)、Sooda(12,13)、梓川(14,15)"
+    "editor": "厂牌：SINSEKAI RECORD\n\n艺术家：VALIS(1,18)、MYU(2)、NEFFY(2)、VITTE（VALIS）(2)、CHINO(3)、NINA(3)、RARA（VALIS）(3)、Albemuth(5,19)、明透(6)、存流(7)、跳亜(tobia)(9,10,17)、Sooda(12,13)、梓川(14,15)"
   },
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-08-17T18:31:31.463Z"
+    "submittedAt": "2026-08-17T18:33:04.898Z"
   }
 }
