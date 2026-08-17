@@ -1,0 +1,80 @@
+{
+  "subjectId": 696163,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Herun"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Herun"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Herun"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Herun"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68958",
+            "text": "VoIces"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68958",
+            "text": "VoIces"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:74090",
+          "text": "RockRiverRecords"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：RockRiverRecords\n\n艺术家：Herun(1,2)、VoIces(2)\n作曲：Herun(1)\n编曲：Herun(1)、VoIces(2)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-08-17T17:25:05.262Z"
+  }
+}
