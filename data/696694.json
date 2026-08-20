@@ -4,34 +4,34 @@
     "1.1": {
       "composer": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:95559",
-            "text": "HJLL"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:99375",
-            "text": "Dash Sound"
-          }
+          "parts": [
+            {
+              "ref": "p:95559",
+              "text": "HJLL"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Dash Sound"
+            },
+            ")"
+          ]
         }
       ],
       "arranger": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:95559",
-            "text": "HJLL"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:99375",
-            "text": "Dash Sound"
-          }
+          "parts": [
+            {
+              "ref": "p:95559",
+              "text": "HJLL"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Dash Sound"
+            },
+            ")"
+          ]
         }
       ]
     },
@@ -101,18 +101,18 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:100560",
+          "ref": null,
           "text": "STELLA SORA RECORDS"
         }
       }
     ]
   },
   "rawPatches": {
-    "editor": "厂牌：STELLA SORA RECORDS\n\n作曲：HJLL(1)、Dash Sound(1)、dDedalus(2,3,4)\n编曲：HJLL(1)、Dash Sound(1)、dDedalus(2,3,4)"
+    "editor": "厂牌：STELLA SORA RECORDS\n\n作曲：HJLL (Dash Sound)(1)、dDedalus(2,3,4)\n编曲：HJLL (Dash Sound)(1)、dDedalus(2,3,4)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-08-20T16:21:34.120Z"
+    "submittedAt": "2026-08-20T16:22:06.833Z"
   }
 }
