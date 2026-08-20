@@ -38,47 +38,47 @@
     "1.2": {
       "composer": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:100561",
-            "text": "3A"
-          }
+          "parts": [
+            {
+              "ref": "p:100561",
+              "text": "3A"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "VISION SOUND"
+            },
+            ")"
+          ]
         },
         {
           "type": "person",
           "person": {
             "ref": "p:100562",
             "text": "dDedalus"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:100561",
-            "text": "VISION SOUND"
           }
         }
       ],
       "arranger": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:100561",
-            "text": "3A"
-          }
+          "parts": [
+            {
+              "ref": "p:100561",
+              "text": "3A"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "VISION SOUND"
+            },
+            ")"
+          ]
         },
         {
           "type": "person",
           "person": {
             "ref": "p:100562",
             "text": "dDedalus"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:100561",
-            "text": "VISION SOUND"
           }
         }
       ]
@@ -149,18 +149,18 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:100560",
+          "ref": null,
           "text": "STELLA SORA RECORDS"
         }
       }
     ]
   },
   "rawPatches": {
-    "editor": "厂牌：STELLA SORA RECORDS\n\n作曲：Zhengtao Pan(潘政韬)(1)、3A(2)、dDedalus(2,3,4,5)、VISION SOUND(2)\n编曲：Zhengtao Pan(潘政韬)(1)、3A(2)、dDedalus(2,3,4,5)、VISION SOUND(2)"
+    "editor": "厂牌：STELLA SORA RECORDS\n\n作曲：Zhengtao Pan(潘政韬)(1)、3A (VISION SOUND)(2)、dDedalus(2,3,4,5)\n编曲：Zhengtao Pan(潘政韬)(1)、3A (VISION SOUND)(2)、dDedalus(2,3,4,5)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-08-20T16:07:41.986Z"
+    "submittedAt": "2026-08-20T16:08:32.091Z"
   }
 }
