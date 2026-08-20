@@ -1,0 +1,186 @@
+{
+  "subjectId": 696696,
+  "trackCredits": {
+    "1.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Nevia"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Nevia"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "UraniumW"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "UraniumW"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100562",
+            "text": "dDedalus"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100562",
+            "text": "dDedalus"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100562",
+            "text": "dDedalus"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:87441",
+            "text": "ESTIMATE"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100562",
+            "text": "dDedalus"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:87441",
+            "text": "ESTIMATE"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100562",
+            "text": "dDedalus"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100562",
+            "text": "dDedalus"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:87441",
+            "text": "ESTIMATE"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:87441",
+            "text": "ESTIMATE"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:100560",
+          "text": "STELLA SORA RECORDS"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：STELLA SORA RECORDS\n\n作曲：Nevia(1)、Dash Sound(1,2)、UraniumW(2)、dDedalus(3,5,6)、ESTIMATE(4,5)\n编曲：Nevia(1)、Dash Sound(1,2)、UraniumW(2)、dDedalus(3,5,6)、ESTIMATE(4,5)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-08-20T16:27:46.040Z"
+  }
+}
