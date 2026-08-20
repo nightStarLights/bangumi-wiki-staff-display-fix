@@ -121,7 +121,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:100560",
           "text": "STELLA SORA RECORDS"
         }
       }
@@ -133,6 +133,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-08-20T15:48:46.441Z"
+    "submittedAt": "2026-08-20T15:49:17.552Z"
   }
 }
