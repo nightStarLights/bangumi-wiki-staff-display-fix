@@ -4,68 +4,68 @@
     "1.1": {
       "composer": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:99375",
-            "text": "Nevia"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:99375",
-            "text": "Dash Sound"
-          }
+          "parts": [
+            {
+              "ref": "p:99375",
+              "text": "Nevia"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Dash Sound"
+            },
+            ")"
+          ]
         }
       ],
       "arranger": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:99375",
-            "text": "Nevia"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:99375",
-            "text": "Dash Sound"
-          }
+          "parts": [
+            {
+              "ref": "p:99375",
+              "text": "Nevia"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Dash Sound"
+            },
+            ")"
+          ]
         }
       ]
     },
     "1.2": {
       "composer": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:99375",
-            "text": "Dash Sound"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:99375",
-            "text": "UraniumW"
-          }
+          "parts": [
+            {
+              "ref": "p:99375",
+              "text": "UraniumW"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Dash Sound"
+            },
+            ")"
+          ]
         }
       ],
       "arranger": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:99375",
-            "text": "Dash Sound"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:99375",
-            "text": "UraniumW"
-          }
+          "parts": [
+            {
+              "ref": "p:99375",
+              "text": "UraniumW"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Dash Sound"
+            },
+            ")"
+          ]
         }
       ]
     },
@@ -169,18 +169,18 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:100560",
+          "ref": null,
           "text": "STELLA SORA RECORDS"
         }
       }
     ]
   },
   "rawPatches": {
-    "editor": "厂牌：STELLA SORA RECORDS\n\n作曲：Nevia(1)、Dash Sound(1,2)、UraniumW(2)、dDedalus(3,5,6)、ESTIMATE(4,5)\n编曲：Nevia(1)、Dash Sound(1,2)、UraniumW(2)、dDedalus(3,5,6)、ESTIMATE(4,5)"
+    "editor": "厂牌：STELLA SORA RECORDS\n\n作曲：Nevia (Dash Sound)(1)、UraniumW (Dash Sound)(2)、dDedalus(3,5,6)、ESTIMATE(4,5)\n编曲：Nevia (Dash Sound)(1)、UraniumW (Dash Sound)(2)、dDedalus(3,5,6)、ESTIMATE(4,5)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-08-20T16:27:46.040Z"
+    "submittedAt": "2026-08-20T16:28:46.020Z"
   }
 }
