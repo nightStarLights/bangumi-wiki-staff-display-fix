@@ -1,0 +1,152 @@
+{
+  "subjectId": 696646,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100561",
+            "text": "VISION SOUND"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100568",
+            "text": "trashyboi"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100562",
+            "text": "dDedalus"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100562",
+            "text": "dDedalus"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100562",
+            "text": "dDedalus"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100562",
+            "text": "dDedalus"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100562",
+            "text": "dDedalus"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100562",
+            "text": "dDedalus"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100847",
+            "text": "Nevia"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100847",
+            "text": "Nevia"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100847",
+            "text": "Nevia"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100562",
+            "text": "dDedalus"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100562",
+            "text": "dDedalus"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:100560",
+          "text": "Stella Sora Records"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：Stella Sora Records\n\n艺术家：VISION SOUND(1)、trashyboi(1)、dDedalus(1,4)、Dash Sound(2)、Nevia(2)\n作曲：dDedalus(1,3,4)、Nevia(2)\n编曲：dDedalus(1,3,4)、Nevia(2)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-08-20T10:34:34.078Z"
+  }
+}
