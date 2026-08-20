@@ -105,12 +105,12 @@
         {
           "parts": [
             {
-              "ref": "p:56423",
+              "ref": null,
               "text": "VeetaCrush"
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:99375",
               "text": "Dash Sound"
             },
             ")"
@@ -153,18 +153,18 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:100560",
-          "text": "Stella Sora Records"
+          "ref": null,
+          "text": "STELLA SORA RECORDS"
         }
       }
     ]
   },
   "rawPatches": {
-    "editor": "厂牌：Stella Sora Records\n\n作曲：ESTIMATE(1,2,4)、dDedalus(3,7,8,9,10,11)、VeetaCrush (Dash Sound)(5)、Salty Salt(VISION SOUND)(6)、Redux(12)"
+    "editor": "厂牌：STELLA SORA RECORDS\n\n作曲：ESTIMATE(1,2,4)、dDedalus(3,7,8,9,10,11)、VeetaCrush (Dash Sound)(5)、Salty Salt(VISION SOUND)(6)、Redux(12)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-08-12T09:04:40.500Z"
+    "submittedAt": "2026-08-20T11:02:17.189Z"
   }
 }
