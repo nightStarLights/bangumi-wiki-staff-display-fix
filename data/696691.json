@@ -1,0 +1,138 @@
+{
+  "subjectId": 696691,
+  "trackCredits": {
+    "1.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56423",
+            "text": "VeetaCrush"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56423",
+            "text": "VeetaCrush"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100562",
+            "text": "dDedalus"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100562",
+            "text": "dDedalus"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100562",
+            "text": "dDedalus"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100562",
+            "text": "dDedalus"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100562",
+            "text": "dDedalus"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100562",
+            "text": "dDedalus"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100562",
+            "text": "dDedalus"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100562",
+            "text": "dDedalus"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:100560",
+          "text": "STELLA SORA RECORDS"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：STELLA SORA RECORDS\n\n作曲：VeetaCrush(1)、dDedalus(2,3,4,5)、Dash Sound(2)\n编曲：VeetaCrush(1)、dDedalus(2,3,4,5)、Dash Sound(2)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-08-20T15:47:29.958Z"
+  }
+}
