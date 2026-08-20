@@ -196,18 +196,18 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:100560",
-          "text": "Stella Sora Records"
+          "ref": null,
+          "text": "STELLA SORA RECORDS"
         }
       }
     ]
   },
   "rawPatches": {
-    "editor": "厂牌：Stella Sora Records\n\n作曲：舒奕(1)、HJLL (Dash Sound)(2,3)、dDedalus(4,5,7,10,14)、ESTIMATE(6,8)、Redux(9)、Salty Salt(VISION SOUND)(11,13)、TERRY ZHONG(钟天利)(12)"
+    "editor": "厂牌：STELLA SORA RECORDS\n\n作曲：舒奕(1)、HJLL (Dash Sound)(2,3)、dDedalus(4,5,7,10,14)、ESTIMATE(6,8)、Redux(9)、Salty Salt(VISION SOUND)(11,13)、TERRY ZHONG(钟天利)(12)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-08-12T09:05:36.320Z"
+    "submittedAt": "2026-08-20T11:02:21.604Z"
   }
 }
