@@ -1,0 +1,184 @@
+{
+  "subjectId": 697068,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:92686",
+            "text": "zeroth"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:49541",
+              "text": "Mameyudoufu"
+            },
+            " × ",
+            {
+              "ref": "p:69027",
+              "text": "星名はる"
+            }
+          ]
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68921",
+            "text": "RYOQUCHA"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ZoeEngine"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69025",
+            "text": "VOLTA"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "savogy"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66918",
+            "text": "Riku"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36649",
+            "text": "siqlo"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73874",
+            "text": "Assertive"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47385",
+            "text": "KARUT"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71676",
+            "text": "Aethral"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67237",
+            "text": "rejection"
+          }
+        }
+      ]
+    },
+    "1.13": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47393",
+            "text": "YUKIYANAGI"
+          }
+        }
+      ]
+    },
+    "1.14": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72804",
+            "text": "Mylta"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:49541",
+          "text": "Mameyudoufu"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "母带制作：Mameyudoufu\n\n艺术家：zeroth(1)、Mameyudoufu × 星名はる(2)、RYOQUCHA(3)、ZoeEngine(4)、VOLTA(5)、savogy(6)、Riku(7)、siqlo(8)、Assertive(9)、KARUT(10)、Aethral(11)、rejection(12)、YUKIYANAGI(13)、Mylta(14)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-08-22T16:55:40.970Z"
+  }
+}
