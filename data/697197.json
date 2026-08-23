@@ -11,22 +11,6 @@
             },
             " (",
             {
-              "ref": "p:8782",
-              "text": "Powerless"
-            },
-            ")"
-          ]
-        }
-      ],
-      "lyricist": [
-        {
-          "parts": [
-            {
-              "ref": null,
-              "text": "無力P"
-            },
-            " (",
-            {
               "ref": null,
               "text": "Powerless"
             },
@@ -45,7 +29,7 @@
             },
             " (",
             {
-              "ref": "p:8782",
+              "ref": null,
               "text": "Powerless"
             },
             ")"
@@ -72,7 +56,7 @@
             },
             " (",
             {
-              "ref": "p:8782",
+              "ref": null,
               "text": "Powerless"
             },
             ")"
@@ -99,7 +83,7 @@
             },
             " (",
             {
-              "ref": "p:8782",
+              "ref": null,
               "text": "Powerless"
             },
             ")"
@@ -126,7 +110,7 @@
             },
             " (",
             {
-              "ref": "p:8782",
+              "ref": null,
               "text": "Powerless"
             },
             ")"
@@ -142,7 +126,7 @@
             },
             " (",
             {
-              "ref": "p:8782",
+              "ref": null,
               "text": "Powerless"
             },
             ")"
@@ -160,7 +144,7 @@
             },
             " (",
             {
-              "ref": "p:8782",
+              "ref": null,
               "text": "Powerless"
             },
             ")"
@@ -183,7 +167,7 @@
             },
             " (",
             {
-              "ref": "p:8782",
+              "ref": null,
               "text": "Powerless"
             },
             ")"
@@ -197,7 +181,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:67100",
+          "ref": null,
           "text": "Powerless Sounds"
         }
       }
@@ -211,7 +195,7 @@
           },
           " (",
           {
-            "ref": "p:8782",
+            "ref": null,
             "text": "Powerless"
           },
           ")"
@@ -222,7 +206,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:48924",
+          "ref": null,
           "text": "Puru"
         }
       }
@@ -231,18 +215,18 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:66076",
+          "ref": null,
           "text": "AO"
         }
       }
     ]
   },
   "rawPatches": {
-    "editor": "厂牌：Powerless Sounds\n混音：無力P(Powerless)\n母带制作：Puru\n插图：AO\n\n艺术家：無力P(Powerless)(1,2,3,4,5,6)、ゆよゆっぺ(6)\n作词：無力P(Powerless)(1,5,6)、5(2,3)、AO(4)"
+    "editor": "厂牌：Powerless Sounds\n混音：無力P(Powerless)\n母带制作：Puru\n插图：AO\n\n艺术家：無力P(Powerless)(1,2,3,4,5,6)、ゆよゆっぺ(6)\n作词：無力P(Powerless)(5,6)、5(2,3)、AO(4)"
   },
   "_meta": {
     "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-08-23T12:44:17.970Z"
+    "submittedAt": "2026-08-23T12:45:23.522Z"
   }
 }
