@@ -1,0 +1,127 @@
+{
+  "subjectId": 697127,
+  "trackCredits": {
+    "1.5": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "的确如此如确的"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "的确如此如确的"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "的确如此如确的"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "的确如此如确的"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "树树"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "树树"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "树树"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "塑料小猪销售中心"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "塑料小猪销售中心"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "塑料小猪销售中心"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:70256",
+          "text": "麓山酿造所"
+        }
+      }
+    ],
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:70257",
+          "text": "神遛儿"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：塑料小猪销售中心\n作曲：塑料小猪销售中心\n编曲：塑料小猪销售中心\n厂牌：麓山酿造所\n制作人：神遛儿\n\n编曲：的确如此如确的(5)、树树(10)\n录音：的确如此如确的(5)\n混音：的确如此如确的(5)、树树(10)\n母带制作：的确如此如确的(5)、树树(10)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-08-23T07:28:52.372Z"
+  }
+}
