@@ -62,7 +62,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:101303",
+          "ref": null,
           "text": "TN163"
         }
       }
@@ -71,7 +71,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:101303",
+          "ref": null,
           "text": "TN163"
         }
       }
@@ -80,7 +80,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:101303",
+          "ref": null,
           "text": "TN163"
         }
       }
@@ -98,7 +98,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:101303",
+          "ref": null,
           "text": "TN163"
         }
       }
@@ -111,14 +111,48 @@
           "text": "FN1U"
         }
       }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "碎番茄Broken_T"
+        }
+      }
+    ],
+    "custom-调声": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "TN163"
+        }
+      }
+    ],
+    "custom-制作协力": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "s62"
+          },
+          " (",
+          {
+            "ref": "p:70257",
+            "text": "神遛儿"
+          },
+          ")"
+        ]
+      }
     ]
   },
   "rawPatches": {
-    "editor": "作词：TN163\n作曲：TN163\n编曲：TN163\n厂牌：麓山酿造所\n录音：TN163\n母带制作：FN1U\n\n混音：FN1U(1,2)、TN163(3,5)、Shuttle(4)"
+    "editor": "作词：TN163\n作曲：TN163\n编曲：TN163\n厂牌：麓山酿造所\n录音：TN163\n母带制作：FN1U\n设计: 碎番茄Broken_T\ncustom-调声: TN163\ncustom-制作协力: s62 (神遛儿)\n\n混音：FN1U(1,2)、TN163(3,5)、Shuttle(4)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-08-23T07:14:21.421Z"
+    "submittedAt": "2026-08-23T07:15:05.895Z"
   }
 }
