@@ -11,7 +11,7 @@
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:8782",
               "text": "Powerless"
             },
             ")"
@@ -29,7 +29,7 @@
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:8782",
               "text": "Powerless"
             },
             ")"
@@ -56,7 +56,7 @@
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:8782",
               "text": "Powerless"
             },
             ")"
@@ -83,7 +83,7 @@
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:8782",
               "text": "Powerless"
             },
             ")"
@@ -110,7 +110,7 @@
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:8782",
               "text": "Powerless"
             },
             ")"
@@ -126,7 +126,7 @@
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:8782",
               "text": "Powerless"
             },
             ")"
@@ -144,7 +144,7 @@
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:8782",
               "text": "Powerless"
             },
             ")"
@@ -167,7 +167,7 @@
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:8782",
               "text": "Powerless"
             },
             ")"
@@ -181,7 +181,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:67100",
           "text": "Powerless Sounds"
         }
       }
@@ -195,7 +195,7 @@
           },
           " (",
           {
-            "ref": null,
+            "ref": "p:8782",
             "text": "Powerless"
           },
           ")"
@@ -206,7 +206,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:48924",
           "text": "Puru"
         }
       }
@@ -215,7 +215,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:66076",
           "text": "AO"
         }
       }
@@ -227,6 +227,6 @@
   "_meta": {
     "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-08-23T12:45:23.522Z"
+    "submittedAt": "2026-08-23T12:45:41.616Z"
   }
 }
