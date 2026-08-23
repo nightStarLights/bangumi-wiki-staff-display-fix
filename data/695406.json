@@ -113,13 +113,8 @@
             },
             " (",
             {
-              "ref": null,
-              "text": "He"
-            },
-            " x ",
-            {
-              "ref": null,
-              "text": "acube"
+              "ref": "p:82121",
+              "text": "Hexacube"
             },
             ")"
           ]
@@ -216,18 +211,18 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:100573",
+          "ref": null,
           "text": "だんごむし"
         }
       }
     ]
   },
   "rawPatches": {
-    "editor": "厂牌：Thoughost\n母带制作：Joulez\n插图：だんごむし\n\n艺术家：Actually(1)、七森中☆でんぱ部(2)、DENPA-SAMPLER(SANY-ON)(3)、DazzEdgh(望月真白)(4)、Nirotiy(5)、pencil(6)、Project-G(7)、uet(8)、COPYRiGHT JOKER(Hexacube)(9)、Yakumo(10)、kiralitch(11)、Mqs_T(12)、Broken Nerdz(13)、望月真白(14)、潮音きつね(15)"
+    "editor": "厂牌：Thoughost\n母带制作：Joulez\n插图：だんごむし\n\n艺术家：Actually(1)、七森中☆でんぱ部(2)、DENPA-SAMPLER (SANY-ON)(3)、DazzEdgh(望月真白)(4)、Nirotiy(5)、pencil(6)、Project-G(7)、uet(8)、COPYRiGHT JOKER (Hexacube)(9)、Yakumo(10)、kiralitch(11)、Mqs_T(12)、Broken Nerdz(13)、望月真白(14)、潮音きつね(15)"
   },
   "_meta": {
-    "submittedBy": "809907",
+    "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-08-12T20:13:59.254Z"
+    "submittedAt": "2026-08-23T06:55:53.429Z"
   }
 }
