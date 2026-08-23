@@ -1,0 +1,124 @@
+{
+  "subjectId": 697119,
+  "trackCredits": {
+    "1.1": {
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "FN1U"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "FN1U"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "TN163"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "TN163"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Shuttle"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "TN163"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "TN163"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "TN163"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:70256",
+          "text": "麓山酿造所"
+        }
+      }
+    ],
+    "recording": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "TN163"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "FN1U"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "作词：TN163\n作曲：TN163\n编曲：TN163\n厂牌：麓山酿造所\n录音：TN163\n母带制作：FN1U\n\n混音：FN1U(1,2)、TN163(3,5)、Shuttle(4)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-08-23T07:14:14.693Z"
+  }
+}
