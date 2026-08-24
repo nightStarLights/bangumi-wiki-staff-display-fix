@@ -1,0 +1,1934 @@
+{
+  "subjectId": 687510,
+  "trackCredits": {
+    "1.18": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hyunmin Cho"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hyunmin Cho"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hyunmin Cho"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hyunmin Cho"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Abbey Road Studios"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Christian Wright"
+          }
+        }
+      ]
+    },
+    "1.19": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Edine"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Edine"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Scott Henderson"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Abbey Road Studios"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Christian Wright"
+          }
+        }
+      ],
+      "custom-制作": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Edine"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "MSR Studio"
+          }
+        }
+      ]
+    },
+    "1.20": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ceru_"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ceru_"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ceru_"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "明家歆"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ceru_"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ceru_"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Abbey Road Studios"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Christian Wright"
+          }
+        }
+      ]
+    },
+    "1.30": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ceru_"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:88148",
+            "text": "BLACK 0"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:88148",
+            "text": "BLACK 0"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "明家歆"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "MSR Studio"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:88148",
+            "text": "BLACK 0"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:88148",
+            "text": "BLACK 0"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Abbey Road Studios"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Christian Wright"
+          }
+        }
+      ]
+    },
+    "1.21": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Sephid"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "MSR Studio"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:74540",
+            "text": "Salty Salt"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Sephid"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "MSR Studio"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:74540",
+            "text": "Salty Salt"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Sephid"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Kkoori"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "钱润玉"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "MSR Studio"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:74540",
+            "text": "Salty Salt"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Abbey Road Studios"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Christian Wright"
+          }
+        }
+      ],
+      "custom-制作": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:74540",
+            "text": "Salty Salt"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "VISION SOUND"
+          }
+        }
+      ]
+    },
+    "1.24": {
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Crywolf"
+            },
+            " (",
+            {
+              "ref": "p:93593",
+              "text": "Justin Phillips"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "YMIR"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Crywolf"
+            },
+            " (",
+            {
+              "ref": "p:93593",
+              "text": "Justin Phillips"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "YMIR"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Crywolf"
+            },
+            " (",
+            {
+              "ref": "p:93593",
+              "text": "Justin Phillips"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "YMIR"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Crywolf"
+            },
+            " (",
+            {
+              "ref": "p:93593",
+              "text": "Justin Phillips"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "YMIR"
+          }
+        }
+      ]
+    },
+    "1.26": {
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Crywolf"
+            },
+            " (",
+            {
+              "ref": "p:93593",
+              "text": "Justin Phillips"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "YMIR"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Crywolf"
+            },
+            " (",
+            {
+              "ref": "p:93593",
+              "text": "Justin Phillips"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "YMIR"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Crywolf"
+            },
+            " (",
+            {
+              "ref": "p:93593",
+              "text": "Justin Phillips"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "YMIR"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Crywolf"
+            },
+            " (",
+            {
+              "ref": "p:93593",
+              "text": "Justin Phillips"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "YMIR"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Tal Richards"
+          }
+        }
+      ]
+    },
+    "1.27": {
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Crywolf"
+            },
+            " (",
+            {
+              "ref": "p:93593",
+              "text": "Justin Phillips"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "YMIR"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Crywolf"
+            },
+            " (",
+            {
+              "ref": "p:93593",
+              "text": "Justin Phillips"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "YMIR"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Crywolf"
+            },
+            " (",
+            {
+              "ref": "p:93593",
+              "text": "Justin Phillips"
+            },
+            ")"
+          ]
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Tal Richards"
+          }
+        }
+      ]
+    },
+    "1.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "浅見武男"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "浅見武男"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "浅見武男"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "浅見武男"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Abbey Road Studios"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Christian Wright"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ceru_"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ceru_"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ceru_"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ceru_"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Abbey Road Studios"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Christian Wright"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ceru_"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ceru_"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ceru_"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ceru_"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Abbey Road Studios"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Christian Wright"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ceru_"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ceru_"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ceru_"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ceru_"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Abbey Road Studios"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Christian Wright"
+          }
+        }
+      ]
+    },
+    "1.17": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ceru_"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ceru_"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ceru_"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ceru_"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Abbey Road Studios"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Christian Wright"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hyunmin Cho"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hyunmin Cho"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hyunmin Cho"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hyunmin Cho"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Abbey Road Studios"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Christian Wright"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hyunmin Cho"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hyunmin Cho"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hyunmin Cho"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hyunmin Cho"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Abbey Road Studios"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Christian Wright"
+          }
+        }
+      ]
+    },
+    "1.16": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hyunmin Cho"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hyunmin Cho"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hyunmin Cho"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hyunmin Cho"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Abbey Road Studios"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Christian Wright"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "李化禹"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "李化禹"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "李化禹"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "李化禹"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Abbey Road Studios"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Christian Wright"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "DAVID MURILLO"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "DAVID MURILLO"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "moroi."
+          }
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "moroi."
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "moroi."
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Abbey Road Studios"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Christian Wright"
+          }
+        }
+      ],
+      "custom-制作": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Bleeding Fingers Music"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "moroi."
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "LCwwww"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "林奕晨"
+            },
+            ")"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47570",
+            "text": "Feryquitous"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47570",
+            "text": "Feryquitous"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Abbey Road Studios"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Christian Wright"
+          }
+        }
+      ],
+      "custom-制作": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Sean Zhu"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:67699",
+            "text": "土屋玲子"
+          },
+          "inst": "Erhu"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:67699",
+            "text": "土屋玲子"
+          },
+          "inst": "Violin"
+        }
+      ],
+      "custom-音乐制作": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "灵泉音频工作室"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "AION"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hahlweg"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "AION"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hahlweg"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Lukas Knoebl"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Lukas Knoebl"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Abbey Road Studios"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Christian Wright"
+          }
+        }
+      ],
+      "custom-制作": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Unisonar"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Nick Froud"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Nick Froud"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Abbey Road Studios"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Christian Wright"
+          }
+        }
+      ],
+      "custom-制作": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Unisonar"
+          }
+        }
+      ]
+    },
+    "1.13": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Nick Froud"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Nick Froud"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Abbey Road Studios"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Christian Wright"
+          }
+        }
+      ],
+      "custom-制作": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Unisonar"
+          }
+        }
+      ]
+    },
+    "1.14": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "汤汤"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "汤汤"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "汤汤"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "朱剑"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "朱剑"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Abbey Road Studios"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Christian Wright"
+          }
+        }
+      ]
+    },
+    "1.15": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Jean-Gabriel Raynaud"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71486",
+            "text": "原田萌喜"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Jean-Gabriel Raynaud"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71486",
+            "text": "原田萌喜"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "明家歆"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Abbey Road Studios"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Christian Wright"
+          }
+        }
+      ],
+      "custom-制作": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Unisonar"
+          }
+        }
+      ]
+    },
+    "1.23": {
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Crywolf"
+            },
+            " (",
+            {
+              "ref": "p:93593",
+              "text": "Justin Phillips"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "YMIR"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Crywolf"
+            },
+            " (",
+            {
+              "ref": "p:93593",
+              "text": "Justin Phillips"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "YMIR"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Crywolf"
+            },
+            " (",
+            {
+              "ref": "p:93593",
+              "text": "Justin Phillips"
+            },
+            ")"
+          ]
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "HD-4884"
+          }
+        }
+      ]
+    },
+    "1.25": {
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Crywolf"
+            },
+            " (",
+            {
+              "ref": "p:93593",
+              "text": "Justin Phillips"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "YMIR"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Crywolf"
+            },
+            " (",
+            {
+              "ref": "p:93593",
+              "text": "Justin Phillips"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "YMIR"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Tal Richards"
+          }
+        }
+      ]
+    },
+    "1.28": {
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Terry Zhong"
+            },
+            " (",
+            {
+              "ref": "p:95630",
+              "text": "钟天利"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Synthetic"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Terry Zhong"
+            },
+            " (",
+            {
+              "ref": "p:95630",
+              "text": "钟天利"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Synthetic"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Synthetic"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Abbey Road Studios"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Christian Wright"
+          }
+        }
+      ]
+    },
+    "1.29": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "早餐"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "早餐"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "阿澜"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "早餐"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "早餐"
+          }
+        }
+      ]
+    },
+    "1.22": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "N2V"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "N2V"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Abbey Road Studios"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Christian Wright"
+          }
+        }
+      ],
+      "custom-制作": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "VISION SOUND"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "N2V"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "铁痕电台-MSR"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：铁痕电台-MSR\n\n作词：Hyunmin Cho(18)、Edine(19)、Ceru_(20,30)、Sephid(21)、MSR Studio(21)、Crywolf(Justin Phillips)(24,26,27)、YMIR(24,26,27)\n作曲：浅見武男(1)、Ceru_(2,3,4,17,20)、Hyunmin Cho(5,6,16,18)、李化禹(7)、DAVID MURILLO(8)、LCwwww(林奕晨)(9)、AION(10)、Hahlweg(10)、Lukas Knoebl(11)、Nick Froud(12,13)、汤汤(14)、Jean-Gabriel Raynaud(15)、原田萌喜(15)、Edine(19)、Salty Salt(21)、Sephid(21)、MSR Studio(21)、Crywolf(Justin Phillips)(23,24,25,26,27)、YMIR(23,24,25,26,27)、Terry Zhong(钟天利)(28)、Synthetic(28)、早餐(29)、BLACK 0(30)\n编曲：浅見武男(1)、Ceru_(2,3,4,17,20)、Hyunmin Cho(5,6,16,18)、李化禹(7)、DAVID MURILLO(8)、moroi.(8)、Feryquitous(9)、AION(10)、Hahlweg(10)、Lukas Knoebl(11)、Nick Froud(12,13)、汤汤(14)、Jean-Gabriel Raynaud(15)、原田萌喜(15)、Scott Henderson(19)、Salty Salt(21)、Sephid(21)、N2V(22)、Crywolf(Justin Phillips)(23,24,25,26)、YMIR(23,24,25,26)、Terry Zhong(钟天利)(28)、Synthetic(28)、早餐(29)、BLACK 0(30)\n声乐：汤汤(14)、明家歆(15,20,30)、Kkoori(21)、钱润玉(21)、Crywolf(Justin Phillips)(23,24,26,27)、YMIR(24,26)、阿澜(29)\n录音：浅見武男(1)、Ceru_(2,3,4,17,20)、Hyunmin Cho(5,6,16)、李化禹(7)、moroi.(8)、朱剑(14)、早餐(29)、MSR Studio(30)、BLACK 0(30)\n混音：浅見武男(1)、Ceru_(2,3,4,17,20)、Hyunmin Cho(5,6,16,18)、李化禹(7)、moroi.(8)、Feryquitous(9)、朱剑(14)、MSR Studio(21)、Salty Salt(21)、N2V(22)、HD-4884(23)、Tal Richards(25,26,27)、Synthetic(28)、早餐(29)、BLACK 0(30)\n母带制作：Abbey Road Studios(1,2,3,4,5,6,7,8,9,11,12,13,14,15,16,17,18,19,20,21,22,28,30)、Christian Wright(1,2,3,4,5,6,7,8,9,11,12,13,14,15,16,17,18,19,20,21,22,28,30)\ncustom-制作：Bleeding Fingers Music(8)、moroi.(8)、Sean Zhu(9)、Unisonar(11,12,13,15)、Edine(19)、MSR Studio(19)、Salty Salt(21)、VISION SOUND(21,22)、N2V(22)\n乐器-Erhu：土屋玲子(9)\n乐器-Violin：土屋玲子(9)\ncustom-音乐制作：灵泉音频工作室(9)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-08-24T05:19:11.006Z"
+  }
+}
