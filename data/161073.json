@@ -1,0 +1,272 @@
+{
+  "subjectId": 161073,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "hinayukki"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "仕事してP"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "2.10": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "hinayukki"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "仕事してP"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "風雅なおと"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "hal/halP"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Re:nG"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "うらら"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "わんだらP"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "yanagi"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "足立賢明"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "liam"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "彩埜/銀鱗P"
+          }
+        }
+      ]
+    },
+    "2.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "yuukiss"
+          }
+        }
+      ]
+    },
+    "2.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "イントロP"
+          }
+        }
+      ]
+    },
+    "2.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "mayuko"
+          }
+        }
+      ]
+    },
+    "2.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "あまつき/ビタワンＰ"
+          }
+        }
+      ]
+    },
+    "2.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "新城P"
+          }
+        }
+      ]
+    },
+    "2.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "青磁/即興電P"
+          }
+        }
+      ]
+    },
+    "2.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "テンネン"
+          }
+        }
+      ]
+    },
+    "2.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ベース缶P"
+          }
+        }
+      ]
+    },
+    "2.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "アゴアニキ"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "KITC Project"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "liam"
+        }
+      }
+    ],
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "うむ"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：KITC Project\n母带制作：liam\n制作人：うむ\n\n艺术家：hinayukki(仕事してP)(1.1,2.10)、《hal/halP》(1.2)、Re:nG(1.3)、うらら(1.4)、わんだらP(1.5)、yanagi(1.6)、足立賢明(1.7)、liam(1.8)、《彩埜/銀鱗P》(1.9)、yuukiss(2.1)、イントロP(2.2)、mayuko(2.3)、《あまつき/ビタワンＰ》(2.4)、新城P(2.5)、《青磁/即興電P》(2.6)、テンネン(2.7)、ベース缶P(2.8)、アゴアニキ(2.9)、風雅なおと(2.10)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-08-25T04:48:17.483Z"
+  }
+}
