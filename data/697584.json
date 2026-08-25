@@ -256,7 +256,7 @@
         }
       ]
     },
-    "1.8": {
+    "1.7": {
       "artist": [
         {
           "type": "person",
@@ -333,7 +333,7 @@
         }
       ]
     },
-    "1.10": {
+    "1.9": {
       "artist": [
         {
           "type": "person",
@@ -378,7 +378,7 @@
         }
       ]
     },
-    "1.11": {
+    "1.10": {
       "artist": [
         {
           "type": "person",
@@ -458,7 +458,7 @@
         }
       ]
     },
-    "1.12": {
+    "1.11": {
       "artist": [
         {
           "type": "person",
@@ -537,7 +537,7 @@
         }
       ]
     },
-    "1.9": {
+    "1.8": {
       "composer": [
         {
           "type": "person",
@@ -687,11 +687,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "厂牌：Artificial Monowings\n母带制作：Kusua\n插图：AstralApocalypse\n制作人：Kusua\n设计：Otasagi\ncustom-人声调教：Kusua\ncustom-合作者：ABEREXX、Afrixon、Aletta、Max 3、Silvrskye、Speraymer、Supa7onyz、watch、似雨、铃暮Moor\n\n艺术家：小春六花(2)、初音ミク(3)、ナースロボ_タイプT(4)、冥鳴ひまり(5)、Anri(6)、Eleanor Forte(8)、重音テト(10)、星尘Infinity(11)、诗岸(12)\n作词：Kusua(2,4,5,8,12)、似雨(2,6,12)、铃暮Moor(10)、Speraymer(11)\n作曲：Kusua(1,2,3,4,5,6,8,9,10,11,12)、ABEREXX(3)、Supa7onyz(4)、Afrixon(6,12)、Speraymer(8,11)、watch(10)、3(11)、Max(11)\n编曲：Kusua(1,2,3,4,5,8,9,11,12)、ABEREXX(3)、Supa7onyz(4)、Silvrskye(6)、Speraymer(8,11)、watch(10)、3(11)、Max(11)、Afrixon(12)\n声乐：夏色花梨(2)、花隈千冬(2,8)、小春六花(6)、GUMI(6)、海伊(8)\ncustom-人声：ナースロボ＿タイプＴ(8)"
+    "editor": "厂牌：Artificial Monowings\n母带制作：Kusua\n插图：AstralApocalypse\n制作人：Kusua\n设计：Otasagi\ncustom-人声调教：Kusua\ncustom-合作者：ABEREXX、Afrixon、Aletta、Max 3、Silvrskye、Speraymer、Supa7onyz、watch、似雨、铃暮Moor\n\n艺术家：小春六花(2)、初音ミク(3)、ナースロボ_タイプT(4)、冥鳴ひまり(5)、Anri(6)、Eleanor Forte(7)、重音テト(9)、星尘Infinity(10)、诗岸(11)\n作词：Kusua(2,4,5,7,11)、似雨(2,6,11)、铃暮Moor(9)、Speraymer(10)\n作曲：Kusua(1,2,3,4,5,6,7,8,9,10,11)、ABEREXX(3)、Supa7onyz(4)、Afrixon(6,11)、Speraymer(7,10)、watch(9)、3(10)、Max(10)\n编曲：Kusua(1,2,3,4,5,7,8,10,11)、ABEREXX(3)、Supa7onyz(4)、Silvrskye(6)、Speraymer(7,10)、watch(9)、3(10)、Max(10)、Afrixon(11)\n声乐：夏色花梨(2)、花隈千冬(2,7)、小春六花(6)、GUMI(6)、海伊(7)\ncustom-人声：ナースロボ＿タイプＴ(7)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-08-25T16:55:45.924Z"
+    "submittedAt": "2026-08-25T16:56:40.033Z"
   }
 }
