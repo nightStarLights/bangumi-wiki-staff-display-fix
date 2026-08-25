@@ -11,7 +11,7 @@
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:9646",
               "text": "仕事してP"
             },
             ")"
@@ -29,7 +29,7 @@
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:9646",
               "text": "仕事してP"
             },
             ")"
@@ -38,7 +38,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:6252",
             "text": "風雅なおと"
           }
         }
@@ -60,7 +60,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:56467",
             "text": "Re:nG"
           }
         }
@@ -71,7 +71,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:27144",
             "text": "うらら"
           }
         }
@@ -267,6 +267,6 @@
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-08-25T04:48:17.483Z"
+    "submittedAt": "2026-08-25T04:48:39.456Z"
   }
 }
