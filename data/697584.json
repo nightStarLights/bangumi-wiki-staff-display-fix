@@ -572,7 +572,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:101622",
+          "ref": null,
           "text": "Kusua"
         }
       }
@@ -590,7 +590,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:101622",
+          "ref": null,
           "text": "Kusua"
         }
       }
@@ -692,6 +692,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-08-25T16:56:40.033Z"
+    "submittedAt": "2026-08-25T16:56:49.286Z"
   }
 }
