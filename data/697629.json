@@ -335,7 +335,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:96622",
           "text": "Excillex"
         }
       }
@@ -381,6 +381,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-08-26T05:45:19.873Z"
+    "submittedAt": "2026-08-26T05:45:32.635Z"
   }
 }
