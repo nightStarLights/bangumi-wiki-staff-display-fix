@@ -1,0 +1,386 @@
+{
+  "subjectId": 697629,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "fortywinks."
+          }
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "kurasshu."
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "myriad"
+          }
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "如月青藍"
+          }
+        }
+      ],
+      "custom-演唱": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "那由歌"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "我们的音乐"
+          }
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "MKKF"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Surrender"
+          }
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73712",
+            "text": "W1ldflow3r"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "AK-ID"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Cometary Collision"
+          }
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Kamino Yoruneko"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "tears in rain"
+          }
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Voxelkana"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Regular Expression"
+          }
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Chemiscream"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Beloved"
+          }
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Afrixon"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "奇迹凝华企划"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "杏子haki"
+          }
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "myU"
+          }
+        }
+      ],
+      "custom-演唱": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "星尘Infinity"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "xit宇"
+          },
+          "inst": "吉他"
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "阈限城市"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "折返夏日"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "和岸"
+          }
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Yuty"
+          }
+        }
+      ],
+      "custom-演唱": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "永夜Minus"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "xit宇"
+          },
+          "inst": "吉他"
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "☆.·*ŧħɇ s̷øn̷ǥ øf ŧħɇ łøs̷ŧ s̷ŧa̷ɍs̷ ݁ . ⊹ + ݁."
+          }
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Airally"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "sorry for messing up your kitchen qwq"
+          }
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "非茗"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "出出神神"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Excillex"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "AAA沙县大酒店"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Vissas_貓青素"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "X-ENON"
+        }
+      }
+    ],
+    "custom-视频": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Rowmoon"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：fortywinks.(1)、myriad(2)、出出神神，我们的音乐(3)、Surrender(4)、Cometary Collision(5)、tears in rain(6)、Regular Expression(7)、Beloved(8)、奇迹凝华企划(9)、阈限城市(10)、折返夏日(10)、☆.·*ŧħɇ s̷øn̷ǥ øf ŧħɇ łøs̷ŧ s̷ŧa̷ɍs̷ ݁ . ⊹ + ݁.(11)、sorry for messing up your kitchen qwq(12)\n作词：杏子haki(9)、和岸(10)\n母带制作：Excillex\n厂牌：AAA沙县大酒店\n客串：kurasshu.(1)、如月青藍(2)、MKKF(3)、W1ldflow3r(4)、AK-ID(4)、Kamino Yoruneko(5)、Voxelkana(6)、Chemiscream(7)、Afrixon(8)、myU(9)、Yuty(10)、Airally(11)、非茗(12)\n和声：星尘Infinity(10)、诗岸(10)\n设计：Vissas_貓青素、X-ENON\ncustom-视频：Rowmoon\ncustom-演唱：那由歌(2)、星尘Infinity(9)、永夜Minus(10)\n乐器-吉他：xit宇(9,10)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-08-26T05:45:19.873Z"
+  }
+}
