@@ -1,0 +1,97 @@
+{
+  "subjectId": 697707,
+  "trackCredits": {
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70683",
+            "text": "cnsouka"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "FN1U"
+          }
+        }
+      ]
+    },
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:85224",
+            "text": "Koiflower"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:101303",
+            "text": "TN163"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36416",
+            "text": "小野道ono"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "萌星"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:87217",
+          "text": "dizzylab"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:70683",
+          "text": "cnsouka"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：cnsouka(4)、FN1U(3)、Koiflower(1)、TN163(5)、小野道ono(2)\n插图：萌星\n厂牌：dizzylab\n设计：cnsouka"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-08-26T10:34:47.496Z"
+  }
+}
