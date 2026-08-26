@@ -86,15 +86,6 @@
             "text": "Rainword"
           }
         }
-      ],
-      "featured": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:40140",
-            "text": "棗いつき"
-          }
-        }
       ]
     },
     "1.7": {
@@ -188,11 +179,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：P3T_SAYU(1,4,6)、ynz(1)、咕诗奈(2)、板烧鹅尼子(3)、AK-ID(4)、Rainword(5)、Tweswend(6)、816ThreeNumbers(7)、Hkzeling(8)、GBXIN(9)\n母带制作：Rainword\n插图：步反Merun\n厂牌：宅喵社\n设计：P3T_SAYU\ncustom-XFD：P3T_SAYU\ncustom-幕后感谢：GBXIN\n客串：棗いつき(5)"
+    "editor": "艺术家：P3T_SAYU(1,4,6)、ynz(1)、咕诗奈(2)、板烧鹅尼子(3)、AK-ID(4)、Rainword(5)、Tweswend(6)、816ThreeNumbers(7)、Hkzeling(8)、GBXIN(9)\n母带制作：Rainword\n插图：步反Merun\n厂牌：宅喵社\n设计：P3T_SAYU\ncustom-XFD：P3T_SAYU\ncustom-幕后感谢：GBXIN"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-08-26T05:32:56.489Z"
+    "submittedAt": "2026-08-26T08:04:39.730Z"
   }
 }
