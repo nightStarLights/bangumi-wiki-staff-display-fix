@@ -85,6 +85,29 @@
           }
         }
       ],
+      "custom-和声": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:46986",
+            "text": "倚水"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47240",
+            "text": "Poston."
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "metyao"
+          }
+        }
+      ],
       "recording": [
         {
           "type": "person",
@@ -450,6 +473,29 @@
             "text": "tette"
           }
         }
+      ],
+      "custom-和声": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Chiaki"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "七月ハヤセ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Rione Crazy Jelly"
+          }
+        }
       ]
     },
     "1.1": {
@@ -556,7 +602,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:70218",
+          "ref": null,
           "text": "しほ"
         }
       }
@@ -599,11 +645,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：しほ\n作词：aoiro code(2)、yoss(3)、なつめ千秋(4)、shikisai(5)、隣町本舗(6)、Guiano(7)、TOKOTOKO(8)、tette(9)、しほ(9)\n作曲：aoiro code(1,2,10)、yoss(3)、なつめ千秋(4)、shikisai(5)、隣町本舗(6)、Guiano(7)、TOKOTOKO(8)、tette(9)\n编曲：aoiro code(1,2,10)、yoss(3)、なつめ千秋(4)、shikisai(5)、隣町本舗(6)、Guiano(7)、TOKOTOKO(8)、tette(9)、佐々木正明(11)、Fukane(12)\n混音：秋元雄輔(1,2,5-7,10-12)、南石聡巳(3)、なつめ千秋(4)、友達募集P(8)\n母带制作：Yasuhiro Yanai\n插图：yur1ca\n和声：倚水(3)、Poston.(3)、metyao(3)、Chiaki(9)、七月ハヤセ(9)、Rione Crazy Jelly(9)\n设计：Saki Harukawa\ncustom-特别致谢：Takayuki Fukushima\n录音：Tacchi(2,3)、秋元雄輔(4,7)、友達募集P(8)\n乐器-Piano：Yuruto(3)、Oharu(4,8)\n乐器-Guitar：yoss(3)、Nekonyan(4)、shikisai(5)、Sayu(5)\n乐器-Bass：Hekuboki(3)、Tousaka(4)、Muromi(5)\n乐器-Drums：Mogunami(3)、樋口幸佑(8)"
+    "editor": "艺术家：しほ\n作词：aoiro code(2)、yoss(3)、なつめ千秋(4)、shikisai(5)、隣町本舗(6)、Guiano(7)、TOKOTOKO(8)、tette(9)、しほ(9)\n作曲：aoiro code(1,2,10)、yoss(3)、なつめ千秋(4)、shikisai(5)、隣町本舗(6)、Guiano(7)、TOKOTOKO(8)、tette(9)\n编曲：aoiro code(1,2,10)、yoss(3)、なつめ千秋(4)、shikisai(5)、隣町本舗(6)、Guiano(7)、TOKOTOKO(8)、tette(9)、佐々木正明(11)、Fukane(12)\n混音：秋元雄輔(1,2,5-7,10-12)、南石聡巳(3)、なつめ千秋(4)、友達募集P(8)\n母带制作：Yasuhiro Yanai\n插图：yur1ca\ncustom-和声：倚水(3)、Poston.(3)、metyao(3)、Chiaki(9)、七月ハヤセ(9)、Rione Crazy Jelly(9)\n设计：Saki Harukawa\ncustom-特别致谢：Takayuki Fukushima\n录音：Tacchi(2,3)、秋元雄輔(4,7)、友達募集P(8)\n乐器-Piano：Yuruto(3)、Oharu(4,8)\n乐器-Guitar：yoss(3)、Nekonyan(4)、shikisai(5)、Sayu(5)\n乐器-Bass：Hekuboki(3)、Tousaka(4)、Muromi(5)\n乐器-Drums：Mogunami(3)、樋口幸佑(8)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-08-26T11:56:30.269Z"
+    "submittedAt": "2026-08-26T11:59:42.023Z"
   }
 }
