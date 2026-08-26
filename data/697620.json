@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:69712",
             "text": "MUKKURi"
           }
         }
@@ -74,6 +74,6 @@
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-08-26T05:09:00.608Z"
+    "submittedAt": "2026-08-26T05:09:05.508Z"
   }
 }
