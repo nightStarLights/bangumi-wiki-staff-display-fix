@@ -428,7 +428,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:70218",
             "text": "しほ"
           }
         }
@@ -604,6 +604,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-08-26T11:56:10.698Z"
+    "submittedAt": "2026-08-26T11:56:14.265Z"
   }
 }
