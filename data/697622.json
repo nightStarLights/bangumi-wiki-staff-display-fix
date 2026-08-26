@@ -1,0 +1,297 @@
+{
+  "subjectId": 697622,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Seven惜"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "sisouja"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82272",
+            "text": "板烧鹅尼子"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82272",
+            "text": "板烧鹅尼子"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "喵子梨"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70695",
+            "text": "缨缨Ei"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "sisouja"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82272",
+            "text": "板烧鹅尼子"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82272",
+            "text": "板烧鹅尼子"
+          }
+        }
+      ],
+      "vocaledit": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "小洋"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "喵子梨"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70695",
+            "text": "缨缨Ei"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "sisouja"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82272",
+            "text": "板烧鹅尼子"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82272",
+            "text": "板烧鹅尼子"
+          }
+        }
+      ],
+      "vocaledit": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "小洋"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Mr兔_P"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70695",
+            "text": "缨缨Ei"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "sisouja"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82272",
+            "text": "板烧鹅尼子"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82272",
+            "text": "板烧鹅尼子"
+          }
+        }
+      ],
+      "vocaledit": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "小洋"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "流線型"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "馬門渓"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "sisouja"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82272",
+            "text": "板烧鹅尼子"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Fantasiay"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82272",
+            "text": "板烧鹅尼子"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:82272",
+          "text": "板烧鹅尼子"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "咬蛋Yarden"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：板烧鹅尼子\n艺术家：Seven惜(1)、缨缨Ei(2,4,5)、馬門渓(3)\n作词：sisouja(1-5)\n作曲：板烧鹅尼子(1-5)、Fantasiay(3)\n编曲：板烧鹅尼子(1-5)\n插图：咬蛋Yarden\n人声编辑：小洋(2,4,5)\n乐器-Guitar：喵子梨(1,2)、Mr兔_P(4)、流線型(5)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-08-26T05:16:12.520Z"
+  }
+}
