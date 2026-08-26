@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:8272",
             "text": "Clean Tears"
           }
         }
@@ -17,7 +17,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:8272",
             "text": "Clean Tears"
           }
         }
@@ -28,7 +28,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:9839",
             "text": "lol project"
           }
         }
@@ -39,7 +39,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:9839",
             "text": "lol project"
           }
         }
@@ -50,7 +50,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:9839",
             "text": "lol project"
           }
         }
@@ -61,7 +61,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:9839",
             "text": "lol project"
           }
         }
@@ -72,7 +72,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:7161",
             "text": "Thanatos"
           }
         }
@@ -83,7 +83,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:43563",
             "text": "LV.4"
           }
         }
@@ -94,7 +94,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:15734",
             "text": "Bernis"
           }
         }
@@ -105,7 +105,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:18203",
             "text": "Nago"
           }
         }
@@ -116,7 +116,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:67842",
             "text": "Yume"
           }
         }
@@ -129,6 +129,6 @@
   "_meta": {
     "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-08-26T13:41:46.819Z"
+    "submittedAt": "2026-08-26T13:42:05.382Z"
   }
 }
