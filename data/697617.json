@@ -116,7 +116,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:69937",
+            "ref": null,
             "text": "denshino"
           }
         }
@@ -127,7 +127,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:69931",
+            "ref": null,
             "text": "Capturelight"
           }
         }
@@ -138,7 +138,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:72806",
+            "ref": null,
             "text": "Totz"
           }
         }
@@ -154,7 +154,7 @@
             },
             " (",
             {
-              "ref": "p:65775",
+              "ref": null,
               "text": "煎茶"
             },
             ")"
@@ -192,14 +192,23 @@
           "text": "よし"
         }
       }
+    ],
+    "custom-设计": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Nia"
+        }
+      }
     ]
   },
   "rawPatches": {
-    "editor": "厂牌：XGeeks\n插图：よし\n\n艺术家：temura(1)、yumenoizchan(2)、OKAPi(4)、Nosqipe(5)、yukimuraoi(6)、Nemonoika(7)、40k1(8)、Nia(9)、yuden(10)、re_viticz(11)、denshino(12)、Capturelight(13)、Totz(14)、nenpulse(煎茶)(15)、℃(16)"
+    "editor": "厂牌：XGeeks\n插图：よし\ncustom-设计: Nia\n\n艺术家：temura(1)、yumenoizchan(2)、OKAPi(4)、Nosqipe(5)、yukimuraoi(6)、Nemonoika(7)、40k1(8)、Nia(9)、yuden(10)、re_viticz(11)、denshino(12)、Capturelight(13)、Totz(14)、nenpulse(煎茶)(15)、℃(16)"
   },
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-08-26T04:59:46.323Z"
+    "submittedAt": "2026-08-26T05:00:02.213Z"
   }
 }
