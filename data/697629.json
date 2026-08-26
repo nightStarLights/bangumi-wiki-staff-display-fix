@@ -56,7 +56,7 @@
           "type": "person",
           "person": {
             "ref": null,
-            "text": "我们的音乐"
+            "text": "出出神神，我们的音乐"
           }
         }
       ],
@@ -322,20 +322,11 @@
     }
   },
   "epinfo": {
-    "artist": [
-      {
-        "type": "person",
-        "person": {
-          "ref": null,
-          "text": "出出神神"
-        }
-      }
-    ],
     "mastering": [
       {
         "type": "person",
         "person": {
-          "ref": "p:96622",
+          "ref": null,
           "text": "Excillex"
         }
       }
@@ -376,11 +367,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：fortywinks.(1)、myriad(2)、出出神神，我们的音乐(3)、Surrender(4)、Cometary Collision(5)、tears in rain(6)、Regular Expression(7)、Beloved(8)、奇迹凝华企划(9)、阈限城市(10)、折返夏日(10)、☆.·*ŧħɇ s̷øn̷ǥ øf ŧħɇ łøs̷ŧ s̷ŧa̷ɍs̷ ݁ . ⊹ + ݁.(11)、sorry for messing up your kitchen qwq(12)\n作词：杏子haki(9)、和岸(10)\n母带制作：Excillex\n厂牌：AAA沙县大酒店\n客串：kurasshu.(1)、如月青藍(2)、MKKF(3)、W1ldflow3r(4)、AK-ID(4)、Kamino Yoruneko(5)、Voxelkana(6)、Chemiscream(7)、Afrixon(8)、myU(9)、Yuty(10)、Airally(11)、非茗(12)\n和声：星尘Infinity(10)、诗岸(10)\n设计：Vissas_貓青素、X-ENON\ncustom-视频：Rowmoon\ncustom-演唱：那由歌(2)、星尘Infinity(9)、永夜Minus(10)\n乐器-吉他：xit宇(9,10)"
+    "editor": "艺术家：fortywinks.(1)、myriad(2)、《出出神神，我们的音乐》(3)、Surrender(4)、Cometary Collision(5)、tears in rain(6)、Regular Expression(7)、Beloved(8)、奇迹凝华企划(9)、阈限城市(10)、折返夏日(10)、☆.·*ŧħɇ s̷øn̷ǥ øf ŧħɇ łøs̷ŧ s̷ŧa̷ɍs̷ ݁ . ⊹ + ݁.(11)、sorry for messing up your kitchen qwq(12)\n作词：杏子haki(9)、和岸(10)\n母带制作：Excillex\n厂牌：AAA沙县大酒店\n客串：kurasshu.(1)、如月青藍(2)、MKKF(3)、W1ldflow3r(4)、AK-ID(4)、Kamino Yoruneko(5)、Voxelkana(6)、Chemiscream(7)、Afrixon(8)、myU(9)、Yuty(10)、Airally(11)、非茗(12)\n和声：星尘Infinity(10)、诗岸(10)\n设计：Vissas_貓青素、X-ENON\ncustom-视频：Rowmoon\ncustom-演唱：那由歌(2)、星尘Infinity(9)、永夜Minus(10)\n乐器-吉他：xit宇(9,10)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-08-26T05:45:32.635Z"
+    "submittedAt": "2026-08-26T05:47:06.896Z"
   }
 }
