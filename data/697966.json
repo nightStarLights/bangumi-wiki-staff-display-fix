@@ -210,13 +210,6 @@
           "ref": null,
           "text": "ZaharaX"
         }
-      },
-      {
-        "type": "person",
-        "person": {
-          "ref": null,
-          "text": "RESOLVERS"
-        }
       }
     ],
     "lyricist": [
@@ -273,6 +266,13 @@
         "person": {
           "ref": null,
           "text": "Zxno World"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "RESOLVERS"
         }
       }
     ],
@@ -437,11 +437,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "制作人：ZaharaX、RESOLVERS\n艺术家：ZaharaX(1-11)、y²(1)、RZpew(3)、古明さき(4)、蓝蓑笠群外(5)、beam boom(6)、Flatline(7)、F1牛马甲(8)、Cru10r5(9)、谐奏波长(10)、Aka1ro(11)\n作词：y²、Cru10r5、谐奏波长\n母带制作：ZaharaX、Cru10r5\n插图：ZaharaX\n厂牌：Zxno World\n客串：y²(1)\n设计：ZaharaX、堇茉花、333xd\ncustom-制作：ZaharaX、y²、RZpew、古明さき、蓝蓑笠群外、bean boom、Flatline、F1牛马甲、Cru10r5、谐奏波长、Aka1ro\ncustom-封面：ZaharaX、堇茉花、333xd\ncustom-视效：333xd\ncustom-文案：ZaharaX\ncustom-监制：ZaharaX、333xd"
+    "editor": "制作人：ZaharaX、\n艺术家：ZaharaX(1-11)、y²(1)、RZpew(3)、古明さき(4)、蓝蓑笠群外(5)、beam boom(6)、Flatline(7)、F1牛马甲(8)、Cru10r5(9)、谐奏波长(10)、Aka1ro(11)\n作词：y²、Cru10r5、谐奏波长\n母带制作：ZaharaX、Cru10r5\n插图：ZaharaX\n厂牌：Zxno World / RESOLVERS\n客串：y²(1)\n设计：ZaharaX、堇茉花、333xd\ncustom-制作：ZaharaX、y²、RZpew、古明さき、蓝蓑笠群外、bean boom、Flatline、F1牛马甲、Cru10r5、谐奏波长、Aka1ro\ncustom-封面：ZaharaX、堇茉花、333xd\ncustom-视效：333xd\ncustom-文案：ZaharaX\ncustom-监制：ZaharaX、333xd"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-08-27T17:56:59.691Z"
+    "submittedAt": "2026-08-27T17:57:55.689Z"
   }
 }
