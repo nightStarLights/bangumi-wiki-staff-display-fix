@@ -157,11 +157,18 @@
     "1.13": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Broken Nerdz"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "Broken Nerdz"
+            },
+            " (",
+            {
+              "ref": "p:85205",
+              "text": "Supa7onyz"
+            },
+            ")"
+          ]
         }
       ]
     },
@@ -218,11 +225,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "厂牌：Thoughost\n母带制作：Joulez\n插图：だんごむし\n\n艺术家：Actually(1)、七森中☆でんぱ部(2)、DENPA-SAMPLER (SANY-ON)(3)、DazzEdgh(望月真白)(4)、Nirotiy(5)、pencil(6)、Project-G(7)、uet(8)、COPYRiGHT JOKER (Hexacube)(9)、Yakumo(10)、kiralitch(11)、Mqs_T(12)、Broken Nerdz(13)、望月真白(14)、潮音きつね(15)"
+    "editor": "厂牌：Thoughost\n母带制作：Joulez\n插图：だんごむし\n\n艺术家：Actually(1)、七森中☆でんぱ部(2)、DENPA-SAMPLER (SANY-ON)(3)、DazzEdgh(望月真白)(4)、Nirotiy(5)、pencil(6)、Project-G(7)、uet(8)、COPYRiGHT JOKER (Hexacube)(9)、Yakumo(10)、kiralitch(11)、Mqs_T(12)、Broken Nerdz (Supa7onyz)(13)、望月真白(14)、潮音きつね(15)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-08-23T06:55:53.429Z"
+    "submittedAt": "2026-08-27T18:36:29.194Z"
   }
 }
