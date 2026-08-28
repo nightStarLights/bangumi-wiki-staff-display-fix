@@ -1,0 +1,57 @@
+{
+  "subjectId": 698138,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93032",
+            "text": "newfn"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93033",
+            "text": "葉山結"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93035",
+            "text": "柑田夏芽"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93034",
+            "text": "丹下風"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：newfn(1)、葉山結(2)、柑田夏芽(3)、丹下風(4)"
+  },
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-08-28T11:35:45.100Z"
+  }
+}
