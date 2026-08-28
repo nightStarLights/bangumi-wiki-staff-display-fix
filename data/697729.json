@@ -2,7 +2,7 @@
   "subjectId": 697729,
   "trackCredits": {
     "1.1": {
-      "vocal": [
+      "artist": [
         {
           "type": "person",
           "person": {
@@ -13,7 +13,7 @@
       ]
     },
     "1.2": {
-      "vocal": [
+      "artist": [
         {
           "type": "person",
           "person": {
@@ -24,7 +24,7 @@
       ]
     },
     "1.4": {
-      "vocal": [
+      "artist": [
         {
           "type": "person",
           "person": {
@@ -35,7 +35,7 @@
       ]
     },
     "1.6": {
-      "vocal": [
+      "artist": [
         {
           "type": "person",
           "person": {
@@ -46,7 +46,7 @@
       ]
     },
     "1.7": {
-      "vocal": [
+      "artist": [
         {
           "type": "person",
           "person": {
@@ -57,7 +57,7 @@
       ]
     },
     "1.3": {
-      "vocal": [
+      "artist": [
         {
           "type": "person",
           "person": {
@@ -68,7 +68,7 @@
       ]
     },
     "1.5": {
-      "vocal": [
+      "artist": [
         {
           "type": "person",
           "person": {
@@ -79,7 +79,7 @@
       ]
     },
     "1.8": {
-      "vocal": [
+      "artist": [
         {
           "type": "person",
           "person": {
@@ -91,7 +91,7 @@
     }
   },
   "epinfo": {
-    "vocal": [
+    "artist": [
       {
         "type": "person",
         "person": {
@@ -102,11 +102,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "Vocal: Darkness Peach (1,2,4,6,7), DJ Momo (3), The Operation(5), FreshP(8)\nVocal: Black201"
+    "editor": "艺术家: Darkness Peach (1,2,4,6,7), DJ Momo (3), The Operation(5), FreshP(8)\n艺术家: Black201"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-08-28T05:12:58.582Z"
+    "submittedAt": "2026-08-28T05:13:17.946Z"
   }
 }
