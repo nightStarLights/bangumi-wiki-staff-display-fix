@@ -1,0 +1,198 @@
+{
+  "subjectId": 698009,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "POYOSHI"
+            },
+            " (",
+            {
+              "ref": "p:68275",
+              "text": "DJPoyoshi"
+            },
+            ")",
+            " & ",
+            {
+              "ref": null,
+              "text": "S2i8"
+            },
+            " & ",
+            {
+              "ref": null,
+              "text": "星名はる"
+            }
+          ]
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:6761",
+              "text": "DJ Shimamura"
+            },
+            " x ",
+            {
+              "ref": "p:67826",
+              "text": "Numb'n'dub"
+            },
+            " & ",
+            {
+              "ref": null,
+              "text": "MC SYUMI"
+            }
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Numb'n'dub"
+            },
+            " & ",
+            {
+              "ref": null,
+              "text": "MC SYUMI"
+            }
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6761",
+            "text": "DJ Shimamura"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6761",
+            "text": "DJ Shimamura"
+          }
+        }
+      ],
+      "chorus": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Numb'n'dub"
+            },
+            " & ",
+            {
+              "ref": null,
+              "text": "MC SYUMI"
+            }
+          ]
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6761",
+            "text": "DJ Shimamura"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:45460",
+            "text": "DJ Raisei"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:45460",
+            "text": "DJ Raisei"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6761",
+            "text": "DJ Shimamura"
+          }
+        }
+      ],
+      "chorus": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "hinata"
+            },
+            " (",
+            {
+              "ref": "p:38601",
+              "text": "海兎"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Y&Co.♡かつやかほり"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36649",
+            "text": "siqlo"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:34398",
+          "text": "MEGAREX"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：MEGAREX\n\n艺术家：POYOSHI (DJPoyoshi) & S2i8 & 星名はる(1)、DJ Shimamura x Numb'n'dub & MC SYUMI(2)、DJ Raisei(4)、Y&Co.♡かつやかほり(5)\n作词：Numb'n'dub & MC SYUMI(2)\n作曲：DJ Shimamura(2)、DJ Raisei(4)\n编曲：DJ Shimamura(2,4)、siqlo(3)\n声乐：Numb'n'dub & MC SYUMI(2)、hinata(海兎)(4)\n混音：DJ Shimamura(2)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-08-28T03:32:55.762Z"
+  }
+}
