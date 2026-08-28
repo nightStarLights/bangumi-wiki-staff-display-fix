@@ -28,7 +28,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:99619",
             "text": "Dreamira"
           }
         }
@@ -103,7 +103,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:92441",
           "text": "Kreuzwave"
         }
       }
@@ -149,6 +149,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-08-28T14:07:19.714Z"
+    "submittedAt": "2026-08-28T14:07:29.101Z"
   }
 }
