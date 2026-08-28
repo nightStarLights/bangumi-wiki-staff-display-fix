@@ -1,0 +1,112 @@
+{
+  "subjectId": 697729,
+  "trackCredits": {
+    "1.1": {
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Darkness Peach"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Darkness Peach"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Darkness Peach"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Darkness Peach"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Darkness Peach"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:74288",
+            "text": "DJ Momo"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "The Operation"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:74288",
+            "text": "FreshP"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "vocal": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:74288",
+          "text": "Black201"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "Vocal: Darkness Peach (1,2,4,6,7), DJ Momo (3), The Operation(5), FreshP(8)\nVocal: Black201"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-08-28T05:12:58.582Z"
+  }
+}
