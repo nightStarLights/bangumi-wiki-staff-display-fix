@@ -271,7 +271,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:94823",
           "text": "RESOLVERS"
         }
       }
@@ -306,6 +306,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-08-27T17:58:26.699Z"
+    "submittedAt": "2026-08-28T14:26:57.451Z"
   }
 }
