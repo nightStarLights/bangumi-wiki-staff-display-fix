@@ -1,0 +1,147 @@
+{
+  "subjectId": 698004,
+  "trackCredits": {
+    "2.7": {
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Mira.Z"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "夏铜子"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Rabbit J"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Rabbit J"
+          }
+        }
+      ],
+      "chorus": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "夏铜子"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "G.K"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "G.K"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Marc Baril"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Paul Ruskay"
+        }
+      },
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "Tenyu"
+          },
+          " (",
+          {
+            "ref": null,
+            "text": "天遊"
+          },
+          ")"
+        ]
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Xin"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "山崎泰之"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Luminium Studio"
+        }
+      }
+    ],
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "G.K"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "G.K"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：G.K\n作曲：G.K、Marc Baril、Paul Ruskay、Tenyu(天遊)、Xin、山崎泰之\n厂牌：Luminium Studio\n混音：G.K\n母带制作：G.K\n\n作词：Mira.Z(夏铜子)(2.7)\n作曲：Rabbit J(2.7)\n编曲：Rabbit J(2.7)\n声乐：夏铜子(2.7)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-08-28T02:50:16.262Z"
+  }
+}
