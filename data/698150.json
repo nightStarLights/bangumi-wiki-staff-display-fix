@@ -1,0 +1,154 @@
+{
+  "subjectId": 698150,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:92379",
+            "text": "LESSISLESS"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81909",
+            "text": "Ishiro"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Dreamira"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ElousΛ.-FZ"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "minus7LUFS"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "C'Ryantic"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Panthullu"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:92379",
+          "text": "LESSISLESS"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:84121",
+          "text": "xiaoraini"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:92170",
+          "text": "Saclia"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Kreuzwave"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Panthullu"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "C'Ryantic"
+        }
+      }
+    ],
+    "custom-视频设计": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Zeth"
+        }
+      }
+    ],
+    "custom-支持": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "SiaDoU"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：C'Ryantic、Panthullu\n艺术家：LESSISLESS(1)、Ishiro(2)、Dreamira(3)、ElousΛ.-FZ(4)、minus7LUFS(5)\n母带制作：LESSISLESS\n插图：xiaoraini、Saclia\n厂牌：Kreuzwave\n设计：Panthullu、C'Ryantic\ncustom-视频设计：Zeth\ncustom-支持：SiaDoU"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-08-28T14:07:19.714Z"
+  }
+}
