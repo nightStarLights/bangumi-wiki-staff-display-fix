@@ -11,7 +11,7 @@
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:85783",
               "text": "夏铜子"
             },
             ")"
@@ -22,7 +22,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:85781",
             "text": "Rabbit J"
           }
         }
@@ -31,7 +31,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:85781",
             "text": "Rabbit J"
           }
         }
@@ -40,7 +40,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:85783",
             "text": "夏铜子"
           }
         }
@@ -52,7 +52,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:41975",
           "text": "G.K"
         }
       }
@@ -61,7 +61,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:41975",
           "text": "G.K"
         }
       },
@@ -87,7 +87,7 @@
           },
           " (",
           {
-            "ref": null,
+            "ref": "p:70697",
             "text": "天遊"
           },
           ")"
@@ -103,7 +103,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:59473",
           "text": "山崎泰之"
         }
       }
@@ -121,7 +121,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:41975",
           "text": "G.K"
         }
       }
@@ -130,7 +130,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:41975",
           "text": "G.K"
         }
       }
@@ -142,6 +142,6 @@
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-08-28T02:50:16.262Z"
+    "submittedAt": "2026-08-28T02:50:30.229Z"
   }
 }
