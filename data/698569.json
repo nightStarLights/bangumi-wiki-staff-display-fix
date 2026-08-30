@@ -407,6 +407,15 @@
           }
         }
       ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "겅지양"
+          }
+        }
+      ],
       "vocal": [
         {
           "type": "person",
@@ -415,13 +424,15 @@
             "text": "츠메코가라시 루카"
           }
         }
-      ],
-      "choir": [
+      ]
+    },
+    "1.19": {
+      "composer": [
         {
           "type": "person",
           "person": {
             "ref": null,
-            "text": "동벼리"
+            "text": "겅지양"
           }
         }
       ]
@@ -432,7 +443,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:77500",
+          "ref": null,
           "text": "Roy Mikelate"
         }
       }
@@ -488,11 +499,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "制作人：Roy Mikelate\n艺术家：겅지양(1)、무적교자(1,5)、Endou(2)、투애플(2)、하프노트(3)、akita(3)、ENnE(4)、BOKUSHIRU(4)、치포(5)、ReadyQ(6)、윤이제(6)、SEESAW BA(7)、Roy Mikelate(8)、haita(8)、에덴공방(9)、츠메코가라시 루카(9,10)、동벼리(10)\n作曲：겅지양(1)、Endou(2)、하프노트(3)、ENnE(4)、치포(5)、ReadyQ(6)、SEESAW BA(7)、Roy Mikelate(8)、에덴공방(9)\n编曲：겅지양(1)、Endou(2)、하프노트(3)、ENnE(4)、치포(5)、ReadyQ(6)、SEESAW BA(7)、Roy Mikelate(8)、에덴공방(9)\n声乐：무적교자(1)、투애플(2)、akita(3)、BOKUSHIRU(4)、윤이제(5,6)、haita(8)、츠메코가라시 루카(9,10)\n母带制作：지한\n插图：eliteneet\n厂牌：VIRTUALITY Sounds\n合唱：동벼리(10)\n设计：Lity Character Design & Album Design: 뭉빙글、Web Design: 하프노트"
+    "editor": "制作人：Roy Mikelate\n艺术家：겅지양(1)、무적교자(1,5)、Endou(2)、투애플(2)、하프노트(3)、akita(3)、ENnE(4)、BOKUSHIRU(4)、치포(5)、ReadyQ(6)、윤이제(6)、SEESAW BA(7)、Roy Mikelate(8)、haita(8)、에덴공방(9)、츠메코가라시 루카(9,10)、동벼리(10)\n作曲：겅지양(1, 19)、Endou(2)、하프노트(3)、ENnE(4)、치포(5)、ReadyQ(6)、SEESAW BA(7)、Roy Mikelate(8)、에덴공방(9)\n编曲：겅지양(1, 10)、Endou(2)、하프노트(3)、ENnE(4)、치포(5)、ReadyQ(6)、SEESAW BA(7)、Roy Mikelate(8)、에덴공방(9)\n声乐：무적교자(1)、투애플(2)、akita(3)、BOKUSHIRU(4)、윤이제(5,6)、haita(8)、츠메코가라시 루카(9,10)\n母带制作：지한\n插图：eliteneet\n厂牌：VIRTUALITY Sounds\n设计：Lity Character Design & Album Design: 뭉빙글 / Web Design: 하프노트"
   },
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-08-30T16:18:08.068Z"
+    "submittedAt": "2026-08-30T16:19:04.315Z"
   }
 }
