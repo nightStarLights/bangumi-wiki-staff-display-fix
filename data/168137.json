@@ -1,0 +1,312 @@
+{
+  "subjectId": 168137,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "TaQ"
+            },
+            " (",
+            {
+              "ref": "p:47581",
+              "text": "榊原琢"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "TaQ"
+            },
+            " (",
+            {
+              "ref": "p:47581",
+              "text": "榊原琢"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "TaQ"
+            },
+            " (",
+            {
+              "ref": "p:47581",
+              "text": "榊原琢"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "TaQ"
+            },
+            " (",
+            {
+              "ref": "p:47581",
+              "text": "榊原琢"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "TaQ"
+            },
+            " (",
+            {
+              "ref": "p:47581",
+              "text": "榊原琢"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "TaQ"
+            },
+            " (",
+            {
+              "ref": "p:47581",
+              "text": "榊原琢"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "TaQ"
+            },
+            " (",
+            {
+              "ref": "p:47581",
+              "text": "榊原琢"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "TAKA"
+            },
+            " (",
+            {
+              "ref": "p:11733",
+              "text": "石川貴之"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "TaQ"
+            },
+            " (",
+            {
+              "ref": "p:47581",
+              "text": "榊原琢"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "TaQ"
+            },
+            " (",
+            {
+              "ref": "p:47581",
+              "text": "榊原琢"
+            },
+            ")"
+          ]
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "TaQ"
+          },
+          " (",
+          {
+            "ref": "p:47581",
+            "text": "榊原琢"
+          },
+          ")"
+        ]
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:48544",
+          "text": "masa"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:823",
+          "text": "バップ"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "dbd"
+        }
+      }
+    ],
+    "custom-engineered": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "TaQ"
+          },
+          " (",
+          {
+            "ref": "p:47581",
+            "text": "榊原琢"
+          },
+          ")"
+        ]
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "kame"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "内藤載"
+        }
+      }
+    ],
+    "custom-humanized": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "hidemaru"
+        }
+      }
+    ],
+    "custom-activated": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "hoyama"
+        }
+      }
+    ],
+    "custom-supported": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "tdu-sce accoustic lab"
+        }
+      }
+    ],
+    "custom-powered": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "coffee"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "cigarettes"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "electricity"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：TaQ (榊原琢)、masa\n艺术家：TaQ (榊原琢)(1-9)、TAKA (石川貴之)(7)\n厂牌：バップ\n设计：dbd\ncustom-engineered：TaQ (榊原琢)、kame、内藤載\ncustom-humanized：hidemaru\ncustom-activated：hoyama\ncustom-supported：tdu-sce accoustic lab\ncustom-powered：coffee、cigarettes、electricity"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-08-30T15:05:09.456Z"
+  }
+}
