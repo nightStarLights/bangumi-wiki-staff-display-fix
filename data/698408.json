@@ -2,7 +2,7 @@
   "subjectId": 698408,
   "trackCredits": {
     "1.16": {
-      "artist": [
+      "vocal": [
         {
           "type": "person",
           "person": {
@@ -520,11 +520,11 @@
     }
   },
   "rawPatches": {
-    "editor": "艺术家：ember(16)\n作词：Cosmograph(16)\n作曲：Eno(1-3)、NieN(4,5,7,15)、Cosmograph(6,8,17,20)、Nauts(9,18)、Zekk(10)、DoubleTO(11,19)、Mori+(12-14)、Corners Groove(21-24)\n编曲：Eno(1-3)、NieN(4,15)、Mori+(5,6,12-14)、Cosmograph(16,24)、Corners Groove(21-23)\n乐器-Cello：JamString(6)\n录音：Yoona Cho(6)\ncustom-制作：Cosmograph(7-11,16-20)"
+    "editor": "声乐：ember(16)\n作词：Cosmograph(16)\n作曲：Eno(1-3)、NieN(4,5,7,15)、Cosmograph(6,8,17,20)、Nauts(9,18)、Zekk(10)、DoubleTO(11,19)、Mori+(12-14)、Corners Groove(21-24)\n编曲：Eno(1-3)、NieN(4,15)、Mori+(5,6,12-14)、Cosmograph(16,24)、Corners Groove(21-23)\n乐器-Cello：JamString(6)\n录音：Yoona Cho(6)\ncustom-制作：Cosmograph(7-11,16-20)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-08-30T06:01:13.847Z"
+    "submittedAt": "2026-08-30T06:02:29.095Z"
   }
 }
