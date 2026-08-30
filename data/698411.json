@@ -1,0 +1,120 @@
+{
+  "subjectId": 698411,
+  "trackCredits": {
+    "1.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Mori+"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:65614",
+            "text": "NieN"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Mori+"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Mori+"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Mori+"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Mori+"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69731",
+            "text": "Cosmograph"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69731",
+            "text": "Cosmograph"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:73713",
+          "text": "LEVEL NINE"
+        }
+      }
+    ],
+    "custom-制作": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69731",
+          "text": "Cosmograph"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "作曲：Mori+(1,3,4,6,7)、Cosmograph(2,5)\n厂牌：LEVEL NINE\ncustom-制作：Cosmograph\n乐器-Guitar：NieN(1)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-08-30T06:21:05.349Z"
+  }
+}
