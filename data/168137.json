@@ -219,94 +219,14 @@
           "text": "dbd"
         }
       }
-    ],
-    "custom-engineered": [
-      {
-        "parts": [
-          {
-            "ref": null,
-            "text": "TaQ"
-          },
-          " (",
-          {
-            "ref": "p:47581",
-            "text": "榊原琢"
-          },
-          ")"
-        ]
-      },
-      {
-        "type": "person",
-        "person": {
-          "ref": null,
-          "text": "kame"
-        }
-      },
-      {
-        "type": "person",
-        "person": {
-          "ref": null,
-          "text": "内藤載"
-        }
-      }
-    ],
-    "custom-humanized": [
-      {
-        "type": "person",
-        "person": {
-          "ref": null,
-          "text": "hidemaru"
-        }
-      }
-    ],
-    "custom-activated": [
-      {
-        "type": "person",
-        "person": {
-          "ref": null,
-          "text": "hoyama"
-        }
-      }
-    ],
-    "custom-supported": [
-      {
-        "type": "person",
-        "person": {
-          "ref": null,
-          "text": "tdu-sce accoustic lab"
-        }
-      }
-    ],
-    "custom-powered": [
-      {
-        "type": "person",
-        "person": {
-          "ref": null,
-          "text": "coffee"
-        }
-      },
-      {
-        "type": "person",
-        "person": {
-          "ref": null,
-          "text": "cigarettes"
-        }
-      },
-      {
-        "type": "person",
-        "person": {
-          "ref": null,
-          "text": "electricity"
-        }
-      }
     ]
   },
   "rawPatches": {
-    "editor": "制作人：TaQ (榊原琢)、masa\n艺术家：TaQ (榊原琢)(1-9)、TAKA (石川貴之)(7)\n厂牌：バップ\n设计：dbd\ncustom-engineered：TaQ (榊原琢)、kame、内藤載\ncustom-humanized：hidemaru\ncustom-activated：hoyama\ncustom-supported：tdu-sce accoustic lab\ncustom-powered：coffee、cigarettes、electricity"
+    "editor": "制作人：TaQ (榊原琢)、masa\n艺术家：TaQ (榊原琢)(1-9)、TAKA (石川貴之)(7)\n厂牌：バップ\n设计：dbd"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-08-30T15:05:09.456Z"
+    "submittedAt": "2026-08-30T15:08:14.343Z"
   }
 }
