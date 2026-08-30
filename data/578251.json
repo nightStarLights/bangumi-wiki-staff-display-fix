@@ -1,0 +1,490 @@
+{
+  "subjectId": 578251,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Hiroshi Okubo"
+            },
+            " (",
+            {
+              "ref": "p:15769",
+              "text": "大久保博"
+            },
+            ")"
+          ]
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36638",
+            "text": "光吉猛修"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47383",
+            "text": "Shunji Fujii"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66083",
+            "text": "Lime"
+          }
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Kankitsu"
+            },
+            " (",
+            {
+              "ref": "p:66083",
+              "text": "Lime"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "good-cool"
+            },
+            " (",
+            {
+              "ref": "p:47369",
+              "text": "古川竜也"
+            },
+            ")"
+          ]
+        }
+      ],
+      "featured": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Sana"
+            },
+            " (",
+            {
+              "ref": "p:10669",
+              "text": "新谷さなえ"
+            },
+            ")"
+          ]
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:55174",
+            "text": "Osamu Kubota"
+          },
+          "inst": "Piano"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:55174",
+            "text": "Osamu Kubota"
+          },
+          "inst": "Orchestration"
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:63492",
+            "text": "Nyolfen"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66912",
+            "text": "otoshi.b"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:51818",
+            "text": "みゅい"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47403",
+            "text": "ag"
+          }
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47374",
+            "text": "倉先"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47580",
+            "text": "callasoiled"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47384",
+            "text": "ARForest"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47385",
+            "text": "KARUT"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55169",
+            "text": "Aoi"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:77620",
+            "text": "HOUJIROU"
+          }
+        }
+      ]
+    },
+    "1.13": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47364",
+            "text": "Musicarus"
+          }
+        }
+      ]
+    },
+    "2.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66913",
+            "text": "DR.VEGAS LABORATORY"
+          }
+        }
+      ]
+    },
+    "2.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47371",
+            "text": "Juggernaut."
+          }
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47372",
+            "text": "SYNC"
+          }
+        }
+      ]
+    },
+    "2.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10870",
+            "text": "Kenichi Chiba"
+          }
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Yonca"
+          }
+        }
+      ]
+    },
+    "2.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Nekomanma"
+          }
+        }
+      ]
+    },
+    "2.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6366",
+            "text": "MK"
+          }
+        }
+      ]
+    },
+    "2.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:95435",
+            "text": "Malcha"
+          }
+        }
+      ]
+    },
+    "2.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36776",
+            "text": "KO3"
+          }
+        }
+      ]
+    },
+    "2.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:85225",
+            "text": "NGA"
+          }
+        }
+      ]
+    },
+    "2.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:78477",
+            "text": "N_dog"
+          }
+        }
+      ]
+    },
+    "2.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82369",
+            "text": "KONPEKi"
+          }
+        }
+      ]
+    },
+    "2.11": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Error Signal"
+            },
+            " (",
+            {
+              "ref": "p:47587",
+              "text": "Solvrae"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "2.12": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Tomoki Hirata"
+            },
+            " (",
+            {
+              "ref": "p:47380",
+              "text": "平田智樹"
+            },
+            ")"
+          ]
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47381",
+            "text": "Crystal Mint"
+          }
+        }
+      ]
+    },
+    "2.13": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:79339",
+            "text": "Glancia"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:31962",
+          "text": "YsK439"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "うこぼね"
+          },
+          " (",
+          {
+            "ref": "p:72288",
+            "text": "守屋忠慶"
+          },
+          ")"
+        ]
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:8215",
+          "text": "Diverse System"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:100117",
+          "text": "Minami Fuji"
+        }
+      }
+    ],
+    "custom-Crossfade MV": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "yoshimo"
+        }
+      }
+    ],
+    "custom-特别感谢": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Syunzi Hayami"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：YsK439\n艺术家：Hiroshi Okubo (大久保博)(1.1)、Shunji Fujii(1.2)、Lime(1.3)、Kankitsu (Lime)(1.3)、good-cool (古川竜也)(1.4)、Nyolfen(1.5)、otoshi.b(1.6)、みゅい(1.6)、ag(1.7)、callasoiled(1.8)、ARForest(1.9)、KARUT(1.10)、Aoi(1.11)、HOUJIROU(1.12)、Musicarus(1.13)、DR.VEGAS LABORATORY(2.1)、Juggernaut.(2.2)、Kenichi Chiba(2.3)、Nekomanma(2.4)、MK(2.5)、Malcha(2.6)、KO3(2.7)、NGA(2.8)、N_dog(2.9)、KONPEKi(2.10)、Error Signal (Solvrae)(2.11)、Tomoki Hirata (平田智樹)(2.12)、Glancia(2.13)\n母带制作：うこぼね (守屋忠慶)\n厂牌：Diverse System\n客串：光吉猛修(1.1)、Sana (新谷さなえ)(1.4)、倉先(1.7)、SYNC(2.2)、Yonca(2.3)、Crystal Mint(2.12)\n设计：Minami Fuji\n乐器-Piano：Osamu Kubota(1.4)\n乐器-Orchestration：Osamu Kubota(1.4)\n设计-Web：izmtsk\ncustom-Crossfade MV：yoshimo\ncustom-特别感谢：Syunzi Hayami"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-08-30T17:06:49.093Z"
+  }
+}
