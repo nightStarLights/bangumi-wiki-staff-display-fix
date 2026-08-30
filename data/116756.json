@@ -1,0 +1,794 @@
+{
+  "subjectId": 116756,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "parts": [
+            "熊谷絵里(CV:",
+            {
+              "ref": "p:5766",
+              "text": "瀬戸麻沙美"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            "千歳ハル(CV:",
+            {
+              "ref": "p:5824",
+              "text": "沼倉愛美"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "千歳ハル"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "熊谷絵里"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yousuke Suzuki"
+            },
+            " (",
+            {
+              "ref": "p:78194",
+              "text": "鈴木洋輔"
+            },
+            ")",
+            " (Guitar)"
+          ]
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "parts": [
+            "熊谷絵里(CV:",
+            {
+              "ref": "p:5766",
+              "text": "瀬戸麻沙美"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "熊谷絵里"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "parts": [
+            "熊谷絵里(CV:",
+            {
+              "ref": "p:5766",
+              "text": "瀬戸麻沙美"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "熊谷絵里"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yousuke Suzuki"
+            },
+            " (",
+            {
+              "ref": "p:78194",
+              "text": "鈴木洋輔"
+            },
+            ")",
+            " (Guitar)"
+          ]
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "parts": [
+            "熊谷絵里(CV:",
+            {
+              "ref": "p:5766",
+              "text": "瀬戸麻沙美"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "熊谷絵里"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "parts": [
+            "熊谷絵里(CV:",
+            {
+              "ref": "p:5766",
+              "text": "瀬戸麻沙美"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            "千歳ハル(CV:",
+            {
+              "ref": "p:5824",
+              "text": "沼倉愛美"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "千歳ハル"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "熊谷絵里"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yousuke Suzuki"
+            },
+            " (",
+            {
+              "ref": "p:78194",
+              "text": "鈴木洋輔"
+            },
+            ")",
+            " (Guitar)"
+          ]
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "湯浅拓真"
+          },
+          "inst": "Bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "湯浅拓真"
+          },
+          "inst": "Drum Manipulate"
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "parts": [
+            "熊谷絵里(CV:",
+            {
+              "ref": "p:5766",
+              "text": "瀬戸麻沙美"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "熊谷絵里"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "parts": [
+            "熊谷絵里(CV:",
+            {
+              "ref": "p:5766",
+              "text": "瀬戸麻沙美"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            "千歳ハル(CV:",
+            {
+              "ref": "p:5824",
+              "text": "沼倉愛美"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "千歳ハル"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "熊谷絵里"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yousuke Suzuki"
+            },
+            " (",
+            {
+              "ref": "p:78194",
+              "text": "鈴木洋輔"
+            },
+            ")",
+            " (Guitar)"
+          ]
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "parts": [
+            "千歳ハル(CV:",
+            {
+              "ref": "p:5824",
+              "text": "沼倉愛美"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "千歳ハル"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yousuke Suzuki"
+            },
+            " (",
+            {
+              "ref": "p:78194",
+              "text": "鈴木洋輔"
+            },
+            ")",
+            " (Guitar)"
+          ]
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "湯浅拓真"
+          },
+          "inst": "Bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "湯浅拓真"
+          },
+          "inst": "Drums"
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "parts": [
+            "千歳ハル(CV:",
+            {
+              "ref": "p:5824",
+              "text": "沼倉愛美"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "千歳ハル"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yousuke Suzuki"
+            },
+            " (",
+            {
+              "ref": "p:78194",
+              "text": "鈴木洋輔"
+            },
+            ")",
+            " (Guitar)"
+          ]
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "parts": [
+            "千歳ハル(CV:",
+            {
+              "ref": "p:5824",
+              "text": "沼倉愛美"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "千歳ハル"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yousuke Suzuki"
+            },
+            " (",
+            {
+              "ref": "p:78194",
+              "text": "鈴木洋輔"
+            },
+            ")",
+            " (Guitar)"
+          ]
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "湯浅拓真"
+          },
+          "inst": "Bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "湯浅拓真"
+          },
+          "inst": "Drum Manipulate"
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "parts": [
+            "千歳ハル(CV:",
+            {
+              "ref": "p:5824",
+              "text": "沼倉愛美"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "千歳ハル"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yousuke Suzuki"
+            },
+            " (",
+            {
+              "ref": "p:78194",
+              "text": "鈴木洋輔"
+            },
+            ")",
+            " (Guitar)"
+          ]
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:80235",
+          "text": "加藤義治"
+        }
+      }
+    ],
+    "lyricist": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "kato.yoshihal"
+          },
+          " (",
+          {
+            "ref": "p:80235",
+            "text": "加藤義治"
+          },
+          ")"
+        ]
+      }
+    ],
+    "composer": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "Taishi"
+          },
+          " (",
+          {
+            "ref": "p:8023",
+            "text": "河合泰志"
+          },
+          ")"
+        ]
+      }
+    ],
+    "arranger": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "Taishi"
+          },
+          " (",
+          {
+            "ref": "p:8023",
+            "text": "河合泰志"
+          },
+          ")"
+        ]
+      }
+    ],
+    "mixing": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "Taishi"
+          },
+          " (",
+          {
+            "ref": "p:8023",
+            "text": "河合泰志"
+          },
+          ")"
+        ]
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "JVC Mastering Center"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:19952",
+          "text": "さんた茉莉"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:28308",
+          "text": "あぼしまこ"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "まりオイル"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:14165",
+          "text": "cosmic record"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Syrups*"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "SELFISH GENE"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "lunaticjoker"
+        }
+      }
+    ],
+    "custom-制作": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "音楽少女プロジェクト"
+        }
+      }
+    ],
+    "custom-和声编曲支持": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "Lily"
+          },
+          " (",
+          {
+            "ref": "p:69150",
+            "text": "名塚友梨"
+          },
+          ")"
+        ]
+      }
+    ],
+    "custom-角色设计": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "QP:flapper"
+        }
+      }
+    ],
+    "custom-监制": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "野口和紀"
+        }
+      }
+    ],
+    "custom-特别感谢": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ネコガミ様"
+        }
+      },
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "竜王更紗Mai Fuchigami"
+          },
+          " (",
+          {
+            "ref": null,
+            "text": "m"
+          },
+          " & ",
+          {
+            "ref": null,
+            "text": "i"
+          },
+          ")"
+        ]
+      },
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "のだまみ"
+          },
+          " (",
+          {
+            "ref": null,
+            "text": "m"
+          },
+          " & ",
+          {
+            "ref": null,
+            "text": "i"
+          },
+          ")"
+        ]
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:7094",
+          "text": "Nhato"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "DAX Production"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Pressのみなさま"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "お取り扱い店舗のみなさま"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "音楽少女サポーターズ"
+        }
+      },
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "ALL Music"
+          },
+          " & ",
+          {
+            "ref": null,
+            "text": "You"
+          }
+        ]
+      }
+    ],
+    "recording": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "STUDIO DeCO."
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Studio Ryu no Dokutsu"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：加藤義治\n艺术家：熊谷絵里(CV:瀬戸麻沙美)(1,3,5,8-11)、千歳ハル(CV:沼倉愛美)(1,2,4,6,7,9,11)\n作词：kato.yoshihal (加藤義治)、千歳ハル(1,2,4,6,7,9,11)、熊谷絵里(1,3,5,8-11)\n作曲：Taishi (河合泰志)\n编曲：Taishi (河合泰志)\n混音：Taishi (河合泰志)\n母带制作：JVC Mastering Center\n插图：さんた茉莉、あぼしまこ、まりオイル\n厂牌：cosmic record\n设计：Syrups*、SELFISH GENE、lunaticjoker\n乐器-Guitar：Yousuke Suzuki (鈴木洋輔)(1,2,4-7,9,11)\ncustom-制作：音楽少女プロジェクト\ncustom-和声编曲支持：Lily (名塚友梨)\ncustom-角色设计：QP:flapper\n乐器-Bass：湯浅拓真(2,6,9)\n乐器-Drums：湯浅拓真(2)\n乐器-Drum Manipulate：湯浅拓真(6,9)\ncustom-监制：野口和紀\ncustom-特别感谢：ネコガミ様、竜王更紗Mai Fuchigami (m&i)、のだまみ (m&i)、Nhato、DAX Production、Pressのみなさま、お取り扱い店舗のみなさま、音楽少女サポーターズ、ALL Music & You\n录音：STUDIO DeCO.、Studio Ryu no Dokutsu"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-08-30T13:33:40.292Z"
+  }
+}
