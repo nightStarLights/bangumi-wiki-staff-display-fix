@@ -1,0 +1,452 @@
+{
+  "subjectId": 52138,
+  "trackCredits": {
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7626",
+            "text": "麻観りみゆ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7759",
+            "text": "小鳥遊まこ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7626",
+            "text": "麻観りみゆ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7626",
+            "text": "麻観りみゆ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7626",
+            "text": "麻観りみゆ"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65297",
+            "text": "Bellmonte"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:58016",
+            "text": "凪佳二"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7759",
+            "text": "小鳥遊まこ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:41856",
+            "text": "シロ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:41856",
+            "text": "シロ"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65297",
+            "text": "Bellmonte"
+          }
+        }
+      ]
+    },
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7759",
+            "text": "小鳥遊まこ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8726",
+            "text": "塚越雄一朗"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8726",
+            "text": "塚越雄一朗"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8726",
+            "text": "塚越雄一朗"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7759",
+            "text": "小鳥遊まこ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82059",
+            "text": "音冶"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82059",
+            "text": "音冶"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82059",
+            "text": "音冶"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:82059",
+            "text": "音冶"
+          },
+          "inst": "Guitar"
+        }
+      ],
+      "narration": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:40168",
+            "text": "柊唯也"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82059",
+            "text": "音冶"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7759",
+            "text": "小鳥遊まこ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8011",
+            "text": "三滝航"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8011",
+            "text": "三滝航"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8011",
+            "text": "三滝航"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7759",
+            "text": "小鳥遊まこ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:88621",
+            "text": "朔夜"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:88621",
+            "text": "朔夜"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:88621",
+            "text": "朔夜"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7759",
+            "text": "小鳥遊まこ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65297",
+            "text": "Bellmonte"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65297",
+            "text": "Bellmonte"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65297",
+            "text": "Bellmonte"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "鳥鳥"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70644",
+            "text": "七誌"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70644",
+            "text": "七誌"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70644",
+            "text": "七誌"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:70644",
+            "text": "七誌"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:7759",
+          "text": "小鳥遊まこ"
+        }
+      }
+    ],
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:7759",
+          "text": "小鳥遊まこ"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:101882",
+          "text": "pre-holder"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "鳥鳥"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "うたのは"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:7759",
+          "text": "小鳥遊まこ"
+        }
+      }
+    ],
+    "custom-世界设定": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "鳥結歌"
+        }
+      }
+    ],
+    "custom-PV": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "鳥鳥"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：小鳥遊まこ\n艺术家：小鳥遊まこ、麻観りみゆ(2)、凪佳二(4)\n作词：小鳥遊まこ(1,2,4-8)、麻観りみゆ(2)、鳥鳥(3)\n作曲：塚越雄一朗(1)、麻観りみゆ(2)、七誌(3)、シロ(4)、音冶(5)、三滝航(6)、朔夜(7)、Bellmonte(8)\n编曲：塚越雄一朗(1)、麻観りみゆ(2)、七誌(3)、シロ(4)、音冶(5)、三滝航(6)、朔夜(7)、Bellmonte(8)\n混音：Bellmonte(2,4,8)、塚越雄一朗(1)、七誌(3)、音冶(5)、三滝航(6)、朔夜(7)\n母带制作：pre-holder\n插图：鳥鳥\n厂牌：うたのは\n设计：小鳥遊まこ\ncustom-世界设定：鳥結歌\ncustom-PV：鳥鳥\n乐器-Guitar：七誌(3)、音冶(5)\n念白/旁白：柊唯也(5)、音冶(5)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-08-30T10:41:31.282Z"
+  }
+}
