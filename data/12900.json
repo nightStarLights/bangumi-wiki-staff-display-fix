@@ -1,0 +1,91 @@
+{
+  "subjectId": 12900,
+  "trackCredits": {
+    "1.8": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9574",
+            "text": "millstones"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "8#Prince"
+            },
+            " (",
+            {
+              "ref": "p:7220",
+              "text": "P*Light"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.10": {
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "SuketchP"
+            },
+            " (",
+            {
+              "ref": "p:8466",
+              "text": "すけっちP"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.11": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10263",
+            "text": "Dog tails"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:6264",
+          "text": "AVTechNO!"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:6264",
+          "text": "AVTechNO!"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：AVTechNO!\n编曲：millstones(8)、8#Prince (P*Light)(9)、SuketchP (すけっちP)(10)、Dog tails(11)\n厂牌：AVTechNO!"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-09-02T00:34:31.656Z"
+  }
+}
