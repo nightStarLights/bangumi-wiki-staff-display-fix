@@ -1,0 +1,44 @@
+{
+  "subjectId": 698922,
+  "trackCredits": {
+    "1.1": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:21733",
+            "text": "TAKU INOUE"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:6231",
+          "text": "DECO*27"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:70547",
+          "text": "KARENT"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：DECO*27\n编曲：TAKU INOUE(1)\n厂牌：KARENT"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-09-02T01:20:01.088Z"
+  }
+}
