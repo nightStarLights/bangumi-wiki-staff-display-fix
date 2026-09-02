@@ -1,0 +1,51 @@
+{
+  "subjectId": 698919,
+  "trackCredits": {
+    "1.1": {
+      "featured": [
+        {
+          "parts": [
+            {
+              "ref": "p:69150",
+              "text": "Lily"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "名塚友梨"
+            },
+            ")"
+          ]
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:6264",
+          "text": "AVTechNO!"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:70547",
+          "text": "KARENT"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：AVTechNO!\n厂牌：KARENT\n客串：Lily (名塚友梨)(1)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-09-02T00:58:44.182Z"
+  }
+}
