@@ -22,7 +22,7 @@
             },
             " (",
             {
-              "ref": "p:7220",
+              "ref": null,
               "text": "P*Light"
             },
             ")"
@@ -40,7 +40,7 @@
             },
             " (",
             {
-              "ref": "p:8466",
+              "ref": null,
               "text": "すけっちP"
             },
             ")"
@@ -86,6 +86,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-09-02T00:34:31.656Z"
+    "submittedAt": "2026-09-02T00:34:35.909Z"
   }
 }
