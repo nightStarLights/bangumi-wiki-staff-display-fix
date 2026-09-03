@@ -1,0 +1,205 @@
+{
+  "subjectId": 699140,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Narcolepsy"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "FRoid.7"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "beansclub"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ピンクだま"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "25Ohms"
+          }
+        }
+      ]
+    },
+    "1.14": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "25Ohms"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "VXΛ"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "shimizushi"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Neptune XI"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "REEYA"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Aori"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:65769",
+              "text": "E0ri4"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "ゑおりあ"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "DJ JUNOU"
+          }
+        }
+      ]
+    },
+    "1.13": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "yocchi"
+          }
+        }
+      ]
+    },
+    "1.15": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "NanaSaku"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Narcolepsy"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "PHOTON STRiKE"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：Narcolepsy(1)、FRoid.7(2)、beansclub(3)、ピンクだま(4)、25Ohms(5,14)、VXΛ(6)、shimizushi(7)、Neptune XI(8)、REEYA(9)、Aori(10)、E0ri4 (ゑおりあ)(11)、DJ JUNOU(12)、yocchi(13)、NanaSaku(15)\n插图：Narcolepsy\n厂牌：PHOTON STRiKE"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-09-03T05:43:13.932Z"
+  }
+}
