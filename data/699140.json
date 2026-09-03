@@ -125,18 +125,11 @@
     "1.11": {
       "artist": [
         {
-          "parts": [
-            {
-              "ref": "p:65769",
-              "text": "E0ri4"
-            },
-            " (",
-            {
-              "ref": null,
-              "text": "ゑおりあ"
-            },
-            ")"
-          ]
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "E0ri4"
+          }
         }
       ]
     },
@@ -172,6 +165,17 @@
           }
         }
       ]
+    },
+    "1.16": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "HONOKA"
+          }
+        }
+      ]
     }
   },
   "epinfo": {
@@ -195,11 +199,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：Narcolepsy(1)、FRoid.7(2)、beansclub(3)、ピンクだま(4)、25Ohms(5,14)、VXΛ(6)、shimizushi(7)、Neptune XI(8)、REEYA(9)、Aori(10)、E0ri4 (ゑおりあ)(11)、DJ JUNOU(12)、yocchi(13)、NanaSaku(15)\n插图：Narcolepsy\n厂牌：PHOTON STRiKE"
+    "editor": "艺术家：Narcolepsy(1)、FRoid.7(2)、beansclub(3)、ピンクだま(4)、25Ohms(5,14)、VXΛ(6)、shimizushi(7)、Neptune XI(8)、REEYA(9)、Aori(10)、E0ri4(11)、DJ JUNOU(12)、yocchi(13)、NanaSaku(15)、HONOKA(16)\n插图：Narcolepsy\n厂牌：PHOTON STRiKE"
   },
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-09-03T05:43:13.932Z"
+    "submittedAt": "2026-09-03T05:54:20.701Z"
   }
 }
