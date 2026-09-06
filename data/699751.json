@@ -344,18 +344,18 @@
     "1.1": {
       "composer": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:100561",
-            "text": "VISION SOUND"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:100863",
-            "text": "3A"
-          }
+          "parts": [
+            {
+              "ref": "p:100863",
+              "text": "3A"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "VISION SOUND"
+            },
+            ")"
+          ]
         }
       ],
       "arranger": [
@@ -371,18 +371,18 @@
     "1.3": {
       "composer": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:99375",
-            "text": "Dash Sound"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:100864",
-            "text": "UraniumW"
-          }
+          "parts": [
+            {
+              "ref": "p:100864",
+              "text": "UraniumW"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Dash Sound"
+            },
+            ")"
+          ]
         }
       ],
       "arranger": [
@@ -398,18 +398,18 @@
     "1.8": {
       "composer": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:99375",
-            "text": "Dash Sound"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:100847",
-            "text": "Nevia"
-          }
+          "parts": [
+            {
+              "ref": "p:100847",
+              "text": "Nevia"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Dash Sound"
+            },
+            ")"
+          ]
         }
       ],
       "arranger": [
@@ -435,11 +435,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "作曲：dDedalus(2,4-7,9-20)、VISION SOUND(1)、3A(1)、Dash Sound(3,8)、UraniumW(3)、Nevia(8)\n编曲：dDedalus(2,4-7,9-20)、3A(1)、UraniumW(3)、Nevia(8)\n厂牌：STELLA SORA RECORDS"
+    "editor": "作曲：dDedalus(2,4-7,9-20)、3A (VISION SOUND)(1)、UraniumW (Dash Sound)(3)、Nevia (Dash Sound)(8)\n编曲：dDedalus(2,4-7,9-20)、3A(1)、UraniumW(3)、Nevia(8)\n厂牌：STELLA SORA RECORDS"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-09-06T03:57:03.077Z"
+    "submittedAt": "2026-09-06T03:57:36.338Z"
   }
 }
