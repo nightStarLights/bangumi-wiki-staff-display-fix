@@ -17,7 +17,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:82311",
             "text": "Zenaka"
           }
         }
@@ -39,7 +39,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:84820",
             "text": "フタバオサム"
           }
         }
@@ -61,7 +61,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:65767",
             "text": "YUPPUN"
           }
         }
@@ -85,6 +85,6 @@
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-09-06T02:04:07.484Z"
+    "submittedAt": "2026-09-06T02:04:35.083Z"
   }
 }
