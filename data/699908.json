@@ -1,0 +1,71 @@
+{
+  "subjectId": 699908,
+  "trackCredits": {
+    "1.4": {
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Tosh"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "庄司俊寛"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.5": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "takehiro"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "MAYA AKAI"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "MAYA AKAI"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "RIGHT STUFF"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：MAYA AKAI\n作曲：MAYA AKAI\n编曲：Tosh (庄司俊寛)(4)、takehiro(5)\n厂牌：RIGHT STUFF"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-09-07T07:03:25.346Z"
+  }
+}
