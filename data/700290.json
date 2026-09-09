@@ -1,0 +1,2009 @@
+{
+  "subjectId": 700290,
+  "trackCredits": {
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "115030"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "115030"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "冉小白Zomire"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "诗岸"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Rangdog"
+          }
+        }
+      ],
+      "custom-调声": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "菜狗_VD"
+          }
+        }
+      ]
+    },
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Zill"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "诗岸"
+          }
+        }
+      ]
+    },
+    "2.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Zill"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "重音テト"
+          }
+        }
+      ]
+    },
+    "3.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Zill"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "小春六花"
+          }
+        }
+      ]
+    },
+    "4.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Zill"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Cni5u"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "诗岸"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "泠"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "重音テトSV"
+          }
+        }
+      ],
+      "custom-调声": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Cni5u"
+          }
+        }
+      ],
+      "custom-说唱段作词": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Cni5u"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Sakura_Rain雨樱"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "诗岸"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "1ruk7"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "洛天依"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "布_nuno"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "茶川清"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "CaeS"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "诗岸"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "亡羊子"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "诗岸"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Afrixon"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "诗岸"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "FnFD-P"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "NAILONG-P"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Blues Flushing P"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "FnFD-P"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "星尘Infinity"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "NAILONG-P"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "NAILONG-P"
+          }
+        }
+      ],
+      "custom-调声": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "FnFD-"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "RetroRefrain"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "星尘Infinity"
+          }
+        }
+      ],
+      "custom-调声": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "岚峦"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Amazin_Martin"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Amazin_Martin"
+          },
+          "inst": "Bass"
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Squire_"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "洛天依"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "失常p"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "洛天依"
+          }
+        }
+      ]
+    },
+    "1.13": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "光晕hlt"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "一叶洄"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "星尘Infinity"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Coulin_初"
+          }
+        }
+      ],
+      "custom-调声": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "hacker粉色大肥龙"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "夢切凛時Toki"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.14": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "积雪云snowcumulus"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "诗岸"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Mai"
+          }
+        }
+      ]
+    },
+    "1.15": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Donbd"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "重音テト"
+          }
+        }
+      ]
+    },
+    "1.16": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "伤口SchazkeLF_p"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "花隈千冬"
+          }
+        }
+      ]
+    },
+    "1.17": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "冬青"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "诗岸"
+          }
+        }
+      ]
+    },
+    "1.18": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "hirayu"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "诗岸"
+          }
+        }
+      ]
+    },
+    "2.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "读川"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "诗岸"
+          }
+        }
+      ]
+    },
+    "2.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "读川"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "诗岸"
+          }
+        }
+      ]
+    },
+    "2.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "子燮"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "洛天依"
+          }
+        }
+      ]
+    },
+    "2.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "__XenonP__"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "李叔同"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "__XenonP__"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "John Pond Ordway"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Klatt Synthesizer"
+          }
+        }
+      ],
+      "custom-模型": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Dennis H. Klatt"
+          }
+        }
+      ],
+      "custom-程序编写": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "__XenonP__"
+          }
+        }
+      ]
+    },
+    "2.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Maho5x"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "星尘Infinity"
+          }
+        }
+      ]
+    },
+    "2.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "_冷米酒_"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "海伊"
+          }
+        }
+      ]
+    },
+    "2.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "glow"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "海伊"
+          }
+        }
+      ]
+    },
+    "2.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "AE_03-hua"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "赤羽"
+          }
+        }
+      ]
+    },
+    "2.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Kraftmiku_P"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "9ma"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "星尘Infinity"
+          }
+        }
+      ]
+    },
+    "3.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Kraftmiku_P"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "星尘Infinity"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "积雪云snowcumulus"
+          }
+        }
+      ]
+    },
+    "2.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Rangdog"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "冉小白Zomire"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Rangdog"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "诗岸"
+          }
+        }
+      ]
+    },
+    "2.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "時雨想吃四格魚刺"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "诗岸"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "時雨想吃四格魚刺"
+          },
+          "inst": "Prepared Piano"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "時雨想吃四格魚刺"
+          },
+          "inst": "Double Bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Nzk"
+          },
+          "inst": "Alto Saxophone"
+        }
+      ]
+    },
+    "3.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "時雨想吃四格魚刺"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Mu"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "诗岸"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "重音テト"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "時雨想吃四格魚刺"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "李盖地"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "李盖地"
+          }
+        }
+      ],
+      "custom-调声": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "读川_P"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "時雨想吃四格魚刺"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Nzk"
+          },
+          "inst": "Alto Saxophone"
+        }
+      ]
+    },
+    "3.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:101443",
+            "text": "湖323"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "AVER"
+          }
+        }
+      ]
+    },
+    "3.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "綾可絵"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Traditional Mexican"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Traditional Mexican"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Stephen Hatfield"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "IA"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "IA English"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "可不"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "雨衣"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "知声"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "綾可絵"
+          },
+          "inst": "Piano"
+        }
+      ],
+      "custom-第一声部": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "IA English"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "知声"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "English"
+          }
+        }
+      ],
+      "custom-第二声部": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "IA"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "雨衣"
+          }
+        }
+      ],
+      "custom-第三声部": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "知声"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "可不"
+          }
+        }
+      ]
+    },
+    "3.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "小林市子"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "常夏椰子"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "洛天依"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "小林市子"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "鱼谷"
+          }
+        }
+      ],
+      "custom-调声": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "bianpia_"
+          }
+        }
+      ],
+      "custom-策划": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "小林市子"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "常夏椰子"
+          }
+        }
+      ]
+    },
+    "3.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "画素馒"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "初音ミク"
+          }
+        }
+      ]
+    },
+    "3.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "鱼腥草莓姜"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "诗岸"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "重音テト"
+          }
+        }
+      ]
+    },
+    "3.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ekoqwq"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "洛天依"
+          }
+        }
+      ]
+    },
+    "3.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "御罗迦Theおろか"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "小刀P"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "御罗迦Theおろか"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "小刀P"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "星尘Infinity"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ninezero"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "御罗迦Theおろか"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "小刀P"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "御罗迦Theおろか"
+          },
+          "inst": "Guitar"
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "御罗迦Theおろか"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "小刀P"
+          }
+        }
+      ]
+    },
+    "3.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "惡魔棄"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "海伊"
+          }
+        }
+      ]
+    },
+    "3.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "OVERFLUX_过度穿透P"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "初音ミク"
+          }
+        }
+      ]
+    },
+    "3.13": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "异丙醇--"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "绮萱"
+          }
+        }
+      ]
+    },
+    "3.14": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "diao-p"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "GUMI"
+          }
+        }
+      ]
+    },
+    "3.15": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "心脏扭蛋"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "すずきつづみ"
+          }
+        }
+      ]
+    },
+    "3.16": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "妍Yuna"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "洛天依"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Rid-233"
+          }
+        }
+      ]
+    },
+    "3.17": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "kinomi"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Syruph."
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "诗岸"
+          }
+        }
+      ]
+    },
+    "4.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "熊青嵐"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ナースロボ＿タイプＴ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "熊青嵐"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深濑_"
+          }
+        }
+      ]
+    },
+    "4.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Kusua"
+          }
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Supa7onyz"
+            },
+            " (",
+            {
+              "ref": "p:85205",
+              "text": "Normal1zer"
+            },
+            ")"
+          ]
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ナースロボ＿タイプＴ"
+          }
+        }
+      ]
+    },
+    "4.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "■ ■ ■ 〇"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "初音ミク"
+          }
+        }
+      ]
+    },
+    "4.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Mikkeli Matlock"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Mikkeli Matlock"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Khusniddin Taqmalov"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "宮舞モカ"
+          }
+        }
+      ]
+    },
+    "4.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "旧日地下棱镜走私犯"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "重音テト"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Distantal"
+          }
+        }
+      ]
+    },
+    "4.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "废水与流体动力学"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "诗岸"
+          }
+        }
+      ]
+    },
+    "4.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "蓝蓑笠群外"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "陌叙"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "夏語遙"
+          }
+        }
+      ]
+    },
+    "4.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "苦以忧"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "诗岸"
+          }
+        }
+      ]
+    },
+    "4.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "9ma"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "诗岸"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "星尘Infinity"
+          }
+        }
+      ]
+    },
+    "4.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ANY"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "诗岸"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "星尘Infinity"
+          }
+        }
+      ]
+    },
+    "4.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "YONOCO"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "AI ナースロボ＿タイプＴ"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "9ma"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "逢引歌合"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "燴面供應"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "花笺暄"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "EchoBottle"
+        }
+      }
+    ],
+    "custom-出品": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "EchoBottle"
+        }
+      }
+    ],
+    "custom-分发": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "EchoBottle"
+        }
+      }
+    ],
+    "custom-制作": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "EchoBottle"
+        }
+      }
+    ],
+    "custom-制品制作协力": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "夏川佐久蕗"
+        }
+      }
+    ],
+    "custom-致谢": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "支持着歌声合成独立音乐的你"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "低音咖喱"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "菊花猹"
+        }
+      }
+    ],
+    "custom-音乐": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "术另创作者"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：115030(1.9)、Zill(1.1, 2.9, 3.7, 4.6)、Sakura_Rain雨樱(1.2)、1ruk7(1.3)、布_nuno(1.4)、CaeS(1.5)、亡羊子(1.6)、Afrixon(1.7)、FnFD-P(1.8)、NAILONG-P(1.8)、Blues Flushing P(1.8)、RetroRefrain(1.10)、Squire_(1.11)、失常p(1.12)、光晕hlt(1.13)、积雪云snowcumulus(1.14)、Donbd(1.15)、伤口SchazkeLF_p(1.16)、冬青(1.17)、hirayu(1.18)、读川(2.1, 2.12)、子燮(2.2)、__XenonP__(2.3)、Maho5x(2.4)、_冷米酒_(2.5)、glow(2.6)、AE_03-hua(2.7)、Kraftmiku_P(2.8, 3.6)、Rangdog(2.10)、時雨想吃四格魚刺(2.11, 3.5)、湖323(3.1)、綾可絵(3.2)、小林市子(3.3)、画素馒(3.4)、鱼腥草莓姜(3.8)、Ekoqwq(3.9)、御罗迦Theおろか(3.10)、小刀P(3.10)、惡魔棄(3.11)、OVERFLUX_过度穿透P(3.12)、异丙醇--(3.13)、diao-p(3.14)、心脏扭蛋(3.15)、妍Yuna(3.16)、kinomi(3.17)、熊青嵐(4.1)、Kusua(4.2)、Supa7onyz (Normal1zer)(4.2)、■ ■ ■ 〇(4.3)、Mikkeli Matlock(4.4)、旧日地下棱镜走私犯(4.5)、废水与流体动力学(4.7)、蓝蓑笠群外(4.8)、苦以忧(4.9)、9ma(4.10)、ANY(4.11)、YONOCO(4.12)\n作词：115030(1.9)、FnFD-P(1.8)、冉小白Zomire(1.9, 2.10)、一叶洄(1.13)、李叔同(2.3)、__XenonP__(2.3)、9ma(2.8)、Rangdog(2.10)、常夏椰子(3.3)、Mu(3.5)、御罗迦Theおろか(3.10)、小刀P(3.10)、Mikkeli Matlock(4.4)、Cni5u(4.6)\n作曲：John Pond Ordway(2.3)、Traditional Mexican(3.2)、Khusniddin Taqmalov(4.4)\n编曲：Traditional Mexican(3.2)、Stephen Hatfield(3.2)、Syruph.(3.17)\n声乐：诗岸(1.1, 1.2, 1.5-7, 1.9, 1.14, 1.17, 1.18, 2.1, 2.10-12, 3.5, 3.8, 3.17, 4.6, 4.7, 4.9-11)、洛天依(1.3, 1.11, 1.12, 2.2, 3.3, 3.9, 3.16)、茶川清(1.4)、星尘Infinity(1.8, 1.10, 1.13, 2.4, 2.8, 3.6, 3.10, 4.10, 4.11)、Mai(1.14)、重音テト(1.15, 2.9, 3.5, 3.8, 4.5)、花隈千冬(1.16)、Klatt Synthesizer(2.3)、海伊(2.5, 2.6, 3.11)、赤羽(2.7)、AVER(3.1)、IA(3.2)、IA English(3.2)、可不(3.2)、雨衣(3.2)、知声(3.2)、初音ミク(3.4, 3.12, 4.3)、時雨想吃四格魚刺(3.5)、小春六花(3.7)、Ninezero(3.10)、绮萱(3.13)、GUMI(3.14)、すずきつづみ(3.15)、Rid-233(3.16)、ナースロボ＿タイプＴ(4.1, 4.2)、熊青嵐(4.1)、深濑_(4.1)、宮舞モカ(4.4)、泠(4.6)、重音テトSV(4.6)、陌叙(4.8)、夏語遙(4.8)、AI ナースロボ＿タイプＴ(4.12)\n混音：NAILONG-P(1.8)、Rangdog(1.9)、Coulin_初(1.13)、小林市子(3.3)、鱼谷(3.3)、李盖地(3.5)、积雪云snowcumulus(3.6)、御罗迦Theおろか(3.10)、小刀P(3.10)、Distantal(4.5)\n母带制作：9ma、NAILONG-P(1.8)、李盖地(3.5)\n插图：逢引歌合、燴面供應、花笺暄\n厂牌：EchoBottle\n和声：永夜minus(3.3)\ncustom-出品：EchoBottle\ncustom-分发：EchoBottle\ncustom-制作：EchoBottle\ncustom-制品制作协力：夏川佐久蕗\ncustom-致谢：支持着歌声合成独立音乐的你、低音咖喱、菊花猹\ncustom-音乐：术另创作者\n设计-包装设计：9ma\n设计-平面：9ma\ncustom-调声：FnFD-(1.8)、菜狗_VD(1.9)、岚峦(1.10)、hacker粉色大肥龙(1.13)、bianpia_(3.3)、读川_P(3.5)、時雨想吃四格魚刺(3.5)、Cni5u(4.6)\n乐器-Guitar：Amazin_Martin(1.10)、夢切凛時Toki(1.13)、御罗迦Theおろか(3.10)\n乐器-Bass：Amazin_Martin(1.10)\ncustom-模型：Dennis H. Klatt(2.3)\ncustom-程序编写：__XenonP__(2.3)\n乐器-Prepared Piano：時雨想吃四格魚刺(2.11)\n乐器-Double Bass：時雨想吃四格魚刺(2.11)\n乐器-Alto Saxophone：Nzk(2.11, 3.5)\n乐器-Piano：綾可絵(3.2)\ncustom-第一声部：IA English(3.2)、知声(3.2)、English(3.2)\ncustom-第二声部：IA(3.2)、雨衣(3.2)\ncustom-第三声部：知声(3.2)、可不(3.2)\ncustom-策划：小林市子(3.3)、常夏椰子(3.3)\n录音：御罗迦Theおろか(3.10)、小刀P(3.10)\ncustom-说唱段作词：Cni5u(4.6)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-09-09T03:24:39.716Z"
+  }
+}
