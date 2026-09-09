@@ -1,0 +1,182 @@
+{
+  "subjectId": 700308,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Dischord ft. Roy Mikelate"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:87674",
+            "text": "Azure Moon"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:87677",
+            "text": "Succubus Helna"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:87677",
+            "text": "Succubus Helna"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:77500",
+            "text": "Roy Mikelate"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Morita yuuhei"
+            },
+            " (",
+            {
+              "ref": "p:85566",
+              "text": "Remain Silent"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "baruA ft. Incinerator"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86236",
+            "text": "Colon"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Viral Program"
+            },
+            " (",
+            {
+              "ref": "p:77104",
+              "text": "6th"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82564",
+            "text": "QUIL"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:77104",
+          "text": "6th"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:77104",
+          "text": "6th"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:77506",
+          "text": "Illegal wave Records"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:87676",
+          "text": "Haruse Yu"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:85567",
+          "text": "Dischord"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：6th\n艺术家：Dischord ft. Roy Mikelate(1)、Azure Moon(2)、Succubus Helna(3,6)、Roy Mikelate(4)、Morita yuuhei (Remain Silent)(5)、baruA ft. Incinerator(7)、Colon(8)、Viral Program (6th)(9)、QUIL(10)\n母带制作：6th\n厂牌：Illegal wave Records\n设计：Haruse Yu、Dischord"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-09-09T04:42:31.087Z"
+  }
+}
