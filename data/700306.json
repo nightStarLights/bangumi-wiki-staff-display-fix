@@ -1,0 +1,165 @@
+{
+  "subjectId": 700306,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6372",
+            "text": "Hedonist"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Tosh"
+            },
+            " (",
+            {
+              "ref": "p:71024",
+              "text": "庄司俊寛"
+            },
+            ")",
+            "  feat.  ",
+            {
+              "ref": null,
+              "text": "c3"
+            }
+          ]
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "c3"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7326",
+            "text": "MAYA AKAI"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7094",
+            "text": "Nhato"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7326",
+            "text": "MAYA AKAI"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "in"
+            },
+            " (",
+            {
+              "ref": "p:71020",
+              "text": "infinity"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7160",
+            "text": "Tomohiko Togashi"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "malni kenkatavami"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Odikonic"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:6372",
+          "text": "Hedonist"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:71019",
+          "text": "RIGHT STUFF"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69506",
+          "text": "SoU"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：Hedonist(1)、Tosh (庄司俊寛) feat. c3(2)、MAYA AKAI(3,7)、in (infinity)(4)、Tomohiko Togashi(5)、malni kenkatavami(6)\n编曲：Nhato(3)、Odikonic(6)\n母带制作：Hedonist\n厂牌：RIGHT STUFF\n客串：c3(2)\n设计：SoU"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-09-09T04:28:09.675Z"
+  }
+}
