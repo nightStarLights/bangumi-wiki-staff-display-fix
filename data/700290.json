@@ -1629,19 +1629,19 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:101622",
             "text": "Kusua"
           }
         },
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:85205",
               "text": "Supa7onyz"
             },
             " (",
             {
-              "ref": "p:85205",
+              "ref": null,
               "text": "Normal1zer"
             },
             ")"
@@ -2004,6 +2004,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-09-09T03:24:39.716Z"
+    "submittedAt": "2026-09-09T03:24:54.590Z"
   }
 }
