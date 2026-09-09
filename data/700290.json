@@ -1654,12 +1654,12 @@
         {
           "parts": [
             {
-              "ref": "p:85205",
+              "ref": null,
               "text": "Supa7onyz"
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:85205",
               "text": "Normal1zer"
             },
             ")"
@@ -1701,8 +1701,8 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
-            "text": "Mikkeli Matlock"
+            "ref": "p:74537",
+            "text": "Matlock Mikkeli"
           }
         }
       ],
@@ -1710,8 +1710,8 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
-            "text": "Mikkeli Matlock"
+            "ref": "p:74537",
+            "text": "Matlock Mikkeli"
           }
         }
       ],
@@ -2017,11 +2017,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：115030(1.9)、Zill(1.1, 2.9, 3.7, 4.6)、Sakura_Rain雨樱(1.2)、1ruk7(1.3)、布_nuno(1.4)、CaeS(1.5)、亡羊子(1.6)、Afrixon(1.7)、FnFD-P(1.8)、NAILONG-P(1.8)、Blues Flushing P(1.8)、RetroRefrain(1.10)、Squire_(1.11)、失常p(1.12)、光晕hlt(1.13)、积雪云snowcumulus(1.14)、Donbd(1.15)、伤口SchazkeLF_p(1.16)、冬青(1.17)、hirayu(1.18)、读川(2.1, 2.12)、子燮(2.2)、__XenonP__(2.3)、Maho5x(2.4)、_冷米酒_(2.5)、glow(2.6)、AE_03-hua(2.7)、Kraftmiku_P(2.8, 3.6)、Rangdog(2.10)、時雨想吃四格魚刺(2.11, 3.5)、湖323(3.1)、綾可絵(3.2)、小林市子(3.3)、画素馒(3.4)、鱼腥草莓姜(3.8)、Ekoqwq(3.9)、御罗迦Theおろか(3.10)、小刀P(3.10)、惡魔棄(3.11)、OVERFLUX_过度穿透P(3.12)、异丙醇--(3.13)、diao-p(3.14)、心脏扭蛋(3.15)、妍Yuna(3.16)、kinomi(3.17)、熊青嵐(4.1)、Kusua(4.2)、Supa7onyz (Normal1zer)(4.2)、■ ■ ■ 〇(4.3)、Mikkeli Matlock(4.4)、旧日地下棱镜走​私犯(4.5)、废水与流体动力学(4.7)、蓝蓑笠群外(4.8)、苦以忧(4.9)、9ma(4.10)、ANY(4.11)、YONOCO(4.12)\n作词：115030(1.9)、FnFD-P(1.8)、冉小白Zomire(1.9, 2.10)、一叶洄(1.13)、李叔同(2.3)、__XenonP__(2.3)、9ma(2.8)、Rangdog(2.10)、常夏椰子(3.3)、Mu(3.5)、御罗迦Theおろか(3.10)、小刀P(3.10)、Mikkeli Matlock(4.4)、Cni5u(4.6)\n作曲：John Pond Ordway(2.3)、Traditional Mexican(3.2)、Khusniddin Taqmalov(4.4)\n编曲：Traditional Mexican(3.2)、Stephen Hatfield(3.2)、Syruph.(3.17)\n声乐：诗岸(1.1, 1.2, 1.5-7, 1.9, 1.14, 1.17, 1.18, 2.1, 2.10-12, 3.5, 3.8, 3.17, 4.6, 4.7, 4.9-11)、洛天依(1.3, 1.11, 1.12, 2.2, 3.3, 3.9, 3.16)、茶川清(1.4)、星尘Infinity(1.8, 1.10, 1.13, 2.4, 2.8, 3.6, 3.10, 4.10, 4.11)、Mai(1.14)、重音テト(1.15, 2.9, 3.5, 3.8, 4.5)、花隈千冬(1.16)、Klatt Synthesizer(2.3)、海伊(2.5, 2.6, 3.11)、赤羽(2.7)、AVER(3.1)、IA(3.2)、IA English(3.2)、可不(3.2)、雨衣(3.2)、知声(3.2)、初音ミク(3.4, 3.12, 4.3)、時雨想吃四格魚刺(3.5)、小春六花(3.7)、Ninezero(3.10)、绮萱(3.13)、GUMI(3.14)、すずきつづみ(3.15)、Rid-233(3.16)、ナースロボ＿タイプＴ(4.1, 4.2)、熊青嵐(4.1)、深濑_(4.1)、宮舞モカ(4.4)、泠(4.6)、重音テトSV(4.6)、陌叙(4.8)、夏語遙(4.8)、AI ナースロボ＿タイプＴ(4.12)\n混音：NAILONG-P(1.8)、Rangdog(1.9)、Coulin_初(1.13)、小林市子(3.3)、鱼谷(3.3)、李盖地(3.5)、积雪云snowcumulus(3.6)、御罗迦Theおろか(3.10)、小刀P(3.10)、Distantal(4.5)\n母带制作：9ma、NAILONG-P(1.8)、李盖地(3.5)\n插图：逢引歌合、燴面供應、花笺暄\n厂牌：EchoBottle\n和声：永夜minus(3.3)\ncustom-出品：EchoBottle\ncustom-分发：EchoBottle\ncustom-制作：EchoBottle\ncustom-制品制作协力：夏川佐久蕗\ncustom-致谢：支持着歌声合成独立音乐的你、低音咖喱、菊花猹\ncustom-音乐：术另创作者\n设计-包装设计：9ma\n设计-平面：9ma\ncustom-调声：FnFD-(1.8)、菜狗_VD(1.9)、岚峦(1.10)、hacker粉色大肥龙(1.13)、bianpia_(3.3)、读川_P(3.5)、時雨想吃四格魚刺(3.5)、Cni5u(4.6)\n乐器-Guitar：Amazin_Martin(1.10)、夢切凛時Toki(1.13)、御罗迦Theおろか(3.10)\n乐器-Bass：Amazin_Martin(1.10)\ncustom-模型：Dennis H. Klatt(2.3)\ncustom-程序编写：__XenonP__(2.3)\n乐器-Prepared Piano：時雨想吃四格魚刺(2.11)\n乐器-Double Bass：時雨想吃四格魚刺(2.11)\n乐器-Alto Saxophone：Nzk(2.11, 3.5)\n乐器-Piano：綾可絵(3.2)\ncustom-第一声部：IA English(3.2)、知声(3.2)、English(3.2)\ncustom-第二声部：IA(3.2)、雨衣(3.2)\ncustom-第三声部：知声(3.2)、可不(3.2)\ncustom-策划：小林市子(3.3)、常夏椰子(3.3)\n录音：御罗迦Theおろか(3.10)、小刀P(3.10)\ncustom-说唱段作词：Cni5u(4.6)\ncustom-歌词音译: __XenonP__(2.3)\ncustom-歌词再译: 任你行(2.3)"
+    "editor": "艺术家：115030(1.9)、Zill(1.1, 2.9, 3.7, 4.6)、Sakura_Rain雨樱(1.2)、1ruk7(1.3)、布_nuno(1.4)、CaeS(1.5)、亡羊子(1.6)、Afrixon(1.7)、FnFD-P(1.8)、NAILONG-P(1.8)、Blues Flushing P(1.8)、RetroRefrain(1.10)、Squire_(1.11)、失常p(1.12)、光晕hlt(1.13)、积雪云snowcumulus(1.14)、Donbd(1.15)、伤口SchazkeLF_p(1.16)、冬青(1.17)、hirayu(1.18)、读川(2.1, 2.12)、子燮(2.2)、__XenonP__(2.3)、Maho5x(2.4)、_冷米酒_(2.5)、glow(2.6)、AE_03-hua(2.7)、Kraftmiku_P(2.8, 3.6)、Rangdog(2.10)、時雨想吃四格魚刺(2.11, 3.5)、湖323(3.1)、綾可絵(3.2)、小林市子(3.3)、画素馒(3.4)、鱼腥草莓姜(3.8)、Ekoqwq(3.9)、御罗迦Theおろか(3.10)、小刀P(3.10)、惡魔棄(3.11)、OVERFLUX_过度穿透P(3.12)、异丙醇--(3.13)、diao-p(3.14)、心脏扭蛋(3.15)、妍Yuna(3.16)、kinomi(3.17)、熊青嵐(4.1)、Kusua(4.2)、Supa7onyz (Normal1zer)(4.2)、■ ■ ■ 〇(4.3)、Matlock Mikkeli(4.4)、旧日地下棱镜走​私犯(4.5)、废水与流体动力学(4.7)、蓝蓑笠群外(4.8)、苦以忧(4.9)、9ma(4.10)、ANY(4.11)、YONOCO(4.12)\n作词：115030(1.9)、FnFD-P(1.8)、冉小白Zomire(1.9, 2.10)、一叶洄(1.13)、李叔同(2.3)、__XenonP__(2.3)、9ma(2.8)、Rangdog(2.10)、常夏椰子(3.3)、Mu(3.5)、御罗迦Theおろか(3.10)、小刀P(3.10)、Matlock Mikkeli(4.4)、Cni5u(4.6)\n作曲：John Pond Ordway(2.3)、Traditional Mexican(3.2)、Khusniddin Taqmalov(4.4)\n编曲：Traditional Mexican(3.2)、Stephen Hatfield(3.2)、Syruph.(3.17)\n声乐：诗岸(1.1, 1.2, 1.5-7, 1.9, 1.14, 1.17, 1.18, 2.1, 2.10-12, 3.5, 3.8, 3.17, 4.6, 4.7, 4.9-11)、洛天依(1.3, 1.11, 1.12, 2.2, 3.3, 3.9, 3.16)、茶川清(1.4)、星尘Infinity(1.8, 1.10, 1.13, 2.4, 2.8, 3.6, 3.10, 4.10, 4.11)、Mai(1.14)、重音テト(1.15, 2.9, 3.5, 3.8, 4.5)、花隈千冬(1.16)、Klatt Synthesizer(2.3)、海伊(2.5, 2.6, 3.11)、赤羽(2.7)、AVER(3.1)、IA(3.2)、IA English(3.2)、可不(3.2)、雨衣(3.2)、知声(3.2)、初音ミク(3.4, 3.12, 4.3)、時雨想吃四格魚刺(3.5)、小春六花(3.7)、Ninezero(3.10)、绮萱(3.13)、GUMI(3.14)、すずきつづみ(3.15)、Rid-233(3.16)、ナースロボ＿タイプＴ(4.1, 4.2)、熊青嵐(4.1)、深濑_(4.1)、宮舞モカ(4.4)、泠(4.6)、重音テトSV(4.6)、陌叙(4.8)、夏語遙(4.8)、AI ナースロボ＿タイプＴ(4.12)\n混音：NAILONG-P(1.8)、Rangdog(1.9)、Coulin_初(1.13)、小林市子(3.3)、鱼谷(3.3)、李盖地(3.5)、积雪云snowcumulus(3.6)、御罗迦Theおろか(3.10)、小刀P(3.10)、Distantal(4.5)\n母带制作：9ma、NAILONG-P(1.8)、李盖地(3.5)\n插图：逢引歌合、燴面供應、花笺暄\n厂牌：EchoBottle\n和声：永夜minus(3.3)\ncustom-出品：EchoBottle\ncustom-分发：EchoBottle\ncustom-制作：EchoBottle\ncustom-制品制作协力：夏川佐久蕗\ncustom-致谢：支持着歌声合成独立音乐的你、低音咖喱、菊花猹\ncustom-音乐：术另创作者\n设计-包装设计：9ma\n设计-平面：9ma\ncustom-调声：FnFD-(1.8)、菜狗_VD(1.9)、岚峦(1.10)、hacker粉色大肥龙(1.13)、bianpia_(3.3)、读川_P(3.5)、時雨想吃四格魚刺(3.5)、Cni5u(4.6)\n乐器-Guitar：Amazin_Martin(1.10)、夢切凛時Toki(1.13)、御罗迦Theおろか(3.10)\n乐器-Bass：Amazin_Martin(1.10)\ncustom-模型：Dennis H. Klatt(2.3)\ncustom-程序编写：__XenonP__(2.3)\n乐器-Prepared Piano：時雨想吃四格魚刺(2.11)\n乐器-Double Bass：時雨想吃四格魚刺(2.11)\n乐器-Alto Saxophone：Nzk(2.11, 3.5)\n乐器-Piano：綾可絵(3.2)\ncustom-第一声部：IA English(3.2)、知声(3.2)、English(3.2)\ncustom-第二声部：IA(3.2)、雨衣(3.2)\ncustom-第三声部：知声(3.2)、可不(3.2)\ncustom-策划：小林市子(3.3)、常夏椰子(3.3)\n录音：御罗迦Theおろか(3.10)、小刀P(3.10)\ncustom-说唱段作词：Cni5u(4.6)\ncustom-歌词音译: __XenonP__(2.3)\ncustom-歌词再译: 任你行(2.3)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-09-09T04:54:16.394Z"
+    "submittedAt": "2026-09-09T04:55:20.720Z"
   }
 }
