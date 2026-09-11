@@ -1,0 +1,226 @@
+{
+  "subjectId": 697960,
+  "trackCredits": {
+    "2.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Leopold Arendt"
+          }
+        }
+      ]
+    },
+    "2.13": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Leopold Arendt"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10967",
+            "text": "Claude Debussy"
+          }
+        }
+      ]
+    },
+    "1.51": {
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10967",
+            "text": "Claude Debussy"
+          }
+        }
+      ]
+    },
+    "1.23": {
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:20280",
+            "text": "Maurice Ravel"
+          }
+        }
+      ]
+    },
+    "2.33": {
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:20280",
+            "text": "Maurice Ravel"
+          }
+        }
+      ]
+    },
+    "2.34": {
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:20280",
+            "text": "Maurice Ravel"
+          }
+        }
+      ]
+    },
+    "2.37": {
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:20280",
+            "text": "Maurice Ravel"
+          }
+        }
+      ]
+    },
+    "2.38": {
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:20280",
+            "text": "Maurice Ravel"
+          }
+        }
+      ]
+    },
+    "1.36": {
+      "featured": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Modest Mussorgsky"
+            },
+            " (",
+            {
+              "ref": "p:10955",
+              "text": "Modest Petrovich Mussorgsky"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.37": {
+      "featured": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Modest Mussorgsky"
+            },
+            " (",
+            {
+              "ref": "p:10955",
+              "text": "Modest Petrovich Mussorgsky"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "2.51": {
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ceis"
+          }
+        }
+      ]
+    },
+    "3.4": {
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ceis"
+          }
+        }
+      ]
+    },
+    "3.5": {
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ceis"
+          }
+        }
+      ]
+    },
+    "3.7": {
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:92834",
+            "text": "水鏡華"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:81766",
+          "text": "10lulu"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Atelier Ueshima Erika"
+        }
+      },
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "LoveStoryProject"
+          },
+          " (",
+          {
+            "ref": "p:38218",
+            "text": "YAMAYURI"
+          },
+          ")"
+        ]
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：10lulu、Leopold Arendt(2.10, 2.13)\n出版方：Atelier Ueshima Erika、LoveStoryProject (YAMAYURI)\n客串：Claude Debussy(1.7, 1.51)、Maurice Ravel(1.23, 2.33, 2.34, 2.37, 2.38)、Modest Mussorgsky (Modest Petrovich Mussorgsky)(1.36, 1.37)、Ceis(2.51, 3.4, 3.5)、水鏡華(3.7)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-09-11T16:42:42.769Z"
+  }
+}
