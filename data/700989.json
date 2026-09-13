@@ -1,0 +1,195 @@
+{
+  "subjectId": 700989,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "RainyBlueBell"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "RainyBlueBell"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66264",
+            "text": "TOPHAMHAT-KYO"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "RainyBlueBell"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66264",
+            "text": "TOPHAMHAT-KYO"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66264",
+            "text": "TOPHAMHAT-KYO"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Yuhi Sumino"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69964",
+            "text": "KMNZ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:30795",
+            "text": "in the blue shirt"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:30795",
+            "text": "in the blue shirt"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:30795",
+            "text": "in the blue shirt"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Yuhi Sumino"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "有馬えみり"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "GOLDTAIL"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55345",
+            "text": "ミツキヨ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55345",
+            "text": "ミツキヨ"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Yuhi Sumino"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Yuhi Sumino"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69964",
+          "text": "KMNZ"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:70877",
+          "text": "RK Music"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：KMNZ\n作词：RainyBlueBell(1)、KMNZ(2)、有馬えみり(GOLDTAIL)(3)\n作曲：RainyBlueBell(1)、TOPHAMHAT-KYO(1)、in the blue shirt(2)、ミツキヨ(3)\n编曲：RainyBlueBell(1)、TOPHAMHAT-KYO(1)、in the blue shirt(2)、ミツキヨ(3)\n混音：TOPHAMHAT-KYO(1)、in the blue shirt(2)、Yuhi Sumino(3)\n厂牌：RK Music\n录音：Yuhi Sumino(1-3)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-09-13T02:29:32.569Z"
+  }
+}
