@@ -146,7 +146,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:102875",
           "text": "ChillMe"
         }
       }
@@ -183,8 +183,8 @@
     "editor": "厂牌：ChillMe\n母带制作：SoilFo_yuan\n插图：IVwRRR\n设计: C'Ryantic\n\n艺术家：Shunji Fujii(1)、bk(2)、Koiflower(3)、INuya(イヌヤ)(4)、Silvery SKY(5)、Ton Magie(6)、Juggernaut.(7)、ASIION(8)、YUKIYANAGI(9)、Ear_Pregnancy(10)、FN1U(11)、杨天夏(12)"
   },
   "_meta": {
-    "submittedBy": "sakarin",
+    "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-08-15T14:53:39.271Z"
+    "submittedAt": "2026-09-13T05:17:14.938Z"
   }
 }
