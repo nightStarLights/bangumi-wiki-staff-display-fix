@@ -1,0 +1,86 @@
+{
+  "subjectId": 701451,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69083",
+            "text": "2bnsn"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69427",
+            "text": "Embers Melody"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68206",
+            "text": "kanata.t"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68206",
+            "text": "kanata.t"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69431",
+            "text": "Shion Sakamoto"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69431",
+            "text": "Shion Sakamoto"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69427",
+          "text": "Embers Melody"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：Embers Melody\n\n艺术家：2bnsn(1)、Embers Melody(1)、kanata.t(2,3)、Shion Sakamoto(4,5)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-09-14T11:20:47.501Z"
+  }
+}
