@@ -1,0 +1,97 @@
+{
+  "subjectId": 701855,
+  "trackCredits": {
+    "1.1": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15085",
+            "text": "白神真志朗"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15085",
+            "text": "白神真志朗"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72641",
+            "text": "駄菓子O型"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72641",
+            "text": "駄菓子O型"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:74604",
+            "text": "Itaby"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:47429",
+          "text": "小林私"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:40548",
+          "text": "田口翔太郎"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "HEROIC LINE"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：小林私\n编曲：白神真志朗(1,4)、駄菓子O型(2,5)、Itaby(3)\n插图：田口翔太郎\n厂牌：HEROIC LINE"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-09-17T01:18:06.528Z"
+  }
+}
