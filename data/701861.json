@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:54339",
             "text": "春野"
           }
         }
@@ -15,7 +15,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:54339",
             "text": "春野"
           }
         }
@@ -26,7 +26,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:54339",
             "text": "春野"
           }
         }
@@ -35,7 +35,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:54339",
             "text": "春野"
           }
         }
@@ -46,7 +46,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:73995",
             "text": "ariiol"
           }
         }
@@ -57,7 +57,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:53131",
             "text": "r-906"
           }
         }
@@ -68,7 +68,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:53032",
             "text": "いよわ"
           }
         }
@@ -80,7 +80,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:54339",
           "text": "春野"
         }
       }
@@ -101,6 +101,6 @@
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-09-17T01:25:47.713Z"
+    "submittedAt": "2026-09-17T01:26:04.350Z"
   }
 }
