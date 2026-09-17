@@ -1,0 +1,73 @@
+{
+  "subjectId": 701853,
+  "trackCredits": {
+    "1.2": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "小猫汉堡Anicille"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "小猫汉堡Anicille"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Shuichi Endo"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Shuichi Endo"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Shuichi Endo"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:74090",
+          "text": "RockRiverRecords"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：Shuichi Endo\n作曲：Shuichi Endo\n编曲：Shuichi Endo、小猫汉堡Anicille(2,4)\n厂牌：RockRiverRecords"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-09-17T01:11:02.381Z"
+  }
+}
