@@ -15,7 +15,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:54879",
             "text": "中村さんそ"
           }
         }
@@ -46,7 +46,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:30225",
             "text": "Nor"
           }
         }
@@ -57,7 +57,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:25865",
             "text": "Yunomi"
           }
         },
@@ -86,7 +86,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:30224",
             "text": "YUC'e"
           }
         }
@@ -97,7 +97,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:65352",
             "text": "TORIENA"
           }
         }
@@ -117,7 +117,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:55566",
             "text": "をとは"
           }
         }
@@ -137,7 +137,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:65556",
             "text": "KBSNK"
           }
         }
@@ -148,7 +148,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:55206",
             "text": "KOTONOHOUSE"
           }
         }
@@ -159,7 +159,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:69920",
             "text": "Batsu"
           }
         }
@@ -170,7 +170,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:66185",
             "text": "yosumi"
           }
         }
@@ -186,7 +186,7 @@
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:67872",
               "text": "宇佐美祐二"
             },
             ")"
@@ -195,7 +195,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:77594",
             "text": "Marpril"
           }
         }
@@ -226,7 +226,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:69964",
             "text": "KMNZ"
           }
         }
@@ -248,7 +248,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:71276",
             "text": "LanPage"
           }
         }
@@ -294,6 +294,6 @@
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-09-18T12:45:51.126Z"
+    "submittedAt": "2026-09-18T12:47:46.220Z"
   }
 }
