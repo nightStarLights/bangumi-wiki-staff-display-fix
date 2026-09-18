@@ -297,7 +297,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:89940",
+          "ref": null,
           "text": "FloweRiЯy"
         }
       }
@@ -318,6 +318,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-09-18T17:00:03.945Z"
+    "submittedAt": "2026-09-18T17:00:08.050Z"
   }
 }
