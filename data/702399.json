@@ -1,0 +1,92 @@
+{
+  "subjectId": 702399,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Rute"
+            },
+            " (",
+            {
+              "ref": "p:11173",
+              "text": "越田Rute隆人"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Aky"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Rute"
+            },
+            " (",
+            {
+              "ref": "p:11173",
+              "text": "越田Rute隆人"
+            },
+            ")"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Command"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Aky"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8981",
+            "text": "samfree"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8981",
+            "text": "samfree"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：Rute (越田Rute隆人)(1)、Aky(1,2)\n作词：Rute (越田Rute隆人)(1)、samfree(2)\n编曲：Command(1)、samfree(2)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-09-18T17:08:17.303Z"
+  }
+}
