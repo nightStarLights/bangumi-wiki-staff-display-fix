@@ -1,117 +1,12 @@
 {
-  "subjectId": 60889,
-  "trackCredits": {
-    "1.2": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "6th"
-          }
-        }
-      ]
-    },
-    "1.7": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "6th"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Resonant Systems"
-          }
-        }
-      ]
-    },
-    "1.3": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "XampaNoiD"
-          }
-        }
-      ]
-    },
-    "1.4": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "ASIN"
-          }
-        }
-      ]
-    },
-    "1.5": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "siromaru"
-          }
-        }
-      ]
-    },
-    "1.6": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Amethys meets Arzest"
-          }
-        }
-      ]
-    },
-    "1.8": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "XampaNoiD vs Head Fracture"
-          }
-        }
-      ]
-    }
-  },
-  "epinfo": {
-    "label": [
-      {
-        "type": "person",
-        "person": {
-          "ref": null,
-          "text": "Illegal wave Records"
-        }
-      }
-    ],
-    "design": [
-      {
-        "type": "person",
-        "person": {
-          "ref": null,
-          "text": "Haruse Yu"
-        }
-      }
-    ]
-  },
+  "trackCredits": {},
   "rawPatches": {
-    "editor": "艺术家：6th(2,7)、XampaNoiD(3)、ASIN(4)、siromaru(5)、Amethys meets Arzest(6)、Resonant Systems(7)、XampaNoiD vs Head Fracture(8)\n厂牌：Illegal wave Records\n设计：Haruse Yu"
+    "editor": ""
   },
+  "subjectId": 60889,
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-09-21T03:56:19.061Z"
+    "submittedAt": "2026-09-21T03:56:45.004Z"
   }
 }
