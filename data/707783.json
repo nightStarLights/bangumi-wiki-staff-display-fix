@@ -92,18 +92,11 @@
     "1.9": {
       "artist": [
         {
-          "parts": [
-            {
-              "ref": null,
-              "text": "餅屋"
-            },
-            " (",
-            {
-              "ref": "p:26919",
-              "text": "かろちー"
-            },
-            ")"
-          ]
+          "type": "person",
+          "person": {
+            "ref": "p:26919",
+            "text": "餅屋"
+          }
         }
       ]
     },
@@ -140,11 +133,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：CB SQUARE(1)、robotica(2)、REEYA(3)、Nyanxova(4)、Neo Sanctum(5)、くっちー(6)、Kade(7)、KXA(8)、餅屋 (かろちー)(9)、まりつみ(10)\n插图：てがみ\n厂牌：dat file records"
+    "editor": "艺术家：CB SQUARE(1)、robotica(2)、REEYA(3)、Nyanxova(4)、Neo Sanctum(5)、くっちー(6)、Kade(7)、KXA(8)、餅屋(9)、まりつみ(10)\n插图：てがみ\n厂牌：dat file records"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-09-25T19:20:27.251Z"
+    "submittedAt": "2026-09-25T21:30:09.005Z"
   }
 }
