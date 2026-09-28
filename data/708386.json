@@ -1,0 +1,687 @@
+{
+  "subjectId": 708386,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10330",
+            "text": "秣本瑳羅"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83147",
+            "text": "夕暮菜"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69040",
+            "text": "rujou"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69040",
+            "text": "rujou"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69040",
+            "text": "rujou"
+          }
+        }
+      ],
+      "narration": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67035",
+            "text": "たねまき"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10330",
+            "text": "秣本瑳羅"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83147",
+            "text": "夕暮菜"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10330",
+            "text": "秣本瑳羅"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83147",
+            "text": "夕暮菜"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "もくよし"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "もくよし"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "もくよし"
+          }
+        }
+      ],
+      "narration": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10330",
+            "text": "秣本瑳羅"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83147",
+            "text": "夕暮菜"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:61251",
+            "text": "紗倉妃芽"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10330",
+            "text": "秣本瑳羅"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:61251",
+            "text": "紗倉妃芽"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "にしぐり"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "にしぐり"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "にしぐり"
+          }
+        }
+      ],
+      "narration": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10330",
+            "text": "秣本瑳羅"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:61251",
+            "text": "紗倉妃芽"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "如月彩葉"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "にしぐり"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83147",
+            "text": "夕暮菜"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75768",
+            "text": "幸野綺華"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:61251",
+            "text": "紗倉妃芽"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "U-ta"
+            },
+            " (",
+            {
+              "ref": "p:70271",
+              "text": "ウタP"
+            },
+            ")"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "U-ta"
+            },
+            " (",
+            {
+              "ref": "p:70271",
+              "text": "ウタP"
+            },
+            ")"
+          ]
+        }
+      ],
+      "mixing": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "瀬乃一郎"
+            },
+            " (",
+            {
+              "ref": "p:69121",
+              "text": "Sceno Ichiro"
+            },
+            ")"
+          ]
+        }
+      ],
+      "narration": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83147",
+            "text": "夕暮菜"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75768",
+            "text": "幸野綺華"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:61251",
+            "text": "紗倉妃芽"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "くれは"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75768",
+            "text": "幸野綺華"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "桃木真美"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "風街ピリカ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15840",
+            "text": "Maharo"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15840",
+            "text": "Maharo"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15840",
+            "text": "Maharo"
+          }
+        }
+      ],
+      "narration": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83147",
+            "text": "夕暮菜"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75768",
+            "text": "幸野綺華"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "桃木真美"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "風街ピリカ"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75768",
+            "text": "幸野綺華"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83146",
+            "text": "おくさん"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68651",
+            "text": "ぞ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68651",
+            "text": "ぞ"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68651",
+            "text": "ぞ"
+          }
+        }
+      ],
+      "narration": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67035",
+            "text": "たねまき"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83147",
+            "text": "夕暮菜"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75768",
+            "text": "幸野綺華"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "くれは"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83146",
+            "text": "おくさん"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67035",
+            "text": "たねまき"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "桃木真美"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73081",
+            "text": "藤崎わと"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73081",
+            "text": "藤崎わと"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73081",
+            "text": "藤崎わと"
+          }
+        }
+      ],
+      "narration": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67035",
+            "text": "たねまき"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "桃木真美"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "如月彩葉"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67035",
+            "text": "たねまき"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "桃木真美"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:80811",
+            "text": "奥村アキラ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:80811",
+            "text": "奥村アキラ"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:80811",
+            "text": "奥村アキラ"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "narration": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67035",
+            "text": "たねまき"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "桃木真美"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "如月彩葉"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:68281",
+          "text": "久遠真雪"
+        }
+      }
+    ],
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:68281",
+          "text": "久遠真雪"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "け～くん"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ほの暁"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ちいさな家"
+        }
+      }
+    ],
+    "design": [
+      {
+        "parts": [
+          {
+            "ref": "p:7789",
+            "text": "悠花"
+          },
+          "ユカ"
+        ]
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：久遠真雪\n艺术家：秣本瑳羅(1,8,9)、夕暮菜(1,2,8)、幸野綺華(2,4,7)、紗倉妃芽(2,9)、たねまき(3,5)、桃木真美(3-5)、風街ピリカ(4)、おくさん(7)\n作词：久遠真雪\n作曲：rujou(1)、U-ta (ウタP)(2)、藤崎わと(3)、Maharo(4)、奥村アキラ(5)、ぞ(7)、もくよし(8)、にしぐり(9)\n编曲：rujou(1)、U-ta (ウタP)(2)、藤崎わと(3)、Maharo(4)、奥村アキラ(5)、ぞ(7)、もくよし(8)、にしぐり(9)\n混音：rujou(1)、瀬乃一郎 (Sceno Ichiro)(2)、藤崎わと(3)、Maharo(4)、奥村アキラ(5)、ぞ(7)、もくよし(8)、にしぐり(9)\n母带制作：け～くん\n插图：ほの暁\n厂牌：ちいさな家\n和声：にしぐり(9)\n设计：悠花ユカ (悠花)\n设计-Logo：悠花ユカ (悠花)\n设计-Web Design：久遠真雪\n插图-DL Card：悠花ユカ (悠花)\n念白/旁白：たねまき(1,3,6,7)、秣本瑳羅(1,8,9)、夕暮菜(1,2,4,7,8)、幸野綺華(2,4,7)、紗倉妃芽(2,8,9)、くれは(2,7)、桃木真美(3,4,6)、如月彩葉(3,6,9)、風街ピリカ(4)、おくさん(7)、にしぐり(9)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-09-28T17:32:53.037Z"
+  }
+}
