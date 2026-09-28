@@ -1,0 +1,471 @@
+{
+  "subjectId": 708383,
+  "trackCredits": {
+    "2.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "34"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Cosmic Butterfly"
+          }
+        }
+      ]
+    },
+    "1.1": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Shimo Hisae"
+            },
+            " (",
+            {
+              "ref": "p:68145",
+              "text": "霜久愛"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "xtraspicy"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Shimo Hisae"
+            },
+            " (",
+            {
+              "ref": "p:68145",
+              "text": "霜久愛"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "xtraspicy"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Shimo Hisae"
+            },
+            " (",
+            {
+              "ref": "p:68145",
+              "text": "霜久愛"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "xtraspicy"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Shimo Hisae"
+            },
+            " (",
+            {
+              "ref": "p:68145",
+              "text": "霜久愛"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "xtraspicy"
+          }
+        }
+      ]
+    },
+    "2.1": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Shimo Hisae"
+            },
+            " (",
+            {
+              "ref": "p:68145",
+              "text": "霜久愛"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "xtraspicy"
+          }
+        }
+      ]
+    },
+    "2.2": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Shimo Hisae"
+            },
+            " (",
+            {
+              "ref": "p:68145",
+              "text": "霜久愛"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "xtraspicy"
+          }
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Archari"
+          }
+        }
+      ]
+    },
+    "2.11": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Shimo Hisae"
+            },
+            " (",
+            {
+              "ref": "p:68145",
+              "text": "霜久愛"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "xtraspicy"
+          }
+        }
+      ]
+    },
+    "2.12": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Shimo Hisae"
+            },
+            " (",
+            {
+              "ref": "p:68145",
+              "text": "霜久愛"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "xtraspicy"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ri-nergy"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Lab4"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:77642",
+            "text": "Wam"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ned"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Pelko"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Noizenecïo ft."
+          }
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "MC KCD"
+            },
+            " (",
+            {
+              "ref": "p:82561",
+              "text": "Xystran"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "CYNTHESZR"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "XH"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "KYURO3"
+          }
+        }
+      ]
+    },
+    "2.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Type R"
+          }
+        }
+      ]
+    },
+    "2.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:43563",
+            "text": "LV.4"
+          }
+        }
+      ]
+    },
+    "2.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "deneb"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Delorean"
+          }
+        }
+      ]
+    },
+    "2.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "HyeNRG"
+          }
+        }
+      ]
+    },
+    "2.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ant Electronix"
+          }
+        }
+      ]
+    },
+    "2.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Sherkel"
+          }
+        }
+      ]
+    },
+    "2.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72438",
+            "text": "LOLIPO"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "TamolarM"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Kan"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Lilium Magic"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:88268",
+          "text": "Ichii"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：34(2.5)、Shimo Hisae (霜久愛)(1.1, 1.2, 1.11, 1.12, 2.1, 2.2, 2.11, 2.12)、xtraspicy(1.1, 1.2, 1.11, 1.12, 2.1, 2.2, 2.11, 2.12)、Ri-nergy(1.3)、Lab4(1.4)、Wam(1.5)、ned(1.6)、Pelko(1.7)、Noizenecïo ft.(1.8)、MC KCD (Xystran)(1.8)、CYNTHESZR(1.9)、XH(1.10)、KYURO3(1.10)、Type R(2.3)、LV.4(2.4)、Cosmic Butterfly(2.5)、deneb(2.6)、Delorean(2.6)、HyeNRG(2.7)、Ant Electronix(2.8)、Sherkel(2.9)、LOLIPO(2.10)\n母带制作：TamolarM\n插图：Kan\n厂牌：Lilium Magic\n客串：Archari(2.2)\n设计：Ichii"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-09-28T17:22:39.477Z"
+  }
+}
