@@ -29,14 +29,14 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:103772",
             "text": "Nagitsune"
           }
         },
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:103773",
             "text": "ragia"
           }
         }
@@ -45,14 +45,14 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:103772",
             "text": "Nagitsune"
           }
         },
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:103773",
             "text": "ragia"
           }
         }
@@ -61,14 +61,14 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:103772",
             "text": "Nagitsune"
           }
         },
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:103773",
             "text": "ragia"
           }
         }
@@ -88,7 +88,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:103772",
             "text": "Nagitsune"
           }
         }
@@ -97,7 +97,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:103773",
             "text": "ragia"
           }
         }
@@ -106,7 +106,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:103773",
             "text": "ragia"
           }
         }
@@ -126,7 +126,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:103773",
             "text": "ragia"
           }
         }
@@ -135,7 +135,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:103772",
             "text": "Nagitsune"
           }
         }
@@ -144,7 +144,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:103772",
             "text": "Nagitsune"
           }
         }
@@ -168,6 +168,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-09-28T17:46:02.895Z"
+    "submittedAt": "2026-09-28T17:46:10.009Z"
   }
 }
