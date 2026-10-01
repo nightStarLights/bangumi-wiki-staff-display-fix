@@ -22,34 +22,20 @@
       ],
       "composer": [
         {
-          "parts": [
-            {
-              "ref": "p:68095",
-              "text": "レマノルド"
-            },
-            " (",
-            {
-              "ref": null,
-              "text": "RemanolD"
-            },
-            ")"
-          ]
+          "type": "person",
+          "person": {
+            "ref": "p:68095",
+            "text": "レマノルド"
+          }
         }
       ],
       "arranger": [
         {
-          "parts": [
-            {
-              "ref": "p:68095",
-              "text": "レマノルド"
-            },
-            " (",
-            {
-              "ref": null,
-              "text": "RemanolD"
-            },
-            ")"
-          ]
+          "type": "person",
+          "person": {
+            "ref": "p:68095",
+            "text": "レマノルド"
+          }
         }
       ]
     },
@@ -74,34 +60,20 @@
       ],
       "composer": [
         {
-          "parts": [
-            {
-              "ref": "p:68095",
-              "text": "レマノルド"
-            },
-            " (",
-            {
-              "ref": null,
-              "text": "RemanolD"
-            },
-            ")"
-          ]
+          "type": "person",
+          "person": {
+            "ref": "p:68095",
+            "text": "レマノルド"
+          }
         }
       ],
       "arranger": [
         {
-          "parts": [
-            {
-              "ref": "p:68095",
-              "text": "レマノルド"
-            },
-            " (",
-            {
-              "ref": null,
-              "text": "RemanolD"
-            },
-            ")"
-          ]
+          "type": "person",
+          "person": {
+            "ref": "p:68095",
+            "text": "レマノルド"
+          }
         }
       ],
       "featured": [
@@ -282,11 +254,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：星灯つぐみ(1-5)\n作词：星灯つぐみ(1-4)、RD-Sounds(5)\n作曲：レマノルド (RemanolD)(1,2)、星灯つぐみ(3,4)、RD-Sounds(5)\n编曲：レマノルド (RemanolD)(1,2)、星灯つぐみ(3,4)、椎名嘉友(3,4)、RD-Sounds(5)\n混音：椎名嘉友\n母带制作：椎名嘉友\n插图：ひとば\n客串：nayuta(2)\ncustom-剧本：美月りん\n设计-Graphic Design：ヤシロキラ\n设计-Costume Design：丈折メイ"
+    "editor": "艺术家：星灯つぐみ(1-5)\n作词：星灯つぐみ(1-4)、RD-Sounds(5)\n作曲：レマノルド(1,2)、星灯つぐみ(3,4)、RD-Sounds(5)\n编曲：レマノルド(1,2)、星灯つぐみ(3,4)、椎名嘉友(3,4)、RD-Sounds(5)\n混音：椎名嘉友\n母带制作：椎名嘉友\n插图：ひとば\n客串：nayuta(2)\ncustom-剧本：美月りん\n设计-Graphic Design：ヤシロキラ\n设计-Costume Design：丈折メイ"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-01T18:14:42.058Z"
+    "submittedAt": "2026-10-01T18:14:52.253Z"
   }
 }
