@@ -1,0 +1,436 @@
+{
+  "subjectId": 709133,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36280",
+            "text": "一咲美葵"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36280",
+            "text": "一咲美葵"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:41547",
+            "text": "日高真夢"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:40360",
+            "text": "いさお"
+          },
+          "inst": "ギター"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:70447",
+            "text": "佐倉優美"
+          },
+          "inst": "ピアノ"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:41547",
+            "text": "日高真夢"
+          },
+          "inst": "ベース"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "あみた"
+          },
+          "inst": "ドラム"
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36280",
+            "text": "一咲美葵"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36280",
+            "text": "一咲美葵"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:40360",
+            "text": "いさお"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36280",
+            "text": "一咲美葵"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36280",
+            "text": "一咲美葵"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70447",
+            "text": "佐倉優美"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:40360",
+            "text": "いさお"
+          },
+          "inst": "ギター"
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36280",
+            "text": "一咲美葵"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36280",
+            "text": "一咲美葵"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70446",
+            "text": "Shun Miyazaki"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36280",
+            "text": "一咲美葵"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36280",
+            "text": "一咲美葵"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "あみた"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36280",
+            "text": "一咲美葵"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36280",
+            "text": "一咲美葵"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70446",
+            "text": "Shun Miyazaki"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "あみた"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36280",
+            "text": "一咲美葵"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:41547",
+            "text": "日高真夢"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:40360",
+            "text": "いさお"
+          },
+          "inst": "ギター"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:70447",
+            "text": "佐倉優美"
+          },
+          "inst": "ピアノ"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:41547",
+            "text": "日高真夢"
+          },
+          "inst": "ベース"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "あみた"
+          },
+          "inst": "ドラム"
+        }
+      ]
+    },
+    "1.8": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36280",
+            "text": "一咲美葵"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:40360",
+            "text": "いさお"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36280",
+            "text": "一咲美葵"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70447",
+            "text": "佐倉優美"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:40360",
+            "text": "いさお"
+          },
+          "inst": "ギター"
+        }
+      ]
+    },
+    "1.10": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36280",
+            "text": "一咲美葵"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70446",
+            "text": "Shun Miyazaki"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36280",
+            "text": "一咲美葵"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "あみた"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36280",
+            "text": "一咲美葵"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70446",
+            "text": "Shun Miyazaki"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "あみた"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "るなむー"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "かむいこたん"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:62683",
+          "text": "玲瓏のHydrangea"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：一咲美葵(1-6)\n作词：一咲美葵(1-12)\n编曲：日高真夢(1,7)、いさお(2,8)、佐倉優美(3,9)、Shun Miyazaki(4,6,10,12)、あみた(5,6,11,12)\n插图：るなむー、かむいこたん\n厂牌：玲瓏のHydrangea\n乐器-ギター：いさお(1,3,7,9)\n乐器-ピアノ：佐倉優美(1,7)\n乐器-ベース：日高真夢(1,7)\n乐器-ドラム：あみた(1,7)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-01T15:05:31.208Z"
+  }
+}
