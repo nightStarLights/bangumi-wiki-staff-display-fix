@@ -4,18 +4,11 @@
     "1.1": {
       "featured": [
         {
-          "parts": [
-            {
-              "ref": "p:66183",
-              "text": "ChumuNote"
-            },
-            " (",
-            {
-              "ref": null,
-              "text": "紡音れい"
-            },
-            ")"
-          ]
+          "type": "person",
+          "person": {
+            "ref": "p:66183",
+            "text": "ChumuNote"
+          }
         }
       ]
     },
@@ -74,11 +67,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：T-J\n插图：エテ茶\n客串：ChumuNote (紡音れい)(1)、箱乃なかみ(2)、みこのおすし(3)、繭糸(4)"
+    "editor": "艺术家：T-J\n插图：エテ茶\n客串：ChumuNote(1)、箱乃なかみ(2)、みこのおすし(3)、繭糸(4)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-01T16:31:45.657Z"
+    "submittedAt": "2026-10-01T16:32:37.345Z"
   }
 }
