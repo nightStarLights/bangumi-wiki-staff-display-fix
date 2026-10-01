@@ -352,6 +352,33 @@
         }
       }
     ],
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:68660",
+          "text": "dan*tan"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:68660",
+          "text": "dan*tan"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ほくさ"
+        }
+      }
+    ],
     "label": [
       {
         "type": "person",
@@ -360,14 +387,23 @@
           "text": "蒼穹ノ天文台"
         }
       }
+    ],
+    "vocaledit": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69497",
+          "text": "TAKIO"
+        }
+      }
     ]
   },
   "rawPatches": {
-    "editor": "制作人：翠京\n艺术家：翠京(2,4,6,7)\n作词：Nekoribo(2)、翠京(4)、天束(6)、MobKinako(7)\n作曲：grape@ぶどうP(1,4,10)、Nekoribo(2,9)、Mobkinako(3,4,10)、TAKIO(5)、天束(6,11)、MobKinako(7,12)、dan*tan(8)\n编曲：grape@ぶどうP(1,4,10)、Nekoribo(2,9)、Mobkinako(3,4,10)、TAKIO(5)、天束(6,11)、MobKinako(7,12)、dan*tan(8)\n厂牌：蒼穹ノ天文台"
+    "editor": "制作人：翠京\n艺术家：翠京(2,4,6,7)\n作词：Nekoribo(2)、翠京(4)、天束(6)、MobKinako(7)\n作曲：grape@ぶどうP(1,4,10)、Nekoribo(2,9)、Mobkinako(3,4,10)、TAKIO(5)、天束(6,11)、MobKinako(7,12)、dan*tan(8)\n编曲：grape@ぶどうP(1,4,10)、Nekoribo(2,9)、Mobkinako(3,4,10)、TAKIO(5)、天束(6,11)、MobKinako(7,12)、dan*tan(8)\n混音：dan*tan\n母带制作：dan*tan\n插图：ほくさ\n厂牌：蒼穹ノ天文台\n人声编辑：TAKIO"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-01T16:19:48.203Z"
+    "submittedAt": "2026-10-01T16:27:21.315Z"
   }
 }
