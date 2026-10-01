@@ -129,7 +129,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:41536",
           "text": "TatshMusicCircle"
         }
       }
@@ -257,6 +257,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-01T18:19:16.178Z"
+    "submittedAt": "2026-10-01T18:30:06.604Z"
   }
 }
