@@ -1,0 +1,84 @@
+{
+  "subjectId": 709161,
+  "trackCredits": {
+    "1.1": {
+      "featured": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "ChumuNote"
+            },
+            " (",
+            {
+              "ref": "p:66183",
+              "text": "紡音れい"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.2": {
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69728",
+            "text": "箱乃なかみ"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "みこのおすし"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81560",
+            "text": "繭糸"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:91489",
+          "text": "T-J"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "エテ茶"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：T-J\n插图：エテ茶\n客串：ChumuNote (紡音れい)(1)、箱乃なかみ(2)、みこのおすし(3)、繭糸(4)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-01T16:31:29.194Z"
+  }
+}
