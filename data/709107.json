@@ -35,7 +35,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:75920",
             "text": "みちる"
           }
         }
@@ -145,6 +145,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-01T14:13:32.237Z"
+    "submittedAt": "2026-10-01T14:13:42.308Z"
   }
 }
