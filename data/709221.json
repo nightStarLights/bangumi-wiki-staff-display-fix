@@ -1,0 +1,292 @@
+{
+  "subjectId": 709221,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68397",
+            "text": "星灯つぐみ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68397",
+            "text": "星灯つぐみ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "レマノルド"
+            },
+            " (",
+            {
+              "ref": "p:68095",
+              "text": "RemanolD"
+            },
+            ")"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "レマノルド"
+            },
+            " (",
+            {
+              "ref": "p:68095",
+              "text": "RemanolD"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68397",
+            "text": "星灯つぐみ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68397",
+            "text": "星灯つぐみ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "レマノルド"
+            },
+            " (",
+            {
+              "ref": "p:68095",
+              "text": "RemanolD"
+            },
+            ")"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "レマノルド"
+            },
+            " (",
+            {
+              "ref": "p:68095",
+              "text": "RemanolD"
+            },
+            ")"
+          ]
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6248",
+            "text": "nayuta"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68397",
+            "text": "星灯つぐみ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68397",
+            "text": "星灯つぐみ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68397",
+            "text": "星灯つぐみ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68397",
+            "text": "星灯つぐみ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68399",
+            "text": "椎名嘉友"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68397",
+            "text": "星灯つぐみ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68397",
+            "text": "星灯つぐみ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68397",
+            "text": "星灯つぐみ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68397",
+            "text": "星灯つぐみ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68399",
+            "text": "椎名嘉友"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68397",
+            "text": "星灯つぐみ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67847",
+            "text": "RD-Sounds"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67847",
+            "text": "RD-Sounds"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67847",
+            "text": "RD-Sounds"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:68399",
+          "text": "椎名嘉友"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:68399",
+          "text": "椎名嘉友"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ひとば"
+        }
+      }
+    ],
+    "custom-剧本": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "美月りん"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：星灯つぐみ(1-5)\n作词：星灯つぐみ(1-4)、RD-Sounds(5)\n作曲：レマノルド (RemanolD)(1,2)、星灯つぐみ(3,4)、RD-Sounds(5)\n编曲：レマノルド (RemanolD)(1,2)、星灯つぐみ(3,4)、椎名嘉友(3,4)、RD-Sounds(5)\n混音：椎名嘉友\n母带制作：椎名嘉友\n插图：ひとば\n客串：nayuta(2)\ncustom-剧本：美月りん\n设计-Graphic Design：ヤシロキラ\n设计-Costume Design：丈折メイ"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-01T18:14:37.398Z"
+  }
+}
