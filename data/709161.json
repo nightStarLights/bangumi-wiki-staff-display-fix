@@ -6,12 +6,12 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:66183",
               "text": "ChumuNote"
             },
             " (",
             {
-              "ref": "p:66183",
+              "ref": null,
               "text": "紡音れい"
             },
             ")"
@@ -35,7 +35,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:103935",
             "text": "みこのおすし"
           }
         }
@@ -79,6 +79,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-01T16:31:29.194Z"
+    "submittedAt": "2026-10-01T16:31:45.657Z"
   }
 }
