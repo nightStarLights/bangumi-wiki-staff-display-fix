@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:103911",
             "text": "Bestie"
           }
         }
@@ -17,7 +17,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:103911",
             "text": "Bestie"
           }
         },
@@ -80,14 +80,14 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:103911",
           "text": "Bestie"
         }
       },
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:103912",
           "text": "はやうお"
         }
       }
@@ -105,7 +105,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:103910",
           "text": "SHAKEFLASKS"
         }
       }
@@ -126,6 +126,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-01T14:51:02.928Z"
+    "submittedAt": "2026-10-01T14:51:23.029Z"
   }
 }
