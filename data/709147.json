@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:103924",
             "text": "YUXSE"
           }
         }
@@ -15,7 +15,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:103924",
             "text": "YUXSE"
           }
         }
@@ -24,7 +24,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:103924",
             "text": "YUXSE"
           }
         }
@@ -64,7 +64,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:81946",
             "text": "TERRA"
           }
         }
@@ -73,7 +73,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:81946",
             "text": "TERRA"
           }
         }
@@ -82,7 +82,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:81946",
             "text": "TERRA"
           }
         }
@@ -93,7 +93,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:81946",
             "text": "TERRA"
           }
         }
@@ -122,7 +122,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:68202",
             "text": "美月もも"
           }
         }
@@ -151,7 +151,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:68202",
             "text": "美月もも"
           }
         }
@@ -160,7 +160,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:95293",
             "text": "琴吹むつみ"
           }
         }
@@ -169,7 +169,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:95293",
             "text": "琴吹むつみ"
           }
         }
@@ -267,7 +267,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:95293",
             "text": "琴吹むつみ"
           }
         }
@@ -276,7 +276,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:95293",
             "text": "琴吹むつみ"
           }
         }
@@ -285,7 +285,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:95293",
             "text": "琴吹むつみ"
           }
         }
@@ -296,7 +296,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:103925",
             "text": "蒼野みどり"
           }
         }
@@ -305,7 +305,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:103925",
             "text": "蒼野みどり"
           }
         }
@@ -314,7 +314,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:103925",
             "text": "蒼野みどり"
           }
         }
@@ -326,7 +326,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:68202",
           "text": "美月もも"
         }
       }
@@ -338,6 +338,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-01T15:44:16.250Z"
+    "submittedAt": "2026-10-01T15:44:24.570Z"
   }
 }
