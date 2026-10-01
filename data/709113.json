@@ -1,0 +1,129 @@
+{
+  "subjectId": 709113,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "GESO"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "GESO"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "天野翔平"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "天野翔平"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "天野翔平"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "こめだわら"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69021",
+            "text": "芥田レンリ"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:81265",
+          "text": "Kopf stimme"
+        }
+      }
+    ],
+    "vocal": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:81089",
+          "text": "とうめいのくに"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:81264",
+          "text": "Bathycaphe"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "天野翔平"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "もさかな"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：Kopf stimme\n作词：GESO(1)、天野翔平(2)\n作曲：GESO(1)、天野翔平(2)、こめだわら(3)、芥田レンリ(4)\n声乐：とうめいのくに、Bathycaphe\n混音：天野翔平(2)\n母带制作：天野翔平\n插图：もさかな"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-01T14:23:22.401Z"
+  }
+}
