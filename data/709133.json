@@ -57,7 +57,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:43512",
             "text": "あみた"
           },
           "inst": "ドラム"
@@ -184,7 +184,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:43512",
             "text": "あみた"
           }
         }
@@ -220,7 +220,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:43512",
             "text": "あみた"
           }
         }
@@ -273,7 +273,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:43512",
             "text": "あみた"
           },
           "inst": "ドラム"
@@ -364,7 +364,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:43512",
             "text": "あみた"
           }
         }
@@ -391,7 +391,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:43512",
             "text": "あみた"
           }
         }
@@ -431,6 +431,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-01T15:05:31.208Z"
+    "submittedAt": "2026-10-01T15:05:58.217Z"
   }
 }
