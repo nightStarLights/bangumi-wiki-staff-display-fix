@@ -1,0 +1,492 @@
+{
+  "subjectId": 709210,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "こばっち"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "こばっち"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "磯野香織"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "こばっち"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "磯野香織"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "こばっち"
+          },
+          "inst": "ギター"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "磯野香織"
+          },
+          "inst": "ベース"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "磯野香織"
+          },
+          "inst": "ドラム"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "こばっち"
+          },
+          "inst": "ドラム"
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "歌与ポメ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91305",
+            "text": "Kainé"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91305",
+            "text": "Kainé"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91305",
+            "text": "Kainé"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "KAMIYAMA"
+          },
+          "inst": "ドラム"
+        }
+      ]
+    },
+    "1.7": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "歌与ポメ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66889",
+            "text": "KKK_KKK"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66889",
+            "text": "KKK_KKK"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66889",
+            "text": "KKK_KKK"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "歌与ポメ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91866",
+            "text": "クロデル"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91866",
+            "text": "クロデル"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "一ノ瀬星空"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "歌与ポメ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91695",
+            "text": "橙ミャオ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91695",
+            "text": "橙ミャオ"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91695",
+            "text": "橙ミャオ"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:89334",
+            "text": "qurosawa"
+          },
+          "inst": "ギター"
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "fumaL"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "fumaL"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "fumaL"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66880",
+            "text": "daph"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "じゅんむら"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "じゅんむら"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "じゅんむら"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "じゅんむら"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9030",
+            "text": "ゆうゆ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9030",
+            "text": "ゆうゆ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9030",
+            "text": "ゆうゆ"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Leo"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "あろんぐ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "あろんぐ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "あろんぐ"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "あろんぐ"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "G-END"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "G-END"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "G-END"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "G-END"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "歌与ポメ"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:66880",
+          "text": "daph"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "遥川遥"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "逸乃ちよ"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：歌与ポメ\n作词：こばっち(1)、歌与ポメ(2,7,8,10)、fumaL(3)、じゅんむら(4)、ゆうゆ(5)、あろんぐ(6)、G-END(9)\n作曲：こばっち(1)、Kainé(2)、fumaL(3)、じゅんむら(4)、ゆうゆ(5)、あろんぐ(6)、KKK_KKK(7)、クロデル(8)、G-END(9)、橙ミャオ(10)\n编曲：磯野香織(1)、こばっち(1)、Kainé(2)、fumaL(3)、じゅんむら(4)、ゆうゆ(5)、あろんぐ(6)、KKK_KKK(7)、クロデル(8)、G-END(9)、橙ミャオ(10)\n混音：磯野香織(1)、Kainé(2)、daph(3)、じゅんむら(4)、Leo(5)、あろんぐ(6)、KKK_KKK(7)、一ノ瀬星空(8)、G-END(9)、橙ミャオ(10)\n母带制作：daph\n插图：遥川遥\n设计：逸乃ちよ\n乐器-ギター：こばっち(1)、qurosawa(10)\n乐器-ベース：磯野香織(1)\n乐器-ドラム：磯野香織(1)、こばっち(1)、KAMIYAMA(2)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-01T17:05:59.203Z"
+  }
+}
