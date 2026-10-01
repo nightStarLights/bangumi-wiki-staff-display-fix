@@ -24,12 +24,12 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:68095",
               "text": "レマノルド"
             },
             " (",
             {
-              "ref": "p:68095",
+              "ref": null,
               "text": "RemanolD"
             },
             ")"
@@ -40,12 +40,12 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:68095",
               "text": "レマノルド"
             },
             " (",
             {
-              "ref": "p:68095",
+              "ref": null,
               "text": "RemanolD"
             },
             ")"
@@ -76,12 +76,12 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:68095",
               "text": "レマノルド"
             },
             " (",
             {
-              "ref": "p:68095",
+              "ref": null,
               "text": "RemanolD"
             },
             ")"
@@ -92,12 +92,12 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:68095",
               "text": "レマノルド"
             },
             " (",
             {
-              "ref": "p:68095",
+              "ref": null,
               "text": "RemanolD"
             },
             ")"
@@ -287,6 +287,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-01T18:14:37.398Z"
+    "submittedAt": "2026-10-01T18:14:42.058Z"
   }
 }
