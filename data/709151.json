@@ -400,7 +400,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:43562",
             "text": "Astral Sky"
           }
         },
@@ -471,7 +471,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:43562",
           "text": "Astral Sky"
         }
       },
@@ -557,11 +557,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "制作人：uma、モリモリあつし\n艺术家：uma(1-8,10,12-17)、モリモリあつし(1-8,10,12-17)、ぱらどっと (adaptor)(8,14)、Astral Sky(9)、非可逆リズム(9)、ちょこふぁん(9,11)\n厂牌：Astral Sky、非可逆リズム\n客串：Risa Yuzuki (柚木梨沙)(6,12)\ncustom-致谢：ZYANNA、生足、モツ (MOTSU)、いつきり君、syuri22、未早、coa、すばる、HASEKO\ncustom-合作者：Risa Yuzuki (柚木梨沙)(6,12)、ぱらどっと (adaptor)(8,14)、ちょこふぁん(9,11)\n插图-Jacket：masiro vs.、adaptor"
+    "editor": "制作人：uma、モリモリあつし\n艺术家：uma(1-8,10,12-17)、モリモリあつし(1-8,10,12-17)、ぱらどっと (adaptor)(8,14)、Astral Sky(9)、非可逆リズム(9)、ちょこふぁん(9,11)\n厂牌：Astral Sky、非可逆リズム\n客串：Risa Yuzuki (柚木梨沙)(6,12)\ncustom-致谢：ZYANNA、生足、モツ (MOTSU)、いつきり君、syuri22、未早、coa、すばる、HASEKO\ncustom-合作者：Risa Yuzuki (柚木梨沙)(6,12)、ぱらどっと (adaptor)(8,14)、ちょこふぁん(9,11)\n插图-Jacket：masiro、adaptor"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-01T16:00:50.073Z"
+    "submittedAt": "2026-10-01T16:01:28.804Z"
   }
 }
