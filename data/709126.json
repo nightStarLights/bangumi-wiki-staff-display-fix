@@ -1,0 +1,131 @@
+{
+  "subjectId": 709126,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Bestie"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Bestie"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:51381",
+            "text": "ハヤシベトモノリ"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:35932",
+            "text": "Capchii"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "毛葛"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66173",
+            "text": "Tsubusare BOZZ"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "monputa2112"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Bestie"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "はやうお"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "somen"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "SHAKEFLASKS"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:41315",
+          "text": "EMA"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：Bestie、はやうお\n艺术家：Bestie(1,6)、Capchii(2)、毛葛(3)、Tsubusare BOZZ(4)、monputa2112(5)、ハヤシベトモノリ(6)\n插图：somen\n厂牌：SHAKEFLASKS\n设计：EMA"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-01T14:51:02.928Z"
+  }
+}
