@@ -114,7 +114,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:41315",
+          "ref": null,
           "text": "EMA"
         }
       }
@@ -126,6 +126,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-01T14:53:33.043Z"
+    "submittedAt": "2026-10-01T15:21:56.778Z"
   }
 }
