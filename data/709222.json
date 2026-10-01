@@ -1,0 +1,262 @@
+{
+  "subjectId": 709222,
+  "trackCredits": {
+    "1.2": {
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5860",
+            "text": "彩音"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "IMAJO"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5860",
+            "text": "彩音"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71699",
+            "text": "sak"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "KEI"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Rei ITOH"
+          }
+        }
+      ]
+    },
+    "1.13": {
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:43674",
+            "text": "星野奏子"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:6604",
+          "text": "Tatsh"
+        }
+      }
+    ],
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "GALILEO STUDIO"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "TatshMusicCircle STUDIO"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "GALILEO STUDIO"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "TatshMusicCircle STUDIO"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Retouching"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "nsk"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "TatshMusicCircle"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "XTC"
+        }
+      }
+    ],
+    "custom-视频制作": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "KOYAMA"
+        }
+      }
+    ],
+    "custom-Assistant": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Lik-K"
+        }
+      }
+    ],
+    "custom-Novel Production": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "TatshMusicCircle"
+        }
+      }
+    ],
+    "custom-Novel Chinese Translation": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Lunasakura"
+        }
+      }
+    ],
+    "custom-Novel Production Support": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "kotobuki jugem"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Takatano"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Kisaichi"
+        }
+      }
+    ],
+    "custom-Beta Reading": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "BYAKUYA"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Mikan Mika"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Izumi Kigawa"
+        }
+      }
+    ],
+    "custom-Video Direction Advisors": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "chocobakki"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "OrbitVertex"
+        }
+      }
+    ],
+    "custom-Pressing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "at green"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：Tatsh\n混音：GALILEO STUDIO、TatshMusicCircle STUDIO\n母带制作：GALILEO STUDIO、TatshMusicCircle STUDIO\n插图：Retouching、nsk\n厂牌：TatshMusicCircle\n客串：彩音(2,6)、IMAJO(2)、sak(6)、KEI(7)、Rei ITOH(7)、星野奏子(13)\n设计：XTC\ncustom-视频制作：KOYAMA\ncustom-Assistant：Lik-K\ncustom-Novel Production：TatshMusicCircle\ncustom-Novel Chinese Translation：Lunasakura\ncustom-Novel Production Support：kotobuki jugem、Takatano、Kisaichi\ncustom-Beta Reading：BYAKUYA、Mikan Mika、Izumi Kigawa\ncustom-Video Direction Advisors：chocobakki、OrbitVertex\ncustom-Pressing：at green"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-01T18:19:16.178Z"
+  }
+}
