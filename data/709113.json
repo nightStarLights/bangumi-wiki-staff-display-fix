@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:73530",
             "text": "GESO"
           }
         }
@@ -15,7 +15,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:73530",
             "text": "GESO"
           }
         }
@@ -26,7 +26,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:103909",
             "text": "天野翔平"
           }
         }
@@ -35,7 +35,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:103909",
             "text": "天野翔平"
           }
         }
@@ -44,7 +44,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:103909",
             "text": "天野翔平"
           }
         }
@@ -103,7 +103,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:103909",
           "text": "天野翔平"
         }
       }
@@ -124,6 +124,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-01T14:23:22.401Z"
+    "submittedAt": "2026-10-01T14:23:32.330Z"
   }
 }
