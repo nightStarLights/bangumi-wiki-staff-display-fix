@@ -1,0 +1,567 @@
+{
+  "subjectId": 709151,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65461",
+            "text": "uma"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36111",
+            "text": "モリモリあつし"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65461",
+            "text": "uma"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36111",
+            "text": "モリモリあつし"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65461",
+            "text": "uma"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36111",
+            "text": "モリモリあつし"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65461",
+            "text": "uma"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36111",
+            "text": "モリモリあつし"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65461",
+            "text": "uma"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36111",
+            "text": "モリモリあつし"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65461",
+            "text": "uma"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36111",
+            "text": "モリモリあつし"
+          }
+        }
+      ],
+      "featured": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Risa Yuzuki"
+            },
+            " (",
+            {
+              "ref": "p:25781",
+              "text": "柚木梨沙"
+            },
+            ")"
+          ]
+        }
+      ],
+      "custom-合作者": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Risa Yuzuki"
+            },
+            " (",
+            {
+              "ref": "p:25781",
+              "text": "柚木梨沙"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65461",
+            "text": "uma"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36111",
+            "text": "モリモリあつし"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65461",
+            "text": "uma"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36111",
+            "text": "モリモリあつし"
+          }
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "ぱらどっと"
+            },
+            " (",
+            {
+              "ref": "p:68990",
+              "text": "adaptor"
+            },
+            ")"
+          ]
+        }
+      ],
+      "custom-合作者": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "ぱらどっと"
+            },
+            " (",
+            {
+              "ref": "p:68990",
+              "text": "adaptor"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65461",
+            "text": "uma"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36111",
+            "text": "モリモリあつし"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65461",
+            "text": "uma"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36111",
+            "text": "モリモリあつし"
+          }
+        }
+      ],
+      "featured": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Risa Yuzuki"
+            },
+            " (",
+            {
+              "ref": "p:25781",
+              "text": "柚木梨沙"
+            },
+            ")"
+          ]
+        }
+      ],
+      "custom-合作者": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Risa Yuzuki"
+            },
+            " (",
+            {
+              "ref": "p:25781",
+              "text": "柚木梨沙"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.13": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65461",
+            "text": "uma"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36111",
+            "text": "モリモリあつし"
+          }
+        }
+      ]
+    },
+    "1.14": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65461",
+            "text": "uma"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36111",
+            "text": "モリモリあつし"
+          }
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "ぱらどっと"
+            },
+            " (",
+            {
+              "ref": "p:68990",
+              "text": "adaptor"
+            },
+            ")"
+          ]
+        }
+      ],
+      "custom-合作者": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "ぱらどっと"
+            },
+            " (",
+            {
+              "ref": "p:68990",
+              "text": "adaptor"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.15": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65461",
+            "text": "uma"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36111",
+            "text": "モリモリあつし"
+          }
+        }
+      ]
+    },
+    "1.16": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65461",
+            "text": "uma"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36111",
+            "text": "モリモリあつし"
+          }
+        }
+      ]
+    },
+    "1.17": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65461",
+            "text": "uma"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36111",
+            "text": "モリモリあつし"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Astral Sky"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:41302",
+            "text": "非可逆リズム"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:54009",
+            "text": "ちょこふぁん"
+          }
+        }
+      ],
+      "custom-合作者": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:54009",
+            "text": "ちょこふぁん"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:54009",
+            "text": "ちょこふぁん"
+          }
+        }
+      ],
+      "custom-合作者": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:54009",
+            "text": "ちょこふぁん"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:65461",
+          "text": "uma"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:36111",
+          "text": "モリモリあつし"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Astral Sky"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:41302",
+          "text": "非可逆リズム"
+        }
+      }
+    ],
+    "custom-致谢": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ZYANNA"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "生足"
+        }
+      },
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "モツ"
+          },
+          " (",
+          {
+            "ref": "p:10209",
+            "text": "MOTSU"
+          },
+          ")"
+        ]
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "いつきり君"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:52351",
+          "text": "syuri22"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:66092",
+          "text": "未早"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "coa"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:65418",
+          "text": "すばる"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:47410",
+          "text": "HASEKO"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：uma、モリモリあつし\n艺术家：uma(1-8,10,12-17)、モリモリあつし(1-8,10,12-17)、ぱらどっと (adaptor)(8,14)、Astral Sky(9)、非可逆リズム(9)、ちょこふぁん(9,11)\n厂牌：Astral Sky、非可逆リズム\n客串：Risa Yuzuki (柚木梨沙)(6,12)\ncustom-致谢：ZYANNA、生足、モツ (MOTSU)、いつきり君、syuri22、未早、coa、すばる、HASEKO\ncustom-合作者：Risa Yuzuki (柚木梨沙)(6,12)、ぱらどっと (adaptor)(8,14)、ちょこふぁん(9,11)\n插图-Jacket：masiro vs.、adaptor"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-01T16:00:50.073Z"
+  }
+}
