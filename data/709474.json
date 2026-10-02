@@ -60,12 +60,12 @@
         {
           "parts": [
             {
-              "ref": "p:85205",
+              "ref": null,
               "text": "Normal1zer"
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:85205",
               "text": "Supa7onyz"
             },
             ")"
@@ -76,12 +76,12 @@
         {
           "parts": [
             {
-              "ref": "p:85205",
+              "ref": null,
               "text": "Normal1zer"
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:85205",
               "text": "Supa7onyz"
             },
             ")"
@@ -113,7 +113,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:66918",
             "text": "Riku"
           }
         }
@@ -122,7 +122,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:66918",
             "text": "Riku"
           }
         }
@@ -131,7 +131,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:66918",
             "text": "Riku"
           }
         }
@@ -955,6 +955,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-02T14:52:19.089Z"
+    "submittedAt": "2026-10-02T14:52:37.992Z"
   }
 }
