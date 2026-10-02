@@ -51,7 +51,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:48158",
             "text": "天休ひさし"
           }
         }
@@ -71,7 +71,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:48158",
             "text": "天休ひさし"
           }
         }
@@ -91,7 +91,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:48158",
             "text": "天休ひさし"
           }
         }
@@ -111,7 +111,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:48158",
             "text": "天休ひさし"
           }
         }
@@ -131,7 +131,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:48158",
             "text": "天休ひさし"
           }
         }
@@ -151,7 +151,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:48158",
             "text": "天休ひさし"
           }
         }
@@ -171,7 +171,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:48158",
             "text": "天休ひさし"
           }
         }
@@ -191,7 +191,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:48158",
             "text": "天休ひさし"
           }
         }
@@ -211,7 +211,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:48158",
             "text": "天休ひさし"
           }
         }
@@ -498,6 +498,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-02T11:59:26.452Z"
+    "submittedAt": "2026-10-02T11:59:35.400Z"
   }
 }
