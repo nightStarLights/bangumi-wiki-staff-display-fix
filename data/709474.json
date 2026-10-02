@@ -1,0 +1,960 @@
+{
+  "subjectId": 709474,
+  "trackCredits": {
+    "1.8": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47393",
+            "text": "YUKIYANAGI"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47393",
+            "text": "YUKIYANAGI"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47393",
+            "text": "YUKIYANAGI"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "小井诗KyOAO"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Supa777"
+            },
+            " (",
+            {
+              "ref": "p:85205",
+              "text": "Supa7onyz"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:85205",
+              "text": "Normal1zer"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Supa7onyz"
+            },
+            ")"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": "p:85205",
+              "text": "Normal1zer"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Supa7onyz"
+            },
+            ")"
+          ]
+        }
+      ],
+      "vocal": [
+        {
+          "parts": [
+            "Sawako",
+            {
+              "ref": "p:85792",
+              "text": "碎花"
+            },
+            "子"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深水怠Darara"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Riku"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Riku"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Riku"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "风见三月MitsuKi"
+          }
+        }
+      ]
+    },
+    "2.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "アーゴン"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ZoeEngine"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ZoeEngine"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "池乐"
+          }
+        }
+      ]
+    },
+    "2.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73874",
+            "text": "Assertive"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73874",
+            "text": "Assertive"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73874",
+            "text": "Assertive"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "日光Taberu"
+          }
+        }
+      ]
+    },
+    "2.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69123",
+            "text": "黒皇帝"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69123",
+            "text": "黒皇帝"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69123",
+            "text": "黒皇帝"
+          }
+        }
+      ]
+    },
+    "2.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10164",
+            "text": "黒魔"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10164",
+            "text": "黒魔"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10164",
+            "text": "黒魔"
+          }
+        }
+      ]
+    },
+    "2.5": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69025",
+            "text": "VOLTA"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69025",
+            "text": "VOLTA"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69025",
+            "text": "VOLTA"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "优花璃Yukari"
+          }
+        }
+      ]
+    },
+    "2.7": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65772",
+            "text": "Halv"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65772",
+            "text": "Halv"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "AiSS"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65772",
+            "text": "Halv"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "AiSS"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "鸠奈kobato"
+          }
+        }
+      ]
+    },
+    "2.10": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6604",
+            "text": "Tatsh"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71697",
+            "text": "SisA"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6604",
+            "text": "Tatsh"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6604",
+            "text": "Tatsh"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "塞拉菲娜Serafina"
+          }
+        }
+      ]
+    },
+    "2.11": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65433",
+            "text": "打打だいず"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70007",
+            "text": "Ashrount"
+          }
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "D-D-Dice"
+            },
+            " (",
+            {
+              "ref": "p:65433",
+              "text": "打打だいず"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:45308",
+            "text": "Tanchiky"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67128",
+            "text": "siromaru"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70007",
+            "text": "Ashrount"
+          }
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "D-D-Dice"
+            },
+            " (",
+            {
+              "ref": "p:65433",
+              "text": "打打だいず"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:45308",
+            "text": "Tanchiky"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67128",
+            "text": "siromaru"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "唯野白"
+          }
+        }
+      ]
+    },
+    "1.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55162",
+            "text": "s-don"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55162",
+            "text": "s-don"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55171",
+            "text": "Essbee"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55171",
+            "text": "Essbee"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55165",
+            "text": "satie"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55165",
+            "text": "satie"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:31965",
+            "text": "Maozon"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:31965",
+            "text": "Maozon"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:41590",
+            "text": "Blacklolita"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:41590",
+            "text": "Blacklolita"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65461",
+            "text": "uma"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36111",
+            "text": "モリモリあつし"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65461",
+            "text": "uma"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36111",
+            "text": "モリモリあつし"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "RUQOA"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "RUQOA"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64862",
+            "text": "muyu"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64862",
+            "text": "muyu"
+          }
+        }
+      ]
+    },
+    "2.6": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66193",
+            "text": "Mtell"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66193",
+            "text": "Mtell"
+          }
+        }
+      ]
+    },
+    "2.8": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36649",
+            "text": "siqlo"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36649",
+            "text": "siqlo"
+          }
+        }
+      ]
+    },
+    "2.9": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68204",
+            "text": "影虎。"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68204",
+            "text": "影虎。"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Fr0_Official"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "AiSS"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "cala_Atsushi"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Immaculée Sekai"
+        }
+      }
+    ],
+    "custom-音乐监督": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "AiSS"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:85205",
+          "text": "Supa7onyz"
+        }
+      }
+    ],
+    "custom-视频": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Shining"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "MのGhost"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "流歌只喝泡沫汁"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "一千兆赫"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "MiA_M3c"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "久远寺铭心"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "佑木いずみ"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "-Aipoi-"
+        }
+      }
+    ],
+    "custom-特别感谢": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:31962",
+          "text": "YsK439"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "奏Sou"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "夜泉灵Rei"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "糖一色Shiny"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "量子猫EH"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "梨绪Rio"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "吉普莉特Jipulite"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "可洛米娅_Chromia"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "茉璃Marin"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "卡拉Kira"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "夕雁Yukari"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "芮伊奈奈"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "思廿MInia"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：Fr0_Official\n作词：YUKIYANAGI(1.8)、Supa777 (Supa7onyz)(1.9)、Riku(1.11)、アーゴン(2.1)、Assertive(2.2)、黒皇帝(2.3)、黒魔(2.4)、VOLTA(2.5)、Halv(2.7)、Tatsh(2.10)、SisA(2.10)、打打だいず(2.11)\n作曲：s-don(1.1)、Essbee(1.2)、satie(1.3)、Maozon(1.4)、Blacklolita(1.5)、uma(1.6)、モリモリあつし(1.6)、RUQOA(1.7)、YUKIYANAGI(1.8)、Normal1zer (Supa7onyz)(1.9)、muyu(1.10)、Riku(1.11)、ZoeEngine(2.1)、Assertive(2.2)、黒皇帝(2.3)、黒魔(2.4)、VOLTA(2.5)、Mtell(2.6)、Halv(2.7)、AiSS(2.7)、siqlo(2.8)、影虎。(2.9)、Tatsh(2.10)、Ashrount(2.11)、D-D-Dice (打打だいず)(2.11)、Tanchiky(2.11)、siromaru(2.11)\n编曲：s-don(1.1)、Essbee(1.2)、satie(1.3)、Maozon(1.4)、Blacklolita(1.5)、uma(1.6)、モリモリあつし(1.6)、RUQOA(1.7)、YUKIYANAGI(1.8)、Normal1zer (Supa7onyz)(1.9)、muyu(1.10)、Riku(1.11)、ZoeEngine(2.1)、Assertive(2.2)、黒皇帝(2.3)、黒魔(2.4)、VOLTA(2.5)、Mtell(2.6)、Halv(2.7)、AiSS(2.7)、siqlo(2.8)、影虎。(2.9)、Tatsh(2.10)、Ashrount(2.11)、D-D-Dice (打打だいず)(2.11)、Tanchiky(2.11)、siromaru(2.11)\n声乐：小井诗KyOAO(1.8)、Sawako碎花子 (碎花)(1.9)、深水怠Darara(1.9)、风见三月MitsuKi(1.11)、池乐(2.1)、日光Taberu(2.2)、优花璃Yukari(2.5)、鸠奈kobato(2.7)、塞拉菲娜Serafina(2.10)、唯野白(2.11)\n母带制作：AiSS\n插图：cala_Atsushi\n厂牌：Immaculée Sekai\ncustom-音乐监督：AiSS、Supa7onyz\n插图-专辑外观：弓瓜\n设计-专辑外观：C'Ryantic\ncustom-视频：Shining、MのGhost、流歌只喝泡沫汁、一千兆赫、MiA_M3c、久远寺铭心、佑木いずみ、-Aipoi-\ncustom-特别感谢：YsK439、奏Sou、夜泉灵Rei、糖一色Shiny、量子猫EH、梨绪Rio、吉普莉特Jipulite、可洛米娅_Chromia、茉璃Marin、卡拉Kira、夕雁Yukari、芮伊奈奈、思廿MInia"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-02T14:52:19.089Z"
+  }
+}
