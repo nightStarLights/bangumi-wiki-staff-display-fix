@@ -467,37 +467,12 @@
       ]
     }
   },
-  "epinfo": {
-    "publisher": [
-      {
-        "type": "person",
-        "person": {
-          "ref": "p:2401",
-          "text": "VISUAL ARTS"
-        }
-      },
-      {
-        "type": "person",
-        "person": {
-          "ref": null,
-          "text": "Scripts"
-        }
-      },
-      {
-        "type": "person",
-        "person": {
-          "ref": "p:2401",
-          "text": "VISUAL ARTS"
-        }
-      }
-    ]
-  },
   "rawPatches": {
-    "editor": "艺术家：ミイ(22)\n作词：髙梨泰輔(22)、山夜みい(22)\n作曲：天休ひさし(1-5,8,9,14,15)、髙梨泰輔(6,10,11,13,16-22)、大川茂伸(7,12)\n母带制作：髙梨泰輔(1-22)\n出版方：VISUAL ARTS / Scripts、VISUAL ARTS"
+    "editor": "艺术家：ミイ(22)\n作词：髙梨泰輔(22)、山夜みい(22)\n作曲：天休ひさし(1-5,8,9,14,15)、髙梨泰輔(6,10,11,13,16-22)、大川茂伸(7,12)\n母带制作：髙梨泰輔(1-22)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-02T11:59:35.400Z"
+    "submittedAt": "2026-10-02T12:00:01.217Z"
   }
 }
