@@ -7,7 +7,14 @@
           "type": "person",
           "person": {
             "ref": null,
-            "text": "菅原慎子"
+            "text": "杏庫裡ジュリ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:103960",
+            "text": "JULLII"
           }
         }
       ],
@@ -51,16 +58,16 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
-            "text": "あべ氏"
+            "ref": "p:81532",
+            "text": "ゐつぺゑ"
           },
           "inst": "Guitar"
         },
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
-            "text": "あべ氏"
+            "ref": "p:81532",
+            "text": "ゐつぺゑ"
           },
           "inst": "Bass"
         },
@@ -75,16 +82,16 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
-            "text": "橋場さえ"
+            "ref": "p:82031",
+            "text": "嶋根颯汰"
           },
           "inst": "Flute"
         },
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
-            "text": "橋場さえ"
+            "ref": "p:82031",
+            "text": "嶋根颯汰"
           },
           "inst": "Saxophone"
         },
@@ -92,7 +99,7 @@
           "type": "instrument_credit",
           "person": {
             "ref": null,
-            "text": "藤野新人"
+            "text": "藤野拓人"
           },
           "inst": "Flugelhorn"
         },
@@ -100,7 +107,7 @@
           "type": "instrument_credit",
           "person": {
             "ref": null,
-            "text": "グレンジ"
+            "text": "グリジエ"
           },
           "inst": "Trombone"
         }
@@ -119,7 +126,7 @@
           "type": "person",
           "person": {
             "ref": null,
-            "text": "Blue Mountain Studio"
+            "text": "ブルーマウンテンスタジオ"
           }
         }
       ]
@@ -194,8 +201,8 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
-            "text": "蓬尾理之"
+            "ref": "p:12992",
+            "text": "蓮尾理之"
           }
         }
       ],
@@ -203,8 +210,8 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
-            "text": "蓬尾理之"
+            "ref": "p:12992",
+            "text": "蓮尾理之"
           }
         }
       ],
@@ -212,8 +219,8 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
-            "text": "飯知学"
+            "ref": "p:65925",
+            "text": "坂知学"
           }
         }
       ],
@@ -230,8 +237,8 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
-            "text": "黒井誠哉"
+            "ref": "p:14185",
+            "text": "照井順政"
           },
           "inst": "Guitar"
         },
@@ -239,7 +246,7 @@
           "type": "instrument_credit",
           "person": {
             "ref": null,
-            "text": "山口孝伯"
+            "text": "樋口幸佑"
           },
           "inst": "Drums"
         }
@@ -249,7 +256,7 @@
           "type": "person",
           "person": {
             "ref": null,
-            "text": "菅原庸人"
+            "text": "菅原直人"
           }
         }
       ],
@@ -257,8 +264,8 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
-            "text": "飯知学"
+            "ref": "p:65925",
+            "text": "坂知学"
           }
         }
       ],
@@ -267,7 +274,7 @@
           "type": "person",
           "person": {
             "ref": null,
-            "text": "ORPHEUS RECORDING STUDIOS"
+            "text": "ORPhEUS RECORDING STUDIOS"
           }
         }
       ],
@@ -276,7 +283,7 @@
           "type": "person",
           "person": {
             "ref": null,
-            "text": "fina studio"
+            "text": "hina studio"
           }
         }
       ]
@@ -336,8 +343,8 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
-            "text": "伊藤樹彦"
+            "ref": "p:70599",
+            "text": "伊藤誠悟"
           }
         }
       ],
@@ -409,9 +416,17 @@
           "type": "instrument_credit",
           "person": {
             "ref": null,
-            "text": "Issei Katsuichi"
+            "text": "Issei Katsunoil"
           },
           "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "PMIY"
+          },
+          "inst": "Movie(Vocaduo)"
         }
       ]
     },
@@ -475,7 +490,15 @@
           "type": "instrument_credit",
           "person": {
             "ref": null,
-            "text": "箕輪弓"
+            "text": "柴音"
+          },
+          "inst": "Flute"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:94027",
+            "text": "舞弦ウラ"
           },
           "inst": "Violin"
         },
@@ -486,14 +509,17 @@
             "text": "Wavfire"
           },
           "inst": "Violoncello"
-        },
+        }
+      ]
+    },
+    "1.1": {
+      "composer": [
         {
-          "type": "instrument_credit",
+          "type": "person",
           "person": {
-            "ref": null,
-            "text": "紫音"
-          },
-          "inst": "Flauto"
+            "ref": "p:81530",
+            "text": "Talich Helfen"
+          }
         }
       ]
     }
@@ -528,11 +554,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "制作人：JULLII\n艺术家：菅原慎子(2)、JULLII(3-7)\n作词：JULLII(2-7)\n作曲：Talich Helfen(2)、aon(3)、蓬尾理之(4)、kidlit (深水チエ)(5)、JULLII(6)、Senaru(6)、瀬名水紀(7)\n编曲：Talich Helfen(2)、aon(3)、蓬尾理之(4)、kidlit (深水チエ)(5)、Senaru(6)、瀬名水紀(7)\n混音：Talich Helfen(2)、aon(3)、飯知学(4)、伊藤樹彦(5)、BCNO(6)、瀬名水紀(7)\n母带制作：Talich Helfen\n插图：うなみや\n客串：Annabel(4)、ななきなな(5)\n人声编辑：BCNO(7)\n设计-TOTAL DESIGN：PMIY\n设计-TITLE LOGO：JULLII\n乐器-Guitar：あべ氏(2)、黒井誠哉(4)、Issei Katsuichi(6)\n乐器-Bass：あべ氏(2)\n乐器-Drums：シュウゴ(2)、山口孝伯(4)\n乐器-Flute：橋場さえ(2)\n乐器-Saxophone：橋場さえ(2)\n乐器-Flugelhorn：藤野新人(2)\n乐器-Trombone：グレンジ(2)\ncustom-Vocal Recording：藤原暢之(2)\ncustom-Vocal Recording Studio：Blue Mountain Studio(2)\ncustom-Recording Engineer(Drums)：菅原庸人(4)\ncustom-Recording Engineer(Vocals)：飯知学(4)\ncustom-Drums Recording：ORPHEUS RECORDING STUDIOS(4)\ncustom-Vocals Recording：fina studio(4)\n乐器-Violin：箕輪弓(7)\n乐器-Violoncello：Wavfire(7)\n乐器-Flauto：紫音(7)"
+    "editor": "制作人：JULLII\n艺术家：杏庫裡ジュリ(2)、JULLII(2-7)\n作词：JULLII(2-7)\n作曲：Talich Helfen(1,2)、aon(3)、蓮尾理之(4)、kidlit (深水チエ)(5)、JULLII(6)、Senaru(6)、瀬名水紀(7)\n编曲：Talich Helfen(2)、aon(3)、蓮尾理之(4)、kidlit (深水チエ)(5)、Senaru(6)、瀬名水紀(7)\n混音：Talich Helfen(2)、aon(3)、坂知学(4)、伊藤誠悟(5)、BCNO(6)、瀬名水紀(7)\n母带制作：Talich Helfen\n插图：うなみや\n客串：Annabel(4)、ななきなな(5)\n人声编辑：BCNO(7)\n设计-Title Logo：JULLII\n设计-Tocal Degign：PMIY\n乐器-Guitar：ゐつぺゑ(2)、照井順政(4)、Issei Katsunoil(6)\n乐器-Bass：ゐつぺゑ(2)\n乐器-Drums：シュウゴ(2)、樋口幸佑(4)\n乐器-Flute：嶋根颯汰(2)、柴音(7)\n乐器-Saxophone：嶋根颯汰(2)\n乐器-Flugelhorn：藤野拓人(2)\n乐器-Trombone：グリジエ(2)\ncustom-Vocal Recording：藤原暢之(2)\ncustom-Vocal Recording Studio：ブルーマウンテンスタジオ(2)\ncustom-Recording Engineer(Drums)：菅原直人(4)\ncustom-Recording Engineer(Vocals)：坂知学(4)\ncustom-Drums Recording：ORPhEUS RECORDING STUDIOS(4)\ncustom-Vocals Recording：hina studio(4)\n乐器-Movie(Vocaduo)：PMIY(6)\n乐器-Violin：舞弦ウラ(7)\n乐器-Violoncello：Wavfire(7)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-02T12:23:29.052Z"
+    "submittedAt": "2026-10-02T13:08:15.284Z"
   }
 }
