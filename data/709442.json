@@ -241,7 +241,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:86253",
             "text": "MEA"
           }
         }
@@ -250,7 +250,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:86253",
             "text": "MEA"
           }
         }
@@ -259,7 +259,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:86253",
             "text": "MEA"
           }
         }
@@ -328,6 +328,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-02T12:06:23.812Z"
+    "submittedAt": "2026-10-02T12:06:40.720Z"
   }
 }
