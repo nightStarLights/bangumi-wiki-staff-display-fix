@@ -15,7 +15,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:103960",
             "text": "JULLII"
           }
         }
@@ -193,7 +193,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:103960",
             "text": "JULLII"
           }
         }
@@ -242,6 +242,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-02T12:25:26.070Z"
+    "submittedAt": "2026-10-02T12:26:14.534Z"
   }
 }
