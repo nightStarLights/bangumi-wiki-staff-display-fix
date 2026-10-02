@@ -1,0 +1,109 @@
+{
+  "subjectId": 709393,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73224",
+            "text": "宮本彩陽"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73224",
+            "text": "宮本彩陽"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73224",
+            "text": "宮本彩陽"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:88407",
+            "text": "吉田仁郎"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:73224",
+          "text": "宮本彩陽"
+        }
+      }
+    ],
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:88407",
+          "text": "吉田仁郎"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:88407",
+          "text": "吉田仁郎"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "hal"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "MONOCHROME CANVAS"
+        }
+      }
+    ],
+    "recording": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:88407",
+          "text": "吉田仁郎"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：宮本彩陽\n作词：宮本彩陽(1)\n作曲：宮本彩陽(1)\n编曲：宮本彩陽(1)、吉田仁郎(2)\n混音：吉田仁郎\n母带制作：吉田仁郎\n插图：hal\n厂牌：MONOCHROME CANVAS\n录音：吉田仁郎"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-02T09:10:49.060Z"
+  }
+}
