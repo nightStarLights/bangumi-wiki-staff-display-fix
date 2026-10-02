@@ -15,7 +15,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:103960",
             "text": "JULLII"
           }
         }
@@ -129,7 +129,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:103960",
             "text": "JULLII"
           }
         }
@@ -138,7 +138,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:103960",
             "text": "JULLII"
           }
         }
@@ -176,7 +176,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:103960",
             "text": "JULLII"
           }
         }
@@ -185,7 +185,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:103960",
             "text": "JULLII"
           }
         }
@@ -286,7 +286,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:103960",
             "text": "JULLII"
           }
         }
@@ -295,7 +295,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:103960",
             "text": "JULLII"
           }
         }
@@ -304,12 +304,12 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:8014",
               "text": "kidlit"
             },
             " (",
             {
-              "ref": "p:8014",
+              "ref": null,
               "text": "深水チエ"
             },
             ")"
@@ -320,12 +320,12 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:8014",
               "text": "kidlit"
             },
             " (",
             {
-              "ref": "p:8014",
+              "ref": null,
               "text": "深水チエ"
             },
             ")"
@@ -356,7 +356,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:103960",
             "text": "JULLII"
           }
         }
@@ -365,7 +365,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:103960",
             "text": "JULLII"
           }
         }
@@ -374,7 +374,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:103960",
             "text": "JULLII"
           }
         },
@@ -420,7 +420,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:103960",
             "text": "JULLII"
           }
         }
@@ -429,7 +429,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:103960",
             "text": "JULLII"
           }
         }
@@ -503,7 +503,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:103960",
           "text": "JULLII"
         }
       }
@@ -533,6 +533,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-02T12:23:18.215Z"
+    "submittedAt": "2026-10-02T12:23:29.052Z"
   }
 }
