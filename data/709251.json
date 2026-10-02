@@ -1,0 +1,82 @@
+{
+  "subjectId": 709251,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "霜月カノン"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Mel_Lioly"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "霜月カノン"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Mel_Lioly"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Mel_Lioly"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "常盤シルべ"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Illusion-イルシオン-"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：霜月カノン\n作词：霜月カノン(1)、Mel_Lioly(2)\n作曲：Mel_Lioly\n编曲：Mel_Lioly\n插图：常盤シルべ\n厂牌：Illusion-イルシオン-\n和声：霜月カノン"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-02T01:21:08.111Z"
+  }
+}
