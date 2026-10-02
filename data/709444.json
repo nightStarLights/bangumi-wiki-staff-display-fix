@@ -1,0 +1,331 @@
+{
+  "subjectId": 709444,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15925",
+            "text": "EVO+"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47585",
+            "text": "Room97"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47585",
+            "text": "Room97"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47585",
+            "text": "Room97"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15925",
+            "text": "EVO+"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47585",
+            "text": "Room97"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47585",
+            "text": "Room97"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47585",
+            "text": "Room97"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66930",
+            "text": "Mwk"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81560",
+            "text": "繭糸"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47585",
+            "text": "Room97"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47585",
+            "text": "Room97"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47585",
+            "text": "Room97"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "滑川博生"
+          },
+          "inst": "Drums"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "滑川博生"
+          },
+          "inst": "Percussion"
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69682",
+            "text": "水魚みぃむ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47585",
+            "text": "Room97"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69682",
+            "text": "水魚みぃむ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47585",
+            "text": "Room97"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47585",
+            "text": "Room97"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:40140",
+            "text": "棗いつき"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47585",
+            "text": "Room97"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47585",
+            "text": "Room97"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68825",
+            "text": "鈍色聴"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47585",
+            "text": "Room97"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47585",
+            "text": "Room97"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47585",
+            "text": "Room97"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82734",
+            "text": "philoi"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47585",
+            "text": "Room97"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47585",
+            "text": "Room97"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47585",
+            "text": "Room97"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:47585",
+          "text": "Room97"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "hapio"
+        }
+      }
+    ],
+    "narration": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "こりす"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：Room97\n艺术家：EVO+(1,5)、繭糸(2)、水魚みぃむ(3)、Room97(3)、棗いつき(4)、鈍色聴(6)、philoi(7)\n作词：Room97(1,2,5-7)、水魚みぃむ(3)\n作曲：Room97(1-7)\n编曲：Room97(1-7)、Mwk(5)\n设计：hapio\n念白/旁白：こりす\n乐器-Drums：滑川博生(2)\n乐器-Percussion：滑川博生(2)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-02T12:13:45.909Z"
+  }
+}
