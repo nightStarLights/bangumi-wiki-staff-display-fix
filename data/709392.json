@@ -1,0 +1,88 @@
+{
+  "subjectId": 709392,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:85321",
+            "text": "aurorancer"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:85321",
+            "text": "aurorancer"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:85321",
+            "text": "aurorancer"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:85321",
+            "text": "aurorancer"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "radianic"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "みにこ"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Aurorancer Network"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：aurorancer(1-3,5)、radianic(4)\n插图：みにこ\n厂牌：Aurorancer Network\n设计-Jacket Design：LianPhy6\n设计-Character Design：Life001"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-02T09:06:59.190Z"
+  }
+}
