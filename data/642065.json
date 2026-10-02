@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:103960",
             "text": "JULLII"
           }
         }
@@ -44,7 +44,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:103960",
             "text": "JULLII"
           }
         }
@@ -92,7 +92,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:103960",
             "text": "JULLII"
           }
         }
@@ -139,7 +139,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:103960",
             "text": "JULLII"
           }
         }
@@ -177,7 +177,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:103960",
             "text": "JULLII"
           }
         },
@@ -242,6 +242,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-17T10:18:29.626Z"
+    "submittedAt": "2026-10-02T12:25:26.070Z"
   }
 }
