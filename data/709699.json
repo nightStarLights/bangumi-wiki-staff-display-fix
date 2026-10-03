@@ -6,8 +6,8 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
-            "text": "Holic"
+            "ref": "p:97832",
+            "text": "Worker//Holic"
           }
         }
       ]
@@ -23,15 +23,6 @@
         }
       }
     ],
-    "arranger": [
-      {
-        "type": "person",
-        "person": {
-          "ref": null,
-          "text": "Worker"
-        }
-      }
-    ],
     "label": [
       {
         "type": "person",
@@ -43,11 +34,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：トマトさんたち\n编曲：Worker//Holic(16)\n厂牌：とまーとんレコーズ"
+    "editor": "艺术家：トマトさんたち\n编曲：《Worker//Holic》(16)\n厂牌：とまーとんレコーズ"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-03T12:59:07.865Z"
+    "submittedAt": "2026-10-03T12:59:42.684Z"
   }
 }
