@@ -1,0 +1,294 @@
+{
+  "subjectId": 709742,
+  "trackCredits": {
+    "1.1": {
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:40140",
+            "text": "棗いつき"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:40140",
+            "text": "棗いつき"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:40140",
+            "text": "棗いつき"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:40140",
+            "text": "棗いつき"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11246",
+            "text": "秋奈"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33350",
+            "text": "藍月なくる"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33350",
+            "text": "藍月なくる"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33350",
+            "text": "藍月なくる"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33350",
+            "text": "藍月なくる"
+          }
+        }
+      ]
+    },
+    "1.14": {
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33350",
+            "text": "藍月なくる"
+          }
+        }
+      ]
+    },
+    "1.15": {
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33350",
+            "text": "藍月なくる"
+          }
+        }
+      ]
+    },
+    "1.16": {
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33350",
+            "text": "藍月なくる"
+          }
+        }
+      ]
+    },
+    "1.17": {
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33350",
+            "text": "藍月なくる"
+          }
+        }
+      ]
+    },
+    "1.18": {
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33350",
+            "text": "藍月なくる"
+          }
+        }
+      ]
+    },
+    "1.19": {
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33350",
+            "text": "藍月なくる"
+          }
+        }
+      ]
+    },
+    "1.20": {
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33350",
+            "text": "藍月なくる"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6833",
+            "text": "花たん"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6833",
+            "text": "花たん"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "vocal": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "konoco"
+            },
+            " (",
+            {
+              "ref": "p:49204",
+              "text": "この子"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.13": {
+      "vocal": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "konoco"
+            },
+            " (",
+            {
+              "ref": "p:49204",
+              "text": "この子"
+            },
+            ")"
+          ]
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:64892",
+          "text": "Imy"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "みゅー"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "みゅー"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:36937",
+          "text": "おにねこ"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:36937",
+          "text": "おにねこ"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：Imy\n作曲：みゅー\n编曲：みゅー\n声乐：棗いつき(1,2,6,7)、秋奈(3)、藍月なくる(4,5,8,10,14-20)、花たん(9,12)、konoco (この子)(11,13)\n插图：おにねこ\n设计：おにねこ\n乐器-Guitar：みゅー\n乐器-Bass：Kei Nakamura\n乐器-Keyboard：柴崎洋輔\n乐器-Drums：樋口幸佑\n乐器-Manipulator：あすきー\n设计-Logo：Binn"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-03T14:13:08.726Z"
+  }
+}
