@@ -1,0 +1,107 @@
+{
+  "subjectId": 709716,
+  "trackCredits": {
+    "1.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "叶兎ネガ"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91866",
+            "text": "クロデル"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:74772",
+            "text": "涼風ひさめ"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:74772",
+            "text": "涼風ひさめ"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:81547",
+          "text": "RitsMatt"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:81547",
+          "text": "RitsMatt"
+        }
+      }
+    ],
+    "vocaledit": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "橘百々子"
+        }
+      }
+    ],
+    "narration": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "mochimiyu"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "月原舞"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "KAZUMA"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "作曲：叶兎ネガ(1)、クロデル(2)、涼風ひさめ(4)\n混音：RitsMatt、涼風ひさめ(4)\n母带制作：RitsMatt\n人声编辑：橘百々子\n念白/旁白：mochimiyu、月原舞、KAZUMA\n设计-Logo：mochimiyu"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-03T13:27:04.699Z"
+  }
+}
