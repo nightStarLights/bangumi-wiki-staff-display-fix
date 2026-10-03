@@ -11,7 +11,7 @@
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:13573",
               "text": "綾菓"
             },
             ")"
@@ -61,7 +61,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:36438",
           "text": "Nekoday"
         }
       }
@@ -73,6 +73,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-03T08:48:31.912Z"
+    "submittedAt": "2026-10-03T08:48:41.257Z"
   }
 }
