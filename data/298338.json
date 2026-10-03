@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:13573",
             "text": "綾菓"
           }
         }
@@ -30,6 +30,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-03T08:16:11.154Z"
+    "submittedAt": "2026-10-03T08:51:33.898Z"
   }
 }
