@@ -1,0 +1,53 @@
+{
+  "subjectId": 709699,
+  "trackCredits": {
+    "1.16": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Holic"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:91777",
+          "text": "トマトさんたち"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Worker"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "とまーとんレコーズ"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：トマトさんたち\n编曲：Worker//Holic(16)\n厂牌：とまーとんレコーズ"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-03T12:59:07.865Z"
+  }
+}
