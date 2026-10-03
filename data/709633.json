@@ -1,0 +1,78 @@
+{
+  "subjectId": 709633,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "RyoRca"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "綾菓"
+            },
+            ")"
+          ]
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:24780",
+            "text": "結良まり"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:6763",
+          "text": "bermei.inazawa"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:6763",
+          "text": "bermei.inazawa"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:6763",
+          "text": "bermei.inazawa"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Nekoday"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：bermei.inazawa\n作词：RyoRca (綾菓)(1)\n作曲：bermei.inazawa\n编曲：bermei.inazawa\n声乐：結良まり(1)\n厂牌：Nekoday"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-03T08:48:31.912Z"
+  }
+}
