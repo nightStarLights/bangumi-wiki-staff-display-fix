@@ -112,7 +112,7 @@
         }
       ]
     },
-    "1.10": {
+    "2.1": {
       "lyricist": [
         {
           "type": "person",
@@ -343,7 +343,7 @@
         }
       ]
     },
-    "1.12": {
+    "2.3": {
       "arranger": [
         {
           "type": "person",
@@ -361,7 +361,7 @@
         }
       ]
     },
-    "1.11": {
+    "2.2": {
       "arranger": [
         {
           "type": "person",
@@ -412,18 +412,18 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:100119",
+          "ref": null,
           "text": "Sonoda"
         }
       }
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：nyamura、rinahamu (横山利奈)(3)\n作词：nyamura(7,10)、水槽(7)\n作曲：KAIRUI(1,5,9)、原口沙輔(2)、nyamura(2-4,6,7,10)、KOTONOHOUSE(3)、BigDog Oof(4)、Haruhi(6)、水槽(7)、takaryu(7)、内緒のピアス(8)、HASEBE EBI(10)\n编曲：KAIRUI(1,5,9)、原口沙輔(2)、KOTONOHOUSE(3)、BigDog Oof(4)、Haruhi(6,12)、takaryu(7)、内緒のピアス(8)、nyamura(10,12)、HASEBE EBI(10,11)\n混音：utumiyqcom(2-4,6,7)\n母带制作：utumiyqcom\n插图：薬屋\n设计：nm3、Sonoda"
+    "editor": "艺术家：nyamura、rinahamu (横山利奈)(1.3)\n作词：nyamura(1.7, 2.1)、水槽(1.7)\n作曲：KAIRUI(1.1, 1.5, 1.9)、原口沙輔(1.2)、nyamura(1.2-4, 1.6, 1.7, 2.1)、KOTONOHOUSE(1.3)、BigDog Oof(1.4)、Haruhi(1.6)、水槽(1.7)、takaryu(1.7)、内緒のピアス(1.8)、HASEBE EBI(2.1)\n编曲：KAIRUI(1.1, 1.5, 1.9)、原口沙輔(1.2)、KOTONOHOUSE(1.3)、BigDog Oof(1.4)、Haruhi(1.6, 2.3)、takaryu(1.7)、内緒のピアス(1.8)、nyamura(2.1, 2.3)、HASEBE EBI(2.1, 2.2)\n混音：utumiyqcom(1.2-4, 1.6, 1.7)\n母带制作：utumiyqcom\n插图：薬屋\n设计：nm3、Sonoda"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-03T12:43:20.040Z"
+    "submittedAt": "2026-10-03T12:43:33.584Z"
   }
 }
