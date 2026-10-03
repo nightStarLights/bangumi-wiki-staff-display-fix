@@ -11,7 +11,7 @@
             },
             " (",
             {
-              "ref": "p:13573",
+              "ref": null,
               "text": "綾菓"
             },
             ")"
@@ -30,15 +30,6 @@
     }
   },
   "epinfo": {
-    "producer": [
-      {
-        "type": "person",
-        "person": {
-          "ref": "p:6763",
-          "text": "bermei.inazawa"
-        }
-      }
-    ],
     "composer": [
       {
         "type": "person",
@@ -61,18 +52,18 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:36438",
+          "ref": null,
           "text": "Nekoday"
         }
       }
     ]
   },
   "rawPatches": {
-    "editor": "制作人：bermei.inazawa\n作词：RyoRca (綾菓)(1)\n作曲：bermei.inazawa\n编曲：bermei.inazawa\n声乐：結良まり(1)\n厂牌：Nekoday"
+    "editor": "作词：RyoRca (綾菓)(1)\n作曲：bermei.inazawa\n编曲：bermei.inazawa\n声乐：結良まり(1)\n厂牌：Nekoday"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-03T08:48:41.257Z"
+    "submittedAt": "2026-10-03T08:49:15.519Z"
   }
 }
