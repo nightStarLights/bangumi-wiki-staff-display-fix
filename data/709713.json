@@ -1,0 +1,77 @@
+{
+  "subjectId": 709713,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70046",
+            "text": "Takahiro Hirai"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:77872",
+            "text": "βe"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hideki Hoshi"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Cinema Nakano"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "neotame"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "MTTB by Cat Walk Records"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：neotame\n艺术家：Takahiro Hirai(1)、βe(2)、Hideki Hoshi(3)、Cinema Nakano(4)\n厂牌：MTTB by Cat Walk Records"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-03T13:22:40.810Z"
+  }
+}
