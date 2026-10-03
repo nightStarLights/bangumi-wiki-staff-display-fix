@@ -1,0 +1,429 @@
+{
+  "subjectId": 550852,
+  "trackCredits": {
+    "1.3": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "rinahamu"
+            },
+            " (",
+            {
+              "ref": "p:66583",
+              "text": "横山利奈"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75748",
+            "text": "nyamura"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55206",
+            "text": "KOTONOHOUSE"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55206",
+            "text": "KOTONOHOUSE"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75749",
+            "text": "utumiyqcom"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75748",
+            "text": "nyamura"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64155",
+            "text": "水槽"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75748",
+            "text": "nyamura"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64155",
+            "text": "水槽"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93196",
+            "text": "takaryu"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93196",
+            "text": "takaryu"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75749",
+            "text": "utumiyqcom"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75748",
+            "text": "nyamura"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75748",
+            "text": "nyamura"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:92108",
+            "text": "HASEBE EBI"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75748",
+            "text": "nyamura"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:92108",
+            "text": "HASEBE EBI"
+          }
+        }
+      ]
+    },
+    "1.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71746",
+            "text": "KAIRUI"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71746",
+            "text": "KAIRUI"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71746",
+            "text": "KAIRUI"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71746",
+            "text": "KAIRUI"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71746",
+            "text": "KAIRUI"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71746",
+            "text": "KAIRUI"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:59104",
+            "text": "原口沙輔"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75748",
+            "text": "nyamura"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:59104",
+            "text": "原口沙輔"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75749",
+            "text": "utumiyqcom"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75748",
+            "text": "nyamura"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "BigDog Oof"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "BigDog Oof"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75749",
+            "text": "utumiyqcom"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75748",
+            "text": "nyamura"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93193",
+            "text": "Haruhi"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93193",
+            "text": "Haruhi"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75749",
+            "text": "utumiyqcom"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:76518",
+            "text": "内緒のピアス"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:76518",
+            "text": "内緒のピアス"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93193",
+            "text": "Haruhi"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75748",
+            "text": "nyamura"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:92108",
+            "text": "HASEBE EBI"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:75748",
+          "text": "nyamura"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:75749",
+          "text": "utumiyqcom"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:73499",
+          "text": "薬屋"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "nm3"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:100119",
+          "text": "Sonoda"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：nyamura、rinahamu (横山利奈)(3)\n作词：nyamura(7,10)、水槽(7)\n作曲：KAIRUI(1,5,9)、原口沙輔(2)、nyamura(2-4,6,7,10)、KOTONOHOUSE(3)、BigDog Oof(4)、Haruhi(6)、水槽(7)、takaryu(7)、内緒のピアス(8)、HASEBE EBI(10)\n编曲：KAIRUI(1,5,9)、原口沙輔(2)、KOTONOHOUSE(3)、BigDog Oof(4)、Haruhi(6,12)、takaryu(7)、内緒のピアス(8)、nyamura(10,12)、HASEBE EBI(10,11)\n混音：utumiyqcom(2-4,6,7)\n母带制作：utumiyqcom\n插图：薬屋\n设计：nm3、Sonoda"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-03T12:43:20.040Z"
+  }
+}
