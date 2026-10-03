@@ -1,0 +1,131 @@
+{
+  "subjectId": 709728,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81489",
+            "text": "転寝こより"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:81488",
+            "text": "麻乃テキ"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "九羊詩乃"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "紅コウ"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:81488",
+            "text": "麻乃テキ"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ゆめひつじ"
+        }
+      }
+    ],
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ゆめひつじ"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ゆめひつじ"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ゆめひつじ"
+        }
+      }
+    ],
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ThoMo"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ThoMo"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ゆめのおもちゃ箱"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：ゆめひつじ\n艺术家：転寝こより(1)、九羊詩乃(2)、紅コウ(3)\n作词：ゆめひつじ\n作曲：ゆめひつじ\n编曲：ゆめひつじ\n混音：ThoMo\n母带制作：ThoMo\n厂牌：ゆめのおもちゃ箱\n乐器-Guitar：麻乃テキ(1,3)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-03T13:45:24.728Z"
+  }
+}
