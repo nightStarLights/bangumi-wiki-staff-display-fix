@@ -1,0 +1,284 @@
+{
+  "subjectId": 709730,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:16251",
+            "text": "草野華余子"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93581",
+            "text": "BLACK ALBATROSS"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "中谷浩平"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:9254",
+            "text": "堀江晶太"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:69940",
+              "text": "イガラシ"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "ヒトリエ"
+            },
+            ")",
+            " (Bass)"
+          ]
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:16251",
+            "text": "草野華余子"
+          },
+          "inst": "Piano"
+        }
+      ],
+      "custom-Beat programming": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10766",
+            "text": "岸田"
+          }
+        }
+      ],
+      "custom-All other programming": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10268",
+            "text": "篠崎あやと"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:16251",
+            "text": "草野華余子"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93581",
+            "text": "BLACK ALBATROSS"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10766",
+            "text": "岸田"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:9254",
+            "text": "堀江晶太"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:69940",
+            "text": "イガラシ"
+          },
+          "inst": "Bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:16251",
+            "text": "草野華余子"
+          },
+          "inst": "Piano"
+        }
+      ],
+      "custom-Beat programming": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10766",
+            "text": "岸田"
+          }
+        }
+      ],
+      "custom-All other programming": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10268",
+            "text": "篠崎あやと"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:16251",
+            "text": "草野華余子"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93581",
+            "text": "BLACK ALBATROSS"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "中谷浩平"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:9254",
+            "text": "堀江晶太"
+          },
+          "inst": "Guitar"
+        }
+      ],
+      "custom-Beat programming": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10766",
+            "text": "岸田"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:16251",
+          "text": "草野華余子"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "うこぼね"
+          },
+          " (",
+          {
+            "ref": "p:72288",
+            "text": "守屋忠慶"
+          },
+          ")"
+        ]
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:55426",
+          "text": "majamari"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69939",
+          "text": "KALANCHOE RECORDS"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "HITOMI"
+        }
+      }
+    ],
+    "recording": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:16251",
+          "text": "草野華余子"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "KALANCHOE STUDIO"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：草野華余子\n作词：草野華余子(1-3)\n编曲：BLACK ALBATROSS(1-3)\n混音：中谷浩平(1,3)、岸田(2)\n母带制作：うこぼね (守屋忠慶)\n插图：majamari\n厂牌：KALANCHOE RECORDS\n设计：HITOMI\n录音：草野華余子、KALANCHOE STUDIO\n乐器-Guitar：堀江晶太(1-3)\n乐器-Bass：イガラシ (ヒトリエ)(1)、イガラシ(2)\ncustom-Beat programming：岸田(1-3)\n乐器-Piano：草野華余子(1,2)\ncustom-All other programming：篠崎あやと(1,2)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-03T13:51:58.761Z"
+  }
+}
