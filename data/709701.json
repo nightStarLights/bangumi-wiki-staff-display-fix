@@ -104,20 +104,6 @@
             "ref": "p:81452",
             "text": "956"
           }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "ギター"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "TAK MIURA"
-          }
         }
       ],
       "composer": [
@@ -126,20 +112,6 @@
           "person": {
             "ref": "p:81452",
             "text": "956"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "ギター"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "TAK MIURA"
           }
         }
       ],
@@ -150,20 +122,16 @@
             "ref": "p:81452",
             "text": "956"
           }
-        },
+        }
+      ],
+      "instrument": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "ギター"
-          }
-        },
-        {
-          "type": "person",
+          "type": "instrument_credit",
           "person": {
             "ref": null,
             "text": "TAK MIURA"
-          }
+          },
+          "inst": "ギター"
         }
       ]
     },
@@ -390,11 +358,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "制作人：956\n艺术家：カリス(1)、乃々花りあら(2)、水鏡華(3)、うさおりーぬ(4)、ねね(5)、健康に気を遣いたい女(6)、蒼乃白百合(7)\n作词：956(1-3,5-7)、ギター(3,7)、TAK MIURA(3)、うさおりーぬ(4)、ねね(5)、クックルP(7)\n作曲：956(1-7)、ギター(3,7)、TAK MIURA(3)、クックルP(7)\n编曲：956(1-7)、ギター(3,7)、TAK MIURA(3)、クックルP(7)\n厂牌：BNI PARTY\n乐器-ギター：symny(1)"
+    "editor": "制作人：956\n艺术家：カリス(1)、乃々花りあら(2)、水鏡華(3)、うさおりーぬ(4)、ねね(5)、健康に気を遣いたい女(6)、蒼乃白百合(7)\n作词：956(1-3,5-7)、うさおりーぬ(4)、ねね(5)、ギター(7)、クックルP(7)\n作曲：956(1-7)、ギター(7)、クックルP(7)\n编曲：956(1-7)、ギター(7)、クックルP(7)\n厂牌：BNI PARTY\n乐器-ギター：symny(1)、TAK MIURA(3)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-03T13:09:10.195Z"
+    "submittedAt": "2026-10-03T13:09:57.451Z"
   }
 }
