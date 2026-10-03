@@ -1,0 +1,35 @@
+{
+  "subjectId": 298338,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "綾菓"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "古落"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "作词: 綾菓(1)、古落(2)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-03T08:16:11.154Z"
+  }
+}
