@@ -250,7 +250,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:64893",
           "text": "みゅー"
         }
       }
@@ -259,7 +259,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:64893",
           "text": "みゅー"
         }
       }
@@ -289,6 +289,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-03T14:13:08.726Z"
+    "submittedAt": "2026-10-03T14:13:21.934Z"
   }
 }
