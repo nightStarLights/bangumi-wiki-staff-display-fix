@@ -1,0 +1,278 @@
+{
+  "subjectId": 709659,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73528",
+            "text": "dama"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73528",
+            "text": "dama"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73528",
+            "text": "dama"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73528",
+            "text": "dama"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73528",
+            "text": "dama"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73528",
+            "text": "dama"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73528",
+            "text": "dama"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73528",
+            "text": "dama"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "瀬乃一郎"
+            },
+            " (",
+            {
+              "ref": "p:69121",
+              "text": "Sceno Ichiro"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "瀬乃一郎"
+            },
+            " (",
+            {
+              "ref": "p:69121",
+              "text": "Sceno Ichiro"
+            },
+            ")"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "瀬乃一郎"
+            },
+            " (",
+            {
+              "ref": "p:69121",
+              "text": "Sceno Ichiro"
+            },
+            ")"
+          ]
+        }
+      ],
+      "mixing": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "瀬乃一郎"
+            },
+            " (",
+            {
+              "ref": "p:69121",
+              "text": "Sceno Ichiro"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ひゅ〜ぶ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ひゅ〜ぶ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ひゅ〜ぶ"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ひゅ〜ぶ"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:88757",
+            "text": "園田優"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:88757",
+            "text": "園田優"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:88757",
+            "text": "園田優"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:88757",
+            "text": "園田優"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:72809",
+          "text": "瀬戸ユトギ"
+        }
+      }
+    ],
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:72809",
+          "text": "瀬戸ユトギ"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:73528",
+          "text": "dama"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "フジノト"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Tekkotsu Design"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：瀬戸ユトギ\n艺术家：瀬戸ユトギ\n作词：dama(1,2)、瀬乃一郎 (Sceno Ichiro)(3)、ひゅ〜ぶ(4)、園田優(5)\n作曲：dama(1,2)、瀬乃一郎 (Sceno Ichiro)(3)、ひゅ〜ぶ(4)、園田優(5)\n编曲：dama(1,2)、瀬乃一郎 (Sceno Ichiro)(3)、ひゅ〜ぶ(4)、園田優(5)\n混音：dama(1,2)、瀬乃一郎 (Sceno Ichiro)(3)、ひゅ〜ぶ(4)、園田優(5)\n母带制作：dama\n插图：フジノト\n设计：Tekkotsu Design"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-03T09:17:29.831Z"
+  }
+}
