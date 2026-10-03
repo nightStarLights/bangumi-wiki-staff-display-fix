@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:70721",
             "text": "Haruka"
           }
         }
@@ -15,7 +15,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:6965",
             "text": "Masayoshi Minoshima"
           }
         }
@@ -26,7 +26,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:6965",
             "text": "Masayoshi Minoshima"
           }
         }
@@ -37,7 +37,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:6965",
             "text": "Masayoshi Minoshima"
           }
         }
@@ -48,7 +48,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:6965",
             "text": "Masayoshi Minoshima"
           }
         }
@@ -59,7 +59,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:6965",
             "text": "Masayoshi Minoshima"
           }
         }
@@ -70,7 +70,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:6965",
             "text": "Masayoshi Minoshima"
           }
         }
@@ -81,7 +81,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:6965",
             "text": "Masayoshi Minoshima"
           }
         }
@@ -92,7 +92,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:6965",
             "text": "Masayoshi Minoshima"
           }
         }
@@ -103,7 +103,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:72421",
             "text": "Ryo Ohnuki"
           }
         }
@@ -114,7 +114,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:72421",
             "text": "Ryo Ohnuki"
           }
         }
@@ -125,7 +125,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:72421",
             "text": "Ryo Ohnuki"
           }
         }
@@ -137,7 +137,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:6442",
           "text": "Alstroemeria Records"
         }
       }
@@ -146,7 +146,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:5788",
           "text": "深崎暮人"
         }
       }
@@ -158,6 +158,6 @@
   "_meta": {
     "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-03T11:48:07.137Z"
+    "submittedAt": "2026-10-03T11:49:10.666Z"
   }
 }
