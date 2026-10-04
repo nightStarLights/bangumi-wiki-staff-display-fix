@@ -1,0 +1,126 @@
+{
+  "subjectId": 709904,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6248",
+            "text": "nayuta"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5731",
+            "text": "茶太"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65399",
+            "text": "るる"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65399",
+            "text": "るる"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68270",
+            "text": "優莉"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68825",
+            "text": "鈍色聴"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:92115",
+            "text": "六宮"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68827",
+            "text": "水月茉莉"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55153",
+            "text": "sola"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:68831",
+          "text": "Ema3"
+        }
+      }
+    ],
+    "label": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "Isle"
+          },
+          " & ",
+          {
+            "ref": null,
+            "text": "Notes"
+          }
+        ]
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：nayuta(1)、茶太(1)、るる(2,3)、優莉(3)、鈍色聴(4)、六宮(5)、水月茉莉(5)、sola(6)\n插图：Ema3\n厂牌：Isle & Notes"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-04T10:35:08.562Z"
+  }
+}
