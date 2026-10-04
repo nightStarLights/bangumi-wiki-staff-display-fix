@@ -104,7 +104,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:104110",
             "text": "OLDUCT"
           }
         }
@@ -113,7 +113,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:104110",
             "text": "OLDUCT"
           }
         }
@@ -195,6 +195,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-04T11:02:47.585Z"
+    "submittedAt": "2026-10-04T11:02:51.522Z"
   }
 }
