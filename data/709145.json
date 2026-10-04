@@ -55,8 +55,8 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
-            "text": "原口沙辅"
+            "ref": "p:59104",
+            "text": "原口沙輔"
           }
         }
       ]
@@ -126,8 +126,8 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
-            "text": "原口沙辅"
+            "ref": "p:59104",
+            "text": "原口沙輔"
           }
         }
       ]
@@ -154,11 +154,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：テクノポップ・有機・シンセサイザーちゃん\n作词：にゃるら(2,3,7)、なみぐる(4)、Yunomi(5)、Risa Taniguchi(6)\n作曲：原口沙辅(1,7)、Talich Helfen(2)、Aiobahn(3)、なみぐる(4)、Yunomi(5)、Risa Taniguchi(6)\n插图：旧都なぎ"
+    "editor": "艺术家：テクノポップ・有機・シンセサイザーちゃん\n作词：にゃるら(2,3,7)、なみぐる(4)、Yunomi(5)、Risa Taniguchi(6)\n作曲：原口沙輔(1,7)、Talich Helfen(2)、Aiobahn(3)、なみぐる(4)、Yunomi(5)、Risa Taniguchi(6)\n插图：旧都なぎ"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-04T11:18:51.428Z"
+    "submittedAt": "2026-10-04T12:34:43.429Z"
   }
 }
