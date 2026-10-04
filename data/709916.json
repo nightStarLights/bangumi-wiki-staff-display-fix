@@ -1,0 +1,200 @@
+{
+  "subjectId": 709916,
+  "trackCredits": {
+    "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81560",
+            "text": "繭糸"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69115",
+            "text": "Fujiyori"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69115",
+            "text": "Fujiyori"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81560",
+            "text": "繭糸"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66019",
+            "text": "ckwa"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66019",
+            "text": "ckwa"
+          }
+        }
+      ]
+    },
+    "1.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64862",
+            "text": "muyu"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64862",
+            "text": "muyu"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64862",
+            "text": "muyu"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64862",
+            "text": "muyu"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "OLDUCT"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "OLDUCT"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91482",
+            "text": "悠式茶屋"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91482",
+            "text": "悠式茶屋"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:92522",
+            "text": "Mi7s3"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:81560",
+          "text": "繭糸"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:91483",
+          "text": "とらすた"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "さじ"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "esu_kichi"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：繭糸\n作词：繭糸(4,6)\n作曲：muyu(1,2)、OLDUCT(3)、Fujiyori(4)、悠式茶屋(5)、ckwa(6)\n编曲：muyu(1,2)、OLDUCT(3)、Fujiyori(4)、悠式茶屋(5)、ckwa(6)、Mi7s3(7)\n母带制作：とらすた\n插图：さじ\n设计：esu_kichi"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-04T11:02:47.585Z"
+  }
+}
