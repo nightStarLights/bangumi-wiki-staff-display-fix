@@ -1,0 +1,86 @@
+{
+  "subjectId": 709935,
+  "trackCredits": {
+    "2.1": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ichiyasoba"
+          }
+        }
+      ]
+    },
+    "2.2": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "TKXMN"
+          }
+        }
+      ]
+    },
+    "2.3": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91775",
+            "text": "L字"
+          }
+        }
+      ]
+    },
+    "2.4": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91489",
+            "text": "T-J"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "海ジャム"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:91489",
+          "text": "T-J"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "OUBAI"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：海ジャム\n编曲：ichiyasoba(2.1)、TKXMN(2.2)、L字(2.3)、T-J(2.4)\n母带制作：T-J\n插图：OUBAI"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-04T12:47:35.510Z"
+  }
+}
