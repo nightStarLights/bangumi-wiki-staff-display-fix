@@ -46,7 +46,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:104122",
             "text": "四ツ辻ユキノ"
           }
         }
@@ -66,7 +66,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:104122",
             "text": "四ツ辻ユキノ"
           }
         }
@@ -182,8 +182,8 @@
     "editor": "制作人：Tokage\n艺术家：Bathycaphe(1,4)、四ツ辻ユキノ(2,5)、せろりろせ(3,6)\n作词：橋爪志保(1)、川野芽生(2,4)、高田怜央(3)、伊藤なむあひ(5)、瀬口真司(6)\n作曲：Tokage\n编曲：Tokage\n混音：ニー ヤマムスブ\n设计：uy_\ncustom-致谢：板垣拓真"
   },
   "_meta": {
-    "submittedBy": "sakarin",
+    "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-01T16:45:36.897Z"
+    "submittedAt": "2026-10-04T13:46:29.692Z"
   }
 }
