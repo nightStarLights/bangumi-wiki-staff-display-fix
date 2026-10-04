@@ -90,6 +90,38 @@
     }
   },
   "epinfo": {
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:68400",
+          "text": "Fty"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:68828",
+          "text": "mawari"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:68400",
+          "text": "Fty"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:68828",
+          "text": "mawari"
+        }
+      }
+    ],
     "illustrator": [
       {
         "type": "person",
@@ -116,11 +148,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：nayuta(1)、茶太(1)、るる(2,3)、優莉(3)、鈍色聴(4)、六宮(5)、水月茉莉(5)、sola(6)\n插图：Ema3\n厂牌：Isle & Notes"
+    "editor": "艺术家：nayuta(1)、茶太(1)、るる(2,3)、優莉(3)、鈍色聴(4)、六宮(5)、水月茉莉(5)、sola(6)\n作曲：Fty、mawari\n编曲：Fty、mawari\n插图：Ema3\n厂牌：Isle & Notes"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-04T10:35:08.562Z"
+    "submittedAt": "2026-10-04T10:35:48.602Z"
   }
 }
