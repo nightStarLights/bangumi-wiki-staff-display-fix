@@ -15,7 +15,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:103960",
             "text": "JULLII"
           }
         }
@@ -44,7 +44,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:103960",
             "text": "JULLII"
           }
         }
@@ -53,7 +53,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:103960",
             "text": "JULLII"
           }
         }
@@ -91,7 +91,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:103960",
             "text": "JULLII"
           }
         }
@@ -138,7 +138,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:103960",
             "text": "JULLII"
           }
         }
@@ -185,7 +185,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:103960",
             "text": "JULLII"
           }
         }
@@ -374,7 +374,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:104113",
             "text": "AMELTY"
           }
         }
@@ -386,7 +386,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:104113",
           "text": "AMELTY"
         }
       }
@@ -434,6 +434,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-04T11:13:17.784Z"
+    "submittedAt": "2026-10-04T11:13:28.503Z"
   }
 }
