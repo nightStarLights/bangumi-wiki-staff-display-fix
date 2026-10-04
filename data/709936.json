@@ -78,7 +78,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:104120",
           "text": "ちりめんコード亭"
         }
       }
@@ -90,6 +90,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-04T12:57:52.681Z"
+    "submittedAt": "2026-10-04T12:58:03.630Z"
   }
 }
