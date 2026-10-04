@@ -1,0 +1,77 @@
+{
+  "subjectId": 709938,
+  "trackCredits": {
+    "1.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66019",
+            "text": "ckwa"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65601",
+            "text": "可ラッカ"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65601",
+            "text": "可ラッカ"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:94445",
+            "text": "SEE"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:82329",
+          "text": "惑世いと"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ゆーきん"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：惑世いと\n作曲：ckwa(1)、可ラッカ(2,4)、SEE(3)\n插图：ゆーきん\n设计--album art：esu-kichi"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-04T13:07:26.472Z"
+  }
+}
