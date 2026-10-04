@@ -1,36 +1,7 @@
 {
   "subjectId": 709398,
   "trackCredits": {
-    "1.1": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:66887",
-            "text": "羽澄愛"
-          }
-        }
-      ],
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:66888",
-            "text": "NiLBana"
-          }
-        }
-      ]
-    },
     "1.2": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:66887",
-            "text": "羽澄愛"
-          }
-        }
-      ],
       "lyricist": [
         {
           "type": "person",
@@ -46,20 +17,20 @@
           "person": {
             "ref": "p:66888",
             "text": "NiLBana"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66887",
+            "text": "羽澄愛"
           }
         }
       ]
     },
     "1.3": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:66887",
-            "text": "羽澄愛"
-          }
-        }
-      ],
       "lyricist": [
         {
           "type": "person",
@@ -75,20 +46,20 @@
           "person": {
             "ref": "p:66888",
             "text": "NiLBana"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66887",
+            "text": "羽澄愛"
           }
         }
       ]
     },
     "1.4": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:66887",
-            "text": "羽澄愛"
-          }
-        }
-      ],
       "lyricist": [
         {
           "type": "person",
@@ -104,20 +75,20 @@
           "person": {
             "ref": "p:66888",
             "text": "NiLBana"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66887",
+            "text": "羽澄愛"
           }
         }
       ]
     },
     "1.5": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:66887",
-            "text": "羽澄愛"
-          }
-        }
-      ],
       "lyricist": [
         {
           "type": "person",
@@ -133,6 +104,35 @@
           "person": {
             "ref": "p:66888",
             "text": "NiLBana"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66887",
+            "text": "羽澄愛"
+          }
+        }
+      ]
+    },
+    "1.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66888",
+            "text": "NiLBana"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66887",
+            "text": "羽澄愛"
           }
         }
       ]
@@ -145,15 +145,6 @@
         "person": {
           "ref": "p:89920",
           "text": "Ephemeria"
-        }
-      }
-    ],
-    "vocal": [
-      {
-        "type": "person",
-        "person": {
-          "ref": "p:66887",
-          "text": "羽澄愛"
         }
       }
     ],
@@ -204,11 +195,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：Ephemeria、羽澄愛(1-5)\n作词：NiLBana(2,3)、羽澄愛(4,5)\n作曲：NiLBana(1-5)\n声乐：羽澄愛\n混音：Shogo\n母带制作：Shogo\n插图：msa\n厂牌：Aquange\n设计：msa\n设计-Logo：msa"
+    "editor": "艺术家：Ephemeria、\n作词：NiLBana(2,3)、羽澄愛(4,5)\n作曲：NiLBana(1-5)\n声乐：羽澄愛(1-5)\n混音：Shogo\n母带制作：Shogo\n插图：msa\n厂牌：Aquange\n设计：msa\n设计-Logo：msa"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-04T13:45:55.571Z"
+    "submittedAt": "2026-10-04T13:46:19.621Z"
   }
 }
