@@ -279,7 +279,7 @@
           "type": "person",
           "person": {
             "ref": null,
-            "text": "BLUE"
+            "text": "蒼井/BLUE"
           }
         }
       ]
@@ -386,7 +386,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:104113",
+          "ref": null,
           "text": "AMELTY"
         }
       }
@@ -417,23 +417,14 @@
           "text": "まこと"
         }
       }
-    ],
-    "vocaledit": [
-      {
-        "type": "person",
-        "person": {
-          "ref": null,
-          "text": "蒼井"
-        }
-      }
     ]
   },
   "rawPatches": {
-    "editor": "制作人：AMELTY\n艺术家：乃花こより(7)、JULLII(8)、ななきなな(9)\n作词：JULLII(2,3,7-9)、乃花こより(4)、高城みよ(5)\n作曲：高城みよ(1,5)、コモリタミノル(2,7-9)、Joek(3)、瀬名水紀(4)\n编曲：高城みよ(1,5)、コモリタミノル(2,7-9)、Joek(3)、瀬名水紀(4)\n混音：高城みよ(1,5)、Talich Helfen(2,9)、BCNO(3)、蒼井/BLUE(4)\n母带制作：Talich Helfen\n插图：まこと\n人声编辑：高城みよ(1,5)、Talich Helfen(2,9)、BCNO(3)、蒼井/BLUE(4)\n设计-Jacket Design：乃花こより\n设计-Artist Logo Design：PMIY\n乐器-Guitar：高山大(3)\n念白/旁白：AMELTY(6)"
+    "editor": "制作人：AMELTY\n艺术家：乃花こより(7)、JULLII(8)、ななきなな(9)\n作词：JULLII(2,3,7-9)、乃花こより(4)、高城みよ(5)\n作曲：高城みよ(1,5)、コモリタミノル(2,7-9)、Joek(3)、瀬名水紀(4)\n编曲：高城みよ(1,5)、コモリタミノル(2,7-9)、Joek(3)、瀬名水紀(4)\n混音：高城みよ(1,5)、Talich Helfen(2,9)、BCNO(3)、蒼井/BLUE(4)\n母带制作：Talich Helfen\n插图：まこと\n人声编辑：高城みよ(1,5)、Talich Helfen(2,9)、BCNO(3)、《蒼井/BLUE》(4)\n设计-Jacket Design：乃花こより\n设计-Artist Logo Design：PMIY\n乐器-Guitar：高山大(3)\n念白/旁白：AMELTY(6)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-04T11:13:28.503Z"
+    "submittedAt": "2026-10-04T11:13:46.447Z"
   }
 }
