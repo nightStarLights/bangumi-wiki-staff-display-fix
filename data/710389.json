@@ -24,7 +24,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:94057",
             "text": "PHYZ"
           }
         }
@@ -53,7 +53,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:94057",
             "text": "PHYZ"
           }
         }
@@ -82,7 +82,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:94057",
             "text": "PHYZ"
           }
         }
@@ -483,7 +483,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:29893",
           "text": "サンカクヘッド"
         }
       }
@@ -504,6 +504,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-05T09:21:53.613Z"
+    "submittedAt": "2026-10-05T09:22:04.798Z"
   }
 }
