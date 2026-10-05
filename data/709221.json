@@ -251,14 +251,83 @@
           "text": "美月りん"
         }
       }
+    ],
+    "custom-Graphic Design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ヤシロキラ"
+        }
+      }
+    ],
+    "custom-Costume Design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "丈折メイ"
+        }
+      }
+    ],
+    "custom-Scenario": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "美月りん"
+        }
+      }
+    ],
+    "custom-Cast": [
+      {
+        "parts": [
+          "ノヴァ(CV.",
+          {
+            "ref": null,
+            "text": "逢沢伊吹"
+          },
+          ")"
+        ]
+      },
+      {
+        "parts": [
+          "セレナ(CV.",
+          {
+            "ref": "p:6248",
+            "text": "nayuta"
+          },
+          ")"
+        ]
+      },
+      {
+        "parts": [
+          "エミリー(CV.",
+          {
+            "ref": "p:67035",
+            "text": "たねまき"
+          },
+          ")"
+        ]
+      },
+      {
+        "parts": [
+          "長老・婦人・男子・女子(CV.",
+          {
+            "ref": null,
+            "text": "ひちゃ"
+          },
+          ")"
+        ]
+      }
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：星灯つぐみ(1-5)\n作词：星灯つぐみ(1-4)、RD-Sounds(5)\n作曲：レマノルド(1,2)、星灯つぐみ(3,4)、RD-Sounds(5)\n编曲：レマノルド(1,2)、星灯つぐみ(3,4)、椎名嘉友(3,4)、RD-Sounds(5)\n混音：椎名嘉友\n母带制作：椎名嘉友\n插图：ひとば\n客串：nayuta(2)\ncustom-剧本：美月りん\n设计-Graphic Design：ヤシロキラ\n设计-Costume Design：丈折メイ"
+    "editor": "艺术家：星灯つぐみ(1-5)\n作词：星灯つぐみ(1-4)、RD-Sounds(5)\n作曲：レマノルド(1,2)、星灯つぐみ(3,4)、RD-Sounds(5)\n编曲：レマノルド(1,2)、星灯つぐみ(3,4)、椎名嘉友(3,4)、RD-Sounds(5)\n混音：椎名嘉友\n母带制作：椎名嘉友\n插图：ひとば\n客串：nayuta(2)\ncustom-剧本：美月りん\ncustom-Graphic Design：ヤシロキラ\ncustom-Costume Design：丈折メイ\ncustom-Scenario：美月りん\n\ncustom-Cast: ノヴァ(CV.逢沢伊吹)/セレナ(CV.nayuta)/エミリー(CV.たねまき)/長老・婦人・男子・女子(CV.ひちゃ)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-01T18:14:52.253Z"
+    "submittedAt": "2026-10-05T14:07:43.181Z"
   }
 }
