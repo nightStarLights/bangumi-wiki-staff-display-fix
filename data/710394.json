@@ -86,6 +86,15 @@
             "text": "飴織永遠"
           }
         }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "小春六花"
+          }
+        }
       ]
     },
     "1.7": {
@@ -142,6 +151,15 @@
           "person": {
             "ref": "p:104167",
             "text": "飴織永遠"
+          }
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "夏色花梨"
           }
         }
       ]
@@ -289,6 +307,15 @@
             "text": "飴織永遠"
           }
         }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "花隈千冬"
+          }
+        }
       ]
     },
     "1.6": {
@@ -342,7 +369,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:104170",
+          "ref": null,
           "text": "沫雪うみ。"
         }
       }
@@ -351,18 +378,18 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:104171",
+          "ref": null,
           "text": "LiLiAmoureuse"
         }
       }
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：Three-Dimension (小春六花・夏色花梨・花隈千冬)\n作词：飴織永遠(1,3,5,7,9-11)、LiLiAmoureuse(2)、ことだまーと(4,8)、Rusuregu(6)\n作曲：飴織永遠(1-11)\n编曲：飴織永遠(1-11)\n插图：沫雪うみ。\n厂牌：LiLiAmoureuse"
+    "editor": "艺术家：Three-Dimension (小春六花・夏色花梨・花隈千冬)\n作词：飴織永遠(1,3,5,7,9-11)、LiLiAmoureuse(2)、ことだまーと(4,8)、Rusuregu(6)\n作曲：飴織永遠(1-11)\n编曲：飴織永遠(1-11)\n插图：沫雪うみ。\n厂牌：LiLiAmoureuse\n客串: 小春六花(5)/夏色花梨(9)/花隈千冬(8)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-05T10:51:05.368Z"
+    "submittedAt": "2026-10-05T10:52:05.697Z"
   }
 }
