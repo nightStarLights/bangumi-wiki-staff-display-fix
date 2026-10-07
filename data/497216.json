@@ -444,7 +444,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:104245",
             "text": "三保敬太郎"
           }
         }
@@ -453,7 +453,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:104245",
             "text": "三保敬太郎"
           }
         }
@@ -464,7 +464,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:104245",
             "text": "三保敬太郎"
           }
         }
@@ -473,7 +473,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:104245",
             "text": "三保敬太郎"
           }
         }
@@ -484,7 +484,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:1698",
             "text": "小杉太一郎"
           }
         }
@@ -493,7 +493,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:1698",
             "text": "小杉太一郎"
           }
         }
@@ -504,7 +504,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:104244",
             "text": "鏑木創"
           }
         }
@@ -513,7 +513,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:104244",
             "text": "鏑木創"
           }
         }
@@ -524,7 +524,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:2804",
             "text": "玉木宏樹"
           }
         }
@@ -533,7 +533,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:2804",
             "text": "玉木宏樹"
           }
         }
@@ -557,6 +557,6 @@
   "_meta": {
     "submittedBy": "k1519508",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-07T05:14:33.679Z"
+    "submittedAt": "2026-10-07T05:16:33.748Z"
   }
 }
