@@ -1,0 +1,160 @@
+{
+  "subjectId": 710858,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:35280",
+            "text": "咲良ゆの"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "あとうす"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66544",
+            "text": "はらもりよしな"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65196",
+            "text": "葉月リョウヘイ"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69117",
+            "text": "まより"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69117",
+            "text": "まより"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36042",
+            "text": "月乃"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:41596",
+            "text": "橘花音"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "心祈エマ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65196",
+            "text": "葉月リョウヘイ"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "あとぅす"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "あとぅす"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "りーふぱいザウルス"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Rezidual Seekerz"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "MUSH.T"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：咲良ゆの(1)、はらもりよしな(2)、まより(3)、月乃(4)、心祈エマ(5)\n作词：あとうす(1)、葉月リョウヘイ(2,5)、まより(3)、橘花音(4)\n作曲：あとぅす\n编曲：あとぅす\n插图：りーふぱいザウルス\n厂牌：Rezidual Seekerz\n设计：MUSH.T"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-07T16:03:49.139Z"
+  }
+}
