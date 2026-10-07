@@ -1,0 +1,87 @@
+{
+  "subjectId": 710850,
+  "trackCredits": {
+    "1.1": {
+      "vocal": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "ゆきもりともり"
+            },
+            " (",
+            {
+              "ref": "p:68152",
+              "text": "夕季森灯"
+            },
+            ")"
+          ]
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:72434",
+          "text": "nanami"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:72434",
+          "text": "nanami"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:72434",
+          "text": "nanami"
+        }
+      }
+    ],
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:73089",
+          "text": "perie"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:73089",
+          "text": "perie"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "1000"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "作词：nanami\n作曲：nanami\n编曲：nanami\n声乐：ゆきもりともり (夕季森灯)(1)\n混音：perie\n母带制作：perie\n插图：1000\n插图-Photograph：わん\n设计-logo design：1000"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-07T15:19:26.528Z"
+  }
+}
