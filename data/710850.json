@@ -21,6 +21,15 @@
     }
   },
   "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:72434",
+          "text": "nanami"
+        }
+      }
+    ],
     "lyricist": [
       {
         "type": "person",
@@ -74,14 +83,23 @@
           "text": "1000"
         }
       }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "蝶々結び"
+        }
+      }
     ]
   },
   "rawPatches": {
-    "editor": "作词：nanami\n作曲：nanami\n编曲：nanami\n声乐：ゆきもりともり (夕季森灯)(1)\n混音：perie\n母带制作：perie\n插图：1000\n插图-Photograph：わん\n设计-logo design：1000"
+    "editor": "艺术家：nanami\n作词：nanami\n作曲：nanami\n编曲：nanami\n声乐：ゆきもりともり (夕季森灯)(1)\n混音：perie\n母带制作：perie\n插图：1000\n厂牌：蝶々結び\n和声：Mai、Teto、Ryo\n插图-Photograph：わん\n设计-logo design：1000"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-07T15:19:26.528Z"
+    "submittedAt": "2026-10-07T15:21:06.433Z"
   }
 }
