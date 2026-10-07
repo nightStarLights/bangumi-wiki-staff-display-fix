@@ -1,0 +1,1170 @@
+{
+  "subjectId": 584469,
+  "trackCredits": {
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "マイスタージンガー"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "漆原昌久"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ]
+    },
+    "1.20": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "マイスタージンガー"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "漆原昌久"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ]
+    },
+    "1.25": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "マイスタージンガー"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "漆原昌久"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ]
+    },
+    "2.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "マイスタージンガー"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "漆原昌久"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ]
+    },
+    "2.20": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "マイスタージンガー"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "漆原昌久"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ]
+    },
+    "1.21": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "漆原昌久"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ]
+    },
+    "1.22": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "漆原昌久"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ]
+    },
+    "1.23": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "漆原昌久"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ]
+    },
+    "1.26": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "漆原昌久"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ]
+    },
+    "1.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ]
+    },
+    "1.13": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ]
+    },
+    "1.14": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ]
+    },
+    "1.15": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ]
+    },
+    "1.16": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ]
+    },
+    "1.17": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ]
+    },
+    "1.18": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ]
+    },
+    "1.19": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ]
+    },
+    "1.24": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ]
+    },
+    "2.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ]
+    },
+    "2.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ]
+    },
+    "2.4": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ]
+    },
+    "2.5": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ]
+    },
+    "2.6": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ]
+    },
+    "2.7": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ]
+    },
+    "2.8": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ]
+    },
+    "2.9": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ]
+    },
+    "2.10": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ]
+    },
+    "2.11": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ]
+    },
+    "2.12": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ]
+    },
+    "2.13": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ]
+    },
+    "2.14": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ]
+    },
+    "2.15": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ]
+    },
+    "2.16": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ]
+    },
+    "2.17": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ]
+    },
+    "2.18": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ]
+    },
+    "2.19": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ]
+    },
+    "2.21": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ]
+    },
+    "2.23": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ]
+    },
+    "2.24": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ]
+    },
+    "2.25": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ]
+    },
+    "2.26": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1698",
+            "text": "小杉太一郎"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "CINEMA-KAN"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：CINEMA-KAN\n\n艺术家：マイスタージンガー(1.10,1.20,1.25,2.1,2.20)\n作词：漆原昌久(1.10,1.20,1.21,1.22,1.23,1.25,1.26,2.1,2.20)\n作曲：小杉太一郎(1.1,1.2,1.3,1.4,1.5,1.6,1.7,1.8,1.9,1.10,1.11,1.12,1.13,1.14,1.15,1.16,1.17,1.18,1.19,1.20,1.21,1.22,1.23,1.24,1.25,1.26,2.1,2.2,2.3,2.4,2.5,2.6,2.7,2.8,2.9,2.10,2.11,2.12,2.13,2.14,2.15,2.16,2.17,2.18,2.19,2.20,2.21,2.23,2.24,2.25,2.26)\n编曲：小杉太一郎(1.1,1.2,1.3,1.4,1.5,1.6,1.7,1.8,1.9,1.10,1.11,1.12,1.13,1.14,1.15,1.16,1.17,1.18,1.19,1.20,1.21,1.22,1.23,1.24,1.25,1.26,2.1,2.2,2.3,2.4,2.5,2.6,2.7,2.8,2.9,2.10,2.11,2.12,2.13,2.14,2.15,2.16,2.17,2.18,2.19,2.20,2.21,2.23,2.24,2.25,2.26)"
+  },
+  "_meta": {
+    "submittedBy": "k1519508",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-07T05:27:19.586Z"
+  }
+}
