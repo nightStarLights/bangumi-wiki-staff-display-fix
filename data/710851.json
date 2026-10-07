@@ -129,6 +129,50 @@
             "text": "みーに"
           }
         }
+      ],
+      "custom-Kakegoe": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "G.M.kimchee"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "GAKU"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66544",
+            "text": "はらもりよしな"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69117",
+            "text": "まより"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69830",
+            "text": "綜花"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Aragamii."
+          }
+        }
       ]
     },
     "1.4": {
@@ -407,11 +451,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "制作人：しろさきあや\n艺术家：しろさきあや\n作词：谷キリカ(1,5)、ushiee(2)、みーに(3)、小菅こんにゃく (齋藤優輝)(4)、クロデル(6)\n作曲：ヒノデ(1,7)、ushiee(2,8)、みーに(3,9)、小菅こんにゃく (齋藤優輝)(4,10)、しの (篠原瑞希)(5,11)、クロデル(6,12)\n编曲：ヒノデ(1,7)、ushiee(2,8)、みーに(3,9)、小菅こんにゃく (齋藤優輝)(4,10)、しの (篠原瑞希)(5,11)、クロデル(6,12)\n母带制作：Puru\n插图：nik_ibi\n厂牌：Daflow.\n和声：G.M.kimchee(3)、GAKU(3)、はらもりよしな(3)、まより(3)、綜花(3)、Aragamii.(3)\n设计-Logo：Sonoda"
+    "editor": "制作人：しろさきあや\n艺术家：しろさきあや\n作词：谷キリカ(1,5)、ushiee(2)、みーに(3)、小菅こんにゃく (齋藤優輝)(4)、クロデル(6)\n作曲：ヒノデ(1,7)、ushiee(2,8)、みーに(3,9)、小菅こんにゃく (齋藤優輝)(4,10)、しの (篠原瑞希)(5,11)、クロデル(6,12)\n编曲：ヒノデ(1,7)、ushiee(2,8)、みーに(3,9)、小菅こんにゃく (齋藤優輝)(4,10)、しの (篠原瑞希)(5,11)、クロデル(6,12)\n母带制作：Puru\n插图：nik_ibi\n厂牌：Daflow.\n和声：G.M.kimchee(3)、GAKU(3)、はらもりよしな(3)、まより(3)、綜花(3)、Aragamii.(3)\n设计-Logo：Sonoda\n\ncustom-Kakegoe: G.M.kimchee(3) / GAKU(3) / はらもりよしな(3) / まより(3) / 綜花(3) / Aragamii.(3)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-07T15:33:40.347Z"
+    "submittedAt": "2026-10-07T15:34:24.591Z"
   }
 }
