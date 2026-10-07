@@ -11,7 +11,7 @@
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:47395",
               "text": "NA7"
             },
             ")"
@@ -51,7 +51,7 @@
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:47332",
               "text": "Clion"
             },
             ")"
@@ -64,7 +64,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:86500",
             "text": "citybridge"
           }
         }
@@ -97,7 +97,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:86499",
             "text": "Erixa"
           }
         }
@@ -109,7 +109,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:68297",
           "text": "Koshico Records"
         }
       }
@@ -118,7 +118,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:47332",
           "text": "Clion"
         }
       }
@@ -127,7 +127,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:104256",
           "text": "アメちゃ"
         }
       }
@@ -139,6 +139,6 @@
   "_meta": {
     "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-07T13:29:52.605Z"
+    "submittedAt": "2026-10-07T13:30:14.344Z"
   }
 }
