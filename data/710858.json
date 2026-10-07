@@ -107,7 +107,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:81184",
           "text": "あとぅす"
         }
       }
@@ -116,7 +116,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:81184",
           "text": "あとぅす"
         }
       }
@@ -155,6 +155,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-07T16:03:49.139Z"
+    "submittedAt": "2026-10-07T16:04:01.967Z"
   }
 }
