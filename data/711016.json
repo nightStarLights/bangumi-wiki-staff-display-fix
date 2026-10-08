@@ -1,0 +1,512 @@
+{
+  "subjectId": 711016,
+  "trackCredits": {
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:35209",
+            "text": "ミフメイ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:35209",
+            "text": "ミフメイ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:35209",
+            "text": "ミフメイ"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:35209",
+            "text": "ミフメイ"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Shogo Nomura"
+            },
+            " (",
+            {
+              "ref": "p:60257",
+              "text": "野村渉悟"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Shogo Nomura"
+            },
+            " (",
+            {
+              "ref": "p:60257",
+              "text": "野村渉悟"
+            },
+            ")"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Shogo Nomura"
+            },
+            " (",
+            {
+              "ref": "p:60257",
+              "text": "野村渉悟"
+            },
+            ")"
+          ]
+        }
+      ],
+      "mixing": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Shogo Nomura"
+            },
+            " (",
+            {
+              "ref": "p:60257",
+              "text": "野村渉悟"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "MEMODEMO"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "AQUASINE"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "MEMODEMO"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "AQUASINE"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "MEMODEMO"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "AQUASINE"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "MEMODEMO"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "AQUASINE"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:59104",
+            "text": "原口沙輔"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:59104",
+            "text": "原口沙輔"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:59104",
+            "text": "原口沙輔"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:59104",
+            "text": "原口沙輔"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:59104",
+            "text": "原口沙輔"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81530",
+            "text": "Talich Helfen"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81530",
+            "text": "Talich Helfen"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81530",
+            "text": "Talich Helfen"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "inoutsuha SA"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "inoutsuha SA"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "inoutsuha SA"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "inoutsuha SA"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83161",
+            "text": "鹿あるく"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83161",
+            "text": "鹿あるく"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83161",
+            "text": "鹿あるく"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83161",
+            "text": "鹿あるく"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72804",
+            "text": "Mylta"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72804",
+            "text": "Mylta"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72804",
+            "text": "Mylta"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72804",
+            "text": "Mylta"
+          }
+        }
+      ]
+    },
+    "1.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71337",
+            "text": "factal"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71337",
+            "text": "factal"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71337",
+            "text": "factal"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71337",
+            "text": "factal"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71337",
+            "text": "factal"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71337",
+            "text": "factal"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:66174",
+          "text": "式部めぐり"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "駅々みそはた"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:71352",
+          "text": "CDs"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ひかかみひなみ"
+        }
+      }
+    ],
+    "custom-Crossfade Movie": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:71340",
+          "text": "木葉はづく"
+        }
+      }
+    ],
+    "custom-Direction": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:59104",
+          "text": "原口沙輔"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:66174",
+          "text": "式部めぐり"
+        }
+      }
+    ],
+    "custom-Artist Coordination": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:59104",
+          "text": "原口沙輔"
+        }
+      }
+    ],
+    "custom-Management": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:66174",
+          "text": "式部めぐり"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：式部めぐり\n作词：ミフメイ(2)、Shogo Nomura (野村渉悟)(3)、MEMODEMO(4)、AQUASINE(4)、原口沙輔(5,9)、inoutsuha SA(6)、鹿あるく(7)、Mylta(8)\n作曲：factal(1,10)、ミフメイ(2)、Shogo Nomura (野村渉悟)(3)、MEMODEMO(4)、AQUASINE(4)、原口沙輔(5)、inoutsuha SA(6)、鹿あるく(7)、Mylta(8)、Talich Helfen(9)\n编曲：factal(1,10)、ミフメイ(2)、Shogo Nomura (野村渉悟)(3)、MEMODEMO(4)、AQUASINE(4)、原口沙輔(5)、inoutsuha SA(6)、鹿あるく(7)、Mylta(8)、Talich Helfen(9)\n混音：factal(1,10)、ミフメイ(2)、Shogo Nomura (野村渉悟)(3)、MEMODEMO(4)、AQUASINE(4)、原口沙輔(5)、inoutsuha SA(6)、鹿あるく(7)、Mylta(8)、Talich Helfen(9)\n插图：駅々みそはた\n厂牌：CDs\n设计：ひかかみひなみ\ncustom-Crossfade Movie：木葉はづく\ncustom-Direction：原口沙輔、式部めぐり\ncustom-Artist Coordination：原口沙輔\ncustom-Management：式部めぐり"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-08T10:35:43.980Z"
+  }
+}
