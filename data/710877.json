@@ -1,0 +1,176 @@
+{
+  "subjectId": 710877,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9393",
+            "text": "ASCA"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9393",
+            "text": "ASCA"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11277",
+            "text": "miwa"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11277",
+            "text": "miwa"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8401",
+            "text": "鈴木このみ"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8401",
+            "text": "鈴木このみ"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9932",
+            "text": "昆夏美"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9932",
+            "text": "昆夏美"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "みきまりあ"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "みきまりあ"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:10799",
+          "text": "TeddyLoid"
+        }
+      }
+    ],
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "LAYRA"
+        }
+      }
+    ],
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:10799",
+          "text": "TeddyLoid"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:67836",
+          "text": "ケンモチヒデフミ"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:10799",
+          "text": "TeddyLoid"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:10799",
+          "text": "TeddyLoid"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:93582",
+          "text": "Echoes"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：TeddyLoid\n艺术家：LAYRA、ASCA(1)、miwa(2)、鈴木このみ(3)、昆夏美(4)、みきまりあ(5)\n作词：TeddyLoid、ケンモチヒデフミ\n作曲：TeddyLoid\n编曲：TeddyLoid\n声乐：ASCA(1)、miwa(2)、鈴木このみ(3)、昆夏美(4)、みきまりあ(5)\n厂牌：Echoes"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-08T03:33:37.188Z"
+  }
+}
