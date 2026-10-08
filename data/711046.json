@@ -1,0 +1,464 @@
+{
+  "subjectId": 711046,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "eili"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yuichi Arai"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Man_boo"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yuichi Arai"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Man_boo"
+            },
+            ")"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yuichi Arai"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Man_boo"
+            },
+            ")"
+          ]
+        }
+      ],
+      "recording": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Rex"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "M2U"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "eili"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "eili"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yuichi Arai"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Man_boo"
+            },
+            ")"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yuichi Arai"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Man_boo"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "eili"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "eili"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yuichi Arai"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Man_boo"
+            },
+            ")"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yuichi Arai"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Man_boo"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "eili"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yuichi Arai"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Man_boo"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yuichi Arai"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Man_boo"
+            },
+            ")"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yuichi Arai"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Man_boo"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "eili"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yuichi Arai"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Man_boo"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yuichi Arai"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Man_boo"
+            },
+            ")"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yuichi Arai"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Man_boo"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "eili"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yuichi Arai"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Man_boo"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yuichi Arai"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Man_boo"
+            },
+            ")"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yuichi Arai"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Man_boo"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "eili"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yuichi Arai"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Man_boo"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yuichi Arai"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Man_boo"
+            },
+            ")"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yuichi Arai"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Man_boo"
+            },
+            ")"
+          ]
+        }
+      ],
+      "recording": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yuichi Arai"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Man_boo"
+            },
+            ")"
+          ]
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Shinzo Owa"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Katsuo Kumano"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "母带制作：Shinzo Owa\n插图：Katsuo Kumano\n\n艺术家：eili(1,2,3,4,5,6,7)\n作词：Yuichi Arai(Man_boo)(1,4,5,6,7)、eili(2,3)\n作曲：Yuichi Arai(Man_boo)(1,2,3,4,5,6,7)\n编曲：Yuichi Arai(Man_boo)(1,2,3,4,5,6,7)\n录音：Rex(M2U)(1)、Yuichi Arai(Man_boo)(7)"
+  },
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-08T13:49:51.403Z"
+  }
+}
