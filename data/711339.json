@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:69139",
             "text": "kuro"
           }
         }
@@ -17,7 +17,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:69139",
             "text": "kuro"
           }
         },
@@ -206,6 +206,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-09T15:15:54.107Z"
+    "submittedAt": "2026-10-09T15:16:19.720Z"
   }
 }
