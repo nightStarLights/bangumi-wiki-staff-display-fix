@@ -93,15 +93,8 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
-            "text": "Paspal Voice"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:8065",
-            "text": "狛茉璃奈"
+            "ref": "p:64797",
+            "text": "Paspal"
           }
         }
       ],
@@ -109,10 +102,12 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
-            "text": "Paspal Voice"
+            "ref": "p:64797",
+            "text": "Paspal"
           }
-        },
+        }
+      ],
+      "vocal": [
         {
           "type": "person",
           "person": {
@@ -162,11 +157,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：海紅\n作词：サラ(1,3)、海紅(2,5)、Paspal Voice(4)、狛茉璃奈(4)\n作曲：サラ(1,3)、HINODE (ヒノデ)(2)、Paspal Voice(4)、狛茉璃奈(4)、Irori(5)\n母带制作：Irori\n插图：HARURI\n厂牌：Seraph\n设计-Title Design：野谷トオル"
+    "editor": "艺术家：海紅\n作词：サラ(1,3)、海紅(2,5)、Paspal(4)\n作曲：サラ(1,3)、HINODE (ヒノデ)(2)、Paspal(4)、Irori(5)\n声乐：狛茉璃奈(4)\n母带制作：Irori\n插图：HARURI\n厂牌：Seraph\n设计-Title Design：野谷トオル"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-09T16:20:30.376Z"
+    "submittedAt": "2026-10-09T16:21:33.818Z"
   }
 }
