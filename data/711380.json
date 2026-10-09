@@ -1,7 +1,7 @@
 {
   "subjectId": 711380,
   "trackCredits": {
-    "1.2": {
+    "1.1": {
       "artist": [
         {
           "type": "person",
@@ -39,7 +39,7 @@
         }
       ]
     },
-    "1.3": {
+    "1.2": {
       "artist": [
         {
           "type": "person",
@@ -77,7 +77,7 @@
         }
       ]
     },
-    "1.4": {
+    "1.3": {
       "artist": [
         {
           "type": "person",
@@ -115,7 +115,7 @@
         }
       ]
     },
-    "1.5": {
+    "1.4": {
       "artist": [
         {
           "type": "person",
@@ -153,7 +153,7 @@
         }
       ]
     },
-    "1.6": {
+    "1.5": {
       "artist": [
         {
           "type": "person",
@@ -191,7 +191,7 @@
         }
       ]
     },
-    "1.7": {
+    "1.6": {
       "artist": [
         {
           "type": "person",
@@ -229,21 +229,14 @@
         }
       ]
     },
-    "1.8": {
+    "1.7": {
       "artist": [
         {
-          "parts": [
-            {
-              "ref": "p:71147",
-              "text": "mido"
-            },
-            " (",
-            {
-              "ref": null,
-              "text": "THE BINARY"
-            },
-            ")"
-          ]
+          "type": "person",
+          "person": {
+            "ref": "p:71147",
+            "text": "mido"
+          }
         }
       ],
       "composer": [
@@ -274,7 +267,7 @@
         }
       ]
     },
-    "1.9": {
+    "1.8": {
       "artist": [
         {
           "type": "person",
@@ -319,7 +312,7 @@
         "type": "person",
         "person": {
           "ref": null,
-          "text": "感情市街記録"
+          "text": "式浦躁吾"
         }
       }
     ],
@@ -329,6 +322,15 @@
         "person": {
           "ref": null,
           "text": "つのさめ"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "感情市街記録"
         }
       }
     ],
@@ -352,11 +354,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "制作人：感情市街記録\n艺术家：EVO+(2)、Such(3)、東雪蓮(4)、CONA(5)、桃寝ちのい(6)、yoei.(7)、mido(THE BINARY)(8)、kaza(9)\n作曲：吐息.(2)、イマニシ(3)、灰色ねむり(4)、式浦躁吾(5)、KAIRUI(6)、RED(7)、sabio(8)、Hitoka hitomoku(9)\n编曲：吐息.(2)、イマニシ(3)、灰色ねむり(4)、式浦躁吾(5)、KAIRUI(6)、RED(7)、sabio(8)、Hitoka hitomoku(9)\n混音：uHei(2-7,9)、sabio(8)\n插图：つのさめ\ncustom-Art Direction：kaza\ncustom-Photo：kaza\n设计-Character design：つのさめ、kaza\n设计-Logo design：ゆうたONE\n设计-Art Design：kaza、星野花\n设计-layout：kaza、星野花"
+    "editor": "制作人：式浦躁吾\n艺术家：EVO+(1)、Such(2)、東雪蓮(3)、CONA(4)、桃寝ちのい(5)、yoei.(6)、mido(7)、kaza(8)\n作曲：吐息.(1)、イマニシ(2)、灰色ねむり(3)、式浦躁吾(4)、KAIRUI(5)、RED(6)、sabio(7)、Hitoka hitomoku(8)\n编曲：吐息.(1)、イマニシ(2)、灰色ねむり(3)、式浦躁吾(4)、KAIRUI(5)、RED(6)、sabio(7)、Hitoka hitomoku(8)\n混音：uHei(1-6,8)、sabio(7)\n插图：つのさめ\n厂牌：感情市街記録\ncustom-Art Direction：kaza\ncustom-Photo：kaza\n设计-Character design：つのさめ、kaza\n设计-Logo design：ゆうたONE\n设计-Art Design：kaza、星野花\n设计-layout：kaza、星野花"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-09T17:42:31.593Z"
+    "submittedAt": "2026-10-09T17:44:03.711Z"
   }
 }
