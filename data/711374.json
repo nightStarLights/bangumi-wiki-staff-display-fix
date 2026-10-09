@@ -1,0 +1,133 @@
+{
+  "subjectId": 711374,
+  "trackCredits": {
+    "1.1": {
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "めろう"
+          }
+        }
+      ]
+    },
+    "1.14": {
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "めろう"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "知声"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68653",
+            "text": "RiCO"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81089",
+            "text": "とうめいのくに"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:80330",
+            "text": "日彩"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "featured": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "EUREKA"
+            },
+            " (",
+            {
+              "ref": "p:69353",
+              "text": "ユリカリパブリック"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.12": {
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "SANAGI"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:73528",
+          "text": "dama"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:73528",
+          "text": "dama"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:73528",
+          "text": "dama"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：dama\n作曲：dama\n编曲：dama\n客串：めろう(1,14)、RiCO(2)、とうめいのくに(5)、日彩(7)、EUREKA (ユリカリパブリック)(9)、SANAGI(12)、知声(14)\n设计-Jacket Design：眠木める\n乐器-コンサーティーナ：Ryo"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-09T17:27:40.191Z"
+  }
+}
