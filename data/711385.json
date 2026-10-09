@@ -1,0 +1,44 @@
+{
+  "subjectId": 711385,
+  "trackCredits": {
+    "1.2": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65470",
+            "text": "picco"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:54879",
+          "text": "中村さんそ"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:82631",
+          "text": "てんひなた"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：中村さんそ\n编曲：picco(2)\n插图：てんひなた"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-09T17:59:21.139Z"
+  }
+}
