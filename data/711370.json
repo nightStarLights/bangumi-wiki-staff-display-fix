@@ -1,0 +1,362 @@
+{
+  "subjectId": 711370,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:92891",
+            "text": "Balalaika"
+          }
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:74659",
+            "text": "DD \"ナカタ\" Metal"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82567",
+            "text": "Matsui.K"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Dragon_Klub"
+          }
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "GUMI"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82567",
+            "text": "Matsui.K"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71409",
+            "text": "RIZARDI"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82567",
+            "text": "Matsui.K"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ZiniA"
+          }
+        }
+      ]
+    },
+    "1.13": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82567",
+            "text": "Matsui.K"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69716",
+            "text": "GoldenEggs"
+          }
+        }
+      ]
+    },
+    "1.14": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82567",
+            "text": "Matsui.K"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Iridium"
+          }
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Matsuda Yusuke"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Sunkt8"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "苔原"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Sunkt8"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69716",
+            "text": "GoldenEggs"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Sunkt8"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "NOxxx"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "苔原"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69716",
+            "text": "GoldenEggs"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71409",
+            "text": "RIZARDI"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Dynamax"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:77638",
+            "text": "X14N"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "GARBAGECAN"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:16035",
+            "text": "pocotan"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "OWALI"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ZiniA"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82568",
+            "text": "Myx4"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Arrow"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "SHIMADA"
+          }
+        }
+      ]
+    },
+    "1.15": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "SDF"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73174",
+            "text": "DJKurara"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "苔原"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ZiniA"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:82567",
+          "text": "Matsui.K"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Gemeinschaft of Hardcore"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Peso"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：苔原、ZiniA\n艺术家：Balalaika(1)、Matsui.K(2,4,8,13,14)、Dragon_Klub(2)、Sunkt8(3,5,10)、苔原(3,11)、RIZARDI(4,12)、GoldenEggs(5,11,13)、GARBAGECAN(6)、pocotan(6)、OWALI(7)、ZiniA(7,8)、Myx4(9)、Arrow(9)、SHIMADA(9)、NOxxx(10)、Dynamax(12)、X14N(12)、Iridium(14)、SDF(15)、DJKurara(15)\n母带制作：Matsui.K\n厂牌：Gemeinschaft of Hardcore\n客串：DD \"ナカタ\" Metal(1)、GUMI(2)、Matsuda Yusuke(14)\n设计：Peso"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-09T17:12:39.206Z"
+  }
+}
