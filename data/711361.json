@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:17078",
             "text": "水野七海"
           }
         }
@@ -188,7 +188,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:34255",
             "text": "中島大河"
           }
         }
@@ -224,7 +224,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:21640",
             "text": "Astilbe x arendsii"
           }
         }
@@ -269,7 +269,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:21640",
             "text": "Astilbe x arendsii"
           }
         }
@@ -421,7 +421,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:64199",
             "text": "ふくながよる"
           }
         }
@@ -552,7 +552,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:15641",
           "text": "秋空もみぢ"
         }
       }
@@ -573,6 +573,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-09T16:29:19.125Z"
+    "submittedAt": "2026-10-09T16:29:38.882Z"
   }
 }
