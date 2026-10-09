@@ -57,25 +57,23 @@
     "1.4": {
       "composer": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "mIlImiiz"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:47382",
-            "text": "filmiiz"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "mIlIn"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "mIlImiiz"
+            },
+            " (",
+            {
+              "ref": "p:47382",
+              "text": "filmiiz"
+            },
+            " & ",
+            {
+              "ref": null,
+              "text": "mIlIn"
+            },
+            ")"
+          ]
         }
       ],
       "vocal": [
@@ -163,11 +161,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "制作人：KAH\n作曲：Lactar1uz(1)、KAH(2,8)、RYOQUCHA(3)、mIlImiiz(4)、filmiiz(4)、mIlIn(4)、Yuze(5)、Hmt2(6)、utzbo(7)、Kumamin(9)\n声乐：乃々花りあら(2)、mIlIn(4)\n母带制作：KAH\n设计：kokodoko\n设计-Web Design：まのき"
+    "editor": "制作人：KAH\n作曲：Lactar1uz(1)、KAH(2,8)、RYOQUCHA(3)、mIlImiiz (filmiiz & mIlIn)(4)、Yuze(5)、Hmt2(6)、utzbo(7)、Kumamin(9)\n声乐：乃々花りあら(2)、mIlIn(4)\n母带制作：KAH\n设计：kokodoko\n设计-Web Design：まのき"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-09T16:58:44.153Z"
+    "submittedAt": "2026-10-09T16:59:30.782Z"
   }
 }
