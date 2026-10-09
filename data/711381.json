@@ -1,0 +1,126 @@
+{
+  "subjectId": 711381,
+  "trackCredits": {
+    "1.1": {
+      "instrument": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "ニシマケイ - Cody・Lee"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "李"
+            },
+            ")",
+            " (Bass)"
+          ]
+        }
+      ]
+    },
+    "1.2": {
+      "instrument": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "ニシマケイ - Cody・Lee"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "李"
+            },
+            ")",
+            " (Bass)"
+          ]
+        }
+      ]
+    },
+    "1.3": {
+      "instrument": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "ニシマケイ - Cody・Lee"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "李"
+            },
+            ")",
+            " (Bass)"
+          ]
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69493",
+          "text": "kohai"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69493",
+          "text": "kohai"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69493",
+          "text": "kohai"
+        }
+      }
+    ],
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69495",
+          "text": "REDHOT"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69495",
+          "text": "REDHOT"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69494",
+          "text": "hyaku"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：kohai\n作曲：kohai\n编曲：kohai\n混音：REDHOT\n母带制作：REDHOT\n设计：hyaku\n乐器-Bass：ニシマケイ - Cody・Lee(李)(1-3)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-09T17:46:39.366Z"
+  }
+}
