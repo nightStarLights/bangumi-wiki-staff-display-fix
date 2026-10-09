@@ -1,0 +1,454 @@
+{
+  "subjectId": 711376,
+  "trackCredits": {
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68101",
+            "text": "水縹そまる"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:46356",
+            "text": "夜の羊雲"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68099",
+            "text": "暗雨Anyu"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68099",
+            "text": "暗雨Anyu"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Lilou"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "hans"
+          },
+          "inst": "Bass"
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68101",
+            "text": "水縹そまる"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hikari 小光"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68101",
+            "text": "水縹そまる"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "花咲くれは"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68099",
+            "text": "暗雨Anyu"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68099",
+            "text": "暗雨Anyu"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Lilou"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "hans"
+          },
+          "inst": "Bass"
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hikari 小光"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68101",
+            "text": "水縹そまる"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68101",
+            "text": "水縹そまる"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68099",
+            "text": "暗雨Anyu"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68099",
+            "text": "暗雨Anyu"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Lilou"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "hans"
+          },
+          "inst": "Bass"
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68101",
+            "text": "水縹そまる"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "小怪"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:43190",
+            "text": "櫻澤ヒカル"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68099",
+            "text": "暗雨Anyu"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68099",
+            "text": "暗雨Anyu"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:67011",
+            "text": "雪乃イト"
+          },
+          "inst": "Bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Lilou"
+          },
+          "inst": "Acoustic Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "雨音空"
+          },
+          "inst": "Electric Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "陳柏州 Mr.Q"
+          },
+          "inst": "Drums"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:68099",
+            "text": "暗雨Anyu"
+          },
+          "inst": "Piano"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:68099",
+            "text": "暗雨Anyu"
+          },
+          "inst": "All Other Instruments"
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "小怪"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68101",
+            "text": "水縹そまる"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68101",
+            "text": "水縹そまる"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68099",
+            "text": "暗雨Anyu"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68099",
+            "text": "暗雨Anyu"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15889",
+            "text": "3R2"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Lilou"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "hans"
+          },
+          "inst": "Bass"
+        }
+      ],
+      "custom-Vocal Harmony Arrangement": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15889",
+            "text": "3R2"
+          }
+        }
+      ]
+    },
+    "1.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68099",
+            "text": "暗雨Anyu"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68099",
+            "text": "暗雨Anyu"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "小怪"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:43550",
+          "text": "Shibayan"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:68100",
+          "text": "Snow is"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "awamizm"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "C'Ryantic"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Panthullu"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：水縹そまる(2-6)、Hikari 小光(3)、小怪(5)\n作词：夜の羊雲(2)、水縹そまる(3,4,6)、花咲くれは(3)、櫻澤ヒカル(5)\n作曲：暗雨Anyu(1-6)\n编曲：暗雨Anyu(1-6)、3R2(6)\n混音：小怪\n母带制作：Shibayan\n插图：Snow is\n厂牌：awamizm\n设计：C'Ryantic、Panthullu\n乐器-Guitar：Lilou(2-4,6)\n乐器-Bass：hans(2-4,6)、雪乃イト(5)\n录音：Hikari 小光(3)、小怪(5)\n乐器-Acoustic Guitar：Lilou(5)\n乐器-Electric Guitar：雨音空(5)\n乐器-Drums：陳柏州 Mr.Q(5)\n乐器-Piano：暗雨Anyu(5)\n乐器-All Other Instruments：暗雨Anyu(5)\ncustom-Vocal Harmony Arrangement：3R2(6)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-09T17:33:03.030Z"
+  }
+}
