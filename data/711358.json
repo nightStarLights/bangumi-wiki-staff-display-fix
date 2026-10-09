@@ -1,0 +1,172 @@
+{
+  "subjectId": 711358,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70617",
+            "text": "サラ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70617",
+            "text": "サラ"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70617",
+            "text": "サラ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70617",
+            "text": "サラ"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70615",
+            "text": "海紅"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "HINODE"
+            },
+            " (",
+            {
+              "ref": "p:64798",
+              "text": "ヒノデ"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.5": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70615",
+            "text": "海紅"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70616",
+            "text": "Irori"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Paspal Voice"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8065",
+            "text": "狛茉璃奈"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Paspal Voice"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8065",
+            "text": "狛茉璃奈"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:70615",
+          "text": "海紅"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:70616",
+          "text": "Irori"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:70618",
+          "text": "HARURI"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:70619",
+          "text": "Seraph"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：海紅\n作词：サラ(1,3)、海紅(2,5)、Paspal Voice(4)、狛茉璃奈(4)\n作曲：サラ(1,3)、HINODE (ヒノデ)(2)、Paspal Voice(4)、狛茉璃奈(4)、Irori(5)\n母带制作：Irori\n插图：HARURI\n厂牌：Seraph\n设计-Title Design：野谷トオル"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-09T16:20:30.376Z"
+  }
+}
