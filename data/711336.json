@@ -44,6 +44,15 @@
             "text": "KAYA"
           }
         }
+      ],
+      "custom-harmony arrange": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Krimek"
+          }
+        }
       ]
     },
     "1.7": {
@@ -386,6 +395,15 @@
             "text": "SpiralFlip"
           }
         }
+      ],
+      "custom-male choir": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Leo Elazar"
+          }
+        }
       ]
     },
     "1.11": {
@@ -470,7 +488,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:66298",
+          "ref": null,
           "text": "eili"
         }
       }
@@ -479,7 +497,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:40252",
+          "ref": null,
           "text": "sena"
         }
       }
@@ -488,18 +506,18 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:66298",
+          "ref": null,
           "text": "eili"
         }
       }
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：eili\n插图：sena\n制作人：eili\n\n作词：eili(1,7)、Krimek(2,5,9)、高城みよ(3)、Gardens(4)、Lemm(6)、Nos(8)、Leo Elazar(10)、mopi(11)、Levare(12)\n作曲：Yuka Kitamura(1)、Krimek(2,9)、高城みよ(3)、Gardens(4)、satella(5)、Lemm(6)、Morrigan(7)、Nos(8)、SpiralFlip(10)、mopi(11)、Levare(12)\n编曲：Yuka Kitamura(1)、Krimek(1,2,9)、高城みよ(3)、Gardens(4)、satella(5)、Lemm(6)、Morrigan(7)、Nos(8)、SpiralFlip(10)、mopi(11)、Levare(12)\n混音：KAYA(1,2,4,8,9,11,12)、zeroth(3)、satella(5)、Lemm(6)、Morrigan(7)、SpiralFlip(10)"
+    "editor": "艺术家：eili\n插图：sena\n制作人：eili\n\n作词：eili(1,7)、Krimek(2,5,9)、高城みよ(3)、Gardens(4)、Lemm(6)、Nos(8)、Leo Elazar(10)、mopi(11)、Levare(12)\n作曲：Yuka Kitamura(1)、Krimek(2,9)、高城みよ(3)、Gardens(4)、satella(5)、Lemm(6)、Morrigan(7)、Nos(8)、SpiralFlip(10)、mopi(11)、Levare(12)\n编曲：Yuka Kitamura(1)、Krimek(1,2,9)、高城みよ(3)、Gardens(4)、satella(5)、Lemm(6)、Morrigan(7)、Nos(8)、SpiralFlip(10)、mopi(11)、Levare(12)\n混音：KAYA(1,2,4,8,9,11,12)、zeroth(3)、satella(5)、Lemm(6)、Morrigan(7)、SpiralFlip(10)\ncustom-harmony arrange: Krimek(1)\ncustom-male choir: Leo Elazar (10)"
   },
   "_meta": {
     "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-09T14:06:38.171Z"
+    "submittedAt": "2026-10-09T14:08:00.416Z"
   }
 }
