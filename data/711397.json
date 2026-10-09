@@ -1,0 +1,116 @@
+{
+  "subjectId": 711397,
+  "trackCredits": {
+    "1.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "PoppoOVO"
+          }
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "PoppoOVO"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "PoppoOVO"
+          }
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "PoppoOVO"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:82734",
+          "text": "philoi"
+        }
+      }
+    ],
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:82734",
+          "text": "philoi"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:82734",
+          "text": "philoi"
+        }
+      }
+    ],
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "果屋OFFICE"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "白萝卜音乐工作室"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:91875",
+          "text": "柏木ちさめ"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:91875",
+          "text": "柏木ちさめ"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：philoi\n作词：philoi\n作曲：philoi、PoppoOVO(1,4)\n混音：果屋OFFICE、白萝卜音乐工作室\n插图：柏木ちさめ\n客串：PoppoOVO(1,4)\n设计：柏木ちさめ"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-09T18:50:19.248Z"
+  }
+}
