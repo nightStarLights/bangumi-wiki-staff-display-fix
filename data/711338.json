@@ -1,0 +1,159 @@
+{
+  "subjectId": 711338,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "アメミヤチカ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64798",
+            "text": "ヒノデ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64798",
+            "text": "ヒノデ"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "AmbientFlow"
+          },
+          "inst": "Piano"
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "アメミヤチカ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64798",
+            "text": "ヒノデ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64798",
+            "text": "ヒノデ"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "AmbientFlow"
+          },
+          "inst": "Piano"
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "アメミヤチカ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67598",
+            "text": "れいあじゅ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64798",
+            "text": "ヒノデ"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "AmbientFlow"
+          },
+          "inst": "Piano"
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:67598",
+          "text": "れいあじゅ"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:67598",
+          "text": "れいあじゅ"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:68625",
+          "text": "あずとらこ"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：アメミヤチカ(1-3)\n作词：ヒノデ(1,2)、れいあじゅ(3)\n作曲：ヒノデ(1-3)\n混音：れいあじゅ\n母带制作：れいあじゅ\n插图：あずとらこ\n设计-Logo design：bean jam\n乐器-Piano：AmbientFlow(1-3)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-09T14:07:19.435Z"
+  }
+}
