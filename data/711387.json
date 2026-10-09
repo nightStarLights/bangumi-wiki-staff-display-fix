@@ -29,7 +29,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:104359",
           "text": "進堂シン"
         }
       }
@@ -38,7 +38,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:104359",
           "text": "進堂シン"
         }
       }
@@ -47,7 +47,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:104359",
           "text": "進堂シン"
         }
       }
@@ -77,6 +77,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-09T18:08:26.343Z"
+    "submittedAt": "2026-10-09T18:08:32.228Z"
   }
 }
