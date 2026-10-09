@@ -1,0 +1,268 @@
+{
+  "subjectId": 711357,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64020",
+            "text": "まるもこ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "いもけん"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "いもけん"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "YR4PP"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "YR4PP"
+          },
+          "inst": "Bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "古都子"
+          },
+          "inst": "Drums"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "としえ"
+          },
+          "inst": "Piano"
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91847",
+            "text": "むむ猫"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "YR4PP"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "一色桃花"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "YR4PP"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "YR4PP"
+          },
+          "inst": "Bass"
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "リン酢"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "YR4PP"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "YR4PP"
+          },
+          "inst": "Bass"
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "秋桜"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "YR4PP"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "YR4PP"
+          },
+          "inst": "Bass"
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "宮舞モカ"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "YR4PP."
+        }
+      }
+    ],
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "YR4PP."
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "YR4PP."
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "YR4PP."
+        }
+      }
+    ],
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "YR4PP."
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "YR4PP."
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "真白いお"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Helikirik"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：YR4PP.\n艺术家：まるもこ(1)、むむ猫(2)、一色桃花(3)、リン酢(4)、秋桜(5)、宮舞モカ(6)\n作词：YR4PP.\n作曲：YR4PP.\n编曲：YR4PP.、いもけん(1)\n混音：YR4PP.\n母带制作：YR4PP.\n插图：真白いお\n厂牌：Helikirik\n乐器-Guitar：いもけん(1)、YR4PP(1-5)\n乐器-Bass：YR4PP(1,3-5)\n乐器-Drums：古都子(1)\n乐器-Piano：としえ(1)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-09T16:18:04.502Z"
+  }
+}
