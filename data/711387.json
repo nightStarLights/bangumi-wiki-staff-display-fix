@@ -1,0 +1,82 @@
+{
+  "subjectId": 711387,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "白玉餅ましろ"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "花隈千冬"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "進堂シン"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "進堂シン"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "進堂シン"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "mumu"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "进新堂"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：白玉餅ましろ(1)\n作词：進堂シン\n作曲：進堂シン\n编曲：進堂シン\n插图：mumu\n厂牌：进新堂\n客串：花隈千冬(2)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-09T18:08:26.343Z"
+  }
+}
