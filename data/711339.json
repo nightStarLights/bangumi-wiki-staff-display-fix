@@ -1,0 +1,211 @@
+{
+  "subjectId": 711339,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "kuro"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "kuro"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64711",
+            "text": "Connexio"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "MoAE"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10164",
+            "text": "黒魔"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64711",
+            "text": "Connexio"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Xyris"
+          }
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "花隈千冬"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82122",
+            "text": "Xeudo Code"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69634",
+            "text": "LucaProject"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:79339",
+            "text": "Glancia"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55171",
+            "text": "Essbee"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82371",
+            "text": "Link\"0"
+          }
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ららぴっぴ"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69747",
+            "text": "Rafutsuri"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:74306",
+            "text": "新日本開発機構"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:64711",
+          "text": "Connexio"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:64711",
+          "text": "Connexio"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:68092",
+          "text": "MiyU"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ARTIPHONIA"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：Connexio\n艺术家：kuro(1,11)、MoAE(2)、黒魔(3)、Connexio(4,11)、Xyris(5)、Xeudo Code(6)、LucaProject(7)、Glancia(7)、Essbee(8)、Link\"0(9)、Rafutsuri(10)、新日本開発機構(10)\n母带制作：Connexio\n插图：MiyU\n厂牌：ARTIPHONIA\n客串：花隈千冬(5)、ららぴっぴ(9)\n设计-Package Design：Sonoda"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-09T15:15:54.107Z"
+  }
+}
