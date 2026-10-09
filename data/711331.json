@@ -1,0 +1,291 @@
+{
+  "subjectId": 711331,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66187",
+            "text": "現実みろ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65556",
+            "text": "KBSNK"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65556",
+            "text": "KBSNK"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65556",
+            "text": "KBSNK"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "NNZN"
+            },
+            " (",
+            {
+              "ref": "p:79648",
+              "text": "南前修司"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66187",
+            "text": "現実みろ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71455",
+            "text": "NARUMI HELVETICA"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71455",
+            "text": "NARUMI HELVETICA"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71455",
+            "text": "NARUMI HELVETICA"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Takeaki Oshima"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "NNZN"
+            },
+            " (",
+            {
+              "ref": "p:79648",
+              "text": "南前修司"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66187",
+            "text": "現実みろ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10165",
+            "text": "西島尊大"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10165",
+            "text": "西島尊大"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10165",
+            "text": "西島尊大"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "NNZN"
+            },
+            " (",
+            {
+              "ref": "p:79648",
+              "text": "南前修司"
+            },
+            ")"
+          ]
+        }
+      ],
+      "mixing": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "NNZN"
+            },
+            " (",
+            {
+              "ref": "p:79648",
+              "text": "南前修司"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66187",
+            "text": "現実みろ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "M.Lemon"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "M.Lemon"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "M.Lemon"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "NNZN"
+            },
+            " (",
+            {
+              "ref": "p:79648",
+              "text": "南前修司"
+            },
+            ")"
+          ]
+        }
+      ],
+      "mixing": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "NNZN"
+            },
+            " (",
+            {
+              "ref": "p:79648",
+              "text": "南前修司"
+            },
+            ")"
+          ]
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "しょけん"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:82037",
+          "text": "組長"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "插图：組長\n\n艺术家：現実みろ(1,2,3,4)\n作词：KBSNK(1)、NARUMI HELVETICA(2)、西島尊大(3)、M.Lemon(4)\n作曲：KBSNK(1)、NARUMI HELVETICA(2)、西島尊大(3)、M.Lemon(4)\n编曲：KBSNK(1)、NARUMI HELVETICA(2)、西島尊大(3)、M.Lemon(4)\n录音：NNZN(南前修司)(1,3,4)、Takeaki Oshima(2)\n混音：NNZN(南前修司)(2,3,4)\n乐器-Guitar：しょけん(4)"
+  },
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-09T12:46:51.820Z"
+  }
+}
