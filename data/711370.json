@@ -336,7 +336,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:80608",
           "text": "Gemeinschaft of Hardcore"
         }
       }
@@ -357,6 +357,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-09T17:12:39.206Z"
+    "submittedAt": "2026-10-09T17:12:46.157Z"
   }
 }
