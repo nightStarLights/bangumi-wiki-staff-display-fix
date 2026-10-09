@@ -215,18 +215,23 @@
     "1.4": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:8383",
-            "text": "Ayumi."
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:21640",
-            "text": "Astilbe x arendsii"
-          }
+          "parts": [
+            {
+              "ref": "p:8383",
+              "text": "Ayumi."
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Astilbe"
+            },
+            " x ",
+            {
+              "ref": null,
+              "text": "arendsii"
+            },
+            ")"
+          ]
         }
       ],
       "lyricist": [
@@ -260,18 +265,23 @@
     "1.10": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:8383",
-            "text": "Ayumi."
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:21640",
-            "text": "Astilbe x arendsii"
-          }
+          "parts": [
+            {
+              "ref": "p:8383",
+              "text": "Ayumi."
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Astilbe"
+            },
+            " x ",
+            {
+              "ref": null,
+              "text": "arendsii"
+            },
+            ")"
+          ]
         }
       ],
       "lyricist": [
@@ -552,7 +562,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:15641",
+          "ref": null,
           "text": "秋空もみぢ"
         }
       }
@@ -568,11 +578,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "制作人：西坂恭平\n艺术家：水野七海(1)、霜月はるか(2,3,9,13)、Ayumi.(4,10)、Astilbe x arendsii(4,10)、佐咲紗花(5)、榊原ゆい(6)、SHOWTIME撃嬢(7)、ふくながよる(8)、Faylan (飛蘭)(11)、AiRI(12)\n作词：西坂恭平(1-4,7-12)、高梨栞(2,3,13)、ハラユカ。(5,6)、中島大河(13)\n作曲：西坂恭平(1-13)\n编曲：西坂恭平(1-13)\n插图：秋空もみぢ\n厂牌：AYUMI ONE. STRIKERS.\n设计-Graphic Design：日渚やや"
+    "editor": "制作人：西坂恭平\n艺术家：水野七海(1)、霜月はるか(2,3,9,13)、Ayumi. (Astilbe x arendsii)(4,10)、佐咲紗花(5)、榊原ゆい(6)、SHOWTIME撃嬢(7)、ふくながよる(8)、Faylan (飛蘭)(11)、AiRI(12)\n作词：西坂恭平(1-4,7-12)、高梨栞(2,3,13)、ハラユカ。(5,6)、中島大河(13)\n作曲：西坂恭平(1-13)\n编曲：西坂恭平(1-13)\n插图：秋空もみぢ\n厂牌：AYUMI ONE. STRIKERS.\n设计-Graphic Design：日渚やや"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-09T16:29:38.882Z"
+    "submittedAt": "2026-10-09T16:55:44.209Z"
   }
 }
