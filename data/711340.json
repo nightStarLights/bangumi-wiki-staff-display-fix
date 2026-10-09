@@ -1,0 +1,318 @@
+{
+  "subjectId": 711340,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68400",
+            "text": "Fty"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68400",
+            "text": "Fty"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68400",
+            "text": "Fty"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "シンナイコウジ"
+          },
+          "inst": "Acoustic Guitar"
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Tama"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Tama"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Tama"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68874",
+            "text": "木瀬のん"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68874",
+            "text": "木瀬のん"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68874",
+            "text": "木瀬のん"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66022",
+            "text": "Sekimen"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:63435",
+            "text": "鈴谷皆人"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:63435",
+            "text": "鈴谷皆人"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:68836",
+            "text": "花形真喜"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:68836",
+            "text": "花形真喜"
+          },
+          "inst": "Bass"
+        }
+      ]
+    },
+    "1.5": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68663",
+            "text": "天束"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68663",
+            "text": "天束"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68663",
+            "text": "天束"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75006",
+            "text": "桜木うみ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10372",
+            "text": "ハム"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10372",
+            "text": "ハム"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Keita Hasegawa"
+          },
+          "inst": "Guitar"
+        }
+      ],
+      "custom-Arrange Support": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Keita Hasegawa"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:65399",
+          "text": "るる"
+        }
+      }
+    ],
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Dios"
+        }
+      },
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "シグナルP"
+          },
+          " (",
+          {
+            "ref": "p:9063",
+            "text": "荒井洋明"
+          },
+          ")"
+        ]
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Dios"
+        }
+      },
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "シグナルP"
+          },
+          " (",
+          {
+            "ref": "p:9063",
+            "text": "荒井洋明"
+          },
+          ")"
+        ]
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:68870",
+          "text": "らいす"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:91760",
+          "text": "るるの郵便屋さん"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ヤシロキラ"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：るる\n作词：Fty(1)、Tama(2)、木瀬のん(3)、Sekimen(4)、天束(5)、桜木うみ(6)\n作曲：Fty(1)、Tama(2)、木瀬のん(3)、鈴谷皆人(4)、天束(5)、ハム(6)\n编曲：Fty(1)、Tama(2)、木瀬のん(3)、鈴谷皆人(4)、天束(5)、ハム(6)\n混音：Dios/シグナルP (荒井洋明)\n母带制作：Dios/シグナルP (荒井洋明)\n插图：らいす\n厂牌：るるの郵便屋さん\n设计：ヤシロキラ\n乐器-Acoustic Guitar：シンナイコウジ(1)\n乐器-Guitar：花形真喜(4)、Keita Hasegawa(6)\n乐器-Bass：花形真喜(4)\ncustom-Arrange Support：Keita Hasegawa(6)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-09T15:20:19.166Z"
+  }
+}
