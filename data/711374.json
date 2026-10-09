@@ -86,7 +86,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:104358",
             "text": "SANAGI"
           }
         }
@@ -128,6 +128,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-09T17:27:40.191Z"
+    "submittedAt": "2026-10-09T17:27:46.355Z"
   }
 }
