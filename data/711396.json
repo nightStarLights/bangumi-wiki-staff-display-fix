@@ -1,0 +1,73 @@
+{
+  "subjectId": 711396,
+  "trackCredits": {
+    "1.2": {
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66887",
+            "text": "羽澄愛"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Yuma"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ArgentuM"
+        }
+      }
+    ],
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ArgentuM"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ニレーク"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "The Silverwind"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：ArgentuM\n作词：ArgentuM\n插图：ニレーク\n厂牌：The Silverwind\n客串：羽澄愛(2)、Yuma(9)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-09T18:45:41.076Z"
+  }
+}
