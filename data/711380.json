@@ -1,0 +1,362 @@
+{
+  "subjectId": 711380,
+  "trackCredits": {
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15925",
+            "text": "EVO+"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "吐息."
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "吐息."
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "uHei"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64620",
+            "text": "Such"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:94115",
+            "text": "イマニシ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:94115",
+            "text": "イマニシ"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "uHei"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65571",
+            "text": "東雪蓮"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:80429",
+            "text": "灰色ねむり"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:80429",
+            "text": "灰色ねむり"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "uHei"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "CONA"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "式浦躁吾"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "式浦躁吾"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "uHei"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65740",
+            "text": "桃寝ちのい"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71746",
+            "text": "KAIRUI"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71746",
+            "text": "KAIRUI"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "uHei"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86541",
+            "text": "yoei."
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "RED"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "RED"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "uHei"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:71147",
+              "text": "mido"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "THE BINARY"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "sabio"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "sabio"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "sabio"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:80431",
+            "text": "kaza"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hitoka hitomoku"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hitoka hitomoku"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "uHei"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "感情市街記録"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "つのさめ"
+        }
+      }
+    ],
+    "custom-Art Direction": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:80431",
+          "text": "kaza"
+        }
+      }
+    ],
+    "custom-Photo": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:80431",
+          "text": "kaza"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：感情市街記録\n艺术家：EVO+(2)、Such(3)、東雪蓮(4)、CONA(5)、桃寝ちのい(6)、yoei.(7)、mido(THE BINARY)(8)、kaza(9)\n作曲：吐息.(2)、イマニシ(3)、灰色ねむり(4)、式浦躁吾(5)、KAIRUI(6)、RED(7)、sabio(8)、Hitoka hitomoku(9)\n编曲：吐息.(2)、イマニシ(3)、灰色ねむり(4)、式浦躁吾(5)、KAIRUI(6)、RED(7)、sabio(8)、Hitoka hitomoku(9)\n混音：uHei(2-7,9)、sabio(8)\n插图：つのさめ\ncustom-Art Direction：kaza\ncustom-Photo：kaza\n设计-Character design：つのさめ、kaza\n设计-Logo design：ゆうたONE\n设计-Art Design：kaza、星野花\n设计-layout：kaza、星野花"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-09T17:42:31.593Z"
+  }
+}
