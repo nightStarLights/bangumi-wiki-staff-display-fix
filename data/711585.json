@@ -1,0 +1,239 @@
+{
+  "subjectId": 711585,
+  "trackCredits": {
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91883",
+            "text": "2997"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91883",
+            "text": "2997"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91883",
+            "text": "2997"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91883",
+            "text": "2997"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91883",
+            "text": "2997"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91883",
+            "text": "2997"
+          }
+        }
+      ]
+    },
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68679",
+            "text": "勿忘うた"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69115",
+            "text": "Fujiyori"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69115",
+            "text": "Fujiyori"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "瀬乃一郎"
+            },
+            " (",
+            {
+              "ref": "p:69121",
+              "text": "Sceno Ichiro"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "瀬乃一郎"
+            },
+            " (",
+            {
+              "ref": "p:69121",
+              "text": "Sceno Ichiro"
+            },
+            ")"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "瀬乃一郎"
+            },
+            " (",
+            {
+              "ref": "p:69121",
+              "text": "Sceno Ichiro"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.5": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69497",
+            "text": "TAKIO"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69497",
+            "text": "TAKIO"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69497",
+            "text": "TAKIO"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75018",
+            "text": "岡田ケイスケ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75018",
+            "text": "岡田ケイスケ"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75018",
+            "text": "岡田ケイスケ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75018",
+            "text": "岡田ケイスケ"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:68679",
+          "text": "勿忘うた"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "はゆまーけっと！"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：勿忘うた\n作词：2997(2,7)、勿忘うた(1)、瀬乃一郎 (Sceno Ichiro)(4)、TAKIO(5)\n作曲：2997(2,7)、Fujiyori(1)、岡田ケイスケ(3,6)、瀬乃一郎 (Sceno Ichiro)(4)、TAKIO(5)\n编曲：2997(2,7)、Fujiyori(1)、岡田ケイスケ(3,6)、瀬乃一郎 (Sceno Ichiro)(4)、TAKIO(5)\n厂牌：はゆまーけっと！"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-10T11:53:20.115Z"
+  }
+}
