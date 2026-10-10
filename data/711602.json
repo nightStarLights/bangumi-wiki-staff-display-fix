@@ -1,0 +1,248 @@
+{
+  "subjectId": 711602,
+  "trackCredits": {
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ruru"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73198",
+            "text": "リゼ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73198",
+            "text": "リゼ"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ruru"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Luna"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73198",
+            "text": "リゼ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73198",
+            "text": "リゼ"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ruru"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73198",
+            "text": "リゼ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73198",
+            "text": "リゼ"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Luna"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73198",
+            "text": "リゼ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73198",
+            "text": "リゼ"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Risa Yuzuki"
+            },
+            " (",
+            {
+              "ref": "p:25781",
+              "text": "柚木梨沙"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73198",
+            "text": "リゼ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73198",
+            "text": "リゼ"
+          }
+        }
+      ]
+    },
+    "1.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73198",
+            "text": "リゼ"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:82343",
+          "text": "薫"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:82343",
+          "text": "薫"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:15872",
+          "text": "フルーツパンチ"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:33395",
+          "text": "Ariabl'eyeS"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:86681",
+          "text": "二月ほづみ"
+        }
+      }
+    ],
+    "narration": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Char"
+        }
+      }
+    ],
+    "custom-故事": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "cofi"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：Ruru(2,4,5)、Luna(3,4)、Risa Yuzuki (柚木梨沙)(6)\n作词：リゼ(2-6)\n作曲：リゼ(1-6)\n混音：薫\n母带制作：薫\n插图：フルーツパンチ\n厂牌：Ariabl'eyeS\n和声：鈴葉ユミ\n设计：二月ほづみ\n乐器-Guitar：薫、よしださくら\n乐器-Violin：Minori Okumura\n念白/旁白：Char\ncustom-故事：cofi"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-10T12:26:36.052Z"
+  }
+}
