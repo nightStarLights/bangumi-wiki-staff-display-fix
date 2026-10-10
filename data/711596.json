@@ -128,7 +128,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:66971",
           "text": "Armony"
         }
       }
@@ -165,8 +165,8 @@
     "editor": "艺术家：Armony、HoshiHo(1-3)\n作词：HoshiHo(1,2)、Shisei(2,3)\n作曲：Shisei(1-3)\n编曲：Shisei(1-3)\n声乐：HoshiHo\n混音：足立タイセイ\n母带制作：足立タイセイ"
   },
   "_meta": {
-    "submittedBy": "sakarin",
+    "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-10T12:17:00.210Z"
+    "submittedAt": "2026-10-10T12:22:40.806Z"
   }
 }
