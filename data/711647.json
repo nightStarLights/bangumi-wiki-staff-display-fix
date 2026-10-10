@@ -117,13 +117,6 @@
           "type": "person",
           "person": {
             "ref": null,
-            "text": "Mix"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
             "text": "窓リルケ"
           }
         }
@@ -133,9 +126,11 @@
           "type": "person",
           "person": {
             "ref": null,
-            "text": "Mix"
+            "text": "窓リルケ"
           }
-        },
+        }
+      ],
+      "mixing": [
         {
           "type": "person",
           "person": {
@@ -185,11 +180,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：禊みなも\n作词：禊みなも(4)\n作曲：あだちかすか(1)、シャリンノ(2)、Mix(3,4)、窓リルケ(3)、Inu(4)\n编曲：あだちかすか(1)、シャリンノ(2)、Mix(3,4)、窓リルケ(3)、Inu(4)\n混音：ryo-shun(1,2)\n母带制作：ryo-shun\n插图：おもち屋サカモト。\n厂牌：すいめんか\n人声编辑：あだちかすか(1)"
+    "editor": "艺术家：禊みなも\n作词：禊みなも(4)\n作曲：あだちかすか(1)、シャリンノ(2)、窓リルケ(3)、Mix(4)、Inu(4)\n编曲：あだちかすか(1)、シャリンノ(2)、窓リルケ(3)、Mix(4)、Inu(4)\n混音：ryo-shun(1,2)、窓リルケ(3)\n母带制作：ryo-shun\n插图：おもち屋サカモト。\n厂牌：すいめんか\n人声编辑：あだちかすか(1)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-10T15:20:16.319Z"
+    "submittedAt": "2026-10-10T15:20:46.649Z"
   }
 }
