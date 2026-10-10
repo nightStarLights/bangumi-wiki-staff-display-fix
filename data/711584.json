@@ -154,7 +154,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:104389",
             "text": "MAKI"
           },
           "inst": "Drums"
@@ -205,26 +205,24 @@
       "artist": [
         {
           "parts": [
-            "Masahiro \"Godspeed\" Aoki",
-            " (",
+            "Masahiro \"",
             {
               "ref": "p:10388",
               "text": "Godspeed"
             },
-            ")"
+            "\" Aoki"
           ]
         }
       ],
       "instrument": [
         {
           "parts": [
-            "Masahiro \"Godspeed\" Aoki",
-            " (",
+            "Masahiro \"",
             {
               "ref": "p:10388",
               "text": "Godspeed"
             },
-            ")",
+            "\" Aoki",
             " (Guitar)"
           ]
         },
@@ -239,7 +237,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:104389",
             "text": "MAKI"
           },
           "inst": "Drums"
@@ -286,26 +284,24 @@
       "arranger": [
         {
           "parts": [
-            "Masahiro \"Godspeed\" Aoki",
-            " (",
+            "Masahiro \"",
             {
               "ref": "p:10388",
               "text": "Godspeed"
             },
-            ")"
+            "\" Aoki"
           ]
         }
       ],
       "custom-Orchestral Arrangement": [
         {
           "parts": [
-            "Masahiro \"Godspeed\" Aoki",
-            " (",
+            "Masahiro \"",
             {
               "ref": "p:10388",
               "text": "Godspeed"
             },
-            ")"
+            "\" Aoki"
           ]
         }
       ]
@@ -315,13 +311,12 @@
     "mixing": [
       {
         "parts": [
-          "Masahiro \"Godspeed\" Aoki",
-          " (",
+          "Masahiro \"",
           {
             "ref": "p:10388",
             "text": "Godspeed"
           },
-          ")"
+          "\" Aoki"
         ]
       }
     ],
@@ -407,6 +402,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-10T18:54:17.052Z"
+    "submittedAt": "2026-10-10T19:05:39.140Z"
   }
 }
