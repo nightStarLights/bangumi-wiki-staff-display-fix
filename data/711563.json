@@ -1,0 +1,114 @@
+{
+  "subjectId": 711563,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69355",
+            "text": "鈴木デコ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69040",
+            "text": "rujou"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69040",
+            "text": "rujou"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66298",
+            "text": "eili"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69040",
+            "text": "rujou"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:4930",
+            "text": "坂本美里"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69040",
+          "text": "rujou"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69040",
+          "text": "rujou"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69040",
+          "text": "rujou"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:73136",
+          "text": "B.rose&crown"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:81250",
+          "text": "kuromameko"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "作词：rujou\n作曲：rujou\n编曲：rujou\n厂牌：B.rose&crown\n插图：kuromameko\n\n艺术家：鈴木デコ(1)、rujou(1,2,3)、eili(2)、坂本美里(3)"
+  },
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-10T10:38:24.989Z"
+  }
+}
