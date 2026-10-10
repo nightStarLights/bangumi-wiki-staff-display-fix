@@ -1,0 +1,93 @@
+{
+  "subjectId": 711588,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70182",
+            "text": "西風S"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "狩太郎"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72341",
+            "text": "ming-zi"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:72341",
+          "text": "ming-zi"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Erfahrung"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ツクノヒバチ"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "VolteXture Records"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:72341",
+          "text": "ming-zi"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：西風S(1)、狩太郎(2)、ming-zi(3)\n作词：ming-zi\n作曲：Erfahrung\n插图：ツクノヒバチ\n厂牌：VolteXture Records\n设计：ming-zi\n乐器-Guitar：鳥牙\n乐器-Bass：鳥牙\n乐器-Drums：鳥牙"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-10T12:06:25.083Z"
+  }
+}
