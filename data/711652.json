@@ -1,0 +1,68 @@
+{
+  "subjectId": 711652,
+  "trackCredits": {
+    "1.1": {
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Synthesizer V 2 AI 小春六花"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Synthesizer V 2 AI 小春六花"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Synthesizer V 2 AI 夢ノ結唱 POPY"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Synthesizer V 2 AI 宮舞モカ"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:81935",
+          "text": "kitami"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：kitami\n声乐：Synthesizer V 2 AI 小春六花(1,3)、Synthesizer V 2 AI 夢ノ結唱 POPY(2)、Synthesizer V 2 AI 宮舞モカ(4)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-10T15:32:44.003Z"
+  }
+}
