@@ -1,12 +1,23 @@
 {
   "subjectId": 711448,
   "trackCredits": {
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66918",
+            "text": "Riku"
+          }
+        }
+      ]
+    },
     "1.6": {
       "arranger": [
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:66918",
             "text": "Riku"
           }
         }
@@ -30,6 +41,17 @@
           "person": {
             "ref": "p:47397",
             "text": "hu-zin"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "kari*n"
           }
         }
       ]
@@ -101,11 +123,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "制作人：yuki.\n艺术家：yuki.\n作词：yuki.\n编曲：Riku(6)、YUKIYANAGI(7)、hu-zin(8)\n母带制作：yuki.\n插图：KoTHa\n厂牌：White Records\n设计：yuki."
+    "editor": "制作人：yuki.\n艺术家：yuki.、Riku(3)\n作词：yuki.\n编曲：Riku(6)、YUKIYANAGI(7)、hu-zin(8)\n母带制作：yuki.\n插图：KoTHa\n厂牌：White Records\n客串：kari*n(5)\n设计：yuki."
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-10T07:08:43.150Z"
+    "submittedAt": "2026-10-10T07:11:06.253Z"
   }
 }
