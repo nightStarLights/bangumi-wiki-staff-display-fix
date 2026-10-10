@@ -1,0 +1,407 @@
+{
+  "subjectId": 711584,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64931",
+            "text": "ELFENSJóN"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6833",
+            "text": "花たん"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25427",
+            "text": "黒瀬圭亮"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25427",
+            "text": "黒瀬圭亮"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25427",
+            "text": "黒瀬圭亮"
+          }
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6833",
+            "text": "花たん"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:67097",
+            "text": "ケンシロー"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:72847",
+            "text": "QutaQuta"
+          },
+          "inst": "Bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:68376",
+            "text": "Shuhei Kamada"
+          },
+          "inst": "Drums"
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64892",
+            "text": "Imy"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:77158",
+            "text": "有世華望"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "みゅー"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "みゅー"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "みゅー"
+          }
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:77158",
+            "text": "有世華望"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "みゅー"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "ヒサマユウヘイ"
+          },
+          "inst": "Bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "MAKI"
+          },
+          "inst": "Drums"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:69899",
+            "text": "isshiki"
+          },
+          "inst": "Piano"
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "近藤麻衣"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ランドマークスタジオ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hiro"
+          }
+        }
+      ],
+      "custom-Assistant Engineer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "石川りさ子"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "parts": [
+            "Masahiro \"",
+            {
+              "ref": "p:10388",
+              "text": "Godspeed"
+            },
+            "\" Aoki"
+          ]
+        }
+      ],
+      "instrument": [
+        {
+          "parts": [
+            "Masahiro \"",
+            {
+              "ref": "p:10388",
+              "text": "Godspeed"
+            },
+            "\" Aoki",
+            " (Guitar)"
+          ]
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Bitoku"
+          },
+          "inst": "Bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "MAKI"
+          },
+          "inst": "Drums"
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8782",
+            "text": "Powerless"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65398",
+            "text": "つぐ"
+          }
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65398",
+            "text": "つぐ"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8782",
+            "text": "Powerless"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            "Masahiro \"",
+            {
+              "ref": "p:10388",
+              "text": "Godspeed"
+            },
+            "\" Aoki"
+          ]
+        }
+      ],
+      "custom-Orchestral Arrangement": [
+        {
+          "parts": [
+            "Masahiro \"",
+            {
+              "ref": "p:10388",
+              "text": "Godspeed"
+            },
+            "\" Aoki"
+          ]
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "mixing": [
+      {
+        "parts": [
+          "Masahiro \"",
+          {
+            "ref": "p:10388",
+            "text": "Godspeed"
+          },
+          "\" Aoki"
+        ]
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Yasuji Yasman Maeda"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:36937",
+          "text": "おにねこ"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:64892",
+          "text": "Imy"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:8782",
+          "text": "Powerless"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69447",
+          "text": "ViViX"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:64931",
+          "text": "ELFENSJóN"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "菅原ヒロト"
+        }
+      }
+    ],
+    "custom-Teaser movie": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:8782",
+          "text": "Powerless"
+        }
+      }
+    ],
+    "custom-Production Manager": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "みゅー"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：ELFENSJóN(1)、花たん(1)、Imy(2)、有世華望(2)、Masahiro \"Godspeed\" Aoki (Godspeed)(3)、Powerless(4,5)、つぐ(4)\n作词：黒瀬圭亮(1)、みゅー(2)\n作曲：黒瀬圭亮(1)、みゅー(2)\n编曲：黒瀬圭亮(1)、みゅー(2)、Masahiro \"Godspeed\" Aoki (Godspeed)(5)\n混音：Masahiro \"Godspeed\" Aoki (Godspeed)\n母带制作：Yasuji Yasman Maeda\n插图：おにねこ\n厂牌：Imy、Powerless、ViViX、ELFENSJóN\n客串：花たん(1)、有世華望(2)、つぐ(4)\n设计：菅原ヒロト\n设计-Web：黒瀬圭亮\ncustom-Teaser movie：Powerless\ncustom-Production Manager：みゅー\n乐器-Guitar：ケンシロー(1)、みゅー(2)、Masahiro \"Godspeed\" Aoki (Godspeed)(3)\n乐器-Bass：QutaQuta(1)、ヒサマユウヘイ(2)、Bitoku(3)\n乐器-Drums：Shuhei Kamada(1)、MAKI(2,3)\n乐器-Piano：isshiki(2)\n录音：近藤麻衣(2)、ランドマークスタジオ(2)、Hiro(2)\ncustom-Assistant Engineer：石川りさ子(2)\ncustom-Orchestral Arrangement：Masahiro \"Godspeed\" Aoki (Godspeed)(5)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-10T11:49:09.984Z"
+  }
+}
