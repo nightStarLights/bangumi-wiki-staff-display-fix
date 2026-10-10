@@ -375,6 +375,15 @@
           "ref": null,
           "text": "菅原ヒロト"
         }
+      },
+      {
+        "parts": [
+          {
+            "ref": "p:25427",
+            "text": "黒瀬圭亮"
+          },
+          " (Web)"
+        ]
       }
     ],
     "custom-Teaser movie": [
@@ -402,6 +411,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-10T19:05:39.140Z"
+    "submittedAt": "2026-10-10T19:52:20.948Z"
   }
 }
