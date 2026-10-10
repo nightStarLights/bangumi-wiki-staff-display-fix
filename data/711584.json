@@ -102,7 +102,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:64893",
             "text": "みゅー"
           }
         }
@@ -111,7 +111,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:64893",
             "text": "みゅー"
           }
         }
@@ -120,7 +120,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:64893",
             "text": "みゅー"
           }
         }
@@ -138,7 +138,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:64893",
             "text": "みゅー"
           },
           "inst": "Guitar"
@@ -154,7 +154,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:104389",
             "text": "MAKI"
           },
           "inst": "Drums"
@@ -237,7 +237,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:104389",
             "text": "MAKI"
           },
           "inst": "Drums"
@@ -372,7 +372,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:78050",
           "text": "菅原ヒロト"
         }
       }
@@ -402,6 +402,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-10T11:49:09.984Z"
+    "submittedAt": "2026-10-10T11:49:20.530Z"
   }
 }
