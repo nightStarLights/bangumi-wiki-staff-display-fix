@@ -111,7 +111,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:46571",
             "text": "hana"
           }
         }
@@ -198,6 +198,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-10T11:34:39.926Z"
+    "submittedAt": "2026-10-10T11:34:51.880Z"
   }
 }
