@@ -1,0 +1,203 @@
+{
+  "subjectId": 711581,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7253",
+            "text": "ななひら"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:63435",
+            "text": "鈴谷皆人"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:28478",
+            "text": "神田ジョン"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:68377",
+            "text": "kakeyan"
+          },
+          "inst": "Bass"
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11246",
+            "text": "秋奈"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:63435",
+            "text": "鈴谷皆人"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:66023",
+            "text": "上杉悟"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:69016",
+            "text": "ナツメユウキ"
+          },
+          "inst": "Bass"
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "住野雄飛"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6248",
+            "text": "nayuta"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:63435",
+            "text": "鈴谷皆人"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "hana"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69372",
+            "text": "めがねこ"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:68836",
+            "text": "花形真喜"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:68836",
+            "text": "花形真喜"
+          },
+          "inst": "Bass"
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:63435",
+          "text": "鈴谷皆人"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:63435",
+          "text": "鈴谷皆人"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:63435",
+          "text": "鈴谷皆人"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "桐月レイカ"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Vivid Lila"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：鈴谷皆人\n艺术家：ななひら(1)、秋奈(2)、nayuta(3)、hana(4)\n作词：鈴谷皆人(1-3)、めがねこ(4)\n作曲：鈴谷皆人\n编曲：鈴谷皆人\n插图：桐月レイカ\n厂牌：Vivid Lila\n乐器-Guitar：神田ジョン(1)、上杉悟(2)、花形真喜(4)\n乐器-Bass：kakeyan(1)、ナツメユウキ(2)、花形真喜(4)\n录音：住野雄飛(2)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-10T11:34:39.926Z"
+  }
+}
