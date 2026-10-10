@@ -85,7 +85,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:23351",
             "text": "長尾ちえみ"
           }
         }
@@ -154,6 +154,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-10T12:32:32.987Z"
+    "submittedAt": "2026-10-10T12:32:41.931Z"
   }
 }
