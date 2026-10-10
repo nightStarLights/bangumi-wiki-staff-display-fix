@@ -180,15 +180,17 @@
           "type": "person",
           "person": {
             "ref": null,
-            "text": "ランドマークスタジオ"
+            "text": "Hiro"
           }
         },
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Hiro"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "ランドマークスタジオ"
+            },
+            " (Recording Studio)"
+          ]
         }
       ],
       "custom-Assistant Engineer": [
@@ -406,11 +408,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：ELFENSJóN(1)、花たん(1)、Imy(2)、有世華望(2)、《Masahiro \"Godspeed\" Aoki》 (Godspeed)(3)、Powerless(4,5)、つぐ(4)\n作词：黒瀬圭亮(1)、みゅー(2)\n作曲：黒瀬圭亮(1)、みゅー(2)\n编曲：黒瀬圭亮(1)、みゅー(2)、《Masahiro \"Godspeed\" Aoki》 (Godspeed)(5)\n混音：《Masahiro \"Godspeed\" Aoki》 (Godspeed)\n母带制作：Yasuji Yasman Maeda\n插图：おにねこ\n厂牌：Imy、Powerless、ViViX、ELFENSJóN\n客串：花たん(1)、有世華望(2)、つぐ(4)\n设计：菅原ヒロト\n设计-Web：黒瀬圭亮\ncustom-Teaser movie：Powerless\ncustom-Production Manager：みゅー\n乐器-Guitar：ケンシロー(1)、みゅー(2)、《Masahiro \"Godspeed\" Aoki》 (Godspeed)(3)\n乐器-Bass：QutaQuta(1)、ヒサマユウヘイ(2)、Bitoku(3)\n乐器-Drums：Shuhei Kamada(1)、MAKI(2,3)\n乐器-Piano：isshiki(2)\n录音：近藤麻衣(2)、ランドマークスタジオ(2)、Hiro(2)\ncustom-Assistant Engineer：石川りさ子(2)\ncustom-Orchestral Arrangement：《Masahiro \"Godspeed\" Aoki》 (Godspeed)(5)"
+    "editor": "艺术家：ELFENSJóN(1)、花たん(1)、Imy(2)、有世華望(2)、《Masahiro \"Godspeed\" Aoki》 (Godspeed)(3)、Powerless(4,5)、つぐ(4)\n作词：黒瀬圭亮(1)、みゅー(2)\n作曲：黒瀬圭亮(1)、みゅー(2)\n编曲：黒瀬圭亮(1)、みゅー(2)、《Masahiro \"Godspeed\" Aoki》 (Godspeed)(5)\n混音：《Masahiro \"Godspeed\" Aoki》 (Godspeed)\n母带制作：Yasuji Yasman Maeda\n插图：おにねこ\n厂牌：Imy、Powerless、ViViX、ELFENSJóN\n客串：花たん(1)、有世華望(2)、つぐ(4)\n设计：菅原ヒロト\n设计-Web：黒瀬圭亮\ncustom-Teaser movie：Powerless\ncustom-Production Manager：みゅー\n乐器-Guitar：ケンシロー(1)、みゅー(2)、《Masahiro \"Godspeed\" Aoki》 (Godspeed)(3)\n乐器-Bass：QutaQuta(1)、ヒサマユウヘイ(2)、Bitoku(3)\n乐器-Drums：Shuhei Kamada(1)、MAKI(2,3)\n乐器-Piano：isshiki(2)\n录音：近藤麻衣(2)、Hiro(2)\n录音-Recording Studio:ランドマークスタジオ(2)\ncustom-Assistant Engineer：石川りさ子(2)\ncustom-Orchestral Arrangement：《Masahiro \"Godspeed\" Aoki》 (Godspeed)(5)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-10T19:52:20.948Z"
+    "submittedAt": "2026-10-10T20:00:24.504Z"
   }
 }
