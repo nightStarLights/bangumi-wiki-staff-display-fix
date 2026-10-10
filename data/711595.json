@@ -1,0 +1,143 @@
+{
+  "subjectId": 711595,
+  "trackCredits": {
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "山田テュテュル"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "山田テュテュル"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "SHO FUJiNO"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "SHO FUJiNO"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ronny Revel"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "SHO FUJiNO"
+          }
+        }
+      ]
+    },
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "テュテュルママ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Mom Tutur"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ronny Revel"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ronny Revel"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "市村透"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "みやび"
+          },
+          "inst": "Bass"
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Ronny Revel"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "山田家"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：山田テュテュル(2)、テュテュルママ(1)\n作词：Mom Tutur(1)、山田テュテュル(2)\n作曲：Ronny Revel(1)、SHO FUJiNO(2)\n编曲：Ronny Revel(1)、SHO FUJiNO(2)\n混音：Ronny Revel(2)、SHO FUJiNO(2)\n母带制作：Ronny Revel\n厂牌：山田家\n乐器-Guitar：市村透(1)\n乐器-Bass：みやび(1)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-10T12:14:13.991Z"
+  }
+}
