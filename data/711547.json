@@ -164,24 +164,17 @@
         "type": "person",
         "person": {
           "ref": null,
-          "text": "AIR MUSIC"
-        }
-      },
-      {
-        "type": "person",
-        "person": {
-          "ref": null,
           "text": "Memorival Records."
         }
       }
     ]
   },
   "rawPatches": {
-    "editor": "制作人：DJ AIR-G\n艺术家：DJ AIR-G(1,2,4,6)、DJ AIR-G feat. 口屋どろ(3)、DJ AIR-G feat. 萩野ばら子(5)\n作词：口屋どろ(3,5)\n作曲：DJ AIR-G\n编曲：DJ AIR-G\n声乐：口屋どろ(3)、萩野ばら子(5)\n插图：口屋どろ\n厂牌：AIR MUSIC / Memorival Records.\n客串：口屋どろ(3)、萩野ばら子(5)"
+    "editor": "制作人：DJ AIR-G\n艺术家：DJ AIR-G(1,2,4,6)、DJ AIR-G feat. 口屋どろ(3)、DJ AIR-G feat. 萩野ばら子(5)\n作词：口屋どろ(3,5)\n作曲：DJ AIR-G\n编曲：DJ AIR-G\n声乐：口屋どろ(3)、萩野ばら子(5)\n插图：口屋どろ\n厂牌：Memorival Records.\n客串：口屋どろ(3)、萩野ばら子(5)"
   },
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-10T10:00:03.138Z"
+    "submittedAt": "2026-10-10T10:00:26.567Z"
   }
 }
