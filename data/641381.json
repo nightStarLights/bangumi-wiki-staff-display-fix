@@ -16,7 +16,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93494",
             "text": "やきにくおすし"
           }
         }
@@ -46,7 +46,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93494",
             "text": "やきにくおすし"
           }
         }
@@ -115,7 +115,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93494",
             "text": "やきにくおすし"
           }
         }
@@ -142,7 +142,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93494",
             "text": "やきにくおすし"
           }
         }
@@ -194,7 +194,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:93493",
           "text": "美月ミチル"
         }
       }
@@ -203,7 +203,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:93494",
           "text": "やきにくおすし"
         }
       }
@@ -212,7 +212,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:93494",
           "text": "やきにくおすし"
         }
       }
@@ -222,8 +222,8 @@
     "editor": "乐器-Guitar: Roddy (2,6) / うめぞー(4,8)\n\nArrange:人力orc (3,4,7,8)\nArrange:たけぞう (1,5)\nArrange:やきにくおすし (2,3,6,7)\ncustom-人声编辑：Shibayan (1)\ncustom-人声编辑：クマSUN悪徳商会(2,3,4)\n\nVocal & Lyrics: 美月ミチル\nCompose,Arrange: やきにくおすし"
   },
   "_meta": {
-    "submittedBy": "sakarin",
+    "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-05-18T04:54:35.662Z"
+    "submittedAt": "2026-10-10T12:56:30.361Z"
   }
 }
