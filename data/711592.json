@@ -103,7 +103,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:104105",
           "text": "うまき"
         }
       },
@@ -145,6 +145,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-10T12:11:53.055Z"
+    "submittedAt": "2026-10-10T12:12:23.322Z"
   }
 }
