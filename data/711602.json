@@ -42,7 +42,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:73200",
             "text": "Luna"
           }
         }
@@ -100,7 +100,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:73200",
             "text": "Luna"
           }
         }
@@ -243,6 +243,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-10T12:26:36.052Z"
+    "submittedAt": "2026-10-10T12:27:02.859Z"
   }
 }
