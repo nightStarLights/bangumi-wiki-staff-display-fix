@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:47394",
             "text": "DJ AIR-G"
           }
         }
@@ -17,7 +17,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:47394",
             "text": "DJ AIR-G"
           }
         }
@@ -28,7 +28,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:47394",
             "text": "DJ AIR-G"
           }
         }
@@ -39,7 +39,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:47394",
             "text": "DJ AIR-G"
           }
         }
@@ -127,7 +127,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:47394",
           "text": "DJ AIR-G"
         }
       }
@@ -136,7 +136,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:47394",
           "text": "DJ AIR-G"
         }
       }
@@ -145,7 +145,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:47394",
           "text": "DJ AIR-G"
         }
       }
@@ -175,6 +175,6 @@
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-10T10:00:26.567Z"
+    "submittedAt": "2026-10-10T10:00:40.083Z"
   }
 }
