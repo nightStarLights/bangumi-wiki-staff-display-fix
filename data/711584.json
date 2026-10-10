@@ -4,18 +4,17 @@
     "1.1": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:64931",
-            "text": "ELFENSJóN"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:6833",
-            "text": "花たん"
-          }
+          "parts": [
+            {
+              "ref": "p:64931",
+              "text": "ELFENSJóN"
+            },
+            " feat. ",
+            {
+              "ref": "p:6833",
+              "text": "花たん"
+            }
+          ]
         }
       ],
       "lyricist": [
@@ -84,18 +83,17 @@
     "1.2": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:64892",
-            "text": "Imy"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:77158",
-            "text": "有世華望"
-          }
+          "parts": [
+            {
+              "ref": "p:64892",
+              "text": "Imy"
+            },
+            " feat. ",
+            {
+              "ref": "p:77158",
+              "text": "有世華望"
+            }
+          ]
         }
       ],
       "lyricist": [
@@ -246,33 +244,6 @@
         }
       ]
     },
-    "1.4": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:8782",
-            "text": "Powerless"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:65398",
-            "text": "つぐ"
-          }
-        }
-      ],
-      "featured": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:65398",
-            "text": "つぐ"
-          }
-        }
-      ]
-    },
     "1.5": {
       "artist": [
         {
@@ -305,6 +276,32 @@
             },
             "\" Aoki"
           ]
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:8782",
+              "text": "Powerless"
+            },
+            " feat. ",
+            {
+              "ref": "p:65398",
+              "text": "つぐ"
+            }
+          ]
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65398",
+            "text": "つぐ"
+          }
         }
       ]
     }
@@ -408,11 +405,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：ELFENSJóN(1)、花たん(1)、Imy(2)、有世華望(2)、《Masahiro \"Godspeed\" Aoki》 (Godspeed)(3)、Powerless(4,5)、つぐ(4)\n作词：黒瀬圭亮(1)、みゅー(2)\n作曲：黒瀬圭亮(1)、みゅー(2)\n编曲：黒瀬圭亮(1)、みゅー(2)、《Masahiro \"Godspeed\" Aoki》 (Godspeed)(5)\n混音：《Masahiro \"Godspeed\" Aoki》 (Godspeed)\n母带制作：Yasuji Yasman Maeda\n插图：おにねこ\n厂牌：Imy、Powerless、ViViX、ELFENSJóN\n客串：花たん(1)、有世華望(2)、つぐ(4)\n设计：菅原ヒロト\n设计-Web：黒瀬圭亮\ncustom-Teaser movie：Powerless\ncustom-Production Manager：みゅー\n乐器-Guitar：ケンシロー(1)、みゅー(2)、《Masahiro \"Godspeed\" Aoki》 (Godspeed)(3)\n乐器-Bass：QutaQuta(1)、ヒサマユウヘイ(2)、Bitoku(3)\n乐器-Drums：Shuhei Kamada(1)、MAKI(2,3)\n乐器-Piano：isshiki(2)\n录音：近藤麻衣(2)、Hiro(2)\n录音-Recording Studio:ランドマークスタジオ(2)\ncustom-Assistant Engineer：石川りさ子(2)\ncustom-Orchestral Arrangement：《Masahiro \"Godspeed\" Aoki》 (Godspeed)(5)"
+    "editor": "艺术家：ELFENSJóN feat. 花たん(1)、Imy feat.有世華望(2)、《Masahiro \"Godspeed\" Aoki》 (Godspeed)(3)、Powerless(5)、Powerless feat. つぐ(4)\n作词：黒瀬圭亮(1)、みゅー(2)\n作曲：黒瀬圭亮(1)、みゅー(2)\n编曲：黒瀬圭亮(1)、みゅー(2)、《Masahiro \"Godspeed\" Aoki》 (Godspeed)(5)\n混音：《Masahiro \"Godspeed\" Aoki》 (Godspeed)\n母带制作：Yasuji Yasman Maeda\n插图：おにねこ\n厂牌：Imy、Powerless、ViViX、ELFENSJóN\n客串：花たん(1)、有世華望(2)、つぐ(4)\n设计：菅原ヒロト\n设计-Web：黒瀬圭亮\ncustom-Teaser movie：Powerless\ncustom-Production Manager：みゅー\n乐器-Guitar：ケンシロー(1)、みゅー(2)、《Masahiro \"Godspeed\" Aoki》 (Godspeed)(3)\n乐器-Bass：QutaQuta(1)、ヒサマユウヘイ(2)、Bitoku(3)\n乐器-Drums：Shuhei Kamada(1)、MAKI(2,3)\n乐器-Piano：isshiki(2)\n录音：近藤麻衣(2)、Hiro(2)\n录音-Recording Studio:ランドマークスタジオ(2)\ncustom-Assistant Engineer：石川りさ子(2)\ncustom-Orchestral Arrangement：《Masahiro \"Godspeed\" Aoki》 (Godspeed)(5)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-10T20:08:31.505Z"
+    "submittedAt": "2026-10-10T20:49:01.280Z"
   }
 }
