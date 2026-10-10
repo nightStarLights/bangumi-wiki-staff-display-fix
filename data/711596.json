@@ -1,0 +1,172 @@
+{
+  "subjectId": 711596,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66969",
+            "text": "HoshiHo"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66969",
+            "text": "HoshiHo"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Shisei"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Shisei"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66969",
+            "text": "HoshiHo"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66969",
+            "text": "HoshiHo"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Shisei"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Shisei"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Shisei"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66969",
+            "text": "HoshiHo"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Shisei"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Shisei"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Shisei"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Armony"
+        }
+      }
+    ],
+    "vocal": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:66969",
+          "text": "HoshiHo"
+        }
+      }
+    ],
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "足立タイセイ"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "足立タイセイ"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：Armony、HoshiHo(1-3)\n作词：HoshiHo(1,2)、Shisei(2,3)\n作曲：Shisei(1-3)\n编曲：Shisei(1-3)\n声乐：HoshiHo\n混音：足立タイセイ\n母带制作：足立タイセイ"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-10T12:17:00.210Z"
+  }
+}
