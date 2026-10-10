@@ -1,0 +1,137 @@
+{
+  "subjectId": 711641,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:83645",
+              "text": "WOOO"
+            },
+            "REMIX"
+          ]
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:83645",
+              "text": "WOOO"
+            },
+            "REMIX"
+          ]
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:83645",
+              "text": "WOOO"
+            },
+            "REMIX"
+          ]
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:83645",
+              "text": "WOOO"
+            },
+            "REMIX"
+          ]
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:83645",
+              "text": "WOOO"
+            },
+            "REMIX"
+          ]
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:83645",
+              "text": "WOOO"
+            },
+            "REMIX"
+          ]
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:83645",
+              "text": "WOOO"
+            },
+            "REMIX"
+          ]
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "BOTNOK"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "parts": [
+          {
+            "ref": "p:83645",
+            "text": "WOOO"
+          },
+          "REMIX"
+        ]
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "AniManyao Japan"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：WOOOREMIX (WOOO)\n艺术家：WOOOREMIX (WOOO)(1,2,4-8)、BOTNOK(3)\n厂牌：AniManyao Japan"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-10T14:46:36.058Z"
+  }
+}
