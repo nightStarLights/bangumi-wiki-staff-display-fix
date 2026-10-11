@@ -1,0 +1,112 @@
+{
+  "subjectId": 711944,
+  "trackCredits": {
+    "1.7": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36773",
+            "text": "M-Project"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "LaXal"
+          }
+        }
+      ]
+    },
+    "1.1": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "獨古豊"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Daniel Seven"
+        }
+      }
+    ],
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ちゃきな"
+        }
+      }
+    ],
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ちゃきな"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Daniel Seven"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "HPTG Music"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "UKR"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "@bi photodesign (Photo)"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：Daniel Seven\n艺术家：ちゃきな\n作词：ちゃきな\n编曲：Daniel Seven、M-Project(7)、LaXal(8)\n厂牌：《HPTG Music》\n设计：UKR\n乐器-Guitar：獨古豊(1)\n插图-Photo：《@bi photodesign》"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-11T15:23:38.600Z"
+  }
+}
