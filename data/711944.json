@@ -93,11 +93,8 @@
     ],
     "illustrator": [
       {
-        "type": "person",
-        "person": {
-          "ref": null,
-          "text": "@bi photodesign (Photo)"
-        }
+        "type": "text",
+        "text": "@bi photodesign (Photo)"
       }
     ]
   },
@@ -107,6 +104,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-11T15:23:38.600Z"
+    "submittedAt": "2026-10-11T15:23:47.568Z"
   }
 }
