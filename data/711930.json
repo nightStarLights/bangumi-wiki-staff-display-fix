@@ -1,0 +1,196 @@
+{
+  "subjectId": 711930,
+  "trackCredits": {
+    "1.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66190",
+            "text": "Ray_Oh"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66190",
+            "text": "Ray_Oh"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81467",
+            "text": "春雲とい"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81467",
+            "text": "春雲とい"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "いたちもーど"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "いたちもーど"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "みずおかはな"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "みずおかはな"
+          }
+        }
+      ],
+      "vocaledit": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86934",
+            "text": "日南めい"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:40181",
+            "text": "KB"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:40181",
+            "text": "KB"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "いたちもーど"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "いたちもーど"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82331",
+            "text": "samo"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82331",
+            "text": "samo"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ぎｎ"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:68973",
+          "text": "あいの"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "くろもも"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Somrthing blue*"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：あいの\n作曲：Ray_Oh(1)、春雲とい(2)、みずおかはな(3)、KB(4)、samo(5)\n编曲：Ray_Oh(1)、春雲とい(2)、みずおかはな(3)、KB(4)、samo(5)\n混音：いたちもーど(2,4)、ぎｎ(5)\n母带制作：いたちもーど(2,4)\n插图：くろもも\n厂牌：Somrthing blue*\n人声编辑：日南めい(3)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-11T14:33:39.233Z"
+  }
+}
