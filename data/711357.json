@@ -32,7 +32,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:104351",
             "text": "YR4PP"
           },
           "inst": "Guitar"
@@ -40,7 +40,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:104351",
             "text": "YR4PP"
           },
           "inst": "Bass"
@@ -77,7 +77,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:104351",
             "text": "YR4PP"
           },
           "inst": "Guitar"
@@ -89,7 +89,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:73109",
             "text": "一色桃花"
           }
         }
@@ -98,7 +98,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:104351",
             "text": "YR4PP"
           },
           "inst": "Guitar"
@@ -106,7 +106,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:104351",
             "text": "YR4PP"
           },
           "inst": "Bass"
@@ -127,7 +127,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:104351",
             "text": "YR4PP"
           },
           "inst": "Guitar"
@@ -135,7 +135,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:104351",
             "text": "YR4PP"
           },
           "inst": "Bass"
@@ -156,7 +156,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:104351",
             "text": "YR4PP"
           },
           "inst": "Guitar"
@@ -164,7 +164,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:104351",
             "text": "YR4PP"
           },
           "inst": "Bass"
@@ -263,6 +263,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-11T17:18:08.717Z"
+    "submittedAt": "2026-10-11T17:18:45.804Z"
   }
 }
