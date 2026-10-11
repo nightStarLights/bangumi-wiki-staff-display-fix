@@ -118,7 +118,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:69585",
           "text": "tsuki"
         }
       }
@@ -127,7 +127,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:104482",
           "text": "夏月まりな"
         }
       }
@@ -145,7 +145,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:69826",
           "text": "strayedwave"
         }
       }
@@ -157,6 +157,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-11T13:33:44.440Z"
+    "submittedAt": "2026-10-11T13:33:55.568Z"
   }
 }
