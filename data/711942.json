@@ -1,0 +1,110 @@
+{
+  "subjectId": 711942,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "美南瀬瑠那"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "美南瀬瑠那"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "美南瀬瑠那"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "yukino"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91739",
+            "text": "Katsuya"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91739",
+            "text": "Katsuya"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91739",
+            "text": "Katsuya"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:66986",
+            "text": "胡桃坂庵"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "TSŪ"
+          },
+          "inst": "Bass"
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:65404",
+          "text": "みそらみみ"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：みそらみみ\n作词：美南瀬瑠那(1)、Katsuya(2)\n作曲：美南瀬瑠那(1)、Katsuya(2)\n编曲：美南瀬瑠那(1)、Katsuya(2)\n乐器-Guitar：yukino(1)、胡桃坂庵(2)\n乐器-Bass：TSŪ(2)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-11T15:14:38.462Z"
+  }
+}
