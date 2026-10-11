@@ -1,0 +1,241 @@
+{
+  "subjectId": 711936,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "愛妾ルミナ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Nevylulu"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "夢咲みう"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Nevylulu"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68270",
+            "text": "優莉"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Nevylulu"
+          }
+        }
+      ],
+      "vocaledit": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "利都"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ラングドシャ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Nevylulu"
+          }
+        }
+      ],
+      "vocaledit": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "利都"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "露奈"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Nevylulu"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "海桜せな"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Nevylulu"
+          }
+        }
+      ],
+      "vocaledit": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "利都"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Nevylulu"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Nevylulu"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "だら"
+          },
+          "inst": "Guitar Solo"
+        }
+      ]
+    },
+    "1.7": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91153",
+            "text": "catacleco"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Nevylulu"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Nevylulu"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Nevylulu"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "tobio"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：Nevylulu\n艺术家：愛妾ルミナ(1)、夢咲みう(2)、優莉(4)、ラングドシャ(5)、露奈(6)、海桜せな(8)\n作词：Nevylulu(1-6,8,9)、catacleco(7)\n作曲：Nevylulu\n编曲：Nevylulu\n插图：tobio\n人声编辑：利都(4,5,8)\n乐器-Guitar Solo：だら(9)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-11T14:54:17.317Z"
+  }
+}
