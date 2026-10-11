@@ -1,0 +1,106 @@
+{
+  "subjectId": 711943,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47576",
+            "text": "*-Teris."
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68204",
+            "text": "影虎。"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70939",
+            "text": "ikaruga_nex"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64711",
+            "text": "Connexio"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68128",
+            "text": "polysha"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:48924",
+          "text": "Puru"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69426",
+          "text": "無想りんね"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:70940",
+          "text": "BLCKLOUDS"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69426",
+          "text": "無想りんね"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：*-Teris.(1)、影虎。(2)、ikaruga_nex(3)、Connexio(4)、polysha(5)\n母带制作：Puru\n插图：無想りんね\n厂牌：BLCKLOUDS\n设计：無想りんね"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-11T15:19:17.512Z"
+  }
+}
