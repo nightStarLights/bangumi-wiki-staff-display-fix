@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:91737",
             "text": "美南瀬瑠那"
           }
         }
@@ -15,7 +15,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:91737",
             "text": "美南瀬瑠那"
           }
         }
@@ -24,7 +24,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:91737",
             "text": "美南瀬瑠那"
           }
         }
@@ -103,8 +103,8 @@
     "editor": "艺术家：みそらみみ\n作词：美南瀬瑠那(1)、Katsuya(2)\n作曲：美南瀬瑠那(1)、Katsuya(2)\n编曲：美南瀬瑠那(1)、Katsuya(2)\n乐器-Guitar：yukino(1)、胡桃坂庵(2)\n乐器-Bass：TSŪ(2)"
   },
   "_meta": {
-    "submittedBy": "sakarin",
+    "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-11T15:14:38.462Z"
+    "submittedAt": "2026-10-11T15:23:40.066Z"
   }
 }
