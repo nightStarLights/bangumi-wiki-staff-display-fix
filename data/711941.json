@@ -94,7 +94,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:104044",
             "text": "ひゅ〜ぶ"
           }
         }
@@ -138,6 +138,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-11T15:10:58.439Z"
+    "submittedAt": "2026-10-11T15:11:09.453Z"
   }
 }
