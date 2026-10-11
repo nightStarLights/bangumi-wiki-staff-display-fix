@@ -1,0 +1,239 @@
+{
+  "subjectId": 711687,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91694",
+            "text": "飛鳴りんつ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "赤桐ルイ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "赤桐ルイ"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73144",
+            "text": "ryo-shun"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91694",
+            "text": "飛鳴りんつ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82532",
+            "text": "Yona"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82532",
+            "text": "Yona"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73144",
+            "text": "ryo-shun"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91694",
+            "text": "飛鳴りんつ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73144",
+            "text": "ryo-shun"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73144",
+            "text": "ryo-shun"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ナリヅルユウ"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "まえぴー"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "まえぴー"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "まえぴー"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "まえぴー"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Japanese Lyrics: 飛鳴りんつ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "はっぱち"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "はっぱち"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73144",
+            "text": "ryo-shun"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:91694",
+          "text": "飛鳴りんつ"
+        }
+      }
+    ],
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "English Lyrics: はっぱち"
+        }
+      }
+    ],
+    "vocal": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:91694",
+          "text": "飛鳴りんつ"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:73144",
+          "text": "ryo-shun"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：飛鳴りんつ\n作词：飛鳴りんつ(1,4,5)、まえぴー(2)、English Lyrics: はっぱち / Japanese Lyrics: 飛鳴りんつ (3)\n作曲：赤桐ルイ(1)、まえぴー(2)、はっぱち(3)、Yona(4)、ryo-shun(5)\n编曲：赤桐ルイ(1)、まえぴー(2)、はっぱち(3)、Yona(4)、ryo-shun(5)、ナリヅルユウ(5)\n声乐：飛鳴りんつ\n混音：ryo-shun(1,3,4)、まえぴー(2)\n母带制作：ryo-shun"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-11T01:59:42.828Z"
+  }
+}
