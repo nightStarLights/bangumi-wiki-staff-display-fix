@@ -42,7 +42,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:104455",
             "text": "ひばり児童合唱団"
           }
         },
@@ -58,7 +58,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:29368",
             "text": "伊上勝"
           }
         }
@@ -94,7 +94,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:104455",
             "text": "ひばり児童合唱団"
           }
         },
@@ -126,7 +126,7 @@
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:29257",
               "text": "円谷一"
             },
             ")"
@@ -162,7 +162,7 @@
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:12821",
               "text": "子門真人"
             },
             ")"
@@ -234,7 +234,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:363",
             "text": "フジパシフィックミュージック"
           }
         }
@@ -252,7 +252,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:5347",
             "text": "水島裕"
           }
         },
@@ -347,7 +347,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:82051",
             "text": "たかたかし"
           }
         }
@@ -374,7 +374,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:3397",
             "text": "日音"
           }
         }
@@ -401,7 +401,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:2897",
             "text": "吉田剛"
           }
         }
@@ -482,7 +482,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:1838",
             "text": "小森昭宏"
           }
         }
@@ -500,7 +500,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:1606",
             "text": "テレビ朝日ミュージック"
           }
         }
@@ -552,7 +552,7 @@
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:104457",
               "text": "トミ藤山"
             },
             ")"
@@ -740,7 +740,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:104456",
             "text": "若草児童合唱団"
           }
         }
@@ -857,7 +857,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:104456",
             "text": "若草児童合唱団"
           }
         }
@@ -866,7 +866,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:99625",
             "text": "保富康午"
           }
         }
@@ -875,7 +875,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:1826",
             "text": "すぎやまこういち"
           }
         }
@@ -893,7 +893,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:1606",
             "text": "テレビ朝日ミュージック"
           }
         }
@@ -911,7 +911,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:104456",
             "text": "若草児童合唱団"
           }
         }
@@ -929,7 +929,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:886",
             "text": "渡辺岳夫"
           }
         }
@@ -947,7 +947,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:1606",
             "text": "テレビ朝日ミュージック"
           }
         }
@@ -974,7 +974,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:99625",
             "text": "保富康午"
           }
         }
@@ -1001,7 +1001,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:363",
             "text": "フジパシフィックミュージック"
           }
         }
@@ -1048,7 +1048,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:1606",
             "text": "テレビ朝日ミュージック"
           }
         }
@@ -1077,7 +1077,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:34831",
             "text": "森田公一"
           }
         }
@@ -1095,7 +1095,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:466",
             "text": "読売テレビエンタープライズ"
           }
         }
@@ -1122,7 +1122,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:99625",
             "text": "保富康午"
           }
         }
@@ -1149,7 +1149,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:50411",
             "text": "ミリカ・ミュージック"
           }
         }
@@ -1167,7 +1167,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:104456",
             "text": "若草児童合唱団"
           }
         }
@@ -1176,7 +1176,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:2489",
             "text": "山元護久"
           }
         }
@@ -1185,7 +1185,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:1454",
             "text": "宇野誠一郎"
           }
         }
@@ -1248,7 +1248,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:466",
             "text": "読売テレビエンタープライズ"
           }
         }
@@ -1266,7 +1266,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:104456",
             "text": "若草児童合唱団"
           }
         }
@@ -1275,7 +1275,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:86005",
             "text": "若林一郎"
           }
         }
@@ -1284,7 +1284,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:1688",
             "text": "山本正之"
           }
         }
@@ -1302,7 +1302,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:55294",
             "text": "Victor Music Arts"
           }
         }
@@ -1320,7 +1320,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:104456",
             "text": "若草児童合唱団"
           }
         }
@@ -1356,7 +1356,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:363",
             "text": "フジパシフィックミュージック"
           }
         }
@@ -1466,7 +1466,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:99625",
             "text": "保富康午"
           }
         }
@@ -1531,7 +1531,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:363",
             "text": "フジパシフィックミュージック"
           }
         }
@@ -1626,7 +1626,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:1606",
             "text": "テレビ朝日ミュージック"
           }
         }
@@ -1651,7 +1651,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:68678",
             "text": "ザ・ブレッスン・フォー"
           }
         }
@@ -1746,7 +1746,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:3397",
             "text": "日音"
           }
         }
@@ -1800,7 +1800,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:50411",
             "text": "ミリカ・ミュージック"
           }
         }
@@ -1854,7 +1854,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:1606",
             "text": "テレビ朝日ミュージック"
           }
         }
@@ -1980,7 +1980,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:34752",
             "text": "京建輔"
           }
         }
@@ -2005,7 +2005,7 @@
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:23441",
               "text": "竹田えり"
             },
             ")"
@@ -2014,7 +2014,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:3954",
             "text": "野沢雅子"
           }
         }
@@ -2023,7 +2023,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:13452",
             "text": "楠部工"
           }
         }
@@ -2050,7 +2050,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:1606",
             "text": "テレビ朝日ミュージック"
           }
         }
@@ -2070,7 +2070,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:25645",
             "text": "山上路夫"
           }
         }
@@ -2079,7 +2079,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:85638",
             "text": "木村昇"
           }
         }
@@ -2097,7 +2097,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:3397",
             "text": "日音"
           }
         }
@@ -2126,7 +2126,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:2137",
             "text": "小林泉美"
           }
         }
@@ -2146,7 +2146,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:104454",
             "text": "樋浦一帆"
           }
         }
@@ -2184,7 +2184,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:104454",
             "text": "樋浦一帆"
           }
         }
@@ -2193,7 +2193,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:13552",
             "text": "森雪之丞"
           }
         }
@@ -2202,7 +2202,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:647",
             "text": "芹澤廣明"
           }
         }
@@ -2222,7 +2222,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:3830",
             "text": "田中真弓"
           }
         }
@@ -2231,7 +2231,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:1959",
             "text": "藤子不二雄"
           }
         }
@@ -2240,7 +2240,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:16100",
             "text": "古田喜昭"
           }
         }
@@ -2282,6 +2282,6 @@
   "_meta": {
     "submittedBy": "k1519508",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-11T07:06:04.323Z"
+    "submittedAt": "2026-10-11T07:06:37.149Z"
   }
 }
