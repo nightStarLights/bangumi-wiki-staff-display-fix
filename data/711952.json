@@ -1,0 +1,139 @@
+{
+  "subjectId": 711952,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15716",
+            "text": "Alinut"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15716",
+            "text": "Alinut"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:44232",
+            "text": "Radianth"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15734",
+            "text": "Bernis"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15734",
+            "text": "Bernis"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "AJURIKA"
+            },
+            " (",
+            {
+              "ref": "p:13548",
+              "text": "遠山明孝"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:18203",
+            "text": "Nago"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:18203",
+            "text": "Nago"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47334",
+            "text": "Spawn"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:14709",
+          "text": "Digital Logics"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:18203",
+          "text": "Nago"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：Alinut(1,8)、Radianth(2)、Bernis(3,7)、AJURIKA (遠山明孝)(4)、Nago(5,9)、Spawn(6)\n厂牌：Digital Logics\n设计：Nago"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-11T16:25:55.775Z"
+  }
+}
