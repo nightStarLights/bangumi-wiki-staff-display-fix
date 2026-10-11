@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:104498",
             "text": "無々ひさぎ"
           }
         }
@@ -90,7 +90,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:104498",
             "text": "無々ひさぎ"
           }
         }
@@ -162,12 +162,12 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:69684",
               "text": "神山やみか"
             },
             " (",
             {
-              "ref": "p:69684",
+              "ref": null,
               "text": "ヤミヤミ"
             },
             ")",
@@ -181,7 +181,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:104498",
             "text": "無々ひさぎ"
           }
         }
@@ -255,7 +255,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:104498",
             "text": "無々ひさぎ"
           }
         }
@@ -339,7 +339,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:104498",
             "text": "無々ひさぎ"
           }
         }
@@ -423,7 +423,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:104498",
             "text": "無々ひさぎ"
           }
         }
@@ -495,12 +495,12 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:69684",
               "text": "神山やみか"
             },
             " (",
             {
-              "ref": "p:69684",
+              "ref": null,
               "text": "ヤミヤミ"
             },
             ")",
@@ -565,6 +565,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-11T17:29:47.206Z"
+    "submittedAt": "2026-10-11T17:30:07.175Z"
   }
 }
