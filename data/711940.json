@@ -1,0 +1,123 @@
+{
+  "subjectId": 711940,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:95435",
+            "text": "Malcha"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73878",
+            "text": "kou"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83350",
+            "text": "夜間同好会"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93576",
+            "text": "Yusho Sunagawa"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "so1anew"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91968",
+            "text": "potaguri"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81941",
+            "text": "ftrygry"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65942",
+            "text": "Tsuyoshi A."
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93574",
+            "text": "colorless studio"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:93574",
+          "text": "colorless studio"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：Malcha(1)、kou(2)、夜間同好会(3)、Yusho Sunagawa(4)、so1anew(5)、potaguri(6)、ftrygry(7)、Tsuyoshi A.(8)、colorless studio(9)\n厂牌：colorless studio"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-11T15:06:11.228Z"
+  }
+}
