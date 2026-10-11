@@ -1,0 +1,44 @@
+{
+  "subjectId": 711951,
+  "trackCredits": {
+    "1.2": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Shion Sakamoto"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Musty"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "RockRiverRecords"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：Musty\n编曲：Shion Sakamoto(2)\n厂牌：RockRiverRecords"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-11T16:22:17.719Z"
+  }
+}
