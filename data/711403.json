@@ -24,7 +24,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:26784",
             "text": "宮内國郎"
           }
         }
@@ -137,7 +137,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:1675",
             "text": "冬木透"
           }
         }
@@ -146,7 +146,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:99114",
             "text": "小町昭"
           }
         }
@@ -356,7 +356,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:63831",
             "text": "津島利章"
           }
         }
@@ -365,7 +365,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:99114",
             "text": "小町昭"
           }
         }
@@ -410,7 +410,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:33570",
             "text": "木下忠司"
           }
         }
@@ -1131,7 +1131,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:1283",
             "text": "越部信義"
           }
         }
@@ -2270,7 +2270,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:30218",
           "text": "近藤ゆたか"
         }
       }
@@ -2282,6 +2282,6 @@
   "_meta": {
     "submittedBy": "k1519508",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-11T07:06:37.149Z"
+    "submittedAt": "2026-10-11T07:07:19.111Z"
   }
 }
