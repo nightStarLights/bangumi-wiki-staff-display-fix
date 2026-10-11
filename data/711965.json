@@ -1,0 +1,570 @@
+{
+  "subjectId": 711965,
+  "trackCredits": {
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "無々ひさぎ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65660",
+            "text": "早蕨凪音"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65660",
+            "text": "早蕨凪音"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69683",
+            "text": "wagataki"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65660",
+            "text": "早蕨凪音"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "tsi"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "parts": [
+            {
+              "ref": "p:69683",
+              "text": "wagataki"
+            },
+            " (Track Mix)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "tsi"
+            },
+            " (Vocal Mix)"
+          ]
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:74603",
+            "text": "inuha"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "無々ひさぎ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "nosono"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "nosono"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69683",
+            "text": "wagataki"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "nosono"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "tsi"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "parts": [
+            {
+              "ref": "p:69683",
+              "text": "wagataki"
+            },
+            " (Track Mix)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "tsi"
+            },
+            " (Vocal Mix)"
+          ]
+        }
+      ],
+      "instrument": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "神山やみか"
+            },
+            " (",
+            {
+              "ref": "p:69684",
+              "text": "ヤミヤミ"
+            },
+            ")",
+            " (Guitar)"
+          ]
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "無々ひさぎ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68828",
+            "text": "mawari"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68828",
+            "text": "mawari"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69683",
+            "text": "wagataki"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68828",
+            "text": "mawari"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "tsi"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "parts": [
+            {
+              "ref": "p:69683",
+              "text": "wagataki"
+            },
+            " (Track Mix)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "tsi"
+            },
+            " (Vocal Mix)"
+          ]
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "無々ひさぎ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:74604",
+            "text": "Itaby"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:74604",
+            "text": "Itaby"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69683",
+            "text": "wagataki"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:74604",
+            "text": "Itaby"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "tsi"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "parts": [
+            {
+              "ref": "p:69683",
+              "text": "wagataki"
+            },
+            " (Track Mix)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "tsi"
+            },
+            " (Vocal Mix)"
+          ]
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:74604",
+            "text": "Itaby"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "無々ひさぎ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Leia"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Leia"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69683",
+            "text": "wagataki"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Leia"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "tsi"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "parts": [
+            {
+              "ref": "p:69683",
+              "text": "wagataki"
+            },
+            " (Track Mix)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "tsi"
+            },
+            " (Vocal Mix)"
+          ]
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Leia"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "無々ひさぎ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68873",
+            "text": "Remo"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68873",
+            "text": "Remo"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69683",
+            "text": "wagataki"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68873",
+            "text": "Remo"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "tsi"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "parts": [
+            {
+              "ref": "p:69683",
+              "text": "wagataki"
+            },
+            " (Track Mix)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "tsi"
+            },
+            " (Vocal Mix)"
+          ]
+        }
+      ],
+      "instrument": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "神山やみか"
+            },
+            " (",
+            {
+              "ref": "p:69684",
+              "text": "ヤミヤミ"
+            },
+            ")",
+            " (Guitar)"
+          ]
+        }
+      ]
+    },
+    "1.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69683",
+            "text": "wagataki"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69683",
+            "text": "wagataki"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ふうりんそう"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "八月三十日"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Masahiro Fujita"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：無々ひさぎ(2-7)\n作词：早蕨凪音(2)、nosono(3)、mawari(4)、Itaby(5)、Leia(6)、Remo(7)\n作曲：wagataki(1)、早蕨凪音(2)、nosono(3)、mawari(4)、Itaby(5)、Leia(6)、Remo(7)\n编曲：wagataki(1-7)、早蕨凪音(2)、nosono(3)、mawari(4)、Itaby(5)、Leia(6)、Remo(7)\n母带制作：tsi(2-7)\n插图：ふうりんそう\n厂牌：八月三十日\n设计：Masahiro Fujita\n混音-Track Mix：wagataki(2-7)\n乐器-Guitar：inuha(2)、神山やみか (ヤミヤミ)(3,7)、Itaby(5)、Leia(6)\n混音-Vocal Mix：tsi(2-7)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-11T17:29:47.206Z"
+  }
+}
