@@ -61,7 +61,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:84820",
             "text": "フタバオサム"
           }
         }
@@ -83,7 +83,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:69712",
             "text": "MUKKURi"
           }
         }
@@ -94,7 +94,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:69714",
             "text": "クエーバー"
           }
         }
@@ -118,6 +118,6 @@
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-11T03:25:09.285Z"
+    "submittedAt": "2026-10-11T03:25:33.129Z"
   }
 }
