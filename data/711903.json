@@ -1,0 +1,46 @@
+{
+  "subjectId": 711903,
+  "trackCredits": {
+    "1.2": {
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66544",
+            "text": "はらもりよしな"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69027",
+            "text": "星名はる"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:67131",
+          "text": "あず♪"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：あず♪\n客串：はらもりよしな(2)、星名はる(7)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-11T13:27:49.970Z"
+  }
+}
