@@ -71,7 +71,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:10388",
+            "ref": null,
             "text": "Godspeed"
           }
         }
@@ -368,6 +368,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-12T18:46:46.329Z"
+    "submittedAt": "2026-10-12T18:55:54.742Z"
   }
 }
