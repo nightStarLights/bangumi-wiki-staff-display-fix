@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:104538",
             "text": "なちぴ"
           }
         }
@@ -15,7 +15,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:104538",
             "text": "なちぴ"
           }
         }
@@ -24,7 +24,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:104538",
             "text": "なちぴ"
           }
         }
@@ -109,7 +109,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:104539",
             "text": "あいろね"
           }
         }
@@ -118,7 +118,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:104539",
             "text": "あいろね"
           }
         }
@@ -260,7 +260,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:104541",
           "text": "青葉泡"
         }
       }
@@ -281,6 +281,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-12T15:33:18.563Z"
+    "submittedAt": "2026-10-12T15:34:26.201Z"
   }
 }
