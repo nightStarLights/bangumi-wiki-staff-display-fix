@@ -1,0 +1,280 @@
+{
+  "subjectId": 712120,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "わんちゃか"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68270",
+            "text": "優莉"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72976",
+            "text": "awawa"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68270",
+            "text": "優莉"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "OD"
+            },
+            " (",
+            {
+              "ref": "p:91283",
+              "text": "岡村大輔"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72976",
+            "text": "awawa"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "わんちゃか"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68270",
+            "text": "優莉"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68270",
+            "text": "優莉"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "OD"
+            },
+            " (",
+            {
+              "ref": "p:91283",
+              "text": "岡村大輔"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72976",
+            "text": "awawa"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "わんちゃか"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "わんちゃか族の皆さん"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68270",
+            "text": "優莉"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72976",
+            "text": "awawa"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68270",
+            "text": "優莉"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "OD"
+            },
+            " (",
+            {
+              "ref": "p:91283",
+              "text": "岡村大輔"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72976",
+            "text": "awawa"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "わんちゃか"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "わんちゃか族の皆さん"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68270",
+            "text": "優莉"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68270",
+            "text": "優莉"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72976",
+            "text": "awawa"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:68270",
+          "text": "優莉"
+        }
+      }
+    ],
+    "mixing": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "OD"
+          },
+          " (",
+          {
+            "ref": "p:91283",
+            "text": "岡村大輔"
+          },
+          ")"
+        ]
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "おさかなしーな"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:68270",
+          "text": "優莉"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：優莉\n艺术家：わんちゃか(1,2,5,6)、わんちゃか族の皆さん(5,6)\n作词：優莉(1,2,5,6)\n作曲：awawa(1,5)、優莉(1,2,5,6)\n编曲：OD (岡村大輔)(1,2,5)、awawa(1,2,5,6)\n混音：OD (岡村大輔)\n插图：おさかなしーな\n设计：優莉"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-12T14:26:24.180Z"
+  }
+}
