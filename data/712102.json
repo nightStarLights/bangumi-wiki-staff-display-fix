@@ -99,7 +99,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:104526",
             "text": "三角コナ"
           }
         }
@@ -108,7 +108,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:104526",
             "text": "三角コナ"
           }
         }
@@ -159,6 +159,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-12T13:36:14.858Z"
+    "submittedAt": "2026-10-12T13:38:03.880Z"
   }
 }
