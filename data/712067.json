@@ -1,0 +1,93 @@
+{
+  "subjectId": 712067,
+  "trackCredits": {
+    "1.2": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Taichi Hasegawa"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:67364",
+          "text": "Noah"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:67728",
+          "text": "Symholic"
+        }
+      }
+    ],
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:64797",
+          "text": "Paspal"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:67364",
+          "text": "Noah"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:64797",
+          "text": "Paspal"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:67364",
+          "text": "Noah"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:64797",
+          "text": "Paspal"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:70618",
+          "text": "HARURI"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：Noah、Symholic\n作词：Paspal\n作曲：Noah、Paspal\n编曲：Noah、Paspal\n插图：HARURI\n\n乐器-Guitar：Taichi Hasegawa(2)"
+  },
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-12T11:20:36.868Z"
+  }
+}
