@@ -1,0 +1,24 @@
+{
+  "subjectId": 91063,
+  "trackCredits": {
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "たえかわアキ"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "艺术家：たえかわアキ(5)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-12T18:10:32.491Z"
+  }
+}
