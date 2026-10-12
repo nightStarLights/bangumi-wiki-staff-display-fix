@@ -1,0 +1,259 @@
+{
+  "subjectId": 712089,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68874",
+            "text": "木瀬のん"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68874",
+            "text": "木瀬のん"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68874",
+            "text": "木瀬のん"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47570",
+            "text": "Feryquitous"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47570",
+            "text": "Feryquitous"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47570",
+            "text": "Feryquitous"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64865",
+            "text": "木下珠子"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68648",
+            "text": "maigo"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68648",
+            "text": "maigo"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64865",
+            "text": "木下珠子"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64865",
+            "text": "木下珠子"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69989",
+            "text": "Ryohey Nakamura"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64865",
+            "text": "木下珠子"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68281",
+            "text": "久遠真雪"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69989",
+            "text": "Ryohey Nakamura"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69989",
+            "text": "Ryohey Nakamura"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68663",
+            "text": "天束"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68663",
+            "text": "天束"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68663",
+            "text": "天束"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:64865",
+          "text": "木下珠子"
+        }
+      }
+    ],
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:64865",
+          "text": "木下珠子"
+        }
+      }
+    ],
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Souhei Ogura"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Souhei Ogura"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:46783",
+          "text": "萩森じあ"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:64865",
+          "text": "木下珠子"
+        }
+      }
+    ],
+    "recording": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:64865",
+          "text": "木下珠子"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：木下珠子\n艺术家：木下珠子\n作词：木瀬のん(1)、Feryquitous(2)、木下珠子(3,6)、久遠真雪(4)、天束(5)\n作曲：木瀬のん(1)、Feryquitous(2)、maigo(3)、Ryohey Nakamura(4)、天束(5)、木下珠子(6)\n编曲：木瀬のん(1)、Feryquitous(2)、maigo(3)、Ryohey Nakamura(4,6)、天束(5)、木下珠子(6)\n混音：Souhei Ogura\n母带制作：Souhei Ogura\n插图：萩森じあ\n设计：木下珠子\n录音：木下珠子"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-12T13:05:32.122Z"
+  }
+}
