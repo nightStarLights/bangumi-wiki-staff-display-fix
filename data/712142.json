@@ -1,0 +1,330 @@
+{
+  "subjectId": 712142,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "屋根裏にズッキーニ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "屋根裏にズッキーニ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "屋根裏にズッキーニ"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "屋根裏にズッキーニ"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69021",
+            "text": "芥田レンリ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91486",
+            "text": "ぴこんちゃん"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69021",
+            "text": "芥田レンリ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69021",
+            "text": "芥田レンリ"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69021",
+            "text": "芥田レンリ"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91486",
+            "text": "ぴこんちゃん"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91491",
+            "text": "ohigeCat"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91491",
+            "text": "ohigeCat"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91491",
+            "text": "ohigeCat"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91486",
+            "text": "ぴこんちゃん"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91486",
+            "text": "ぴこんちゃん"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "まがん"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91486",
+            "text": "ぴこんちゃん"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "まがん"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "やま"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "想"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "まがん"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.5": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91486",
+            "text": "ぴこんちゃん"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "あたたかい水族館"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "あたたかい水族館"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "まがん"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "あたたかい水族館"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Chiba Shumpei"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "まがん"
+          },
+          "inst": "Guitar"
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Chiba Shumpei"
+          }
+        }
+      ],
+      "custom-Special Thanks": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69021",
+            "text": "芥田レンリ"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:91486",
+          "text": "ぴこんちゃん"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "想"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "まがん"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ぴこんちゃん屋さん"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Patiパチ"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：ぴこんちゃん\n作词：屋根裏にズッキーニ(1)、芥田レンリ(2)、ぴこんちゃん(2-5)、あたたかい水族館(5)\n作曲：屋根裏にズッキーニ(1)、芥田レンリ(2)、ohigeCat(3)、ぴこんちゃん(4)、まがん(4)、あたたかい水族館(5)\n编曲：屋根裏にズッキーニ(1)、芥田レンリ(2)、ohigeCat(3)、ぴこんちゃん(4)、まがん(4,5)、やま(4)、あたたかい水族館(5)\n混音：屋根裏にズッキーニ(1)、芥田レンリ(2)、ohigeCat(3)、想(4)、Chiba Shumpei(5)\n母带制作：想\n插图：まがん\n厂牌：ぴこんちゃん屋さん\n设计：Patiパチ\n乐器-Guitar：まがん(4,5)\n录音：Chiba Shumpei(5)\ncustom-Special Thanks：芥田レンリ(5)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-12T15:40:03.999Z"
+  }
+}
