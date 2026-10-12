@@ -157,7 +157,7 @@
           "type": "person",
           "person": {
             "ref": null,
-            "text": "Corale"
+            "text": "CoraLe"
           }
         }
       ],
@@ -166,7 +166,7 @@
           "type": "person",
           "person": {
             "ref": null,
-            "text": "Corale"
+            "text": "CoraLe"
           }
         }
       ],
@@ -260,7 +260,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:104541",
+          "ref": null,
           "text": "青葉泡"
         }
       }
@@ -276,11 +276,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：青葉泡\n作词：なちぴ(1)、新谷風太(2)、あいろね(3)、Corale(4)、綿菓子かんろ(5)\n作曲：なちぴ(1)、タカハシヒビキ(2)、あいろね(3)、Corale(4)、綿菓子かんろ(5)\n编曲：タカハシヒビキ(2)、神山哲也(5)\n混音：なちぴ(1)、Takeaki Oshima(2-5)\n母带制作：Takeaki Oshima(1-5)\n厂牌：a bubble archive\n录音：Takeaki Oshima(1-5)"
+    "editor": "艺术家：青葉泡\n作词：なちぴ(1)、新谷風太(2)、あいろね(3)、CoraLe(4)、綿菓子かんろ(5)\n作曲：なちぴ(1)、タカハシヒビキ(2)、あいろね(3)、CoraLe(4)、綿菓子かんろ(5)\n编曲：タカハシヒビキ(2)、神山哲也(5)\n混音：なちぴ(1)、Takeaki Oshima(2-5)\n母带制作：Takeaki Oshima(1-5)\n厂牌：a bubble archive\n录音：Takeaki Oshima(1-5)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-12T15:34:26.201Z"
+    "submittedAt": "2026-10-12T15:34:37.591Z"
   }
 }
