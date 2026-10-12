@@ -1,0 +1,109 @@
+{
+  "subjectId": 712100,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67035",
+            "text": "たねまき"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64020",
+            "text": "まるもこ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Bneko"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81074",
+            "text": "芽羽みなせ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81186",
+            "text": "るぅなん"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65403",
+            "text": "ことの"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69117",
+            "text": "まより"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:81186",
+          "text": "るぅなん"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "やまぶき"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "やまぶき"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：るぅなん\n艺术家：たねまき(1)、まるもこ(1)、芽羽みなせ(2)、ことの(3)\n作词：Bneko(1)、るぅなん(2)、まより(3)\n插图：やまぶき\n设计：やまぶき"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-12T13:29:00.998Z"
+  }
+}
