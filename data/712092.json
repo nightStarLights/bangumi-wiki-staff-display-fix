@@ -82,7 +82,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:66975",
             "text": "ねぎとろ。"
           }
         }
@@ -91,7 +91,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:66975",
             "text": "ねぎとろ。"
           }
         }
@@ -100,7 +100,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:66975",
             "text": "ねぎとろ。"
           }
         }
@@ -109,7 +109,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:66975",
             "text": "ねぎとろ。"
           }
         }
@@ -160,7 +160,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:66975",
             "text": "ねぎとろ。"
           }
         }
@@ -169,7 +169,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:66975",
             "text": "ねぎとろ。"
           }
         }
@@ -229,6 +229,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-12T13:14:14.481Z"
+    "submittedAt": "2026-10-12T13:15:30.206Z"
   }
 }
