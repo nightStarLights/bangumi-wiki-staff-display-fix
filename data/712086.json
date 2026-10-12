@@ -1,0 +1,71 @@
+{
+  "subjectId": 712086,
+  "trackCredits": {
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36042",
+            "text": "月乃"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:91932",
+          "text": "秋楽める"
+        }
+      }
+    ],
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:91932",
+          "text": "秋楽める"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:91932",
+          "text": "秋楽める"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:91932",
+          "text": "秋楽める"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:100249",
+          "text": "カトレア"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：秋楽める\n艺术家：月乃(4)\n作词：秋楽める\n作曲：秋楽める\n编曲：秋楽める\n插图：カトレア"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-12T12:29:58.212Z"
+  }
+}
