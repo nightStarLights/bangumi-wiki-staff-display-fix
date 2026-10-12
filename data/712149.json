@@ -1,0 +1,277 @@
+{
+  "subjectId": 712149,
+  "trackCredits": {
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70950",
+            "text": "にょる"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70950",
+            "text": "にょる"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70950",
+            "text": "にょる"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70950",
+            "text": "にょる"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70950",
+            "text": "にょる"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70950",
+            "text": "にょる"
+          }
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6248",
+            "text": "nayuta"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70950",
+            "text": "にょる"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70950",
+            "text": "にょる"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70950",
+            "text": "にょる"
+          }
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "沫雪ゆうり"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "織姫はるか"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68825",
+            "text": "鈍色聴"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70950",
+            "text": "にょる"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70950",
+            "text": "にょる"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70950",
+            "text": "にょる"
+          }
+        }
+      ]
+    },
+    "1.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70950",
+            "text": "にょる"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70950",
+            "text": "にょる"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70950",
+            "text": "にょる"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70950",
+            "text": "にょる"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70950",
+            "text": "にょる"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70950",
+            "text": "にょる"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "宮守ゆり"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:37136",
+          "text": "ごろく"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "てんきゅうのすみか"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ほそい"
+        }
+      }
+    ],
+    "custom-故事编写": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "歪牙龍尾"
+        }
+      }
+    ],
+    "custom-致谢": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "てんきゅう"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：宮守ゆり\n作词：にょる(2,3,5,6)\n作曲：にょる(1-7)\n编曲：にょる(1-7)\n插图：ごろく\n厂牌：てんきゅうのすみか\n客串：nayuta(3)、沫雪ゆうり(5)、織姫はるか(5)、鈍色聴(5)\n设计：ほそい\ncustom-故事编写：歪牙龍尾\ncustom-致谢：てんきゅう"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-12T16:41:50.723Z"
+  }
+}
