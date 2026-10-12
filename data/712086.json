@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:36042",
+            "ref": null,
             "text": "月乃"
           }
         }
@@ -66,6 +66,6 @@
   "_meta": {
     "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-12T12:41:23.234Z"
+    "submittedAt": "2026-10-12T12:42:59.858Z"
   }
 }
