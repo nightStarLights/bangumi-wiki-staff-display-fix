@@ -1,0 +1,127 @@
+{
+  "subjectId": 712080,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Attra Pop Gate"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Attra Pop Gate"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Attra Pop Gate"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82192",
+            "text": "妃舞ゆにこ"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "The Father as a Service"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "The Father as a Service"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64711",
+            "text": "Connexio"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82192",
+            "text": "妃舞ゆにこ"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:91391",
+          "text": "Winter Bouquet"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:6364",
+          "text": "moimoi"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:6364",
+          "text": "moimoi"
+        }
+      },
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "雛森アンシア"
+          },
+          " (CD Design)"
+        ]
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：Winter Bouquet\n作词：Attra Pop Gate(1)、The Father as a Service(2)\n作曲：Attra Pop Gate(1)、The Father as a Service(2)\n编曲：Attra Pop Gate(1)、Connexio(2)\n混音：妃舞ゆにこ(1,2)\n插图：moimoi\n设计：moimoi\n设计-CD Design：雛森アンシア"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-12T12:01:23.967Z"
+  }
+}
