@@ -18,7 +18,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:91932",
+          "ref": null,
           "text": "秋楽める"
         }
       }
@@ -64,8 +64,8 @@
     "editor": "制作人：秋楽める\n艺术家：月乃(4)\n作词：秋楽める\n作曲：秋楽める\n编曲：秋楽める\n插图：カトレア"
   },
   "_meta": {
-    "submittedBy": "sakarin",
+    "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-12T12:29:58.212Z"
+    "submittedAt": "2026-10-12T12:41:23.234Z"
   }
 }
