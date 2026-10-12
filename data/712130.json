@@ -1,0 +1,91 @@
+{
+  "subjectId": 712130,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8389",
+            "text": "コツキミヤ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6554",
+            "text": "折倉俊則"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6554",
+            "text": "折倉俊則"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8389",
+            "text": "コツキミヤ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "白須賀悟"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "白須賀悟"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:8389",
+          "text": "コツキミヤ"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:8389",
+          "text": "ALLEGORY WORKS"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：コツキミヤ\n作词：コツキミヤ(1,2)\n作曲：折倉俊則(1)、白須賀悟(2)\n编曲：折倉俊則(1)、白須賀悟(2)\n厂牌：ALLEGORY WORKS"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-12T14:54:01.299Z"
+  }
+}
