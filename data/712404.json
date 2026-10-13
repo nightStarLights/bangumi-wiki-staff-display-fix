@@ -1,0 +1,106 @@
+{
+  "subjectId": 712404,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "杨天夏"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "杨天夏"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ice_watermelon233"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "SoilFo_yuan"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "挽樱"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "关耳"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "崧蓝社"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ChillMe"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "SoilFo_yuan"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ChillMe"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "夏宇Detristy"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：杨天夏(1,2)、Ice_watermelon233(2)、SoilFo_yuan(2)、挽樱(2)、关耳(2)、崧蓝社(2)、ChillMe(2)\n母带制作：SoilFo_yuan\n厂牌：ChillMe\n设计：夏宇Detristy"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-13T20:08:12.712Z"
+  }
+}
