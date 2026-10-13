@@ -1,0 +1,149 @@
+{
+  "subjectId": 712369,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "吉田楓"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "吉田楓"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "眠田峯"
+          },
+          "inst": "A.Sax"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "スムー！"
+          },
+          "inst": "Vib"
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "千石ナタデコ子"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "千石ナタデコ子"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "とーず"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "とーず"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:81264",
+          "text": "Bathycaphe"
+        }
+      }
+    ],
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Mr.Romantic"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Mr.Romantic"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:81264",
+          "text": "Bathycaphe"
+        }
+      }
+    ],
+    "vocaledit": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "はもたろう"
+        }
+      }
+    ],
+    "design": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "Masashi Fujita"
+          },
+          " (CD Design)"
+        ]
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：Bathycaphe\n作词：吉田楓(1)、千石ナタデコ子(2)、とーず(3)\n作曲：吉田楓(1)、千石ナタデコ子(2)、とーず(3)\n混音：Mr.Romantic\n母带制作：Mr.Romantic\n插图：Bathycaphe\n人声编辑：はもたろう\n设计-CD Design：Masashi Fujita\n乐器-A.Sax：眠田峯(1)\n乐器-Vib：スムー！(1)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-13T14:46:06.927Z"
+  }
+}
