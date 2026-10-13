@@ -1,0 +1,215 @@
+{
+  "subjectId": 709458,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73056",
+            "text": "ますかっと"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73056",
+            "text": "ますかっと"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73056",
+            "text": "ますかっと"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "calroha"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69115",
+            "text": "Fujiyori"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69115",
+            "text": "Fujiyori"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "calroha"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "calroha"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "calroha"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "manoa"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81467",
+            "text": "春雲とい"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81467",
+            "text": "春雲とい"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81467",
+            "text": "春雲とい"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:91846",
+          "text": "Petite Chanela"
+        }
+      }
+    ],
+    "vocal": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:91847",
+          "text": "むむ猫"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69892",
+          "text": "セラフィー"
+        }
+      }
+    ],
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "クロ"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "クロ"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "にこゆ"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "にゆ"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69892",
+          "text": "セラフィー"
+        }
+      },
+      {
+        "parts": [
+          {
+            "ref": "p:69892",
+            "text": "セラフィー"
+          },
+          " (Jacket Design)"
+        ]
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：Petite Chanela\n作词：ますかっと(1)、calroha(2,4)、春雲とい(3)\n作曲：Fujiyori(2)、calroha(4)、ますかっと(1)、春雲とい(3)\n编曲：ますかっと(1)、Fujiyori(2)、春雲とい(3)、calroha(4)、manoa(4)\n声乐：むむ猫、セラフィー\n混音：クロ\n母带制作：クロ\n插图：にこゆ、にゆ\n设计：セラフィー\n设计-Jacket Design：セラフィー"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-13T14:19:39.720Z"
+  }
+}
