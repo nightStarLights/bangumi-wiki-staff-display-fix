@@ -17,9 +17,20 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:103935",
             "text": "みこのおすし"
           }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "enjoyeer"
+            },
+            " (Guest Composer)"
+          ]
         }
       ]
     },
@@ -31,6 +42,17 @@
             "ref": "p:69728",
             "text": "箱乃なかみ"
           }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "いちやそば"
+            },
+            " (Guest Composer)"
+          ]
         }
       ]
     },
@@ -66,6 +88,19 @@
           }
         }
       ]
+    },
+    "1.4": {
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:91489",
+              "text": "T-J"
+            },
+            " (Guest Composer)"
+          ]
+        }
+      ]
     }
   },
   "epinfo": {
@@ -85,33 +120,6 @@
           "ref": "p:91775",
           "text": "L字"
         }
-      },
-      {
-        "parts": [
-          {
-            "ref": null,
-            "text": "enjoyeer"
-          },
-          " (Guest Composer)"
-        ]
-      },
-      {
-        "parts": [
-          {
-            "ref": null,
-            "text": "いちやそば"
-          },
-          " (Guest Composer)"
-        ]
-      },
-      {
-        "parts": [
-          {
-            "ref": "p:91489",
-            "text": "T-J"
-          },
-          " (Guest Composer)"
-        ]
       }
     ],
     "illustrator": [
@@ -125,11 +133,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "制作人：L字\n艺术家：味醂いろは(1)、みこのおすし(2)、箱乃なかみ(3)、ばりぃ.(5)、はらもりよしな(7)、七宮チリン(8)\n作曲：L字\n插图：虚栄アキ\n作曲-Guest Composer：enjoyeer、いちやそば、T-J"
+    "editor": "制作人：L字\n艺术家：味醂いろは(1)、みこのおすし(2)、箱乃なかみ(3)、ばりぃ.(5)、はらもりよしな(7)、七宮チリン(8)\n作曲：L字\n插图：虚栄アキ\n作曲-Guest Composer：enjoyeer(2)、いちやそば(3)、T-J(4)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-13T14:09:59.445Z"
+    "submittedAt": "2026-10-13T14:10:42.859Z"
   }
 }
