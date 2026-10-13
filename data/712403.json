@@ -1,0 +1,309 @@
+{
+  "subjectId": 712403,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Viciana"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "LeenHo"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "durom"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "hzlnttss"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "阳乐人"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "WEch Blackey"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73656",
+            "text": "moyu"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Vanxia"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ear_Pregnancy"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "杨天夏"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "小培lovely"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Felox"
+          }
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "可不"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:101303",
+            "text": "TN163"
+          }
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "诗岸"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Asterbit"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Rumia"
+          }
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Empty Set"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "谭荣熙竣"
+          }
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "刘如许"
+          }
+        }
+      ]
+    },
+    "1.13": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "RETR0SPECT"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:85224",
+            "text": "Koiflower"
+          }
+        }
+      ]
+    },
+    "1.14": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Gaia"
+          }
+        }
+      ]
+    },
+    "1.15": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ʚUEIɞ"
+          }
+        }
+      ]
+    },
+    "1.16": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Silvery SKY"
+          }
+        }
+      ]
+    },
+    "1.17": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "WasKer"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "SoilFo_yuan"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Isuzaki"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ChillMe"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Isuzaki"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：Viciana(1)、LeenHo(1)、durom(2)、hzlnttss(3)、阳乐人(4)、WEch Blackey(5)、moyu(6)、Vanxia(7)、Ear_Pregnancy(8)、杨天夏(8)、小培lovely(9)、Felox(9)、TN163(10)、Asterbit(11)、Rumia(11)、谭荣熙竣(12)、RETR0SPECT(13)、Koiflower(13)、Gaia(14)、ʚUEIɞ(15)、Silvery SKY(16)、WasKer(17)\n母带制作：SoilFo_yuan\n插图：Isuzaki\n厂牌：ChillMe\n客串：可不(9)、诗岸(10)、Empty Set(11)、刘如许(12)\n设计：Isuzaki"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-13T19:58:42.333Z"
+  }
+}
