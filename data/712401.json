@@ -6,24 +6,8 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:65401",
-            "text": "しろさきあや"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:69117",
-            "text": "まより"
-          }
-        }
-      ],
-      "lyricist": [
-        {
-          "type": "person",
-          "person": {
             "ref": null,
-            "text": "谷キリカ"
+            "text": "Napple492"
           }
         }
       ]
@@ -34,16 +18,7 @@
           "type": "person",
           "person": {
             "ref": null,
-            "text": "laiN"
-          }
-        }
-      ],
-      "lyricist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:65196",
-            "text": "葉月リョウヘイ"
+            "text": "Dirty Octopus"
           }
         }
       ]
@@ -53,17 +28,8 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:74862",
-            "text": "ケィニ"
-          }
-        }
-      ],
-      "lyricist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:71806",
-            "text": "大宮水那瀬"
+            "ref": null,
+            "text": "Noize_Xomplaint"
           }
         }
       ]
@@ -73,20 +39,9 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:8065",
-            "text": "狛茉璃奈"
+            "ref": null,
+            "text": "schizocmgt"
           }
-        }
-      ],
-      "lyricist": [
-        {
-          "parts": [
-            "叢神",
-            {
-              "ref": null,
-              "text": "智斗紅"
-            }
-          ]
         }
       ]
     },
@@ -95,28 +50,9 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:5919",
-            "text": "仲村芽衣子"
+            "ref": null,
+            "text": "hightion"
           }
-        }
-      ],
-      "lyricist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:5919",
-            "text": "仲村芽衣子"
-          }
-        }
-      ],
-      "instrument": [
-        {
-          "type": "instrument_credit",
-          "person": {
-            "ref": "p:69035",
-            "text": "のあのけ"
-          },
-          "inst": "Guitar"
         }
       ]
     },
@@ -125,38 +61,9 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:65216",
-            "text": "おくみずき"
+            "ref": null,
+            "text": "Iphora"
           }
-        }
-      ],
-      "lyricist": [
-        {
-          "parts": [
-            "叢神",
-            {
-              "ref": null,
-              "text": "智斗紅"
-            }
-          ]
-        }
-      ],
-      "instrument": [
-        {
-          "type": "instrument_credit",
-          "person": {
-            "ref": "p:69035",
-            "text": "のあのけ"
-          },
-          "inst": "Guitar"
-        },
-        {
-          "type": "instrument_credit",
-          "person": {
-            "ref": "p:86896",
-            "text": "セナ"
-          },
-          "inst": "Bass"
         }
       ]
     },
@@ -165,17 +72,8 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:70445",
-            "text": "八花"
-          }
-        }
-      ],
-      "lyricist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:65196",
-            "text": "葉月リョウヘイ"
+            "ref": null,
+            "text": "Olegalexei"
           }
         }
       ]
@@ -185,64 +83,42 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:68964",
-            "text": "ななきなな"
+            "ref": null,
+            "text": "Tαkiguti Itsuky"
           }
-        },
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
         {
           "type": "person",
           "person": {
-            "ref": "p:44655",
-            "text": "乃花こより"
+            "ref": null,
+            "text": "wazzy258"
           }
         }
-      ],
-      "lyricist": [
+      ]
+    },
+    "1.10": {
+      "artist": [
         {
           "type": "person",
           "person": {
-            "ref": "p:44655",
-            "text": "乃花こより"
+            "ref": null,
+            "text": "sigblade"
           }
-        }
-      ],
-      "instrument": [
-        {
-          "type": "instrument_credit",
-          "person": {
-            "ref": "p:69035",
-            "text": "のあのけ"
-          },
-          "inst": "Guitar"
         }
       ]
     }
   },
   "epinfo": {
-    "producer": [
+    "mastering": [
       {
         "type": "person",
         "person": {
-          "ref": "p:68974",
-          "text": "Silverize."
-        }
-      }
-    ],
-    "composer": [
-      {
-        "type": "person",
-        "person": {
-          "ref": "p:68974",
-          "text": "Silverize."
-        }
-      }
-    ],
-    "arranger": [
-      {
-        "type": "person",
-        "person": {
-          "ref": "p:68974",
-          "text": "Silverize."
+          "ref": null,
+          "text": "零梦光"
         }
       }
     ],
@@ -251,26 +127,35 @@
         "type": "person",
         "person": {
           "ref": null,
-          "text": "四宮のん"
+          "text": "CARMOLENS"
         }
       }
     ],
-    "design": [
+    "label": [
       {
         "type": "person",
         "person": {
           "ref": null,
-          "text": "esu_kichi"
+          "text": "78Records"
+        }
+      }
+    ],
+    "custom-文案": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "AKrashu-SHa"
         }
       }
     ]
   },
   "rawPatches": {
-    "editor": "制作人：Silverize.\n艺术家：しろさきあや(1)、まより(1)、laiN(2)、ケィニ(3)、狛茉璃奈(4)、仲村芽衣子(5)、おくみずき(6)、八花(7)、ななきなな(8)、乃花こより(8)\n作词：谷キリカ(1)、葉月リョウヘイ(2,7)、大宮水那瀬(3)、叢神智斗紅 (智斗紅)(4,6)、仲村芽衣子(5)、乃花こより(8)\n作曲：Silverize.\n编曲：Silverize.\n插图：四宮のん\n设计：esu_kichi\n乐器-Guitar：のあのけ(5,6,8)\n乐器-Bass：セナ(6)"
+    "editor": "艺术家：Napple492(1)、Dirty Octopus(2)、Noize_Xomplaint(3)、schizocmgt(4)、hightion(5)、Iphora(6)、Olegalexei(7)、Tαkiguti Itsuky(8)、wazzy258(9)、sigblade(10)\n母带制作：零梦光\n插图：CARMOLENS\n厂牌：78Records\ncustom-文案：AKrashu-SHa"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-13T19:44:35.512Z"
+    "submittedAt": "2026-10-13T19:48:00.244Z"
   }
 }
