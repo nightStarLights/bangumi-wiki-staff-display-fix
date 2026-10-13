@@ -95,8 +95,8 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
-            "text": "Athan Lily"
+            "ref": "p:18691",
+            "text": "A than_Lily"
           }
         }
       ],
@@ -104,8 +104,8 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
-            "text": "Athan Lily"
+            "ref": "p:18691",
+            "text": "A than_Lily"
           }
         }
       ],
@@ -113,8 +113,8 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
-            "text": "Athan Lily"
+            "ref": "p:18691",
+            "text": "A than_Lily"
           }
         }
       ]
@@ -229,11 +229,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "制作人：ちょこ\n艺术家：ちょこ(1-3)、ななひら(1,2)、マスタード(1,3)、中村さんそ(1,3)、愛原圭織(1,2)\n作词：Kijibato(1)、Athan Lily(2)、aina(3)\n作曲：Kijibato(1)、Athan Lily(2)、Capchii(3)\n编曲：Kijibato(1)、Athan Lily(2)、Capchii(3)\n母带制作：かそかそ\n插图：ささみグミ\n厂牌：ちょこっとだけ\n设计：ささみグミ\n设计-Logo：ささみグミ"
+    "editor": "制作人：ちょこ\n艺术家：ちょこ(1-3)、ななひら(1,2)、マスタード(1,3)、中村さんそ(1,3)、愛原圭織(1,2)\n作词：Kijibato(1)、A than_Lily(2)、aina(3)\n作曲：Kijibato(1)、A than_Lily(2)、Capchii(3)\n编曲：Kijibato(1)、A than_Lily(2)、Capchii(3)\n母带制作：かそかそ\n插图：ささみグミ\n厂牌：ちょこっとだけ\n设计：ささみグミ\n设计-Logo：ささみグミ"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-13T14:22:01.940Z"
+    "submittedAt": "2026-10-13T14:24:26.727Z"
   }
 }
