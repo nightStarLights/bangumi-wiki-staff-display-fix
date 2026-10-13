@@ -1,0 +1,356 @@
+{
+  "subjectId": 712359,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "宮崎開"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "宮崎開"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "宮崎開"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "おのさめゆーき"
+            },
+            " (",
+            {
+              "ref": "p:90617",
+              "text": "藤井祐輝"
+            },
+            ")",
+            " (Vo Rec)"
+          ]
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Rulmry."
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Rulmry."
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Rulmry."
+          }
+        }
+      ],
+      "recording": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "おのさめゆーき"
+            },
+            " (",
+            {
+              "ref": "p:90617",
+              "text": "藤井祐輝"
+            },
+            ")",
+            " (Vo Rec)"
+          ]
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69021",
+            "text": "芥田レンリ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69021",
+            "text": "芥田レンリ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69021",
+            "text": "芥田レンリ"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:77872",
+            "text": "βe"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:77872",
+            "text": "βe"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:77872",
+            "text": "βe"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73144",
+            "text": "ryo-shun"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73144",
+            "text": "ryo-shun"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73144",
+            "text": "ryo-shun"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73144",
+            "text": "ryo-shun"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73144",
+            "text": "ryo-shun"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73144",
+            "text": "ryo-shun"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "parts": [
+            {
+              "ref": "p:73144",
+              "text": "ryo-shun"
+            },
+            " (Scream)"
+          ]
+        }
+      ]
+    },
+    "1.7": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65196",
+            "text": "葉月リョウヘイ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "空位"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "空位"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "おのさめゆーき"
+            },
+            " (",
+            {
+              "ref": "p:90617",
+              "text": "藤井祐輝"
+            },
+            ")",
+            " (Vo Rec)"
+          ]
+        }
+      ]
+    },
+    "1.8": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Etori"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Etori"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Etori"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:73144",
+          "text": "ryo-shun"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:73144",
+          "text": "ryo-shun"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:90860",
+          "text": "猫田もちこ"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "箱乃なかみのパンドラの箱"
+        }
+      }
+    ],
+    "design": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "チャリキ"
+          },
+          " (Logo design)"
+        ]
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "作词：宮崎開(1)、Rulmry.(2)、芥田レンリ(3)、βe(4)、ryo-shun(5,6)、葉月リョウヘイ(7)、Etori(8)\n作曲：宮崎開(1)、Rulmry.(2)、芥田レンリ(3)、βe(4)、ryo-shun(5,6)、空位(7)、Etori(8)\n编曲：宮崎開(1)、Rulmry.(2)、芥田レンリ(3)、βe(4)、ryo-shun(5,6)、空位(7)、Etori(8)\n混音：ryo-shun\n母带制作：ryo-shun\n插图：猫田もちこ\n厂牌：箱乃なかみのパンドラの箱\n和声：五十嵐斎(7)、イトイシュン(7)、KiMAYU(7)、小夜セレネ(7)、恋獄おとね(7)、ryo-shun(7)、狼朗ハツキ(7)\n录音-Vo Rec：おのさめゆーき (藤井祐輝)(1,2,7)\n设计-Logo design：チャリキ\n声乐-Scream：ryo-shun(6)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-13T13:51:55.521Z"
+  }
+}
