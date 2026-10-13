@@ -1,0 +1,135 @@
+{
+  "subjectId": 712362,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "味醂いろは"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "みこのおすし"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69728",
+            "text": "箱乃なかみ"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ばりぃ."
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66544",
+            "text": "はらもりよしな"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "七宮チリン"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:91775",
+          "text": "L字"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:91775",
+          "text": "L字"
+        }
+      },
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "enjoyeer"
+          },
+          " (Guest Composer)"
+        ]
+      },
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "いちやそば"
+          },
+          " (Guest Composer)"
+        ]
+      },
+      {
+        "parts": [
+          {
+            "ref": "p:91489",
+            "text": "T-J"
+          },
+          " (Guest Composer)"
+        ]
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "虚栄アキ"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：L字\n艺术家：味醂いろは(1)、みこのおすし(2)、箱乃なかみ(3)、ばりぃ.(5)、はらもりよしな(7)、七宮チリン(8)\n作曲：L字\n插图：虚栄アキ\n作曲-Guest Composer：enjoyeer、いちやそば、T-J"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-13T14:09:59.445Z"
+  }
+}
