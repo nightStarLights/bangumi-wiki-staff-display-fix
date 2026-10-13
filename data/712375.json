@@ -1,0 +1,125 @@
+{
+  "subjectId": 712375,
+  "trackCredits": {
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ちも＊"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ゆかいな仲間たち"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ちも＊"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ちも＊"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73448",
+            "text": "HONNWAKA88"
+          }
+        }
+      ]
+    },
+    "1.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Odasis"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Odasis"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Odasis"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Odasis"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ちも＊"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Osisio"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ちも＊"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：ちも＊\n作词：ちも＊(1.2)、ゆかいな仲間たち(1.2)\n作曲：Odasis(1.1, 1.3)、ちも＊(1.2)\n编曲：Odasis(1.1, 1.3)、ちも＊(1.2)、HONNWAKA88(1.2)\n插图：Osisio\n设计：ちも＊"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-13T15:04:07.480Z"
+  }
+}
