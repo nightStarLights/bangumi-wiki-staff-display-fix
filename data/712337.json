@@ -1,0 +1,669 @@
+{
+  "subjectId": 712337,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "髥莏"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "安見すや"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65359",
+            "text": "appy"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73289",
+            "text": "いちいいず"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "臼杵すう"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "歌川シキ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "お柴鉱脈"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55821",
+            "text": "Sohbana"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "とーず"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Иagi"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66161",
+            "text": "真島ゆろ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "安見すや"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "安見すや"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "とーず"
+          },
+          "inst": "Trombone"
+        }
+      ]
+    },
+    "1.5": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "髥莏"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "キテ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "髥莏"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73289",
+            "text": "いちいいず"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "お柴鉱脈"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55821",
+            "text": "Sohbana"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "とーず"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "髥莏"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73289",
+            "text": "いちいいず"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "キテ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "とーず"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "とーず"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65359",
+            "text": "appy"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73289",
+            "text": "いちいいず"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "お柴鉱脈"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55821",
+            "text": "Sohbana"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "とーず"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Иagi"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "とーず"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73289",
+            "text": "いちいいず"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73289",
+            "text": "いちいいず"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65359",
+            "text": "appy"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73289",
+            "text": "いちいいず"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "お柴鉱脈"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "とーず"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66161",
+            "text": "真島ゆろ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "安見すや"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "仁科みしま"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "みずみずナマズ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75867",
+            "text": "駱駝法師"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73289",
+            "text": "いちいいず"
+          }
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深谷彩"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Иagi"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Иagi"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65359",
+            "text": "appy"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73289",
+            "text": "いちいいず"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55821",
+            "text": "Sohbana"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "とーず"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Иagi"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "なぬりそ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "仁科みしま"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "みずみずナマズ"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Иagi"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "お柴鉱脈"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "お柴鉱脈"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73289",
+            "text": "いちいいず"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55821",
+            "text": "Sohbana"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "とーず"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Иagi"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66161",
+            "text": "真島ゆろ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "安見すや"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "お柴鉱脈"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66161",
+            "text": "真島ゆろ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66161",
+            "text": "真島ゆろ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73289",
+            "text": "いちいいず"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55821",
+            "text": "Sohbana"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "とーず"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66161",
+            "text": "真島ゆろ"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66161",
+            "text": "真島ゆろ"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73289",
+            "text": "いちいいず"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "とーず"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Ōudon"
+        }
+      }
+    ],
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Ōudon"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "とーず"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:73289",
+          "text": "いちいいず"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "airy.i.ray"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:66161",
+          "text": "真島ゆろ"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：Ōudon\n艺术家：Ōudon\n作词：髥莏(1,5)、いちいいず(2,7)、キテ(2,5)、とーず(2)、Иagi(3)、お柴鉱脈(6)、真島ゆろ(8)\n作曲：安見すや(1)、とーず(2)、Иagi(3)、髥莏(5)、お柴鉱脈(6)、いちいいず(7)、真島ゆろ(8)\n编曲：appy(1-3,7)、いちいいず(1-8)、臼杵すう(1)、《歌川シキ》(1)、お柴鉱脈(1,2,5,7)、Sohbana(1-3,5,6,8)、とーず(1-8)、Иagi(1-3,6)、真島ゆろ(1,6-8)、安見すや(1,6,7)、なぬりそ(3)、仁科みしま(3,7)、みずみずナマズ(3,7)、駱駝法師(7)\n混音：安見すや(1)、とーず(2)、Иagi(3)、髥莏(5)、お柴鉱脈(6)、いちいいず(7)、真島ゆろ(8)\n母带制作：とーず\n插图：いちいいず、airy.i.ray、真島ゆろ\n客串：深谷彩(7)\n乐器-Trombone：とーず(1)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-13T11:09:02.717Z"
+  }
+}
