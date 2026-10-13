@@ -1,0 +1,230 @@
+{
+  "subjectId": 712363,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ちょこ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7253",
+            "text": "ななひら"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68924",
+            "text": "マスタード"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:54879",
+            "text": "中村さんそ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7448",
+            "text": "愛原圭織"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:42190",
+            "text": "Kijibato"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:42190",
+            "text": "Kijibato"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:42190",
+            "text": "Kijibato"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ちょこ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7253",
+            "text": "ななひら"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7448",
+            "text": "愛原圭織"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Athan Lily"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Athan Lily"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Athan Lily"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ちょこ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68924",
+            "text": "マスタード"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:54879",
+            "text": "中村さんそ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "aina"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:35932",
+            "text": "Capchii"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:35932",
+            "text": "Capchii"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ちょこ"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:35068",
+          "text": "かそかそ"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ささみグミ"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ささみグミ"
+        }
+      },
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "ささみグミ"
+          },
+          " (Logo)"
+        ]
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：ちょこ\n艺术家：ちょこ(1-3)、ななひら(1,2)、マスタード(1,3)、中村さんそ(1,3)、愛原圭織(1,2)\n作词：Kijibato(1)、Athan Lily(2)、aina(3)\n作曲：Kijibato(1)、Athan Lily(2)、Capchii(3)\n编曲：Kijibato(1)、Athan Lily(2)、Capchii(3)\n母带制作：かそかそ\n插图：ささみグミ\n设计：ささみグミ\n设计-Logo：ささみグミ"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-13T14:21:22.692Z"
+  }
+}
