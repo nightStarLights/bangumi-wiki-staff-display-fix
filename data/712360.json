@@ -1,0 +1,540 @@
+{
+  "subjectId": 712360,
+  "trackCredits": {
+    "1.1": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "SongCi"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "SongCi"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "中村有里"
+          },
+          "inst": "萨克斯"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "宮崎大介"
+          },
+          "inst": "电吉他"
+        }
+      ]
+    },
+    "1.2": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "予木YOKI"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "予木YOKI"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "中村有里"
+          },
+          "inst": "萨克斯"
+        }
+      ]
+    },
+    "1.8": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "予木YOKI"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "予木YOKI"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10699",
+            "text": "工藤吉三"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10699",
+            "text": "工藤吉三"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Piezo1"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Piezo1"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "中村有里"
+          },
+          "inst": "萨克斯"
+        }
+      ]
+    },
+    "1.7": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Piezo1"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Piezo1"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "刘耀杨"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "刘耀杨"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:67699",
+            "text": "土屋玲子"
+          },
+          "inst": "小提琴"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:67699",
+            "text": "土屋玲子"
+          },
+          "inst": "中提琴"
+        }
+      ]
+    },
+    "1.6": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100555",
+            "text": "红唐"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100555",
+            "text": "红唐"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "中村有里"
+          },
+          "inst": "萨克斯"
+        }
+      ]
+    },
+    "1.11": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100555",
+            "text": "红唐"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100555",
+            "text": "红唐"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Rann"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Rann"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ヨカ"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ヨカ"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "宮崎大介"
+          },
+          "inst": "电吉他"
+        }
+      ]
+    },
+    "1.12": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "岩垂德行"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "岩垂德行"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:67699",
+            "text": "土屋玲子"
+          },
+          "inst": "小提琴"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:67699",
+            "text": "土屋玲子"
+          },
+          "inst": "中提琴"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "宮崎大介"
+          },
+          "inst": "电吉他"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "岩垂德行"
+          },
+          "inst": "小号"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "岩垂德行"
+          },
+          "inst": "长号"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "岩垂德行"
+          },
+          "inst": "圆号"
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Sean Zhu"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Sean Zhu"
+        }
+      },
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "CASTALIA AUDIO"
+          },
+          " (Studio)"
+        ]
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "牛ニュー"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "CHARISMA RECORDS"
+        }
+      }
+    ],
+    "design": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "zannki"
+          },
+          " (包装设计)"
+        ]
+      },
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "zannki"
+          },
+          " (小册子设计与排版)"
+        ]
+      }
+    ],
+    "custom-美术指导": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Sean Zhu"
+        }
+      }
+    ],
+    "custom-宣传": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Lika Liu"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Superwave"
+        }
+      }
+    ],
+    "custom-特别鸣谢": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "吉川延宏"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "田中治久"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "岩垂德行"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:10699",
+          "text": "工藤吉三"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "CITY CONNECTION"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "全体工作人员。"
+        }
+      }
+    ],
+    "custom-执行制作": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "吉川延宏"
+        }
+      }
+    ],
+    "custom-音乐制作": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "CASTALIA AUDIO"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "CHARISMA RECORDS"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：Sean Zhu\n编曲：SongCi(1)、予木YOKI(2,8)、工藤吉三(3)、Piezo1(4,7)、刘耀杨(5)、红唐(6,11)、Rann(9)、ヨカ(10)、岩垂德行(12)\n混音：SongCi(1)、予木YOKI(2,8)、工藤吉三(3)、Piezo1(4,7)、刘耀杨(5)、红唐(6,11)、Rann(9)、ヨカ(10)、岩垂德行(12)\n母带制作：Sean Zhu\n插图：牛ニュー\n厂牌：CHARISMA RECORDS\n母带制作-Studio：CASTALIA AUDIO\n设计-包装设计：zannki\n设计-小册子设计与排版：zannki\ncustom-美术指导：Sean Zhu\ncustom-宣传：Lika Liu、Superwave\ncustom-特别鸣谢：吉川延宏、田中治久、岩垂德行、工藤吉三，CITY CONNECTION、全体工作人员。\ncustom-执行制作：吉川延宏\ncustom-音乐制作：CASTALIA AUDIO、CHARISMA RECORDS\n乐器-小提琴：土屋玲子(5,12)\n乐器-中提琴：土屋玲子(5,12)\n乐器-萨克斯：中村有里(1,2,4,6)\n乐器-电吉他：宮崎大介(1,10,12)\n乐器-小号：岩垂德行(12)\n乐器-长号：岩垂德行(12)\n乐器-圆号：岩垂德行(12)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-13T14:03:30.556Z"
+  }
+}
