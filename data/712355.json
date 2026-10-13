@@ -83,7 +83,7 @@
           "parts": [
             "叢神",
             {
-              "ref": null,
+              "ref": "p:68975",
               "text": "智斗紅"
             }
           ]
@@ -135,7 +135,7 @@
           "parts": [
             "叢神",
             {
-              "ref": null,
+              "ref": "p:68975",
               "text": "智斗紅"
             }
           ]
@@ -271,6 +271,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-13T13:22:08.576Z"
+    "submittedAt": "2026-10-13T13:22:20.580Z"
   }
 }
