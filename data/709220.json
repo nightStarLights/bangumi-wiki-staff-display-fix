@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:68653",
             "text": "RiCO"
           }
         }
@@ -15,7 +15,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:73056",
             "text": "ますかっと"
           }
         }
@@ -24,7 +24,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:73056",
             "text": "ますかっと"
           }
         }
@@ -33,7 +33,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:73056",
             "text": "ますかっと"
           }
         }
@@ -107,7 +107,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:81089",
             "text": "とうめいのくに"
           }
         }
@@ -143,7 +143,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:86896",
             "text": "セナ"
           },
           "inst": "Bass"
@@ -240,60 +240,6 @@
           "person": {
             "ref": null,
             "text": "そにぃ"
-          }
-        }
-      ]
-    },
-    "1.6": {
-      "artist": [
-        {
-          "parts": [
-            {
-              "ref": null,
-              "text": "しゃも"
-            },
-            " (",
-            {
-              "ref": null,
-              "text": "みしゃも"
-            },
-            ")"
-          ]
-        }
-      ],
-      "lyricist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "クシャミィ"
-          }
-        }
-      ],
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "クシャミィ"
-          }
-        }
-      ],
-      "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "クシャミィ"
-          }
-        }
-      ],
-      "mixing": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "そむにあー"
           }
         }
       ]
@@ -538,7 +484,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:69121",
             "text": "Sceno Ichiro"
           }
         }
@@ -547,7 +493,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:69121",
             "text": "Sceno Ichiro"
           }
         }
@@ -556,7 +502,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:69121",
             "text": "Sceno Ichiro"
           }
         }
@@ -585,14 +531,14 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:81264",
             "text": "Bathycaphe"
           }
         },
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:91485",
             "text": "夕凪潮"
           }
         }
@@ -688,7 +634,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:81264",
             "text": "Bathycaphe"
           }
         }
@@ -697,7 +643,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:71339",
             "text": "Namitape"
           }
         }
@@ -706,7 +652,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:71339",
             "text": "Namitape"
           }
         }
@@ -715,7 +661,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:71339",
             "text": "Namitape"
           }
         }
@@ -772,7 +718,7 @@
           "type": "person",
           "person": {
             "ref": null,
-            "text": "西野 大"
+            "text": "西野大"
           }
         }
       ]
@@ -824,6 +770,44 @@
         }
       ]
     },
+    "1.6": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "クシャミィ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "クシャミィ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "クシャミィ"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "そむにあー"
+          }
+        }
+      ]
+    },
     "1.10": {
       "lyricist": [
         {
@@ -836,7 +820,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:91485",
             "text": "夕凪潮"
           }
         }
@@ -852,7 +836,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:91485",
             "text": "夕凪潮"
           }
         }
@@ -868,7 +852,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:91485",
             "text": "夕凪潮"
           }
         }
@@ -889,7 +873,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:81264",
           "text": "Bathycaphe"
         }
       }
@@ -920,14 +904,23 @@
           "text": "遊凪"
         }
       }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "遊凪"
+        }
+      }
     ]
   },
   "rawPatches": {
-    "editor": "制作人：Bathycaphe\n艺术家：RiCO(1)、ニャズ(2)、とうめいのくに(3)、Namaz(4)、びをさ(5)、しゃも (みしゃも)(6)、Labecho(7)、Cielo(8)、Urqto(9)、bit-chan(11)、suzume(12)、《鱏歌屋》(13)、Bathycaphe(14,16)、夕凪潮(14)、菅原白湯(15)、milley(17)\n作词：ますかっと(1)、あたたかい水族館(2)、ニャズ(2)、NoaNoke(3)、koge(4)、しょこら(5)、クシャミィ(6)、iro(7)、さいきふの(8)、まるいし(9)、夜丹れにや(10)、夕凪潮(10)、藻入り(11)、かにパ(12)、Sceno Ichiro(13)、ぽみ(14)、k o n d o(15)、Namitape(16)、toluc(17)\n作曲：ますかっと(1)、あたたかい水族館(2)、NoaNoke(3)、koge(4)、しょこら(5)、クシャミィ(6)、iro(7)、さいきふの(8)、まるいし(9)、夜丹れにや(10)、夕凪潮(10)、藻入り(11)、かにパ(12)、Sceno Ichiro(13)、ぽみ(14)、k o n d o(15)、Namitape(16)、toluc(17)\n编曲：ますかっと(1)、あたたかい水族館(2)、NoaNoke(3)、koge(4)、しょこら(5)、クシャミィ(6)、iro(7)、さいきふの(8)、まるいし(9)、夜丹れにや(10)、夕凪潮(10)、藻入り(11)、かにパ(12)、Sceno Ichiro(13)、ぽみ(14)、k o n d o(15)、Namitape(16)、toluc(17)\n混音：Beck Star Studio、そにぃ(1,4,5,10,12,14,16)、あたたかい水族館(2)、そむにあー(6,13)、西野大(7,17)、まるいし(9)、藻入り(11)、《西野 大》(15)\n母带制作：Beck Star Studio\n插图：遊凪\n乐器-Bass：セナ(3)\n乐器-Contrabass：《鱏歌屋》(13)\n乐器-Trumpet：Lenkele(14)\n乐器-Double-bass：《鱏歌屋》(14)\n乐器-Drums：一井希(14)\n乐器-Piano：ぽみ(14)\n乐器-Guitar：ぽみ(14)\n乐器-Programming：ぽみ(14)"
+    "editor": "制作人：Bathycaphe\n艺术家：RiCO(1)、ニャズ(2)、とうめいのくに(3)、Namaz(4)、びをさ(5)、Labecho(7)、Cielo(8)、Urqto(9)、bit-chan(11)、suzume(12)、《鱏歌屋》(13)、Bathycaphe(14,16)、夕凪潮(14)、菅原白湯(15)、milley(17)\n作词：ますかっと(1)、あたたかい水族館(2)、ニャズ(2)、NoaNoke(3)、koge(4)、しょこら(5)、クシャミィ(6)、iro(7)、さいきふの(8)、まるいし(9)、夜丹れにや(10)、夕凪潮(10)、藻入り(11)、かにパ(12)、Sceno Ichiro(13)、ぽみ(14)、k o n d o(15)、Namitape(16)、toluc(17)\n作曲：ますかっと(1)、あたたかい水族館(2)、NoaNoke(3)、koge(4)、しょこら(5)、クシャミィ(6)、iro(7)、さいきふの(8)、まるいし(9)、夜丹れにや(10)、夕凪潮(10)、藻入り(11)、かにパ(12)、Sceno Ichiro(13)、ぽみ(14)、k o n d o(15)、Namitape(16)、toluc(17)\n编曲：ますかっと(1)、あたたかい水族館(2)、NoaNoke(3)、koge(4)、しょこら(5)、クシャミィ(6)、iro(7)、さいきふの(8)、まるいし(9)、夜丹れにや(10)、夕凪潮(10)、藻入り(11)、かにパ(12)、Sceno Ichiro(13)、ぽみ(14)、k o n d o(15)、Namitape(16)、toluc(17)\n混音：Beck Star Studio、そにぃ(1,4,5,10,12,14,16)、あたたかい水族館(2)、そむにあー(6,13)、西野大(7,15,17)、まるいし(9)、藻入り(11)\n母带制作：Beck Star Studio\n插图：遊凪\n设计：遊凪\n乐器-Bass：セナ(3)\n乐器-Contrabass：《鱏歌屋》(13)\n乐器-Trumpet：Lenkele(14)\n乐器-Double-bass：《鱏歌屋》(14)\n乐器-Drums：一井希(14)\n乐器-Piano：ぽみ(14)\n乐器-Guitar：ぽみ(14)\n乐器-Programming：ぽみ(14)"
   },
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-14T12:38:16.705Z"
+    "submittedAt": "2026-10-14T12:41:23.368Z"
   }
 }
