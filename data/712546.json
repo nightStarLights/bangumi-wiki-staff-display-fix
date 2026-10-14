@@ -1,0 +1,770 @@
+{
+  "subjectId": 712546,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6248",
+            "text": "nayuta"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69375",
+            "text": "最うし"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69375",
+            "text": "最うし"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69375",
+            "text": "最うし"
+          }
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "つゆぽん"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "三露采市"
+            },
+            ")"
+          ]
+        }
+      ],
+      "instrument": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "つゆぽん"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "三露采市"
+            },
+            ")",
+            " (Drums)"
+          ]
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69379",
+            "text": "病白めめ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69375",
+            "text": "最うし"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69375",
+            "text": "最うし"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69375",
+            "text": "最うし"
+          }
+        }
+      ]
+    },
+    "1.19": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69379",
+            "text": "病白めめ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69375",
+            "text": "最うし"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69375",
+            "text": "最うし"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69375",
+            "text": "最うし"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:34686",
+            "text": "Sennzai"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73528",
+            "text": "dama"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73528",
+            "text": "dama"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73528",
+            "text": "dama"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81531",
+            "text": "綿菓子かんろ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69373",
+            "text": "kre4tive"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69373",
+            "text": "kre4tive"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69373",
+            "text": "kre4tive"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81531",
+            "text": "綿菓子かんろ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69374",
+            "text": "Podzol"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69374",
+            "text": "Podzol"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69374",
+            "text": "Podzol"
+          }
+        }
+      ]
+    },
+    "1.18": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81531",
+            "text": "綿菓子かんろ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69375",
+            "text": "最うし"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69375",
+            "text": "最うし"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69375",
+            "text": "最うし"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69388",
+            "text": "Somel"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69375",
+            "text": "最うし"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69375",
+            "text": "最うし"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69374",
+            "text": "Podzol"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69375",
+            "text": "最うし"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69374",
+            "text": "Podzol"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "やまがたゆうな"
+          },
+          "inst": "Bassoon"
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5731",
+            "text": "茶太"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6763",
+            "text": "bermei.inazawa"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:104632",
+            "text": "ｽｹﾊﾝ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:104632",
+            "text": "ｽｹﾊﾝ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:104632",
+            "text": "ｽｹﾊﾝ"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6763",
+            "text": "bermei.inazawa"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66305",
+            "text": "高城みよ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69387",
+            "text": "ishiyama5"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69387",
+            "text": "ishiyama5"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69387",
+            "text": "ishiyama5"
+          }
+        }
+      ]
+    },
+    "1.17": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66305",
+            "text": "高城みよ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:104631",
+            "text": "■37"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:104631",
+            "text": "■37"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:104631",
+            "text": "■37"
+          }
+        }
+      ]
+    },
+    "1.14": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69537",
+            "text": "わかばやし"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69390",
+            "text": "シカクドット"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69390",
+            "text": "シカクドット"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69390",
+            "text": "シカクドット"
+          }
+        }
+      ]
+    },
+    "1.16": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69377",
+            "text": "Eye"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Gaga"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yutaka Kouzaki"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "穣香咲"
+            },
+            ")"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yutaka Kouzaki"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "穣香咲"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.6": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69375",
+            "text": "最うし"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69375",
+            "text": "最うし"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69375",
+            "text": "最うし"
+          }
+        }
+      ]
+    },
+    "1.13": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69375",
+            "text": "最うし"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69375",
+            "text": "最うし"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69375",
+            "text": "最うし"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69375",
+            "text": "最うし"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69375",
+            "text": "最うし"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69386",
+            "text": "こだきんP"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69386",
+            "text": "こだきんP"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:74255",
+            "text": "のとを"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:74255",
+            "text": "のとを"
+          }
+        }
+      ]
+    },
+    "1.15": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69392",
+            "text": "I.S.E."
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69392",
+            "text": "I.S.E."
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69373",
+          "text": "kre4tive"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69373",
+          "text": "kre4tive"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Girls Vibes Project"
+        }
+      }
+    ],
+    "recording": [
+      {
+        "parts": [
+          {
+            "ref": "p:6763",
+            "text": "bermei.inazawa"
+          },
+          " (Vocal)"
+        ]
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：nayuta(1)、病白めめ(2,19)、Sennzai(4)、綿菓子かんろ(5,7,18)、Somel(8)、茶太(10)、bermei.inazawa(10)、高城みよ(11,17)、わかばやし(14)、Eye(16)\n作词：最うし(1,2,6,8,13,18,19)、dama(4)、kre4tive(5)、Podzol(7)、ｽｹﾊﾝ(10)、ishiyama5(11)、シカクドット(14)、Gaga(16)、■37(17)\n作曲：最うし(1-3,6,8,13,18,19)、dama(4)、kre4tive(5)、Podzol(7,8)、こだきんP(9)、ｽｹﾊﾝ(10)、ishiyama5(11)、のとを(12)、シカクドット(14)、I.S.E.(15)、Yutaka Kouzaki (穣香咲)(16)、■37(17)\n编曲：最うし(1-3,6,8,13,18,19)、つゆぽん (三露采市)(1)、dama(4)、kre4tive(5)、Podzol(7,8)、こだきんP(9)、ｽｹﾊﾝ(10)、ishiyama5(11)、のとを(12)、シカクドット(14)、I.S.E.(15)、Yutaka Kouzaki (穣香咲)(16)、■37(17)\n混音：kre4tive\n母带制作：kre4tive\n厂牌：Girls Vibes Project\n录音-Vocal：bermei.inazawa\n乐器-Drums：つゆぽん (三露采市)(1)\n乐器-Bassoon：やまがたゆうな(8)\n录音：bermei.inazawa(10)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-14T14:28:54.202Z"
+  }
+}
