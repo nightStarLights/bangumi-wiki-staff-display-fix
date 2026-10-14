@@ -1,0 +1,151 @@
+{
+  "subjectId": 712575,
+  "trackCredits": {
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "田谷野未"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:92146",
+            "text": "しゃん"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "一ノ瀬星空"
+            },
+            " (Vocal Mix)"
+          ]
+        }
+      ]
+    },
+    "1.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69330",
+            "text": "楽園市街"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "ししおー"
+            },
+            " (Vocal Mix)"
+          ]
+        }
+      ]
+    },
+    "1.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86253",
+            "text": "MEA"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "n/a (Vocal Mix)"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "カルドウェル"
+          },
+          " (",
+          {
+            "ref": "p:92143",
+            "text": "カーク＝クランクケー＝カルドウェル"
+          },
+          ")"
+        ]
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ししおー"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "也森タカヘ"
+        }
+      },
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "けまり*"
+          },
+          " (SD Illust)"
+        ]
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "アルテオミュアン"
+        }
+      }
+    ],
+    "design": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "田谷野未"
+          },
+          " (Logo)"
+        ]
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：カルドウェル (カーク＝クランクケー＝カルドウェル)\n作词：田谷野未(3)\n作曲：楽園市街(1)、MEA(2)、しゃん(3)\n母带制作：ししおー\n插图：也森タカヘ\n厂牌：アルテオミュアン\n插图-SD Illust：けまり*\n设计-Logo：田谷野未\n混音-Vocal Mix：ししおー(1)、《n/a》(2)、一ノ瀬星空(3)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-14T19:26:56.498Z"
+  }
+}
