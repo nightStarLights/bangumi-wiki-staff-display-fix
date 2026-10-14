@@ -100,7 +100,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:64893",
             "text": "みゅー"
           }
         }
@@ -109,7 +109,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:64893",
             "text": "みゅー"
           }
         }
@@ -118,7 +118,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:64893",
             "text": "みゅー"
           }
         }
@@ -371,7 +371,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:78050",
           "text": "菅原ヒロト"
         }
       },
@@ -410,6 +410,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-11T05:34:48.245Z"
+    "submittedAt": "2026-10-14T16:44:19.241Z"
   }
 }
