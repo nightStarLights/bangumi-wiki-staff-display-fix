@@ -1,0 +1,111 @@
+{
+  "trackCredits": {
+    "1.1": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "JB"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "JB"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "JB"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "JB"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69121",
+            "text": "瀬乃一郎"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69121",
+            "text": "瀬乃一郎"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69465",
+          "text": "みちとせ"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "瀬戸すばる"
+        }
+      }
+    ],
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69465",
+          "text": "みちとせ"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69465",
+          "text": "みちとせ"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：みちとせ\n作词：みちとせ\n作曲：みちとせ\n编曲：JB(1,2)、瀬乃一郎 (Sceno Ichiro)(3)\n混音：JB(1,2)、瀬乃一郎 (Sceno Ichiro)(3)\n插图：瀬戸すばる"
+  },
+  "subjectId": 712577,
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-14T19:37:53.541Z"
+  }
+}
