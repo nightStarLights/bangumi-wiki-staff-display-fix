@@ -44,15 +44,6 @@
           }
         }
       ],
-      "featured": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:6833",
-            "text": "花たん"
-          }
-        }
-      ],
       "instrument": [
         {
           "type": "instrument_credit",
@@ -123,20 +114,11 @@
           }
         }
       ],
-      "featured": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:77158",
-            "text": "有世華望"
-          }
-        }
-      ],
       "instrument": [
         {
           "type": "instrument_credit",
           "person": {
-            "ref": "p:64893",
+            "ref": null,
             "text": "みゅー"
           },
           "inst": "Guitar"
@@ -152,7 +134,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": "p:104389",
+            "ref": null,
             "text": "MAKI"
           },
           "inst": "Drums"
@@ -237,7 +219,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": "p:104389",
+            "ref": null,
             "text": "MAKI"
           },
           "inst": "Drums"
@@ -293,15 +275,6 @@
               "text": "つぐ"
             }
           ]
-        }
-      ],
-      "featured": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:65398",
-            "text": "つぐ"
-          }
         }
       ]
     }
@@ -371,7 +344,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:78050",
+          "ref": null,
           "text": "菅原ヒロト"
         }
       },
@@ -405,11 +378,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：ELFENSJóN feat. 花たん(1)、Imy feat.有世華望(2)、《Masahiro \"Godspeed\" Aoki》 (Godspeed)(3)、Powerless(5)、Powerless feat. つぐ(4)\n作词：黒瀬圭亮(1)、みゅー(2)\n作曲：黒瀬圭亮(1)、みゅー(2)\n编曲：黒瀬圭亮(1)、みゅー(2)、《Masahiro \"Godspeed\" Aoki》 (Godspeed)(5)\n混音：《Masahiro \"Godspeed\" Aoki》 (Godspeed)\n母带制作：Yasuji Yasman Maeda\n插图：おにねこ\n厂牌：Imy、Powerless、ViViX、ELFENSJóN\n客串：花たん(1)、有世華望(2)、つぐ(4)\n设计：菅原ヒロト\n设计-Web：黒瀬圭亮\ncustom-Teaser movie：Powerless\ncustom-Production Manager：みゅー\n乐器-Guitar：ケンシロー(1)、みゅー(2)、《Masahiro \"Godspeed\" Aoki》 (Godspeed)(3)\n乐器-Bass：QutaQuta(1)、ヒサマユウヘイ(2)、Bitoku(3)\n乐器-Drums：Shuhei Kamada(1)、MAKI(2,3)\n乐器-Piano：isshiki(2)\n录音：近藤麻衣(2)、Hiro(2)\n录音-Recording Studio:ランドマークスタジオ(2)\ncustom-Assistant Engineer：石川りさ子(2)\ncustom-Orchestral Arrangement：《Masahiro \"Godspeed\" Aoki》 (Godspeed)(5)"
+    "editor": "艺术家：ELFENSJóN feat. 花たん(1)、Imy feat.有世華望(2)、《Masahiro \"Godspeed\" Aoki》 (Godspeed)(3)、Powerless(5)、Powerless feat. つぐ(4)\n作词：黒瀬圭亮(1)、みゅー(2)\n作曲：黒瀬圭亮(1)、みゅー(2)\n编曲：黒瀬圭亮(1)、みゅー(2)、《Masahiro \"Godspeed\" Aoki》 (Godspeed)(5)\n混音：《Masahiro \"Godspeed\" Aoki》 (Godspeed)\n母带制作：Yasuji Yasman Maeda\n插图：おにねこ\n厂牌：Imy、Powerless、ViViX、ELFENSJóN\n设计：菅原ヒロト\n设计-Web：黒瀬圭亮\ncustom-Teaser movie：Powerless\ncustom-Production Manager：みゅー\n乐器-Guitar：ケンシロー(1)、みゅー(2)、《Masahiro \"Godspeed\" Aoki》 (Godspeed)(3)\n乐器-Bass：QutaQuta(1)、ヒサマユウヘイ(2)、Bitoku(3)\n乐器-Drums：Shuhei Kamada(1)、MAKI(2,3)\n乐器-Piano：isshiki(2)\n录音：近藤麻衣(2)、Hiro(2)\n录音-Recording Studio:ランドマークスタジオ(2)\ncustom-Assistant Engineer：石川りさ子(2)\ncustom-Orchestral Arrangement：《Masahiro \"Godspeed\" Aoki》 (Godspeed)(5)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-14T16:44:19.241Z"
+    "submittedAt": "2026-10-14T16:44:25.020Z"
   }
 }
