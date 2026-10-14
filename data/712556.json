@@ -1,0 +1,428 @@
+{
+  "subjectId": 712556,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ちょこ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:63341",
+            "text": "恋摘もなか"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:93957",
+              "text": "ぐぅせぇ"
+            },
+            "guse"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": "p:93957",
+              "text": "ぐぅせぇ"
+            },
+            "guse"
+          ]
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68679",
+            "text": "勿忘うた"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68679",
+            "text": "勿忘うた"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:93957",
+              "text": "ぐぅせぇ"
+            },
+            "guse"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": "p:93957",
+              "text": "ぐぅせぇ"
+            },
+            "guse"
+          ]
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:35280",
+            "text": "咲良ゆの"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": "p:93957",
+              "text": "ぐぅせぇ"
+            },
+            "guse"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:35280",
+              "text": "咲良ゆの"
+            },
+            " (英訳)"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:93957",
+              "text": "ぐぅせぇ"
+            },
+            "guse"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": "p:93957",
+              "text": "ぐぅせぇ"
+            },
+            "guse"
+          ]
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:93957",
+            "text": "ぐぅせぇ"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69117",
+            "text": "まより"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": "p:93957",
+              "text": "ぐぅせぇ"
+            },
+            "guse"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69117",
+            "text": "まより"
+          }
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:69117",
+              "text": "まより"
+            },
+            " (英訳)"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:93957",
+              "text": "ぐぅせぇ"
+            },
+            "guse"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": "p:93957",
+              "text": "ぐぅせぇ"
+            },
+            "guse"
+          ]
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68973",
+            "text": "あいの"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:63341",
+            "text": "恋摘もなか"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:93957",
+              "text": "ぐぅせぇ"
+            },
+            "guse"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": "p:93957",
+              "text": "ぐぅせぇ"
+            },
+            "guse"
+          ]
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:93957",
+            "text": "ぐぅせぇ"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:93957",
+            "text": "ぐぅせぇ"
+          },
+          "inst": "Bass"
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:35279",
+            "text": "鳴紗"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": "p:93957",
+              "text": "ぐぅせぇ"
+            },
+            "guse"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:93957",
+              "text": "ぐぅせぇ"
+            },
+            "guse"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": "p:93957",
+              "text": "ぐぅせぇ"
+            },
+            "guse"
+          ]
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:93957",
+            "text": "ぐぅせぇ"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36042",
+            "text": "月乃"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:63341",
+            "text": "恋摘もなか"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:93957",
+              "text": "ぐぅせぇ"
+            },
+            "guse"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": "p:93957",
+              "text": "ぐぅせぇ"
+            },
+            "guse"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:82118",
+              "text": "月城紅葉"
+            },
+            " (Drums Arrangement)"
+          ]
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:93957",
+            "text": "ぐぅせぇ"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "初音ミク"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "parts": [
+          {
+            "ref": "p:93957",
+            "text": "ぐぅせぇ"
+          },
+          "guse"
+        ]
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "知花そら"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：ぐぅせぇguse (ぐぅせぇ)\n艺术家：ちょこ(1)、勿忘うた(2)、咲良ゆの(3)、まより(4)、あいの(5)、鳴紗(6)、月乃(7)、初音ミク(8)\n作词：恋摘もなか(1,5,7)、勿忘うた(2)、ぐぅせぇguse (ぐぅせぇ)(3,4,6)、まより(4)\n作曲：ぐぅせぇguse (ぐぅせぇ)(1-7)\n编曲：ぐぅせぇguse (ぐぅせぇ)(1-7)\n插图：知花そら\n作词-英訳：咲良ゆの(3)、まより(4)\n乐器-Guitar：ぐぅせぇ(3,5-7)\n乐器-Bass：ぐぅせぇ(5)\n编曲-Drums Arrangement：月城紅葉(7)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-14T15:34:21.108Z"
+  }
+}
