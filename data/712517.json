@@ -32,7 +32,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:36776",
             "text": "KO3"
           }
         }
@@ -65,7 +65,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:86499",
             "text": "Erixa"
           }
         }
@@ -118,6 +118,6 @@
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-14T12:27:10.622Z"
+    "submittedAt": "2026-10-14T12:27:31.722Z"
   }
 }
