@@ -1,0 +1,159 @@
+{
+  "subjectId": 712744,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:76825",
+            "text": "ION"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:76825",
+            "text": "ION"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:50610",
+            "text": "山出和仁"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:50610",
+            "text": "山出和仁"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:50610",
+            "text": "山出和仁"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:76825",
+            "text": "ION"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "権藤はなよ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "林柳波"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:104687",
+            "text": "下総皖一"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:50610",
+            "text": "山出和仁"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:104687",
+            "text": "下総皖一"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:50610",
+            "text": "山出和仁"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ION"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:50610",
+          "text": "山出和仁"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ION"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "sky color notes"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：ION\n艺术家：ION(1,2)\n作词：ION(1)、権藤はなよ(2)、林柳波(2)\n作曲：山出和仁(1)、下総皖一(2)\n编曲：山出和仁(1,2)、下総皖一(2)\n混音：山出和仁(1,2)\n母带制作：山出和仁\n插图：ION\n厂牌：sky color notes"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-15T13:26:54.102Z"
+  }
+}
