@@ -1,0 +1,184 @@
+{
+  "subjectId": 712737,
+  "trackCredits": {
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Pendulum Pandemonium"
+          }
+        }
+      ]
+    },
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Revy"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Revy"
+          }
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:103771",
+            "text": "Orca"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ayakashi"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ayakashi"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "shel"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "shel"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Tetsue"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Tetsue"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "vocal": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ayakashi"
+        }
+      }
+    ],
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:91933",
+          "text": "松浦"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:91933",
+          "text": "松浦"
+        }
+      }
+    ],
+    "instrument": [
+      {
+        "type": "instrument_credit",
+        "person": {
+          "ref": null,
+          "text": "ayakashi"
+        },
+        "inst": "Guitar"
+      },
+      {
+        "type": "instrument_credit",
+        "person": {
+          "ref": null,
+          "text": "Tetsue"
+        },
+        "inst": "Guitar"
+      },
+      {
+        "type": "instrument_credit",
+        "person": {
+          "ref": null,
+          "text": "Revy"
+        },
+        "inst": "Guitar"
+      },
+      {
+        "type": "instrument_credit",
+        "person": {
+          "ref": null,
+          "text": "Revy"
+        },
+        "inst": "Bass"
+      },
+      {
+        "type": "instrument_credit",
+        "person": {
+          "ref": null,
+          "text": "Art shelke"
+        },
+        "inst": "Drums"
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：Pendulum Pandemonium(5)\n作词：Revy(1)、ayakashi(2)、shel(3)、Tetsue(4)\n作曲：Revy(1)、ayakashi(2)、shel(3)、Tetsue(4)\n声乐：ayakashi\n混音：松浦\n母带制作：松浦\n客串：Orca(1)\n乐器-Guitar：ayakashi、Tetsue、Revy\n乐器-Bass：Revy\n乐器-Drums：Art shelke"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-15T12:55:05.773Z"
+  }
+}
