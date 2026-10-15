@@ -87,15 +87,6 @@
           }
         }
       ],
-      "mixing": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "羽島風画"
-          }
-        }
-      ],
       "instrument": [
         {
           "type": "instrument_credit",
@@ -113,6 +104,15 @@
           },
           "inst": "Drums"
         }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6612",
+            "text": "羽鳥風画"
+          }
+        }
       ]
     },
     "1.4": {
@@ -129,8 +129,8 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
-            "text": "羽島風画"
+            "ref": "p:6612",
+            "text": "羽鳥風画"
           }
         }
       ],
@@ -138,8 +138,8 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
-            "text": "羽島風画"
+            "ref": "p:6612",
+            "text": "羽鳥風画"
           }
         }
       ]
@@ -184,6 +184,24 @@
         }
       }
     ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "来宮りお"
+        }
+      },
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "ますだめぐみ"
+          },
+          " (Emblem)"
+        ]
+      }
+    ],
     "mastering": [
       {
         "type": "person",
@@ -204,38 +222,20 @@
       {
         "parts": [
           {
-            "ref": null,
+            "ref": "p:104686",
             "text": "小吉よこ"
           },
           " (SD Illust)"
         ]
       }
-    ],
-    "design": [
-      {
-        "type": "person",
-        "person": {
-          "ref": null,
-          "text": "来宮りお"
-        }
-      },
-      {
-        "parts": [
-          {
-            "ref": null,
-            "text": "ますだめぐみ"
-          },
-          " (Emblem)"
-        ]
-      }
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：苺咲べりぃ\n作词：葉月リョウヘイ(1)、結崎有理(2)、七乃二条(3)、Kyrie(4)、ねぎとろ。(5)\n作曲：ひかげ(1)、ねぎとろ。(2,5)、Yuy(3)、羽島風画(4)\n编曲：ひかげ(1)、ねぎとろ。(2,5)、Yuy(3)、羽島風画(4)\n混音：羽島風画(3)\n母带制作：スタジオセブン\n插图：BORUMETE\n设计：来宮りお\n设计-Emblem：ますだめぐみ\n插图-SD Illust：小吉よこ\n乐器-Bass：あばら(3)\n乐器-Drums：hiroto kanzaki(3)"
+    "editor": "艺术家：苺咲べりぃ\n作词：葉月リョウヘイ(1)、結崎有理(2)、七乃二条(3)、Kyrie(4)、ねぎとろ。(5)\n作曲：ひかげ(1)、ねぎとろ。(2,5)、Yuy(3)、羽鳥風画(4)\n编曲：ひかげ(1)、ねぎとろ。(2,5)、Yuy(3)、羽鳥風画(4)\n混音：羽鳥風画(3)\n母带制作：スタジオセブン\n插图：BORUMETE\n设计：来宮りお\n设计-Emblem：ますだめぐみ\n插图-SD Illust：小吉よこ\n乐器-Bass：あばら(3)\n乐器-Drums：hiroto kanzaki(3)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-15T13:17:01.968Z"
+    "submittedAt": "2026-10-15T13:32:36.325Z"
   }
 }
