@@ -1,0 +1,248 @@
+{
+  "subjectId": 712792,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69718",
+            "text": "つゆり"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69719",
+            "text": "はみ出すおにく"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69719",
+            "text": "はみ出すおにく"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69719",
+            "text": "はみ出すおにく"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69718",
+            "text": "つゆり"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68038",
+            "text": "きむ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68038",
+            "text": "きむ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68038",
+            "text": "きむ"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69718",
+            "text": "つゆり"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69718",
+            "text": "つゆり"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69719",
+            "text": "はみ出すおにく"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69719",
+            "text": "はみ出すおにく"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69718",
+            "text": "つゆり"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68038",
+            "text": "きむ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68038",
+            "text": "きむ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68038",
+            "text": "きむ"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69718",
+            "text": "つゆり"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Agi Shikome"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69719",
+            "text": "はみ出すおにく"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69719",
+            "text": "はみ出すおにく"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69719",
+            "text": "はみ出すおにく"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "きゆ"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69722",
+          "text": "etherium"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "きゆ"
+        }
+      }
+    ],
+    "narration": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69718",
+          "text": "つゆり"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：つゆり(1-5)、Agi Shikome(5)\n作词：はみ出すおにく(1,5)、きむ(2,4)、つゆり(3)\n作曲：はみ出すおにく(1,3,5)、きむ(2,4)\n编曲：はみ出すおにく(1,3,5)、きむ(2,4)\n插图：きゆ\n厂牌：etherium\n设计：きゆ\n念白/旁白：つゆり"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-15T18:07:04.149Z"
+  }
+}
