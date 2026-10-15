@@ -1,0 +1,259 @@
+{
+  "subjectId": 712791,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25690",
+            "text": "ちょこ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86253",
+            "text": "MEA"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86253",
+            "text": "MEA"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86253",
+            "text": "MEA"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "n/a"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25690",
+            "text": "ちょこ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36097",
+            "text": "オッカ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36097",
+            "text": "オッカ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36097",
+            "text": "オッカ"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25690",
+            "text": "ちょこ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36097",
+            "text": "オッカ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36097",
+            "text": "オッカ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36097",
+            "text": "オッカ"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25690",
+            "text": "ちょこ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "aina"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:35932",
+            "text": "Capchii"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:35932",
+            "text": "Capchii"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25690",
+            "text": "ちょこ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:18691",
+            "text": "A than_Lily"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:18691",
+            "text": "A than_Lily"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:18691",
+            "text": "A than_Lily"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:35068",
+          "text": "かそかそ"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:66121",
+          "text": "ねことりな"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ちょこっとだけ"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:82389",
+          "text": "かねこあみ"
+        }
+      },
+      {
+        "parts": [
+          {
+            "ref": "p:82389",
+            "text": "かねこあみ"
+          },
+          " (Logo)"
+        ]
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：ちょこ(1-5)\n作词：MEA(1)、オッカ(2,3)、aina(4)、A than_Lily(5)\n作曲：MEA(1)、オッカ(2,3)、Capchii(4)、A than_Lily(5)\n编曲：MEA(1)、オッカ(2,3)、Capchii(4)、A than_Lily(5)\n混音：《n/a》(1)\n母带制作：かそかそ\n插图：ねことりな\n厂牌：ちょこっとだけ\n设计：かねこあみ\n设计-Logo：かねこあみ"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-15T18:03:59.628Z"
+  }
+}
