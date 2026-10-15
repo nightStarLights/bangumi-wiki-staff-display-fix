@@ -1,0 +1,241 @@
+{
+  "subjectId": 712742,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65196",
+            "text": "葉月リョウヘイ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69530",
+            "text": "ひかげ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69530",
+            "text": "ひかげ"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:57855",
+            "text": "結崎有理"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66975",
+            "text": "ねぎとろ。"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66975",
+            "text": "ねぎとろ。"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68387",
+            "text": "七乃二条"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66227",
+            "text": "Yuy"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66227",
+            "text": "Yuy"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "羽島風画"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "あばら"
+          },
+          "inst": "Bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "hiroto kanzaki"
+          },
+          "inst": "Drums"
+        }
+      ]
+    },
+    "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Kyrie"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "羽島風画"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "羽島風画"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66975",
+            "text": "ねぎとろ。"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66975",
+            "text": "ねぎとろ。"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66975",
+            "text": "ねぎとろ。"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:81704",
+          "text": "苺咲べりぃ"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "スタジオセブン"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:81702",
+          "text": "BORUMETE"
+        }
+      },
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "小吉よこ"
+          },
+          " (SD Illust)"
+        ]
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "来宮りお"
+        }
+      },
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "ますだめぐみ"
+          },
+          " (Emblem)"
+        ]
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：苺咲べりぃ\n作词：葉月リョウヘイ(1)、結崎有理(2)、七乃二条(3)、Kyrie(4)、ねぎとろ。(5)\n作曲：ひかげ(1)、ねぎとろ。(2,5)、Yuy(3)、羽島風画(4)\n编曲：ひかげ(1)、ねぎとろ。(2,5)、Yuy(3)、羽島風画(4)\n混音：羽島風画(3)\n母带制作：スタジオセブン\n插图：BORUMETE\n设计：来宮りお\n设计-Emblem：ますだめぐみ\n插图-SD Illust：小吉よこ\n乐器-Bass：あばら(3)\n乐器-Drums：hiroto kanzaki(3)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-15T13:17:01.968Z"
+  }
+}
