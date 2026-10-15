@@ -1,0 +1,5687 @@
+{
+  "subjectId": 4224,
+  "trackCredits": {
+    "1.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:886",
+            "text": "渡辺岳夫"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:613",
+            "text": "井荻麟"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25610",
+            "text": "池田鴻"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1249",
+            "text": "松山祐士"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:886",
+            "text": "渡辺岳夫"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:613",
+            "text": "井荻麟"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25610",
+            "text": "池田鴻"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1249",
+            "text": "松山祐士"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:886",
+            "text": "渡辺岳夫"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:613",
+            "text": "井荻麟"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25611",
+            "text": "堀光一路"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1249",
+            "text": "松山祐士"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:886",
+            "text": "渡辺岳夫"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:613",
+            "text": "井荻麟"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:4447",
+            "text": "戸田恵子"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1249",
+            "text": "松山祐士"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:886",
+            "text": "渡辺岳夫"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:613",
+            "text": "井荻麟"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:4447",
+            "text": "戸田恵子"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1249",
+            "text": "松山祐士"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10430",
+            "text": "谷村新司"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10430",
+            "text": "谷村新司"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:24810",
+            "text": "やしきたかじん"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:834",
+            "text": "青木望"
+          }
+        }
+      ]
+    },
+    "6.7": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10430",
+            "text": "谷村新司"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10430",
+            "text": "谷村新司"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10430",
+            "text": "谷村新司"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:101",
+            "text": "菅野よう子"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:24810",
+            "text": "やしきたかじん"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:613",
+            "text": "井荻麟"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:24810",
+            "text": "やしきたかじん"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1008",
+            "text": "飛澤宏元"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15422",
+            "text": "井上大輔"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:613",
+            "text": "井荻麟"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15422",
+            "text": "井上大輔"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15422",
+            "text": "井上大輔"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15422",
+            "text": "井上大輔"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:613",
+            "text": "井荻麟"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15422",
+            "text": "井上大輔"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15422",
+            "text": "井上大輔"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15422",
+            "text": "井上大輔"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:613",
+            "text": "井荻麟"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15422",
+            "text": "井上大輔"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15422",
+            "text": "井上大輔"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15422",
+            "text": "井上大輔"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:613",
+            "text": "井荻麟"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:24954",
+            "text": "売野雅勇"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15422",
+            "text": "井上大輔"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:95",
+            "text": "鷺巣詩郎"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:94456",
+            "text": "Taja"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "田中菜穂"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:94456",
+            "text": "Taja"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:94456",
+            "text": "Taja"
+          }
+        }
+      ]
+    },
+    "1.13": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:94456",
+            "text": "Taja"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "田中菜穂"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:94456",
+            "text": "Taja"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:94456",
+            "text": "Taja"
+          }
+        }
+      ]
+    },
+    "1.16": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:94456",
+            "text": "Taja"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "田中菜穂"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:94456",
+            "text": "Taja"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:94456",
+            "text": "Taja"
+          }
+        }
+      ]
+    },
+    "1.14": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:14979",
+            "text": "横田はるな"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:14979",
+            "text": "横田はるな"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:14979",
+            "text": "横田はるな"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1704",
+            "text": "西田マサラ"
+          }
+        }
+      ]
+    },
+    "1.15": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6108",
+            "text": "柿島伸次"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ああ"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6108",
+            "text": "柿島伸次"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1704",
+            "text": "西田マサラ"
+          }
+        }
+      ]
+    },
+    "2.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "YUMENO MAOTO"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11279",
+            "text": "渡辺なつみ"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8382",
+            "text": "米倉千尋"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1343",
+            "text": "見良津健雄"
+          }
+        }
+      ]
+    },
+    "2.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "三浦一年"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "朝倉京子"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8382",
+            "text": "米倉千尋"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1343",
+            "text": "見良津健雄"
+          }
+        }
+      ]
+    },
+    "2.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:21371",
+            "text": "都志見隆"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10946",
+            "text": "工藤哲雄"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8382",
+            "text": "米倉千尋"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10874",
+            "text": "CHOKKAKU"
+          }
+        }
+      ]
+    },
+    "2.7": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:21371",
+            "text": "都志見隆"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:62339",
+            "text": "安藤芳彦"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:28250",
+            "text": "松原みき"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:21371",
+            "text": "都志見隆"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:514",
+            "text": "萩田光雄"
+          }
+        }
+      ]
+    },
+    "2.11": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:21371",
+            "text": "都志見隆"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "リンダ・ヘンリック"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:28250",
+            "text": "松原みき"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "志熊研三"
+          }
+        }
+      ]
+    },
+    "2.4": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:18979",
+            "text": "鵜島仁文"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11279",
+            "text": "渡辺なつみ"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8382",
+            "text": "米倉千尋"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1343",
+            "text": "見良津健雄"
+          }
+        }
+      ]
+    },
+    "5.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:18979",
+            "text": "鵜島仁文"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:18979",
+            "text": "鵜島仁文"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:18979",
+            "text": "鵜島仁文"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:18979",
+            "text": "鵜島仁文"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:2608",
+            "text": "樫原伸彦"
+          }
+        }
+      ]
+    },
+    "5.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:18979",
+            "text": "鵜島仁文"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:18979",
+            "text": "鵜島仁文"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:18979",
+            "text": "鵜島仁文"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:18979",
+            "text": "鵜島仁文"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:14819",
+            "text": "岸利至"
+          }
+        }
+      ]
+    },
+    "2.5": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:19027",
+            "text": "椎名恵"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:19027",
+            "text": "椎名恵"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:19027",
+            "text": "椎名恵"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:944",
+            "text": "戸塚修"
+          }
+        }
+      ]
+    },
+    "2.6": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:19027",
+            "text": "椎名恵"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:19027",
+            "text": "椎名恵"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:19027",
+            "text": "椎名恵"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:944",
+            "text": "戸塚修"
+          }
+        }
+      ]
+    },
+    "2.8": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Jacob Wheeler"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Jacob Wheeler"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Jacob Wheeler"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "志熊研三"
+          }
+        }
+      ]
+    },
+    "2.9": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:28250",
+            "text": "松原みき"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:62339",
+            "text": "安藤芳彦"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:19011",
+            "text": "MIQ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:514",
+            "text": "萩田光雄"
+          }
+        }
+      ]
+    },
+    "2.12": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:28250",
+            "text": "松原みき"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "リンダ・ヘンリック"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:19011",
+            "text": "MIQ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:514",
+            "text": "萩田光雄"
+          }
+        }
+      ]
+    },
+    "2.14": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:28250",
+            "text": "松原みき"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:62339",
+            "text": "安藤芳彦"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "和田るみ子"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:514",
+            "text": "萩田光雄"
+          }
+        }
+      ]
+    },
+    "2.10": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10995",
+            "text": "鈴木キサブロー"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25792",
+            "text": "佐藤ありす"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:19011",
+            "text": "MIQ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:514",
+            "text": "萩田光雄"
+          }
+        }
+      ]
+    },
+    "2.13": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10995",
+            "text": "鈴木キサブロー"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "リンダ・ヘンリック"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:19011",
+            "text": "MIQ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:514",
+            "text": "萩田光雄"
+          }
+        }
+      ]
+    },
+    "2.15": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "田中弥生"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25792",
+            "text": "佐藤ありす"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "和田るみ子"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:514",
+            "text": "萩田光雄"
+          }
+        }
+      ]
+    },
+    "3.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:24953",
+            "text": "Neil Sedaka"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:24953",
+            "text": "Neil Sedaka"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:16026",
+            "text": "鮎川麻弥"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1134",
+            "text": "渡辺博也"
+          }
+        }
+      ]
+    },
+    "3.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:24953",
+            "text": "Neil Sedaka"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "フィリップ・コーディ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:24953",
+            "text": "Neil Sedaka"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "フィリップ・コーディ"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:16026",
+            "text": "鮎川麻弥"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1134",
+            "text": "渡辺博也"
+          }
+        }
+      ]
+    },
+    "3.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:24953",
+            "text": "Neil Sedaka"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:24954",
+            "text": "売野雅勇"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:13739",
+            "text": "森口博子"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:258",
+            "text": "馬飼野康二"
+          }
+        }
+      ]
+    },
+    "3.4": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:258",
+            "text": "馬飼野康二"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:613",
+            "text": "井荻麟"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:13739",
+            "text": "森口博子"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:258",
+            "text": "馬飼野康二"
+          }
+        }
+      ]
+    },
+    "3.5": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5925",
+            "text": "GACKT"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5925",
+            "text": "GACKT"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5925",
+            "text": "GACKT"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5925",
+            "text": "GACKT"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "chachamaru"
+          }
+        }
+      ]
+    },
+    "3.6": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5925",
+            "text": "GACKT"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5925",
+            "text": "GACKT"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5925",
+            "text": "GACKT"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5925",
+            "text": "GACKT"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "chachamaru"
+          }
+        }
+      ]
+    },
+    "3.7": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5925",
+            "text": "GACKT"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5925",
+            "text": "GACKT"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5925",
+            "text": "GACKT"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5925",
+            "text": "GACKT"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "chachamaru"
+          }
+        }
+      ]
+    },
+    "3.8": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5925",
+            "text": "GACKT"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5925",
+            "text": "GACKT"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5925",
+            "text": "GACKT"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5925",
+            "text": "GACKT"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "chachamaru"
+          }
+        }
+      ]
+    },
+    "3.9": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5925",
+            "text": "GACKT"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5925",
+            "text": "GACKT"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5925",
+            "text": "GACKT"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5925",
+            "text": "GACKT"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "chachamaru"
+          }
+        }
+      ]
+    },
+    "3.10": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "山崎ますみ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9558",
+            "text": "岩里祐穂"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6504",
+            "text": "コミネリサ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:2719",
+            "text": "江口貴勅"
+          }
+        }
+      ]
+    },
+    "3.11": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:14192",
+            "text": "野井洋児"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "川上次郎"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "川上次郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:30084",
+            "text": "土肥真生"
+          }
+        }
+      ]
+    },
+    "3.12": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:647",
+            "text": "芹澤廣明"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:2706",
+            "text": "秋元康"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100440",
+            "text": "新井正人"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:95",
+            "text": "鷺巣詩郎"
+          }
+        }
+      ]
+    },
+    "3.13": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:647",
+            "text": "芹澤廣明"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:2706",
+            "text": "秋元康"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100440",
+            "text": "新井正人"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:95",
+            "text": "鷺巣詩郎"
+          }
+        }
+      ]
+    },
+    "3.14": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:647",
+            "text": "芹澤廣明"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:24954",
+            "text": "売野雅勇"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100441",
+            "text": "ひろえ純"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1227",
+            "text": "若草恵"
+          }
+        }
+      ]
+    },
+    "3.15": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:647",
+            "text": "芹澤廣明"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:613",
+            "text": "井荻麟"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100441",
+            "text": "ひろえ純"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1227",
+            "text": "若草恵"
+          }
+        }
+      ]
+    },
+    "3.16": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:14703",
+            "text": "平田祥一郎"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84941",
+            "text": "大内正徳"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:14703",
+            "text": "平田祥一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:14703",
+            "text": "平田祥一郎"
+          }
+        }
+      ]
+    },
+    "3.17": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1576",
+            "text": "小室哲哉"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:16317",
+            "text": "小室みつ子"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1576",
+            "text": "小室哲哉"
+          }
+        }
+      ]
+    },
+    "4.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:26060",
+            "text": "西脇唯"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "緒里原洋子"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:26060",
+            "text": "西脇唯"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:13739",
+            "text": "森口博子"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:2195",
+            "text": "門倉聡"
+          }
+        }
+      ]
+    },
+    "4.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:27746",
+            "text": "茂村泰彦"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:613",
+            "text": "井荻麟"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:27746",
+            "text": "茂村泰彦"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:13739",
+            "text": "森口博子"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:2195",
+            "text": "門倉聡"
+          }
+        }
+      ]
+    },
+    "4.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:14287",
+            "text": "川添智久"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:613",
+            "text": "井荻麟"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "みかみ麗緒"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:14287",
+            "text": "川添智久"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:14287",
+            "text": "川添智久"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:29148",
+            "text": "井上龍仁"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "神長弘一"
+          }
+        }
+      ]
+    },
+    "4.4": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "長友仍世"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "長友仍世"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "infix"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "板倉雅一"
+          }
+        }
+      ]
+    },
+    "4.5": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "小泉誠司"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:26060",
+            "text": "西脇唯"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67847",
+            "text": "RD"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10672",
+            "text": "福田裕彦"
+          }
+        }
+      ]
+    },
+    "5.9": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "小泉誠司"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:13605",
+            "text": "松本花奈"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "大石ルミ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "多田光裕"
+          }
+        }
+      ]
+    },
+    "4.6": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "安宅美春"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "浜口司"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:12948",
+            "text": "葉山たけし"
+          }
+        }
+      ]
+    },
+    "4.7": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1762",
+            "text": "千住明"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:613",
+            "text": "井荻麟"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15039",
+            "text": "小峰公子"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1762",
+            "text": "千住明"
+          }
+        }
+      ]
+    },
+    "4.9": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1762",
+            "text": "千住明"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:613",
+            "text": "井荻麟"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ACEILUX(アキラ)"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1762",
+            "text": "千住明"
+          }
+        }
+      ]
+    },
+    "4.10": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1762",
+            "text": "千住明"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:613",
+            "text": "井荻麟"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:4089",
+            "text": "市原由美"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1762",
+            "text": "千住明"
+          }
+        }
+      ]
+    },
+    "4.8": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:745",
+            "text": "保刈久明"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:613",
+            "text": "井荻麟"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15039",
+            "text": "小峰公子"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "KARAK"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "KARAK"
+          }
+        }
+      ]
+    },
+    "4.11": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:2467",
+            "text": "岩崎元是"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:613",
+            "text": "井荻麟"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:2467",
+            "text": "岩崎元是"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:2467",
+            "text": "岩崎元是"
+          }
+        }
+      ]
+    },
+    "5.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "白川明"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100266",
+            "text": "井上望"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "彩恵津子"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84932",
+            "text": "小西真理"
+          }
+        }
+      ]
+    },
+    "5.4": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:2608",
+            "text": "樫原伸彦"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "池永康記"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "井上武英"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "斎藤誠"
+          }
+        }
+      ]
+    },
+    "5.5": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:32",
+            "text": "田中公平"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:62339",
+            "text": "安藤芳彦"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:4124",
+            "text": "天野由梨"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1821",
+            "text": "溝口肇"
+          }
+        }
+      ]
+    },
+    "5.7": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:32",
+            "text": "田中公平"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:62339",
+            "text": "安藤芳彦"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "大山修司"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:32",
+            "text": "田中公平"
+          }
+        }
+      ]
+    },
+    "5.6": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6281",
+            "text": "新居昭乃"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6281",
+            "text": "新居昭乃"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "NISHIKIORI TAKAKO"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:4124",
+            "text": "天野由梨"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6281",
+            "text": "新居昭乃"
+          }
+        }
+      ]
+    },
+    "5.8": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9958",
+            "text": "TWO-MIX"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9958",
+            "text": "TWO-MIX"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9958",
+            "text": "TWO-MIX"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9958",
+            "text": "TWO-MIX"
+          }
+        }
+      ]
+    },
+    "5.10": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9958",
+            "text": "TWO-MIX"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9958",
+            "text": "TWO-MIX"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9958",
+            "text": "TWO-MIX"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9958",
+            "text": "TWO-MIX"
+          }
+        }
+      ]
+    },
+    "5.11": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:3933",
+            "text": "高山みなみ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15381",
+            "text": "永野椎菜"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9958",
+            "text": "TWO-MIX"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:3933",
+            "text": "高山みなみ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15381",
+            "text": "永野椎菜"
+          }
+        }
+      ]
+    },
+    "5.12": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:3933",
+            "text": "高山みなみ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15381",
+            "text": "永野椎菜"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9958",
+            "text": "TWO-MIX"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9958",
+            "text": "TWO-MIX"
+          }
+        }
+      ]
+    },
+    "6.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:26059",
+            "text": "ROMANTIC MODE"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:26059",
+            "text": "ROMANTIC MODE"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:26059",
+            "text": "ROMANTIC MODE"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:26059",
+            "text": "ROMANTIC MODE"
+          }
+        }
+      ]
+    },
+    "6.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Tom Keane"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Susanne Marie Edgren"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Warren Weibee"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Tom Keane"
+          }
+        }
+      ]
+    },
+    "6.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Tom Keane"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Susanne Marie Edgren"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:26062",
+            "text": "re-kiss"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:2535",
+            "text": "須藤賢一"
+          }
+        }
+      ]
+    },
+    "6.4": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:2995",
+            "text": "ジョー・リノイエ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:26060",
+            "text": "西脇唯"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:26059",
+            "text": "ROMANTIC MODE"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:2995",
+            "text": "ジョー・リノイエ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10659",
+            "text": "鈴川真樹"
+          }
+        }
+      ]
+    },
+    "9.4": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:2995",
+            "text": "ジョー・リノイエ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:85209",
+            "text": "MASAKI (MASAKI project)"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10640",
+            "text": "ステファニー"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8141",
+            "text": "矢住夏菜"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10640",
+            "text": "ステファニー"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:2995",
+            "text": "ジョー・リノイエ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "峰正典"
+          }
+        }
+      ]
+    },
+    "6.5": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:26063",
+            "text": "濱田金吾"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:16317",
+            "text": "小室みつ子"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "中瀬聡美"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Tom Keane"
+          }
+        }
+      ]
+    },
+    "6.6": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1774",
+            "text": "小林亜星"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:613",
+            "text": "井荻麟"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:22099",
+            "text": "西城秀樹"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "矢田部正"
+          }
+        }
+      ]
+    },
+    "6.11": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1774",
+            "text": "小林亜星"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:613",
+            "text": "井荻麟"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:22099",
+            "text": "西城秀樹"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "矢田部正"
+          }
+        }
+      ]
+    },
+    "6.8": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "浜口祐夢"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:613",
+            "text": "井荻麟"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "浜口祐夢"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "RAY-GUNS"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "RAY-GUNS"
+          }
+        }
+      ]
+    },
+    "6.9": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:101",
+            "text": "菅野よう子"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:613",
+            "text": "井荻麟"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10843",
+            "text": "奥井亜紀"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:101",
+            "text": "菅野よう子"
+          }
+        }
+      ]
+    },
+    "6.10": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:101",
+            "text": "菅野よう子"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "C.Piece"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10843",
+            "text": "奥井亜紀"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:101",
+            "text": "菅野よう子"
+          }
+        }
+      ]
+    },
+    "6.12": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:101",
+            "text": "菅野よう子"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:101",
+            "text": "Gabriela Robin"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:101",
+            "text": "Gabriela Robin"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:101",
+            "text": "菅野よう子"
+          }
+        }
+      ]
+    },
+    "6.13": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:101",
+            "text": "菅野よう子"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:613",
+            "text": "井荻麟"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ホワイトドールの祭りの会一同"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:101",
+            "text": "菅野よう子"
+          }
+        }
+      ]
+    },
+    "6.14": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:101",
+            "text": "菅野よう子"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:613",
+            "text": "井荻麟"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "レット隊"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:101",
+            "text": "菅野よう子"
+          }
+        }
+      ]
+    },
+    "6.15": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:101",
+            "text": "菅野よう子"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:29046",
+            "text": "Chris Mosdell"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Maryanne Murrary"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:101",
+            "text": "菅野よう子"
+          }
+        }
+      ]
+    },
+    "6.16": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:101",
+            "text": "菅野よう子"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:29046",
+            "text": "Chris Mosdell"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "大塚宗一郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:101",
+            "text": "菅野よう子"
+          }
+        }
+      ]
+    },
+    "6.17": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:101",
+            "text": "菅野よう子"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:29046",
+            "text": "Chris Mosdell"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:14491",
+            "text": "Donna Burke"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:101",
+            "text": "菅野よう子"
+          }
+        }
+      ]
+    },
+    "7.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:3250",
+            "text": "浅倉大介"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10395",
+            "text": "井上秋緒"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:49686",
+            "text": "T.M.Revolution"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:3250",
+            "text": "浅倉大介"
+          }
+        }
+      ]
+    },
+    "7.9": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:3250",
+            "text": "浅倉大介"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10395",
+            "text": "井上秋緒"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:49686",
+            "text": "T.M.Revolution"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:3250",
+            "text": "浅倉大介"
+          }
+        }
+      ]
+    },
+    "7.12": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:3250",
+            "text": "浅倉大介"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10395",
+            "text": "井上秋緒"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:49686",
+            "text": "T.M.Revolution"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:3250",
+            "text": "浅倉大介"
+          }
+        }
+      ]
+    },
+    "8.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:3250",
+            "text": "浅倉大介"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10395",
+            "text": "井上秋緒"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:49686",
+            "text": "T.M.Revolution"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:3250",
+            "text": "浅倉大介"
+          }
+        }
+      ]
+    },
+    "8.11": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:3250",
+            "text": "浅倉大介"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10395",
+            "text": "井上秋緒"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:49686",
+            "text": "T.M.Revolution"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:3250",
+            "text": "浅倉大介"
+          }
+        }
+      ]
+    },
+    "7.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1595",
+            "text": "梶浦由記"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6596",
+            "text": "石川智晶"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7461",
+            "text": "See-Saw"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1595",
+            "text": "梶浦由記"
+          }
+        }
+      ]
+    },
+    "7.8": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1595",
+            "text": "梶浦由記"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1595",
+            "text": "梶浦由記"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:3862",
+            "text": "田中理恵"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72",
+            "text": "佐橋俊彦"
+          }
+        }
+      ]
+    },
+    "7.10": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1595",
+            "text": "梶浦由記"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1595",
+            "text": "梶浦由記"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:3862",
+            "text": "田中理恵"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1595",
+            "text": "梶浦由記"
+          }
+        }
+      ]
+    },
+    "7.11": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1595",
+            "text": "梶浦由記"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1595",
+            "text": "梶浦由記"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "FictionJunction YUUKA"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1595",
+            "text": "梶浦由記"
+          }
+        }
+      ]
+    },
+    "8.4": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1595",
+            "text": "梶浦由記"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15588",
+            "text": "有坂美香"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15588",
+            "text": "有坂美香"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1595",
+            "text": "梶浦由記"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10924",
+            "text": "西川進"
+          }
+        }
+      ]
+    },
+    "8.8": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1595",
+            "text": "梶浦由記"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6596",
+            "text": "石川智晶"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7461",
+            "text": "See-Saw"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1595",
+            "text": "梶浦由記"
+          }
+        }
+      ]
+    },
+    "8.9": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1595",
+            "text": "梶浦由記"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1595",
+            "text": "梶浦由記"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:3862",
+            "text": "田中理恵"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1595",
+            "text": "梶浦由記"
+          }
+        }
+      ]
+    },
+    "8.10": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1595",
+            "text": "梶浦由記"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1595",
+            "text": "梶浦由記"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:3867",
+            "text": "桑島法子"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1595",
+            "text": "梶浦由記"
+          }
+        }
+      ]
+    },
+    "8.12": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1595",
+            "text": "梶浦由記"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1595",
+            "text": "梶浦由記"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "FictionJunction YUUKA"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1595",
+            "text": "梶浦由記"
+          }
+        }
+      ]
+    },
+    "7.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:3311",
+            "text": "土橋安騎夫"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Vivian Or Kazuma"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Vivian Or Kazuma"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:3311",
+            "text": "土橋安騎夫"
+          }
+        }
+      ]
+    },
+    "7.4": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "あおい吉勇"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "西尾佐栄子"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6597",
+            "text": "玉置成実"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8925",
+            "text": "齋藤真也"
+          }
+        }
+      ]
+    },
+    "7.5": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:3308",
+            "text": "石井竜也"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:3308",
+            "text": "石井竜也"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:3308",
+            "text": "石井竜也"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:13784",
+            "text": "渡辺善太郎"
+          }
+        }
+      ]
+    },
+    "7.6": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:18363",
+            "text": "大谷靖夫"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:46536",
+            "text": "BOUNCEBACK"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6597",
+            "text": "玉置成実"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:18363",
+            "text": "大谷靖夫"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9063",
+            "text": "荒井洋明"
+          }
+        }
+      ]
+    },
+    "8.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:18363",
+            "text": "大谷靖夫"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71657",
+            "text": "shungo."
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6597",
+            "text": "玉置成実"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:23826",
+            "text": "ats-"
+          }
+        }
+      ]
+    },
+    "7.7": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:18682",
+            "text": "Lori Fine"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10352",
+            "text": "中島美嘉"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10352",
+            "text": "中島美嘉"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:18349",
+            "text": "島健"
+          }
+        }
+      ]
+    },
+    "7.13": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11524",
+            "text": "東野純直"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11524",
+            "text": "東野純直"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11524",
+            "text": "東野純直"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11091",
+            "text": "水島康貴"
+          }
+        }
+      ]
+    },
+    "7.14": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11351",
+            "text": "馬場一嘉"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "清水しょうこ"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "CHINO (Still... you turn me on)"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1704",
+            "text": "西田マサラ"
+          }
+        }
+      ]
+    },
+    "8.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "HIGH and MIGHTY COLOR"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "HIGH and MIGHTY COLOR"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "HIGH and MIGHTY COLOR"
+          }
+        }
+      ]
+    },
+    "8.15": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "HIGH and MIGHTY COLOR"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "HIGH and MIGHTY COLOR"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "HIGH and MIGHTY COLOR"
+          }
+        }
+      ]
+    },
+    "8.5": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11651",
+            "text": "中野雄太"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71657",
+            "text": "shungo."
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11651",
+            "text": "中野雄太"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:16326",
+            "text": "高橋瞳"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11651",
+            "text": "中野雄太"
+          }
+        }
+      ]
+    },
+    "8.6": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5855",
+            "text": "Rie fu"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5855",
+            "text": "Rie fu"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5855",
+            "text": "Rie fu"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "SNORKEL"
+          }
+        }
+      ]
+    },
+    "8.7": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11253",
+            "text": "谷口尚久"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "葛谷葉子"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:13552",
+            "text": "森雪之丞"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6195",
+            "text": "CHEMISTRY"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11253",
+            "text": "谷口尚久"
+          }
+        }
+      ]
+    },
+    "8.13": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9060",
+            "text": "藤末樹"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71657",
+            "text": "shungo."
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6597",
+            "text": "玉置成実"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8925",
+            "text": "齋藤真也"
+          }
+        }
+      ]
+    },
+    "8.14": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6504",
+            "text": "小峰理紗"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6504",
+            "text": "小峰理紗"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6504",
+            "text": "コミネリサ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:2719",
+            "text": "江口貴勅"
+          }
+        }
+      ]
+    },
+    "8.16": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11091",
+            "text": "水島康貴"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8805",
+            "text": "根岸さとり"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8805",
+            "text": "根岸さとり"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11091",
+            "text": "水島康貴"
+          }
+        }
+      ]
+    },
+    "9.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:18643",
+            "text": "THE BACK HORN"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67050",
+            "text": "菅波栄純"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:18643",
+            "text": "THE BACK HORN"
+          }
+        }
+      ]
+    },
+    "9.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15038",
+            "text": "奥田俊作"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7528",
+            "text": "川瀬智子"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:20445",
+            "text": "the brilliant green"
+          }
+        }
+      ]
+    },
+    "9.5": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "田中菜穂"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "狩野佑次"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "田中菜穂"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:94456",
+            "text": "Taja"
+          }
+        }
+      ]
+    },
+    "9.6": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15061",
+            "text": "TAKUYA"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "克哉"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15061",
+            "text": "TAKUYA"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10842",
+            "text": "UVERworld"
+          }
+        }
+      ]
+    },
+    "9.7": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6596",
+            "text": "石川智晶"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6596",
+            "text": "石川智晶"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6596",
+            "text": "石川智晶"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1704",
+            "text": "西田マサラ"
+          }
+        }
+      ]
+    },
+    "9.8": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "AIMI"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "AIMI"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "northa+"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6595",
+            "text": "ステレオポニー"
+          }
+        }
+      ]
+    },
+    "9.9": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:28611",
+            "text": "MARKIE"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:28611",
+            "text": "MARKIE"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:12543",
+            "text": "Jin Nakamura"
+          }
+        }
+      ]
+    },
+    "9.10": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15038",
+            "text": "Chiffon Brownie"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7528",
+            "text": "Tommy heavenly6"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7528",
+            "text": "Tommy heavenly6"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15038",
+            "text": "Chiffon Brownie"
+          }
+        }
+      ]
+    },
+    "9.11": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67",
+            "text": "川井憲次"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "浅見昻生"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ああ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:163",
+            "text": "黒田洋介"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1704",
+            "text": "西田マサラ"
+          }
+        }
+      ]
+    },
+    "10.4": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67",
+            "text": "川井憲次"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11279",
+            "text": "渡辺なつみ"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "結城梨沙"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67",
+            "text": "川井憲次"
+          }
+        }
+      ]
+    },
+    "10.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10765",
+            "text": "原一博"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11279",
+            "text": "渡辺なつみ"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:3909",
+            "text": "本多知恵子"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:3919",
+            "text": "林原めぐみ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:247",
+            "text": "岡田徹"
+          }
+        }
+      ]
+    },
+    "10.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:247",
+            "text": "岡田徹"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11279",
+            "text": "渡辺なつみ"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:4644",
+            "text": "水谷優子"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:247",
+            "text": "岡田徹"
+          }
+        }
+      ]
+    },
+    "10.7": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:247",
+            "text": "岡田徹"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11279",
+            "text": "渡辺なつみ"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:4663",
+            "text": "神代知衣"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:247",
+            "text": "岡田徹"
+          }
+        }
+      ]
+    },
+    "10.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "瀬井広明"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:62339",
+            "text": "安藤芳彦"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "清水咲斗子 (SATOKO)"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:944",
+            "text": "戸塚修"
+          }
+        }
+      ]
+    },
+    "10.5": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "竹沢好貴"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:62339",
+            "text": "安藤芳彦"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "清水咲斗子 (SATOKO)"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:944",
+            "text": "戸塚修"
+          }
+        }
+      ]
+    },
+    "10.6": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:27936",
+            "text": "西村智博"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:27936",
+            "text": "西村智博"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:27936",
+            "text": "西村智博"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:4112",
+            "text": "立木文彦"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "玉麻尚一"
+          }
+        }
+      ]
+    },
+    "10.8": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "尾関昌也"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9981",
+            "text": "木本慶子"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:3919",
+            "text": "林原めぐみ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:4188",
+            "text": "佐々木望"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:1121",
+            "text": "山中のりまさ"
+          }
+        }
+      ]
+    },
+    "10.9": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "津下陽祐"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:3704",
+            "text": "三重野瞳"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "辻本祥子"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "津下陽祐"
+          }
+        }
+      ]
+    },
+    "10.10": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:88730",
+            "text": "Andy Sturmer"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:16042",
+            "text": "PUFFY"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:16042",
+            "text": "PUFFY"
+          }
+        }
+      ]
+    },
+    "10.11": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7159",
+            "text": "Funta"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:24417",
+            "text": "Whiteberry"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "uco"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11094",
+            "text": "鈴木 \"DAICHI\" 秀行"
+          }
+        }
+      ]
+    },
+    "10.12": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:20286",
+            "text": "tetsuhiko"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10922",
+            "text": "十川知司"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:20286",
+            "text": "tetsuhiko"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6586",
+            "text": "little by little"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:20287",
+            "text": "tasuku"
+          }
+        }
+      ]
+    },
+    "10.13": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "DJ Mitsu"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Crystal Boy"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "HIDDEN FISH"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "g-ton"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ノリ・ダ・ファンキーシビレサス"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ヤス一番?"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "nobodyknows+"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "DJ Mitsu"
+          }
+        }
+      ]
+    },
+    "10.14": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:26843",
+            "text": "山田稔明"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:26843",
+            "text": "山田稔明"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "内田浩之"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:12952",
+            "text": "明石昌夫"
+          }
+        }
+      ]
+    },
+    "10.15": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "NAO from.HKP"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ai"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "NAO from.HKP"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:18785",
+            "text": "家原正樹"
+          }
+        }
+      ]
+    },
+    "10.16": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Yuka (博多)"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Sumika (Les.R)"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Les.R"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:748",
+            "text": "林有三"
+          }
+        }
+      ]
+    },
+    "9.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:20450",
+            "text": "HYDE"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15746",
+            "text": "L'Arc~en~Ciel"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "gunboy"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：池田鴻(1.1, 1.2)、堀光一路(1.3)、戸田恵子(1.4, 1.5)、やしきたかじん(1.6, 1.7)、井上大輔(1.8-11)、Taja(1.12, 1.13, 1.16)、横田はるな(1.14)、柿島伸次(1.15)、米倉千尋(2.1-4)、椎名恵(2.5, 2.6)、松原みき(2.7, 2.11)、Jacob Wheeler(2.8)、MIQ (MIO)(2.9, 2.10, 2.12, 2.13)、和田るみ子(2.14, 2.15)、鮎川麻弥(3.1, 3.2)、森口博子(3.3, 3.4, 4.1, 4.2)、GACKT(3.5-9)、コミネリサ(3.10, 8.14)、川上次郎(3.11)、新井正人(3.12, 3.13)、ひろえ純(3.14, 3.15)、平田祥一郎(3.16)、川添智久(4.3)、RD (RD-Sounds)(4.5)、小峰公子(4.7)、KARAK(4.8)、ACEILUX(アキラ)(4.9)、市原由美(4.10)、岩崎元是(4.11)、鵜島仁文(5.1, 5.3)、彩恵津子(5.2)、井上武英(5.4)、天野由梨(5.5, 5.6)、大山修司(5.7)、TWO-MIX(5.8, 5.10-12)、大石ルミ(5.9)、ROMANTIC MODE(6.1, 6.4)、Warren Weibee(6.2)、re-kiss (奥土居美可)(6.3)、中瀬聡美(6.5)、西城秀樹(6.6, 6.11)、谷村新司(6.7)、RAY-GUNS(6.8)、奥井亜紀(6.9, 6.10)、Gabriela Robin (菅野よう子)(6.12)、ホワイトドールの祭りの会一同(6.13)、レット隊(6.14)、Maryanne Murrary(6.15)、大塚宗一郎(6.16)、Donna Burke(6.17)、T.M.Revolution(7.1, 7.9, 7.12, 8.1, 8.11)、See-Saw(7.2, 8.8)、Vivian Or Kazuma(7.3)、玉置成実(7.4, 7.6, 8.2, 8.13)、石井竜也(7.5)、中島美嘉(7.7)、田中理恵(7.8, 7.10, 8.9)、FictionJunction YUUKA(7.11, 8.12)、東野純直(7.13)、CHINO (Still... you turn me on)(7.14)、有坂美香(8.4)、高橋瞳(8.5)、Rie fu(8.6)、CHEMISTRY(8.7)、桑島法子(8.10)、根岸さとり(8.16)、ステファニー (藤井ゆきよ)(9.4)、石川智晶(9.7)、Tommy heavenly6 (川瀬智子)(9.10)、本多知恵子(10.1)、林原めぐみ(10.1, 10.8)、水谷優子(10.2)、清水咲斗子 (SATOKO)(10.3, 10.5)、結城梨沙(10.4)、西村智博 (郭智博)(10.6)、立木文彦(10.6)、神代知衣(10.7)、佐々木望(10.8)、辻本祥子(10.9)、PUFFY(10.10)、little by little(10.12)、nobodyknows+(10.13)、Les.R(10.16)\n作词：井荻麟 (富野由悠季)(1.1-5, 1.7-11, 3.4, 3.15, 4.2, 4.3, 4.7-11, 6.6, 6.8, 6.9, 6.11, 6.13, 6.14)、谷村新司(1.6, 6.7)、売野雅勇(1.11, 3.3, 3.14)、田中菜穂(1.12, 1.13, 1.16, 9.5)、横田はるな(1.14)、ああ(1.15, 9.11)、渡辺なつみ(2.1, 2.4, 10.1, 10.2, 10.4, 10.7)、朝倉京子(2.2)、工藤哲雄(2.3)、椎名恵(2.5, 2.6)、安藤芳彦(2.7, 2.9, 2.14, 5.5, 5.7, 10.3, 10.5)、Jacob Wheeler(2.8)、佐藤ありす(2.10, 2.15)、《リンダ・ヘンリック》(2.11-13)、Neil Sedaka(3.1, 3.2)、《フィリップ・コーディ》(3.2)、GACKT(3.5-9)、岩里祐穂(3.10)、川上次郎(3.11)、秋元康(3.12, 3.13)、大内正徳(3.16)、小室みつ子(3.17, 6.5)、西脇唯(4.1, 4.5, 6.4)、茂村泰彦(4.2)、みかみ麗緒(4.3)、長友仍世(4.4)、浜口司(4.6)、小峰公子(4.8)、鵜島仁文(5.1, 5.3)、井上望(5.2)、池永康記(5.4)、新居昭乃(5.6)、NISHIKIORI TAKAKO(5.6)、TWO-MIX(5.8, 5.10)、松本花奈(5.9)、永野椎菜(5.11, 5.12)、ROMANTIC MODE(6.1)、Susanne Marie Edgren(6.2, 6.3)、浜口祐夢(6.8)、C.Piece(6.10)、Gabriela Robin (菅野よう子)(6.12)、Chris Mosdell(6.15-17)、井上秋緒(7.1, 7.9, 7.12, 8.1, 8.11)、石川智晶(7.2, 8.8, 9.7)、Vivian Or Kazuma(7.3)、西尾佐栄子(7.4)、石井竜也(7.5)、BOUNCEBACK(7.6)、中島美嘉(7.7)、梶浦由記(7.8, 7.10, 7.11, 8.9, 8.10, 8.12)、東野純直(7.13)、清水しょうこ(7.14)、shungo.(8.2, 8.5, 8.13)、HIGH and MIGHTY COLOR(8.3, 8.15)、有坂美香(8.4)、中野雄太(8.5)、Rie fu(8.6)、森雪之丞(8.7)、小峰理紗 (コミネリサ)(8.14)、根岸さとり(8.16)、HYDE(9.1)、菅波栄純(9.2)、川瀬智子(9.3)、ステファニー (藤井ゆきよ)(9.4)、矢住夏菜(9.4)、TAKUYA(9.6)、AIMI(9.8)、MARKIE(9.9)、Tommy heavenly6 (川瀬智子)(9.10)、黒田洋介(9.11)、西村智博 (郭智博)(10.6)、木本慶子(10.8)、三重野瞳(10.9)、PUFFY(10.10)、Whiteberry(10.11)、uco(10.11)、tetsuhiko(10.12)、Crystal Boy(10.13)、HIDDEN FISH(10.13)、g-ton(10.13)、《ノリ・ダ・ファンキーシビレサス》(10.13)、ヤス一番?(10.13)、山田稔明(10.14)、内田浩之(10.14)、ai(10.15)、Sumika (Les.R)(10.16)\n作曲：渡辺岳夫(1.1-5)、谷村新司(1.6, 6.7)、やしきたかじん(1.7)、井上大輔(1.8-11)、Taja(1.12, 1.13, 1.16)、横田はるな(1.14)、柿島伸次(1.15)、YUMENO MAOTO(2.1)、三浦一年(2.2)、都志見隆(2.3, 2.7, 2.11)、鵜島仁文(2.4, 5.1, 5.3)、椎名恵(2.5, 2.6)、Jacob Wheeler(2.8)、松原みき(2.9, 2.12, 2.14)、鈴木キサブロー(2.10, 2.13)、田中弥生(2.15)、Neil Sedaka(3.1-3)、《フィリップ・コーディ》(3.2)、馬飼野康二(3.4)、GACKT(3.5-9)、山崎ますみ(3.10)、野井洋児(3.11)、芹澤廣明(3.12-15)、平田祥一郎(3.16)、小室哲哉(3.17)、西脇唯(4.1)、緒里原洋子(4.1)、茂村泰彦(4.2)、川添智久(4.3)、長友仍世(4.4)、小泉誠司(4.5, 5.9)、安宅美春(4.6)、千住明(4.7, 4.9, 4.10)、保刈久明(4.8)、岩崎元是(4.11)、白川明(5.2)、樫原伸彦(5.4)、田中公平(5.5, 5.7)、新居昭乃(5.6)、TWO-MIX(5.8, 5.10)、高山みなみ(5.11, 5.12)、ROMANTIC MODE(6.1)、Tom Keane(6.2, 6.3)、《ジョー・リノイエ》 (Joe Rinoie)(6.4, 9.4)、濱田金吾(6.5)、小林亜星(6.6, 6.11)、浜口祐夢(6.8)、菅野よう子(6.9, 6.10, 6.12-17)、浅倉大介(7.1, 7.9, 7.12, 8.1, 8.11)、梶浦由記(7.2, 7.8, 7.10, 7.11, 8.4, 8.8-10, 8.12)、土橋安騎夫(7.3)、あおい吉勇(7.4)、石井竜也(7.5)、大谷靖夫(7.6, 8.2)、Lori Fine(7.7)、東野純直(7.13)、馬場一嘉(7.14)、HIGH and MIGHTY COLOR(8.3, 8.15)、中野雄太(8.5)、Rie fu(8.6)、谷口尚久(8.7)、葛谷葉子(8.7)、藤末樹(8.13)、小峰理紗 (コミネリサ)(8.14)、水島康貴(8.16)、THE BACK HORN(9.2)、奥田俊作(9.3)、MASAKI (MASAKI project)(9.4)、田中菜穂(9.5)、狩野佑次(9.5)、TAKUYA(9.6)、克哉(9.6)、石川智晶(9.7)、AIMI(9.8)、MARKIE(9.9)、Chiffon Brownie (奥田俊作)(9.10)、川井憲次(9.11, 10.4)、浅見昻生(9.11)、原一博(10.1)、岡田徹(10.2, 10.7)、瀬井広明(10.3)、竹沢好貴(10.5)、西村智博 (郭智博)(10.6)、尾関昌也(10.8)、津下陽祐(10.9)、Andy Sturmer(10.10)、Funta(10.11)、tetsuhiko(10.12)、十川知司 (十川ともじ)(10.12)、DJ Mitsu(10.13)、山田稔明(10.14)、NAO from.HKP(10.15)、Yuka (博多)(10.16)\n编曲：松山祐士(1.1-5)、青木望(1.6)、飛澤宏元(1.7)、井上大輔(1.8-10)、鷺巣詩郎(1.11, 3.12, 3.13)、Taja(1.12, 1.13, 1.16, 9.5)、西田マサラ(1.14, 1.15, 7.14, 9.7, 9.11)、見良津健雄(2.1, 2.2, 2.4)、CHOKKAKU(2.3)、戸塚修(2.5, 2.6, 10.3, 10.5)、都志見隆(2.7)、萩田光雄(2.7, 2.9, 2.10, 2.12-15)、志熊研三(2.8, 2.11)、渡辺博也(3.1, 3.2)、馬飼野康二(3.3, 3.4)、GACKT(3.5-9)、chachamaru(3.5-9)、江口貴勅(3.10, 8.14)、土肥真生(3.11)、若草恵(3.14, 3.15)、平田祥一郎(3.16)、小室哲哉(3.17)、門倉聡(4.1, 4.2)、川添智久(4.3)、井上龍仁 (月光恵亮)(4.3)、神長弘一(4.3)、infix(4.4)、板倉雅一(4.4)、福田裕彦(4.5)、葉山たけし(4.6)、千住明(4.7, 4.9, 4.10)、KARAK(4.8)、岩崎元是(4.11)、鵜島仁文(5.1, 5.3)、樫原伸彦(5.1)、小西真理(5.2)、岸利至(5.3)、斎藤誠(5.4)、溝口肇(5.5)、新居昭乃(5.6)、田中公平(5.7)、TWO-MIX(5.8, 5.10, 5.12)、多田光裕(5.9)、高山みなみ(5.11)、永野椎菜(5.11)、ROMANTIC MODE(6.1)、Tom Keane(6.2, 6.5)、須藤賢一(6.3)、《ジョー・リノイエ》 (Joe Rinoie)(6.4, 9.4)、鈴川真樹(6.4)、矢田部正(6.6, 6.11)、菅野よう子(6.7, 6.9, 6.10, 6.12-17)、RAY-GUNS(6.8)、浅倉大介(7.1, 7.9, 7.12, 8.1, 8.11)、梶浦由記(7.2, 7.10, 7.11, 8.4, 8.8-10, 8.12)、土橋安騎夫(7.3)、齋藤真也(7.4, 8.13)、渡辺善太郎(7.5)、大谷靖夫(7.6)、荒井洋明(7.6)、島健(7.7)、佐橋俊彦(7.8)、水島康貴(7.13, 8.16)、ats-(8.2)、HIGH and MIGHTY COLOR(8.3, 8.15)、西川進(8.4)、中野雄太(8.5)、SNORKEL(8.6)、谷口尚久(8.7)、L'Arc~en~Ciel(9.1)、THE BACK HORN(9.2)、the brilliant green(9.3)、峰正典(9.4)、UVERworld(9.6)、northa+(9.8)、ステレオポニー(9.8)、Jin Nakamura(9.9)、Chiffon Brownie (奥田俊作)(9.10)、岡田徹(10.1, 10.2, 10.7)、川井憲次(10.4)、玉麻尚一(10.6)、山中のりまさ (山中紀昌)(10.8)、津下陽祐(10.9)、《鈴木 \"DAICHI\" 秀行》 (鈴木Daichi秀行)(10.11)、tasuku(10.12)、DJ Mitsu(10.13)、明石昌夫(10.14)、NAO from.HKP(10.15)、家原正樹(10.15)、林有三(10.16)\n厂牌：gunboy"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-15T16:34:42.659Z"
+  }
+}
