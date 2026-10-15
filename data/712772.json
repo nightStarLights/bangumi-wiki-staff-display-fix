@@ -1,0 +1,508 @@
+{
+  "subjectId": 712772,
+  "trackCredits": {
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "＊xxxxxx＊"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "＊xxxxxx＊"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "onoken"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "onoken"
+            },
+            " & ",
+            {
+              "ref": null,
+              "text": "Atomic Tomoya"
+            }
+          ]
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Tamako Kinoshita"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "木下珠子"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "onoken"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "onoken"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Strings Arrangement: Osamu Kubota"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Chiho Saito"
+          },
+          "inst": "Violin"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Tomoko Asaksa"
+          },
+          "inst": "Piano"
+        }
+      ]
+    },
+    "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "b"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "onoken"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "onoken"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "b"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Chiho Saito"
+          },
+          "inst": "Violin"
+        }
+      ]
+    },
+    "1.1": {
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "《onoken"
+            },
+            " & ",
+            {
+              "ref": null,
+              "text": "ak+q》"
+            }
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "《onoken"
+            },
+            " & ",
+            {
+              "ref": null,
+              "text": "ak+q》"
+            }
+          ]
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Chiho Saito"
+          },
+          "inst": "Violin"
+        }
+      ]
+    },
+    "1.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "onoken"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "onoken"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Masahiro \"Godspeed\" Aoki (Guitar)"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "onoken"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "onoken"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Chiho Saito"
+          },
+          "inst": "Violin"
+        }
+      ]
+    },
+    "1.5": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "onoken"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "onoken"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Yusaku Tsuchiya"
+          },
+          "inst": "Violin"
+        }
+      ]
+    },
+    "1.6": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "onoken"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "onoken"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Sennzai"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Tomoko Asaka"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "朝香智子"
+            },
+            ")",
+            " (Piano)"
+          ]
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Y.O.U."
+          },
+          "inst": "Bass"
+        }
+      ]
+    },
+    "1.7": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "onoken"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "onoken"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "hiyama"
+          },
+          "inst": "Violin"
+        }
+      ]
+    },
+    "1.9": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "onoken"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "onoken"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Chiho Saito"
+          },
+          "inst": "Violin"
+        }
+      ]
+    },
+    "1.11": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "onoken a.k.a owl＊tree"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "onoken a.k.a owl＊tree"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "onoken"
+        }
+      }
+    ],
+    "mixing": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "Leiki Ueda"
+          },
+          " (",
+          {
+            "ref": null,
+            "text": "Leiki Ueda Studios"
+          },
+          ")"
+        ]
+      }
+    ],
+    "mastering": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "Wataru Ishii"
+          },
+          " (",
+          {
+            "ref": null,
+            "text": "OTONO WORK"
+          },
+          ")"
+        ]
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Ta-k"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "axsword"
+        }
+      }
+    ],
+    "recording": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "Gai"
+          },
+          " (",
+          {
+            "ref": null,
+            "text": "HOMURA SOUND"
+          },
+          ")"
+        ]
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：onoken、＊xxxxxx＊(8)、Tamako Kinoshita (木下珠子)(10)\n作词：b(4)、＊xxxxxx＊(8)\n作曲：《onoken & ak+q》(1)、onoken(2-10)、onoken a.k.a owl＊tree(11)\n编曲：《onoken & ak+q》(1)、onoken(2-7,9,10)、onoken & Atomic Tomoya(8)、《Strings Arrangement: Osamu Kubota》(10)、onoken a.k.a owl＊tree(11)\n声乐：b(4)、Sennzai(6)\n混音：Leiki Ueda (Leiki Ueda Studios)\n母带制作：Wataru Ishii (OTONO WORK)\n插图：Ta-k\n厂牌：axsword\n录音：Gai (HOMURA SOUND)\n乐器-Violin：Chiho Saito(1,3,4,9,10)、Yusaku Tsuchiya(5)、hiyama(7)\n乐器-Guitar：《Masahiro \"Godspeed\" Aoki》(2)\n乐器-Piano：Tomoko Asaka (朝香智子)(6)、Tomoko Asaksa(10)\n乐器-Bass：Y.O.U.(6)"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-15T15:56:59.543Z"
+  }
+}
