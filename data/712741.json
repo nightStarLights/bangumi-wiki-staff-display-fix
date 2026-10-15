@@ -1,0 +1,362 @@
+{
+  "subjectId": 712741,
+  "trackCredits": {
+    "1.1": {
+      "producer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "tenko"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Fuminosag"
+            },
+            " ft. ",
+            {
+              "ref": null,
+              "text": "ITSU"
+            }
+          ]
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Fuminosag"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "05"
+          }
+        }
+      ],
+      "label": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "null horizon"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Auto"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Auto"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "05"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Raphael"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Raphael"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "05"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "xfchlba"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "xfchlba"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "05"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "tenko"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "tenko"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "05"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Jian"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Jian"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "05"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83779",
+            "text": "Aspect"
+          }
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:93578",
+              "text": "Viznode"
+            },
+            " & ",
+            {
+              "ref": null,
+              "text": "pearl lump"
+            }
+          ]
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83779",
+            "text": "Aspect"
+          }
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:93578",
+              "text": "Viznode"
+            },
+            " & ",
+            {
+              "ref": null,
+              "text": "pearl lump"
+            }
+          ]
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "05"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "shameless."
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "shameless."
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "shameless."
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:83265",
+          "text": "YOTA SAKI"
+        }
+      }
+    ],
+    "design": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "ostin"
+          },
+          " (Initial Creature Design)"
+        ]
+      },
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "Panthullu"
+          },
+          " (Album Design)"
+        ]
+      },
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "Panthullu"
+          },
+          " (Logo)"
+        ]
+      },
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "C'Ryantic"
+          },
+          " (Logo)"
+        ]
+      },
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "Panthullu"
+          },
+          " (Typographic)"
+        ]
+      },
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "C'Ryantic"
+          },
+          " (Typographic)"
+        ]
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：tenko(1)\n艺术家：Fuminosag ft. ITSU(1)、Auto(2)、Raphael(3)、xfchlba(4)、tenko(5)、Jian(6)、Aspect(7)、Viznode & pearl lump(7)、shameless.(8)\n混音：Fuminosag(1)、Auto(2)、Raphael(3)、xfchlba(4)、tenko(5)、Jian(6)、Aspect(7)、Viznode & pearl lump(7)、shameless.(8)\n母带制作：05(1-7)、shameless.(8)\n插图：YOTA SAKI\n厂牌：null horizon(1)\n设计-Initial Creature Design：ostin\n设计-Album Design：Panthullu\n设计-Logo：Panthullu、C'Ryantic\n设计-Typographic：Panthullu、C'Ryantic"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-15T13:10:44.244Z"
+  }
+}
