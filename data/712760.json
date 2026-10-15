@@ -2,676 +2,660 @@
   "subjectId": 712760,
   "trackCredits": {
     "1.1": {
-      "custom-Lyrics": [
+      "lyricist": [
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93032",
             "text": "newfn"
           }
         }
       ],
-      "custom-Music": [
+      "composer": [
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93033",
             "text": "葉山結"
           }
         }
       ],
-      "custom-Arrangement": [
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:93032",
+            "text": "newfn"
+          },
+          "inst": "All Instruments"
+        }
+      ],
+      "custom-程序编写": [
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93032",
             "text": "newfn"
           }
         }
       ],
-      "custom-All Instruments & Programming": [
+      "mixing": [
         {
           "type": "person",
           "person": {
-            "ref": null,
-            "text": "newfn"
-          }
-        }
-      ],
-      "custom-Mixing": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
+            "ref": "p:93033",
             "text": "葉山結"
           }
         }
       ]
     },
     "1.2": {
-      "custom-Lyrics": [
+      "lyricist": [
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93034",
             "text": "丹下風"
           }
         },
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93035",
             "text": "柑田夏芽"
           }
         }
       ],
-      "custom-Music": [
+      "composer": [
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93032",
             "text": "newfn"
           }
         }
       ],
-      "custom-Arrangement": [
+      "instrument": [
         {
-          "type": "person",
+          "type": "instrument_credit",
           "person": {
-            "ref": null,
-            "text": "newfn"
-          }
-        }
-      ],
-      "custom-Guitar": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
+            "ref": "p:93035",
             "text": "柑田夏芽"
-          }
+          },
+          "inst": "Guitar"
         },
         {
-          "type": "person",
+          "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:93034",
             "text": "丹下風"
-          }
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:93034",
+            "text": "丹下風"
+          },
+          "inst": "Bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:93032",
+            "text": "newfn"
+          },
+          "inst": "All Other Instruments"
         }
       ],
-      "custom-Bass": [
+      "custom-程序编写": [
         {
           "type": "person",
           "person": {
-            "ref": null,
-            "text": "丹下風"
-          }
-        }
-      ],
-      "custom-All Other Instruments & Programming": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
+            "ref": "p:93032",
             "text": "newfn"
           }
         }
       ],
-      "custom-Mixing": [
+      "mixing": [
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93033",
             "text": "葉山結"
           }
         }
       ]
     },
     "1.4": {
-      "custom-Lyrics": [
+      "lyricist": [
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93034",
             "text": "丹下風"
           }
         }
       ],
-      "custom-Music": [
+      "composer": [
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93035",
             "text": "柑田夏芽"
           }
         }
       ],
-      "custom-Arrangement": [
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:93032",
+            "text": "newfn"
+          },
+          "inst": "All Instruments"
+        }
+      ],
+      "custom-程序编写": [
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93032",
             "text": "newfn"
           }
         }
       ],
-      "custom-All Instruments & Programming": [
+      "mixing": [
         {
           "type": "person",
           "person": {
-            "ref": null,
-            "text": "newfn"
-          }
-        }
-      ],
-      "custom-Mixing": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
+            "ref": "p:93033",
             "text": "葉山結"
           }
         }
       ]
     },
     "1.5": {
-      "custom-Lyrics": [
+      "lyricist": [
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93034",
             "text": "丹下風"
           }
         }
       ],
-      "custom-Music": [
+      "composer": [
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93033",
             "text": "葉山結"
           }
         }
       ],
-      "custom-Arrangement": [
+      "instrument": [
         {
-          "type": "person",
+          "type": "instrument_credit",
           "person": {
-            "ref": null,
-            "text": "newfn"
-          }
-        }
-      ],
-      "custom-Guitar": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
+            "ref": "p:93035",
             "text": "柑田夏芽"
-          }
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:93032",
+            "text": "newfn"
+          },
+          "inst": "All Other Instruments"
         }
       ],
-      "custom-All Other Instruments & Programming": [
+      "custom-程序编写": [
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93032",
             "text": "newfn"
           }
         }
       ],
-      "custom-Mixing": [
+      "mixing": [
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93033",
             "text": "葉山結"
           }
         }
       ]
     },
     "1.6": {
-      "custom-Lyrics": [
+      "lyricist": [
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93034",
             "text": "丹下風"
           }
         }
       ],
-      "custom-Music": [
+      "composer": [
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93034",
             "text": "丹下風"
           }
         }
       ],
-      "custom-Arrangement": [
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:93034",
+            "text": "丹下風"
+          },
+          "inst": "Synthesizer"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:93032",
+            "text": "newfn"
+          },
+          "inst": "All Other Instruments"
+        }
+      ],
+      "custom-程序编写": [
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93032",
             "text": "newfn"
           }
         }
       ],
-      "custom-Synthesizer": [
+      "mixing": [
         {
           "type": "person",
           "person": {
-            "ref": null,
-            "text": "丹下風"
-          }
-        }
-      ],
-      "custom-All Other Instruments & Programming": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "newfn"
-          }
-        }
-      ],
-      "custom-Mixing": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
+            "ref": "p:93033",
             "text": "葉山結"
           }
         }
       ]
     },
     "1.7": {
-      "custom-Lyrics": [
+      "lyricist": [
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93034",
             "text": "丹下風"
           }
         },
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93033",
             "text": "葉山結"
           }
         }
       ],
-      "custom-Music": [
+      "composer": [
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93033",
             "text": "葉山結"
           }
         }
       ],
-      "custom-Arrangement": [
+      "instrument": [
         {
-          "type": "person",
+          "type": "instrument_credit",
           "person": {
-            "ref": null,
-            "text": "newfn"
-          }
-        }
-      ],
-      "custom-Bass": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
+            "ref": "p:93034",
             "text": "丹下風"
-          }
-        }
-      ],
-      "custom-Drums": [
+          },
+          "inst": "Bass"
+        },
         {
-          "type": "person",
+          "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:93033",
             "text": "葉山結"
-          }
-        }
-      ],
-      "custom-Acoustic Guitar": [
+          },
+          "inst": "Drums"
+        },
         {
-          "type": "person",
+          "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:93033",
             "text": "葉山結"
-          }
-        }
-      ],
-      "custom-Piano": [
+          },
+          "inst": "Acoustic Guitar"
+        },
         {
-          "type": "person",
+          "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:93034",
             "text": "丹下風"
-          }
-        }
-      ],
-      "custom-Hammond Organ": [
+          },
+          "inst": "Piano"
+        },
         {
-          "type": "person",
+          "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:93034",
             "text": "丹下風"
-          }
-        }
-      ],
-      "custom-Harmonica": [
+          },
+          "inst": "Hammond Organ"
+        },
         {
-          "type": "person",
+          "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:93035",
             "text": "柑田夏芽"
-          }
+          },
+          "inst": "Harmonica"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:93032",
+            "text": "newfn"
+          },
+          "inst": "All Other Instruments"
         }
       ],
-      "custom-All Other Instruments & Programming": [
+      "custom-程序编写": [
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93032",
             "text": "newfn"
           }
         }
       ],
-      "custom-Mixing": [
+      "mixing": [
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93033",
             "text": "葉山結"
           }
         }
       ]
     },
     "1.3": {
-      "custom-Lyrics": [
+      "lyricist": [
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93035",
             "text": "柑田夏芽"
           }
         }
       ],
-      "custom-Music": [
+      "composer": [
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93033",
             "text": "葉山結"
           }
         }
       ],
-      "custom-Arrangement": [
+      "instrument": [
         {
-          "type": "person",
+          "type": "instrument_credit",
           "person": {
-            "ref": null,
-            "text": "newfn"
-          }
-        }
-      ],
-      "custom-Guitar": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
+            "ref": "p:93035",
             "text": "柑田夏芽"
-          }
+          },
+          "inst": "Guitar"
         },
         {
-          "type": "person",
+          "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:93033",
             "text": "葉山結"
-          }
-        }
-      ],
-      "custom-Bass": [
+          },
+          "inst": "Guitar"
+        },
         {
-          "type": "person",
+          "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:93034",
             "text": "丹下風"
-          }
-        }
-      ],
-      "custom-Drums": [
+          },
+          "inst": "Bass"
+        },
         {
-          "type": "person",
+          "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:93033",
             "text": "葉山結"
-          }
+          },
+          "inst": "Drums"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:93032",
+            "text": "newfn"
+          },
+          "inst": "All Other Instruments"
         }
       ],
-      "custom-All Other Instruments & Programming": [
+      "custom-程序编写": [
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93032",
             "text": "newfn"
           }
         }
       ],
-      "custom-Mixing": [
+      "mixing": [
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93033",
             "text": "葉山結"
           }
         }
       ]
     },
     "1.8": {
-      "custom-Lyrics": [
+      "lyricist": [
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93035",
             "text": "柑田夏芽"
           }
         },
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93033",
             "text": "葉山結"
           }
         }
       ],
-      "custom-Music": [
+      "composer": [
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93035",
             "text": "柑田夏芽"
           }
         }
       ],
-      "custom-Arrangement": [
+      "instrument": [
         {
-          "type": "person",
+          "type": "instrument_credit",
           "person": {
-            "ref": null,
-            "text": "newfn"
-          }
-        }
-      ],
-      "custom-Guitar": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
+            "ref": "p:93035",
             "text": "柑田夏芽"
-          }
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:93032",
+            "text": "newfn"
+          },
+          "inst": "All Other Instruments"
         }
       ],
-      "custom-All Other Instruments & Programming": [
+      "custom-程序编写": [
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93032",
             "text": "newfn"
           }
         }
       ],
-      "custom-Mixing": [
+      "mixing": [
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93033",
             "text": "葉山結"
           }
         }
       ]
     },
     "1.9": {
-      "custom-Lyrics": [
+      "lyricist": [
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93035",
             "text": "柑田夏芽"
           }
         }
       ],
-      "custom-Music": [
+      "composer": [
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93032",
             "text": "newfn"
           }
         }
       ],
-      "custom-Arrangement": [
+      "instrument": [
         {
-          "type": "person",
+          "type": "instrument_credit",
           "person": {
-            "ref": null,
-            "text": "newfn"
-          }
-        }
-      ],
-      "custom-Guitar": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
+            "ref": "p:93035",
             "text": "柑田夏芽"
-          }
-        }
-      ],
-      "custom-Piano": [
+          },
+          "inst": "Guitar"
+        },
         {
-          "type": "person",
+          "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:93034",
             "text": "丹下風"
-          }
-        }
-      ],
-      "custom-Electric Piano": [
+          },
+          "inst": "Piano"
+        },
         {
-          "type": "person",
+          "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:93034",
             "text": "丹下風"
-          }
+          },
+          "inst": "Electric Piano"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:93032",
+            "text": "newfn"
+          },
+          "inst": "All Other Instruments"
         }
       ],
-      "custom-All Other Instruments & Programming": [
+      "custom-程序编写": [
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93032",
             "text": "newfn"
           }
         }
       ],
-      "custom-Mixing": [
+      "mixing": [
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93033",
             "text": "葉山結"
           }
         }
       ]
     },
     "1.10": {
-      "custom-Lyrics": [
+      "lyricist": [
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93033",
             "text": "葉山結"
           }
         }
       ],
-      "custom-Music": [
+      "composer": [
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93035",
             "text": "柑田夏芽"
           }
         }
       ],
-      "custom-Arrangement": [
+      "instrument": [
         {
-          "type": "person",
+          "type": "instrument_credit",
           "person": {
-            "ref": null,
-            "text": "newfn"
-          }
-        }
-      ],
-      "custom-Guitar": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
+            "ref": "p:93035",
             "text": "柑田夏芽"
-          }
-        }
-      ],
-      "custom-Bass": [
+          },
+          "inst": "Guitar"
+        },
         {
-          "type": "person",
+          "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:93034",
             "text": "丹下風"
-          }
-        }
-      ],
-      "custom-Drums": [
+          },
+          "inst": "Bass"
+        },
         {
-          "type": "person",
+          "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:93033",
             "text": "葉山結"
-          }
+          },
+          "inst": "Drums"
         }
       ],
-      "custom-Mixing": [
+      "mixing": [
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:93035",
             "text": "柑田夏芽"
           }
         }
@@ -679,11 +663,11 @@
     }
   },
   "rawPatches": {
-    "editor": "custom-Lyrics: newfn (01); 丹下風 (02,04,05,06,07); 柑田夏芽 (02,03,08,09); 葉山結 (07,08,10)\ncustom-Music: 葉山結 (01,03,05,07); newfn (02,09); 柑田夏芽 (04,08,10); 丹下風 (06)\ncustom-Arrangement: newfn (01,02,03,04,05,06,07,08,09,10)\ncustom-Guitar: 柑田夏芽 (02,03,05,08,09,10); 丹下風 (02); 葉山結 (03)\ncustom-Bass: 丹下風 (02,03,07,10)\ncustom-Drums: 葉山結 (03,07,10)\ncustom-Synthesizer: 丹下風 (06)\ncustom-Acoustic Guitar: 葉山結 (07)\ncustom-Piano: 丹下風 (07,09)\ncustom-Electric Piano: 丹下風 (09)\ncustom-Hammond Organ: 丹下風 (07)\ncustom-Harmonica: 柑田夏芽 (07)\ncustom-All Instruments & Programming: newfn (01,04)\ncustom-All Other Instruments & Programming: newfn (02,03,05,06,07,08,09)\ncustom-Mixing: 葉山結 (01,02,03,04,05,06,07,08,09); 柑田夏芽 (10)"
+    "editor": "Lyrics: newfn (01); 丹下風 (02,04,05,06,07); 柑田夏芽 (02,03,08,09); 葉山結 (07,08,10)\n作曲: 葉山結 (01,03,05,07); newfn (02,09); 柑田夏芽 (04,08,10); 丹下風 (06)\nArrangement: newfn (01,02,03,04,05,06,07,08,09,10)\n乐器-Guitar: 柑田夏芽 (02,03,05,08,09,10); 丹下風 (02); 葉山結 (03)\n乐器-Bass: 丹下風 (02,03,07,10)\n乐器-Drums: 葉山結 (03,07,10)\n乐器-Synthesizer: 丹下風 (06)\n乐器-Acoustic Guitar: 葉山結 (07)\n乐器-Piano: 丹下風 (07,09)\n乐器-Electric Piano: 丹下風 (09)\n乐器-Hammond Organ: 丹下風 (07)\n乐器-Harmonica: 柑田夏芽 (07)\n乐器-All Instruments: newfn (01,04)\ncustom-程序编写: newfn (01,04)\n乐器-All Other Instruments：newfn (02,03,05,06,07,08,09)\ncustom-程序编写: newfn (02,03,05,06,07,08,09)\nMixing: 葉山結 (01,02,03,04,05,06,07,08,09); 柑田夏芽 (10)"
   },
   "_meta": {
-    "submittedBy": "809907",
+    "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-15T15:05:32.046Z"
+    "submittedAt": "2026-10-15T16:50:33.345Z"
   }
 }
