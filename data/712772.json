@@ -98,13 +98,13 @@
         {
           "parts": [
             {
-              "ref": null,
-              "text": "《onoken"
+              "ref": "p:6439",
+              "text": "onoken"
             },
             " & ",
             {
               "ref": null,
-              "text": "ak+q》"
+              "text": "ak+q"
             }
           ]
         }
@@ -113,13 +113,13 @@
         {
           "parts": [
             {
-              "ref": null,
-              "text": "《onoken"
+              "ref": "p:6439",
+              "text": "onoken"
             },
             " & ",
             {
               "ref": null,
-              "text": "ak+q》"
+              "text": "ak+q"
             }
           ]
         }
@@ -261,7 +261,7 @@
             },
             " (",
             {
-              "ref": "p:84454",
+              "ref": null,
               "text": "朝香智子"
             },
             ")",
@@ -373,7 +373,7 @@
             },
             " (",
             {
-              "ref": "p:64865",
+              "ref": null,
               "text": "木下珠子"
             },
             ")"
@@ -425,7 +425,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:6439",
+          "ref": null,
           "text": "onoken"
         }
       }
@@ -466,7 +466,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:71030",
+          "ref": null,
           "text": "Ta-k"
         }
       }
@@ -498,11 +498,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：onoken\n作词：b(4)、＊xxxxxx＊(8)\n作曲：《onoken & ak+q》(1)、onoken(2-10)、onoken a.k.a owl＊tree(11)\n编曲：《onoken & ak+q》(1)、onoken(2-7,9,10)、onoken & Atomic Tomoya(8)、《Strings Arrangement: Osamu Kubota》(10)、onoken a.k.a owl＊tree(11)\n声乐：b(4)、Sennzai(6)、＊xxxxxx＊(8)、Tamako Kinoshita (木下珠子)(10)\n混音：Leiki Ueda (Leiki Ueda Studios)\n母带制作：Wataru Ishii (OTONO WORK)\n插图：Ta-k\n厂牌：axsword\n录音：Gai (HOMURA SOUND)\n乐器-Violin：Chiho Saito(1,3,4,9,10)、Yusaku Tsuchiya(5)、hiyama(7)\n乐器-Guitar：《Masahiro \"Godspeed\" Aoki》(2)\n乐器-Piano：Tomoko Asaka (朝香智子)(6)、Tomoko Asaksa(10)\n乐器-Bass：Y.O.U.(6)"
+    "editor": "艺术家：onoken\n作词：b(4)、＊xxxxxx＊(8)\n作曲：onoken & ak+q(1)、onoken(2-10)、onoken a.k.a owl＊tree(11)\n编曲：onoken & ak+q(1)、onoken(2-7,9,10)、onoken & Atomic Tomoya(8)、《Strings Arrangement: Osamu Kubota》(10)、onoken a.k.a owl＊tree(11)\n声乐：b(4)、Sennzai(6)、＊xxxxxx＊(8)、Tamako Kinoshita (木下珠子)(10)\n混音：Leiki Ueda (Leiki Ueda Studios)\n母带制作：Wataru Ishii (OTONO WORK)\n插图：Ta-k\n厂牌：axsword\n录音：Gai (HOMURA SOUND)\n乐器-Violin：Chiho Saito(1,3,4,9,10)、Yusaku Tsuchiya(5)、hiyama(7)\n乐器-Guitar：《Masahiro \"Godspeed\" Aoki》(2)\n乐器-Piano：Tomoko Asaka (朝香智子)(6)、Tomoko Asaksa(10)\n乐器-Bass：Y.O.U.(6)"
   },
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-15T16:01:20.146Z"
+    "submittedAt": "2026-10-15T17:08:22.501Z"
   }
 }
