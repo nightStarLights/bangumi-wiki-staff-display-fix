@@ -1,0 +1,110 @@
+{
+  "subjectId": 712793,
+  "trackCredits": {
+    "1.1": {
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "重音テト"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "重音テト"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "Aintops"
+          },
+          " (",
+          {
+            "ref": "p:47242",
+            "text": "吉田省吾"
+          },
+          ")"
+        ]
+      }
+    ],
+    "lyricist": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "Aintops"
+          },
+          " (",
+          {
+            "ref": "p:47242",
+            "text": "吉田省吾"
+          },
+          ")"
+        ]
+      }
+    ],
+    "composer": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "Aintops"
+          },
+          " (",
+          {
+            "ref": "p:47242",
+            "text": "吉田省吾"
+          },
+          ")"
+        ]
+      }
+    ],
+    "arranger": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "Aintops"
+          },
+          " (",
+          {
+            "ref": "p:47242",
+            "text": "吉田省吾"
+          },
+          ")"
+        ]
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ブルーライス"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：Aintops (吉田省吾)\n作词：Aintops (吉田省吾)\n作曲：Aintops (吉田省吾)\n编曲：Aintops (吉田省吾)\n声乐：重音テト(1,2)\n插图：ブルーライス"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-15T18:15:57.606Z"
+  }
+}
