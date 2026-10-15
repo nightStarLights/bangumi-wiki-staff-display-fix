@@ -1,0 +1,293 @@
+{
+  "subjectId": 148751,
+  "trackCredits": {
+    "1.1": {
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Kanae Asaba"
+            },
+            " (",
+            {
+              "ref": "p:7301",
+              "text": "浅場佳苗"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6366",
+            "text": "MK"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Kanae Asaba"
+            },
+            " (",
+            {
+              "ref": "p:7301",
+              "text": "浅場佳苗"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6366",
+            "text": "MK"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Kanae Asaba"
+            },
+            " (",
+            {
+              "ref": "p:7301",
+              "text": "浅場佳苗"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6366",
+            "text": "MK"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Kanae Asaba"
+            },
+            " (",
+            {
+              "ref": "p:7301",
+              "text": "浅場佳苗"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6366",
+            "text": "MK"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Kanae Asaba"
+            },
+            " (",
+            {
+              "ref": "p:7301",
+              "text": "浅場佳苗"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6366",
+            "text": "MK"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Kanae Asaba"
+            },
+            " (",
+            {
+              "ref": "p:7301",
+              "text": "浅場佳苗"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6366",
+            "text": "MK"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6366",
+            "text": "MK"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6366",
+            "text": "MK"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "parts": [
+          {
+            "ref": "p:6366",
+            "text": "MK"
+          },
+          " & ",
+          {
+            "ref": "p:7301",
+            "text": "Kanae Asaba"
+          }
+        ]
+      }
+    ],
+    "lyricist": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "Kanae Asaba"
+          },
+          " (",
+          {
+            "ref": "p:7301",
+            "text": "浅場佳苗"
+          },
+          ")"
+        ]
+      }
+    ],
+    "composer": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "Kanae Asaba"
+          },
+          " (",
+          {
+            "ref": "p:7301",
+            "text": "浅場佳苗"
+          },
+          ")"
+        ]
+      }
+    ],
+    "vocal": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "Kanae Asaba"
+          },
+          " (",
+          {
+            "ref": "p:7301",
+            "text": "浅場佳苗"
+          },
+          ")"
+        ]
+      }
+    ],
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:6366",
+          "text": "MK"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:6366",
+          "text": "MK"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Fenmie Music"
+        }
+      }
+    ],
+    "design": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "Kanae Asaba"
+          },
+          " (",
+          {
+            "ref": "p:7301",
+            "text": "浅場佳苗"
+          },
+          ")"
+        ]
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：MK & Kanae Asaba\n作词：Kanae Asaba (浅場佳苗)\n作曲：Kanae Asaba (浅場佳苗)\n编曲：Kanae Asaba (浅場佳苗)(1-5,7)、MK(1-8)\n声乐：Kanae Asaba (浅場佳苗)\n混音：MK\n母带制作：MK\n厂牌：《Fenmie Music》\n设计：Kanae Asaba (浅場佳苗)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-15T16:56:09.632Z"
+  }
+}
