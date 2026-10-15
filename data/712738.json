@@ -1,0 +1,60 @@
+{
+  "trackCredits": {},
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "天使メタルRio"
+        }
+      }
+    ],
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "MIRAI"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "MIRAI"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "MIRAI"
+        }
+      }
+    ],
+    "instrument": [
+      {
+        "type": "instrument_credit",
+        "person": {
+          "ref": null,
+          "text": "MIRAI"
+        },
+        "inst": "Guitars"
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "作词：MIRAI\n作曲：MIRAI\n编曲：MIRAI\n厂牌：天使メタルRio\n乐器-Guitars：MIRAI"
+  },
+  "subjectId": 712738,
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-15T12:58:59.528Z"
+  }
+}
