@@ -1,111 +1,6 @@
 {
   "subjectId": 712772,
   "trackCredits": {
-    "1.8": {
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "＊xxxxxx＊"
-          }
-        }
-      ],
-      "lyricist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "＊xxxxxx＊"
-          }
-        }
-      ],
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:6439",
-            "text": "onoken"
-          }
-        }
-      ],
-      "arranger": [
-        {
-          "parts": [
-            {
-              "ref": "p:6439",
-              "text": "onoken"
-            },
-            " & ",
-            {
-              "ref": null,
-              "text": "Atomic Tomoya"
-            }
-          ]
-        }
-      ]
-    },
-    "1.10": {
-      "artist": [
-        {
-          "parts": [
-            {
-              "ref": null,
-              "text": "Tamako Kinoshita"
-            },
-            " (",
-            {
-              "ref": "p:64865",
-              "text": "木下珠子"
-            },
-            ")"
-          ]
-        }
-      ],
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:6439",
-            "text": "onoken"
-          }
-        }
-      ],
-      "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:6439",
-            "text": "onoken"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Strings Arrangement: Osamu Kubota"
-          }
-        }
-      ],
-      "instrument": [
-        {
-          "type": "instrument_credit",
-          "person": {
-            "ref": null,
-            "text": "Chiho Saito"
-          },
-          "inst": "Violin"
-        },
-        {
-          "type": "instrument_credit",
-          "person": {
-            "ref": null,
-            "text": "Tomoko Asaksa"
-          },
-          "inst": "Piano"
-        }
-      ]
-    },
     "1.4": {
       "lyricist": [
         {
@@ -151,6 +46,50 @@
             "text": "Chiho Saito"
           },
           "inst": "Violin"
+        }
+      ]
+    },
+    "1.8": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "＊xxxxxx＊"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6439",
+            "text": "onoken"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": "p:6439",
+              "text": "onoken"
+            },
+            " & ",
+            {
+              "ref": null,
+              "text": "Atomic Tomoya"
+            }
+          ]
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "＊xxxxxx＊"
+          }
         }
       ]
     },
@@ -217,8 +156,11 @@
       ],
       "instrument": [
         {
-          "type": "text",
-          "text": "Masahiro \"Godspeed\" Aoki (Guitar)"
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Masahiro \"Godspeed\" Aoki (Guitar)"
+          }
         }
       ]
     },
@@ -396,6 +338,67 @@
         }
       ]
     },
+    "1.10": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6439",
+            "text": "onoken"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6439",
+            "text": "onoken"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Strings Arrangement: Osamu Kubota"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Tamako Kinoshita"
+            },
+            " (",
+            {
+              "ref": "p:64865",
+              "text": "木下珠子"
+            },
+            ")"
+          ]
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Chiho Saito"
+          },
+          "inst": "Violin"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Tomoko Asaksa"
+          },
+          "inst": "Piano"
+        }
+      ]
+    },
     "1.11": {
       "composer": [
         {
@@ -495,11 +498,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：onoken、＊xxxxxx＊(8)、Tamako Kinoshita (木下珠子)(10)\n作词：b(4)、＊xxxxxx＊(8)\n作曲：《onoken & ak+q》(1)、onoken(2-10)、onoken a.k.a owl＊tree(11)\n编曲：《onoken & ak+q》(1)、onoken(2-7,9,10)、onoken & Atomic Tomoya(8)、《Strings Arrangement: Osamu Kubota》(10)、onoken a.k.a owl＊tree(11)\n声乐：b(4)、Sennzai(6)\n混音：Leiki Ueda (Leiki Ueda Studios)\n母带制作：Wataru Ishii (OTONO WORK)\n插图：Ta-k\n厂牌：axsword\n录音：Gai (HOMURA SOUND)\n乐器-Violin：Chiho Saito(1,3,4,9,10)、Yusaku Tsuchiya(5)、hiyama(7)\n乐器-Guitar：《Masahiro \"Godspeed\" Aoki》(2)\n乐器-Piano：Tomoko Asaka (朝香智子)(6)、Tomoko Asaksa(10)\n乐器-Bass：Y.O.U.(6)"
+    "editor": "艺术家：onoken\n作词：b(4)、＊xxxxxx＊(8)\n作曲：《onoken & ak+q》(1)、onoken(2-10)、onoken a.k.a owl＊tree(11)\n编曲：《onoken & ak+q》(1)、onoken(2-7,9,10)、onoken & Atomic Tomoya(8)、《Strings Arrangement: Osamu Kubota》(10)、onoken a.k.a owl＊tree(11)\n声乐：b(4)、Sennzai(6)、＊xxxxxx＊(8)、Tamako Kinoshita (木下珠子)(10)\n混音：Leiki Ueda (Leiki Ueda Studios)\n母带制作：Wataru Ishii (OTONO WORK)\n插图：Ta-k\n厂牌：axsword\n录音：Gai (HOMURA SOUND)\n乐器-Violin：Chiho Saito(1,3,4,9,10)、Yusaku Tsuchiya(5)、hiyama(7)\n乐器-Guitar：《Masahiro \"Godspeed\" Aoki》(2)\n乐器-Piano：Tomoko Asaka (朝香智子)(6)、Tomoko Asaksa(10)\n乐器-Bass：Y.O.U.(6)"
   },
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-15T15:58:03.073Z"
+    "submittedAt": "2026-10-15T16:01:20.146Z"
   }
 }
