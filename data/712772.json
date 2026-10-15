@@ -24,7 +24,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:6439",
             "text": "onoken"
           }
         }
@@ -33,7 +33,7 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:6439",
               "text": "onoken"
             },
             " & ",
@@ -55,7 +55,7 @@
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:64865",
               "text": "木下珠子"
             },
             ")"
@@ -66,7 +66,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:6439",
             "text": "onoken"
           }
         }
@@ -75,7 +75,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:6439",
             "text": "onoken"
           }
         },
@@ -111,7 +111,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:66651",
             "text": "b"
           }
         }
@@ -120,7 +120,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:6439",
             "text": "onoken"
           }
         }
@@ -129,7 +129,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:6439",
             "text": "onoken"
           }
         }
@@ -138,7 +138,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:66651",
             "text": "b"
           }
         }
@@ -201,7 +201,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:6439",
             "text": "onoken"
           }
         }
@@ -210,18 +210,15 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:6439",
             "text": "onoken"
           }
         }
       ],
       "instrument": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Masahiro \"Godspeed\" Aoki (Guitar)"
-          }
+          "type": "text",
+          "text": "Masahiro \"Godspeed\" Aoki (Guitar)"
         }
       ]
     },
@@ -230,7 +227,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:6439",
             "text": "onoken"
           }
         }
@@ -239,7 +236,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:6439",
             "text": "onoken"
           }
         }
@@ -260,7 +257,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:6439",
             "text": "onoken"
           }
         }
@@ -269,7 +266,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:6439",
             "text": "onoken"
           }
         }
@@ -290,7 +287,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:6439",
             "text": "onoken"
           }
         }
@@ -299,7 +296,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:6439",
             "text": "onoken"
           }
         }
@@ -308,7 +305,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:34686",
             "text": "Sennzai"
           }
         }
@@ -322,7 +319,7 @@
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:84454",
               "text": "朝香智子"
             },
             ")",
@@ -344,7 +341,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:6439",
             "text": "onoken"
           }
         }
@@ -353,7 +350,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:6439",
             "text": "onoken"
           }
         }
@@ -362,7 +359,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:64962",
             "text": "hiyama"
           },
           "inst": "Violin"
@@ -374,7 +371,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:6439",
             "text": "onoken"
           }
         }
@@ -383,7 +380,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:6439",
             "text": "onoken"
           }
         }
@@ -425,7 +422,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:6439",
           "text": "onoken"
         }
       }
@@ -466,7 +463,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:71030",
           "text": "Ta-k"
         }
       }
@@ -503,6 +500,6 @@
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-15T15:56:59.543Z"
+    "submittedAt": "2026-10-15T15:58:03.073Z"
   }
 }
