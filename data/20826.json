@@ -1,0 +1,201 @@
+{
+  "subjectId": 20826,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hommarju"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hommarju"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Shouya Namai"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Tracy"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Shouya Namai"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Tracy"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hedonist"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hedonist"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "《みつあくま"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "初音ミク》"
+            }
+          ]
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "《みつあくま"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "初音ミク》"
+            }
+          ]
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "MK"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "MK"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Hommarju"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Hedonist"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Alpha RESI5TANCE"
+        }
+      }
+    ],
+    "design": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "Shouya Namai"
+          },
+          " (",
+          {
+            "ref": null,
+            "text": "Tracy"
+          },
+          ")"
+        ]
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Logo Design: 鬼子母神"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：Hommarju\n艺术家：Hommarju(1,6)、Shouya Namai (Tracy)(2,7)、Hedonist(3,8)、《みつあくま feat. 初音ミク》(4,9)、MK(5,10)\n母带制作：Hedonist\n厂牌：Alpha RESI5TANCE\n设计：Shouya Namai (Tracy)、《Logo Design: 鬼子母神》"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-15T16:19:20.717Z"
+  }
+}
