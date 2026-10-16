@@ -28,7 +28,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:47393",
+            "ref": null,
             "text": "YUKIYANAGI"
           }
         }
@@ -50,7 +50,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:65772",
+            "ref": null,
             "text": "Halv"
           }
         }
@@ -61,12 +61,12 @@
         {
           "parts": [
             {
-              "ref": "p:65768",
+              "ref": null,
               "text": "K-forest"
             },
             " vs. ",
             {
-              "ref": "p:67132",
+              "ref": null,
               "text": "Reku Mochizuki"
             }
           ]
@@ -78,7 +78,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:47385",
+            "ref": null,
             "text": "KARUT"
           }
         }
@@ -89,7 +89,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:16034",
+            "ref": null,
             "text": "Freezer"
           }
         }
@@ -111,7 +111,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:84361",
+            "ref": null,
             "text": "K3nto"
           }
         }
@@ -144,7 +144,7 @@
         {
           "parts": [
             {
-              "ref": "p:65769",
+              "ref": null,
               "text": "E0ri4"
             },
             " (",
@@ -162,7 +162,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:9229",
+            "ref": null,
             "text": "you"
           }
         }
@@ -173,7 +173,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:47394",
+            "ref": null,
             "text": "DJ AIR-G"
           }
         }
@@ -184,7 +184,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:66528",
+            "ref": null,
             "text": "Synthion"
           }
         }
@@ -206,7 +206,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:55176",
+            "ref": null,
             "text": "Yu-dachi"
           }
         }
@@ -228,7 +228,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:33910",
+            "ref": null,
             "text": "Tsukasa"
           }
         }
@@ -239,7 +239,7 @@
         {
           "parts": [
             {
-              "ref": "p:47400",
+              "ref": null,
               "text": "Risen"
             },
             " feat. ",
@@ -256,7 +256,7 @@
         {
           "parts": [
             {
-              "ref": "p:42184",
+              "ref": null,
               "text": "Alicemetix"
             },
             " feat. ",
@@ -273,7 +273,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:69783",
+            "ref": null,
             "text": "anubasu-anubasu"
           }
         }
@@ -284,7 +284,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:70469",
+            "ref": null,
             "text": "Newlisk"
           }
         }
@@ -295,7 +295,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:82124",
+            "ref": null,
             "text": "Yutayuki"
           }
         }
@@ -306,7 +306,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:16035",
+            "ref": null,
             "text": "pocotan"
           }
         }
@@ -317,7 +317,7 @@
         {
           "parts": [
             {
-              "ref": "p:55201",
+              "ref": null,
               "text": "RiraN"
             },
             " feat. ",
@@ -334,7 +334,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:40541",
+            "ref": null,
             "text": "Sanaas"
           }
         }
@@ -345,7 +345,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:85227",
+            "ref": null,
             "text": "shapes"
           }
         }
@@ -356,7 +356,7 @@
         {
           "parts": [
             {
-              "ref": "p:100345",
+              "ref": null,
               "text": "LillyRazy"
             },
             " & ",
@@ -411,7 +411,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:24730",
+            "ref": null,
             "text": "LU-I"
           }
         }
@@ -422,7 +422,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:74688",
+            "ref": null,
             "text": "Zlonice"
           }
         }
@@ -455,7 +455,7 @@
         {
           "parts": [
             {
-              "ref": "p:65568",
+              "ref": null,
               "text": "akatora"
             },
             " feat. ",
@@ -472,7 +472,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:69004",
+            "ref": null,
             "text": "TAG"
           }
         }
@@ -505,7 +505,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:82955",
+            "ref": null,
             "text": "KURORO"
           }
         }
@@ -514,7 +514,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:82955",
+            "ref": null,
             "text": "KURORO"
           }
         }
@@ -525,7 +525,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:45358",
+            "ref": null,
             "text": "Tatsunoshin"
           }
         }
@@ -558,7 +558,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:35932",
+            "ref": null,
             "text": "Capchii"
           }
         }
@@ -569,7 +569,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:82121",
+            "ref": null,
             "text": "Hexacube"
           }
         }
@@ -580,7 +580,7 @@
         {
           "parts": [
             {
-              "ref": "p:68128",
+              "ref": null,
               "text": "polysha"
             },
             " feat. ",
@@ -608,7 +608,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:47397",
+            "ref": null,
             "text": "hu-zin"
           }
         }
@@ -619,7 +619,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:42183",
+            "ref": null,
             "text": "Zekk"
           }
         }
@@ -659,7 +659,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:16035",
+          "ref": null,
           "text": "pocotan"
         }
       }
@@ -668,7 +668,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:16035",
+          "ref": null,
           "text": "pocotan"
         }
       }
@@ -677,7 +677,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:65368",
+          "ref": null,
           "text": "ひたきゆう"
         }
       }
@@ -686,7 +686,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:41243",
+          "ref": null,
           "text": "Login Records"
         }
       }
@@ -700,7 +700,7 @@
           },
           " (",
           {
-            "ref": "p:69826",
+            "ref": null,
             "text": "strayedwave"
           },
           ")"
@@ -714,6 +714,6 @@
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-16T12:17:20.382Z"
+    "submittedAt": "2026-10-16T12:17:33.309Z"
   }
 }
