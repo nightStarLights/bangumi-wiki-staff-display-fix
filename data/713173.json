@@ -419,6 +419,28 @@
           ]
         }
       ]
+    },
+    "2.1": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47326",
+            "text": "zensen"
+          }
+        }
+      ]
+    },
+    "2.2": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Bowne"
+          }
+        }
+      ]
     }
   },
   "epinfo": {
@@ -491,11 +513,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：Roy Yano feat. 敷嶋てとら(1.1)、佐々木喫茶 feat. してはる(1.2)、Ray_Oh feat. 桃寝ちのい(1.3)、Tsubusare BOZZ feat. 現実みろ(1.4)、桶屋-Okeya feat. 夕凪潮(1.5)、ずまでスコト feat. パン野実々美(1.6)、INuya (イヌヤ) feat. 稀羽すう(1.7)\n作曲：Roy Yano(1.1, 2.3)、佐々木喫茶(1.2, 2.4)、Ray_Oh(1.3, 2.5)、Tsubusare BOZZ(1.4, 2.6)、桶屋-Okeya(1.5, 2.7)、ずまでスコト(1.6, 2.8)、INuya (イヌヤ)(1.7, 2.9)\n编曲：Roy Yano(1.1, 2.3)、佐々木喫茶(1.2, 2.4)、Ray_Oh(1.3, 2.5)、Tsubusare BOZZ(1.4, 2.6)、桶屋-Okeya(1.5, 2.7)、ずまでスコト(1.6, 2.8)、INuya (イヌヤ)(1.7, 2.9)\n插图：OTOMICA、まもる、プ栓、ナコ、望名のあ、余冥、ちぇりぼん、柳眞ユウ\n厂牌：《MOTTO MUSIC》"
+    "editor": "艺术家：Roy Yano feat. 敷嶋てとら(1.1)、佐々木喫茶 feat. してはる(1.2)、Ray_Oh feat. 桃寝ちのい(1.3)、Tsubusare BOZZ feat. 現実みろ(1.4)、桶屋-Okeya feat. 夕凪潮(1.5)、ずまでスコト feat. パン野実々美(1.6)、INuya (イヌヤ) feat. 稀羽すう(1.7)\n作曲：Roy Yano(1.1, 2.3)、佐々木喫茶(1.2, 2.4)、Ray_Oh(1.3, 2.5)、Tsubusare BOZZ(1.4, 2.6)、桶屋-Okeya(1.5, 2.7)、ずまでスコト(1.6, 2.8)、INuya (イヌヤ)(1.7, 2.9)\n编曲：Roy Yano(1.1, 2.3)、佐々木喫茶(1.2, 2.4)、Ray_Oh(1.3, 2.5)、Tsubusare BOZZ(1.4, 2.6)、桶屋-Okeya(1.5, 2.7)、ずまでスコト(1.6, 2.8)、INuya (イヌヤ)(1.7, 2.9)、zensen(2.1)、Bowne(2.2)\n插图：OTOMICA、まもる、プ栓、ナコ、望名のあ、余冥、ちぇりぼん、柳眞ユウ\n厂牌：《MOTTO MUSIC》"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-16T16:59:50.941Z"
+    "submittedAt": "2026-10-16T17:01:01.425Z"
   }
 }
