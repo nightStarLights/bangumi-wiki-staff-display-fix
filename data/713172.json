@@ -1,0 +1,111 @@
+{
+  "trackCredits": {
+    "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65418",
+            "text": "すばる"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:64712",
+              "text": "CS4W"
+            },
+            " (Collaboration)"
+          ]
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:66068",
+          "text": "Elixir Nocturne"
+        }
+      }
+    ],
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:66069",
+          "text": "MALVA."
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:66069",
+          "text": "MALVA."
+        }
+      }
+    ],
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:66069",
+          "text": "MALVA."
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:66069",
+          "text": "MALVA."
+        }
+      },
+      {
+        "parts": [
+          {
+            "ref": "p:66069",
+            "text": "MALVA."
+          },
+          " (Web)"
+        ]
+      },
+      {
+        "parts": [
+          {
+            "ref": "p:69830",
+            "text": "綜花"
+          },
+          " (Circle Logo)"
+        ]
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69015",
+          "text": "しおの"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：MALVA.\n作词：MALVA.、すばる(4)\n作曲：MALVA.\n插图：しおの\n厂牌：Elixir Nocturne\n设计：MALVA.\n设计-Web：MALVA.\n作曲-Collaboration：CS4W(5)\n设计-Circle Logo：綜花"
+  },
+  "subjectId": 713172,
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-16T16:50:49.206Z"
+  }
+}
