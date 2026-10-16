@@ -84,6 +84,15 @@
         }
       }
     ],
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:65454",
+          "text": "邪王"
+        }
+      }
+    ],
     "illustrator": [
       {
         "type": "person",
@@ -113,11 +122,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：はらもりよしな(1)、AIRI KIRISHIMA (桐島愛里)(2)\n作词：邪王、id.sh(1)、AIRI KIRISHIMA (桐島愛里)(2)\n作曲：邪王\n编曲：邪王\n插图：ひなっち\n厂牌：floorclean Sound\n设计：ひなっち"
+    "editor": "艺术家：はらもりよしな(1)、AIRI KIRISHIMA (桐島愛里)(2)\n作词：邪王、id.sh(1)、AIRI KIRISHIMA (桐島愛里)(2)\n作曲：邪王\n编曲, Producer：邪王\n插图：ひなっち\n厂牌：floorclean Sound\n设计：ひなっち"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-16T15:44:01.565Z"
+    "submittedAt": "2026-10-16T17:17:17.673Z"
   }
 }
