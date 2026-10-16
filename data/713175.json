@@ -1,0 +1,288 @@
+{
+  "subjectId": 713175,
+  "trackCredits": {
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:20339",
+            "text": "小春めう"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33362",
+            "text": "天ヶ咲麗"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33361",
+            "text": "橋咲透"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33361",
+            "text": "橋咲透"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11316",
+            "text": "鈴湯"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33362",
+            "text": "天ヶ咲麗"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11081",
+            "text": "伊吹ユキヒロ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11081",
+            "text": "伊吹ユキヒロ"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7318",
+            "text": "紫咲ほたる"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33362",
+            "text": "天ヶ咲麗"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33361",
+            "text": "橋咲透"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33361",
+            "text": "橋咲透"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7318",
+            "text": "紫咲ほたる"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33362",
+            "text": "天ヶ咲麗"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33361",
+            "text": "橋咲透"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33361",
+            "text": "橋咲透"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6141",
+            "text": "Ceui"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11081",
+            "text": "伊吹ユキヒロ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11081",
+            "text": "伊吹ユキヒロ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11081",
+            "text": "伊吹ユキヒロ"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5731",
+            "text": "茶太"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33361",
+            "text": "橋咲透"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33361",
+            "text": "橋咲透"
+          }
+        }
+      ]
+    },
+    "1.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11081",
+            "text": "伊吹ユキヒロ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11081",
+            "text": "伊吹ユキヒロ"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:8525",
+          "text": "solfa"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:7354",
+          "text": "きみしま青"
+        }
+      }
+    ],
+    "custom-工程师": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:33377",
+          "text": "iyuna"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:11081",
+          "text": "伊吹ユキヒロ"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：solfa\n艺术家：小春めう(2)、鈴湯(3)、紫咲ほたる(4,5)、Ceui(6)、茶太(7)\n作词：伊吹ユキヒロ(6)、天ヶ咲麗(2-5)\n作曲：橋咲透(2,4,5,7)、伊吹ユキヒロ(1,3,6)\n编曲：橋咲透(2,4,5,7)、伊吹ユキヒロ(1,3,6)\n插图：きみしま青\ncustom-工程师：iyuna、伊吹ユキヒロ"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-16T17:14:59.843Z"
+  }
+}
