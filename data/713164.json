@@ -106,7 +106,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:65454",
+          "ref": null,
           "text": "floorclean Sound"
         }
       }
@@ -127,6 +127,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-16T17:17:17.673Z"
+    "submittedAt": "2026-10-16T17:17:33.200Z"
   }
 }
