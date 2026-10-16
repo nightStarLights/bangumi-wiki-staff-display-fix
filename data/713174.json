@@ -1,0 +1,326 @@
+{
+  "subjectId": 713174,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7088",
+            "text": "中恵光城"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33362",
+            "text": "天ヶ咲麗"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33361",
+            "text": "橋咲透"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33361",
+            "text": "橋咲透"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "月野きいろ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33361",
+            "text": "橋咲透"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33361",
+            "text": "橋咲透"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "月野きいろ"
+            },
+            " (discover)"
+          ]
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11316",
+            "text": "鈴湯"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72812",
+            "text": "こはるん"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72812",
+            "text": "こはるん"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": "p:72812",
+              "text": "こはるん"
+            },
+            " (discover)"
+          ]
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7318",
+            "text": "紫咲ほたる"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33362",
+            "text": "天ヶ咲麗"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11081",
+            "text": "伊吹ユキヒロ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11081",
+            "text": "伊吹ユキヒロ"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6141",
+            "text": "Ceui"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33362",
+            "text": "天ヶ咲麗"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33361",
+            "text": "橋咲透"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33361",
+            "text": "橋咲透"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:33660",
+              "text": "夢乃ゆき"
+            },
+            " + ",
+            {
+              "ref": "p:7088",
+              "text": "中恵光城"
+            }
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33361",
+            "text": "橋咲透"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33361",
+            "text": "橋咲透"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:11316",
+              "text": "鈴湯"
+            },
+            " with ",
+            "七瀬ざくろ(CV.",
+            {
+              "ref": "p:25596",
+              "text": "みたかりん"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11081",
+            "text": "伊吹ユキヒロ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11081",
+            "text": "伊吹ユキヒロ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": "p:72812",
+              "text": "こはるん"
+            },
+            " (discover)"
+          ]
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:8525",
+          "text": "solfa"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:7354",
+          "text": "きみしま青"
+        }
+      }
+    ],
+    "custom-工程师": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:33377",
+          "text": "iyuna"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:11081",
+          "text": "伊吹ユキヒロ"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：solfa\n艺术家：中恵光城(1)、月野きいろ(2)、鈴湯(3)、紫咲ほたる(4)、Ceui(5)、夢乃ゆき + 中恵光城(6)、鈴湯 with 七瀬ざくろ(CV.みたかりん)(7)\n作词：天ヶ咲麗(1,4,5)\n作曲：橋咲透(1,2,5,6)、伊吹ユキヒロ(4,7)、こはるん(3)\n编曲：橋咲透(1,2,5,6)、伊吹ユキヒロ(4,7)、こはるん(3)\n插图：きみしま青\n作词-discover：月野きいろ(2)、こはるん(3,7)\ncustom-工程师：iyuna、伊吹ユキヒロ"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-16T17:11:11.232Z"
+  }
+}
