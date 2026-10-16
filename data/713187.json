@@ -1,0 +1,100 @@
+{
+  "subjectId": 713187,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55153",
+            "text": "sola"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69686",
+            "text": "aon"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69686",
+            "text": "aon"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55153",
+            "text": "sola"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68828",
+            "text": "mawari"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68828",
+            "text": "mawari"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:55153",
+          "text": "sola"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:75082",
+          "text": "高岡兼時"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "柳眞ユウ"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：sola\n作词：sola(1,2)\n作曲：aon(1)、mawari(2)\n混音：aon(1)、mawari(2)\n母带制作：高岡兼時\n插图：柳眞ユウ"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-16T19:14:15.394Z"
+  }
+}
