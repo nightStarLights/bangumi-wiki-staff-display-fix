@@ -149,14 +149,12 @@
     "1.11": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "隣の庭は青い"
-          }
-        },
-        {
           "parts": [
+            {
+              "ref": null,
+              "text": "隣の庭は青い"
+            },
+            " (",
             {
               "ref": "p:79454",
               "text": "庭師"
@@ -165,7 +163,8 @@
             {
               "ref": "p:55169",
               "text": "Aoi"
-            }
+            },
+            ")"
           ]
         }
       ]
@@ -253,11 +252,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "制作人：庭師\n艺术家：庭師(1-5,7-9,14,15)、Sobrem & 庭師(6)、劇団庭師 (庭師) with kia(10)、隣の庭は青い(11)、庭師 + Aoi(11)、Trerey-U + 庭師(12)、ああああ vs 庭師(13)\n作曲：庭師\n编曲：庭師\n插图：イクチワカナ\n设计：CinEraLiA"
+    "editor": "制作人：庭師\n艺术家：庭師(1-5,7-9,14,15)、Sobrem & 庭師(6)、劇団庭師 (庭師) with kia(10)、隣の庭は青い (庭師 + Aoi)(11)、Trerey-U + 庭師(12)、ああああ vs 庭師(13)\n作曲：庭師\n编曲：庭師\n插图：イクチワカナ\n设计：CinEraLiA"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-16T14:12:41.844Z"
+    "submittedAt": "2026-10-16T14:21:07.695Z"
   }
 }
