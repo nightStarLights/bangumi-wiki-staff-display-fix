@@ -1,0 +1,211 @@
+{
+  "trackCredits": {
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6281",
+            "text": "新居昭乃"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "藤堂昌彦"
+          },
+          "inst": "1st Violin"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "金子昌憲"
+          },
+          "inst": "2nd Violin"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "萩谷金太郎"
+          },
+          "inst": "Viola"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "小林幸太郎"
+          },
+          "inst": "Cello"
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66547",
+            "text": "AKA"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "高柳欽也"
+            },
+            " (Strings)"
+          ]
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7019",
+            "text": "やなぎなぎ"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6282",
+            "text": "Annabel"
+          }
+        }
+      ]
+    },
+    "1.1": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:745",
+            "text": "保刈久明"
+          },
+          "inst": "E.Guitar"
+        }
+      ]
+    },
+    "1.7": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:745",
+            "text": "保刈久明"
+          },
+          "inst": "A.Guitar"
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8014",
+            "text": "kidlit"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8014",
+            "text": "kidlit"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8014",
+            "text": "kidlit"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:70599",
+          "text": "伊藤誠悟"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:70599",
+          "text": "伊藤誠悟"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:73159",
+          "text": "yukako"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:8014",
+          "text": "kidlit"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:8014",
+          "text": "kidlit"
+        }
+      }
+    ],
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:8014",
+          "text": "kidlit"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：kidlit (深水チエ)\n艺术家：新居昭乃(3)、やなぎなぎ(5)、Annabel(6)\n作词：AKA(3)\n作曲：kidlit (深水チエ)\n编曲：kidlit (深水チエ)\n混音：伊藤誠悟、kidlit (深水チエ)(4,7,10)\n母带制作：伊藤誠悟\n设计：yukako\n乐器-E.Guitar：保刈久明(1)\n乐器-A.Guitar：保刈久明(7)\n乐器-1st Violin：藤堂昌彦(3)\n乐器-2nd Violin：金子昌憲(3)\n乐器-Viola：萩谷金太郎(3)\n乐器-Cello：小林幸太郎(3)\n录音-Strings：高柳欽也(3)"
+  },
+  "subjectId": 713171,
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-16T16:41:20.213Z"
+  }
+}
