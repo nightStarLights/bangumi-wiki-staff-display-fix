@@ -6,12 +6,12 @@
         {
           "parts": [
             {
-              "ref": "p:68921",
+              "ref": null,
               "text": "RYOQUCHA"
             },
             " feat. ",
             {
-              "ref": "p:84370",
+              "ref": null,
               "text": "ひが"
             }
           ]
@@ -32,12 +32,12 @@
         {
           "parts": [
             {
-              "ref": "p:45460",
+              "ref": null,
               "text": "DJ Raisei"
             },
             " feat. ",
             {
-              "ref": "p:69030",
+              "ref": null,
               "text": "PANXI"
             }
           ]
@@ -82,7 +82,7 @@
         {
           "parts": [
             {
-              "ref": "p:47396",
+              "ref": null,
               "text": "S2i8"
             },
             " & ",
@@ -120,7 +120,7 @@
             },
             " (",
             {
-              "ref": "p:38601",
+              "ref": null,
               "text": "海兎"
             },
             ")"
@@ -136,7 +136,7 @@
             },
             " (",
             {
-              "ref": "p:38601",
+              "ref": null,
               "text": "海兎"
             },
             ")"
@@ -177,12 +177,12 @@
         {
           "parts": [
             {
-              "ref": "p:6761",
+              "ref": null,
               "text": "DJ Shimamura"
             },
             " & ",
             {
-              "ref": "p:67826",
+              "ref": null,
               "text": "Numb'n'dub"
             },
             " feat. ",
@@ -208,12 +208,12 @@
         {
           "parts": [
             {
-              "ref": "p:71676",
+              "ref": null,
               "text": "Aethral"
             },
             " & ",
             {
-              "ref": "p:16665",
+              "ref": null,
               "text": "Renko"
             }
           ]
@@ -225,12 +225,12 @@
         {
           "parts": [
             {
-              "ref": "p:73996",
+              "ref": null,
               "text": "AXURA"
             },
             " × ",
             {
-              "ref": "p:69027",
+              "ref": null,
               "text": "星名はる"
             }
           ]
@@ -244,17 +244,17 @@
         "type": "person",
         "person": {
           "ref": null,
-          "text": "DISC"
+          "text": "MEGAREX"
         }
       }
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：RYOQUCHA feat. ひが(1)、DJ Raisei feat. PANXI(2)、YUKIYANAGI(3)、Zekk(4)、Riku(5)、S2i8 & MC SYUMI(6)、3R2(7)、TaKo feat. hinata (海兎)(8)、savogy & YUKIYANAGI(9)、ZoeEngineMW(10)、DJ Shimamura & Numb'n'dub feat. LINDA(11)、Aethral & Renko(12)、AXURA × 星名はる(13)\n厂牌：DISC\n客串：ひが(1)、hinata (海兎)(8)、LINDA(11)"
+    "editor": "艺术家：RYOQUCHA feat. ひが(1)、DJ Raisei feat. PANXI(2)、YUKIYANAGI(3)、Zekk(4)、Riku(5)、S2i8 & MC SYUMI(6)、3R2(7)、TaKo feat. hinata (海兎)(8)、savogy & YUKIYANAGI(9)、ZoeEngineMW(10)、DJ Shimamura & Numb'n'dub feat. LINDA(11)、Aethral & Renko(12)、AXURA × 星名はる(13)\n厂牌：MEGAREX\n客串：ひが(1)、hinata (海兎)(8)、LINDA(11)"
   },
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-16T12:52:18.240Z"
+    "submittedAt": "2026-10-16T12:52:23.698Z"
   }
 }
