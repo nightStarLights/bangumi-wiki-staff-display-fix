@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:7253",
             "text": "ななひら"
           }
         }
@@ -597,6 +597,6 @@
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-16T12:43:39.276Z"
+    "submittedAt": "2026-10-16T12:43:42.593Z"
   }
 }
