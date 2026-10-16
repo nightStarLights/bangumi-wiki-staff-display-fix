@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:91466",
             "text": "七狼さくや"
           }
         }
@@ -15,7 +15,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:81544",
             "text": "L!sa"
           }
         }
@@ -26,7 +26,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:91466",
             "text": "七狼さくや"
           }
         }
@@ -46,7 +46,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:91466",
             "text": "七狼さくや"
           }
         }
@@ -66,7 +66,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:91466",
             "text": "七狼さくや"
           }
         }
@@ -86,7 +86,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:91466",
             "text": "七狼さくや"
           }
         }
@@ -106,14 +106,14 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:91466",
             "text": "七狼さくや"
           }
         },
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:91467",
             "text": "Ki.tSu.né"
           }
         }
@@ -122,7 +122,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:91467",
             "text": "Ki.tSu.né"
           }
         }
@@ -133,7 +133,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:91466",
             "text": "七狼さくや"
           }
         }
@@ -153,7 +153,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:73678",
             "text": "NEKOZUME"
           }
         }
@@ -162,7 +162,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:73678",
             "text": "NEKOZUME"
           }
         }
@@ -193,7 +193,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:81544",
             "text": "L!sa"
           }
         }
@@ -259,7 +259,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:73678",
             "text": "NEKOZUME"
           }
         }
@@ -281,7 +281,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:91467",
             "text": "Ki.tSu.né"
           }
         }
@@ -304,7 +304,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:91466",
           "text": "七狼さくや"
         }
       }
@@ -313,7 +313,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:91466",
           "text": "七狼さくや"
         }
       }
@@ -412,6 +412,6 @@
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-16T13:18:04.676Z"
+    "submittedAt": "2026-10-16T13:18:25.311Z"
   }
 }
