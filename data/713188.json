@@ -1,0 +1,352 @@
+{
+  "subjectId": 713188,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "よあけいちか"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "甘夏もか"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "みむまこ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:103772",
+            "text": "Nagitsune"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:103773",
+            "text": "ragia"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:103772",
+            "text": "Nagitsune"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:103773",
+            "text": "ragia"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:103772",
+            "text": "Nagitsune"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:103773",
+            "text": "ragia"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "よあけいちか"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:103772",
+            "text": "Nagitsune"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:103773",
+            "text": "ragia"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:103773",
+            "text": "ragia"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "甘夏もか"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:103772",
+            "text": "Nagitsune"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:103772",
+            "text": "Nagitsune"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:103772",
+            "text": "Nagitsune"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "みむまこ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:103772",
+            "text": "Nagitsune"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:103772",
+            "text": "Nagitsune"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:103772",
+            "text": "Nagitsune"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "森田レシル"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:103773",
+            "text": "ragia"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:103772",
+            "text": "Nagitsune"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:103772",
+            "text": "Nagitsune"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "森田レシル"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:103772",
+            "text": "Nagitsune"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:103772",
+            "text": "Nagitsune"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:103772",
+            "text": "Nagitsune"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "椎奈"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "うた。"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:103772",
+            "text": "Nagitsune"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:103772",
+            "text": "Nagitsune"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:103772",
+            "text": "Nagitsune"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:103772",
+          "text": "Nagitsune"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "キツネノアシアト"
+        }
+      }
+    ],
+    "design": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "ななむらよあけ"
+          },
+          " (Circle Logo Design)"
+        ]
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：Nagitsune\n艺术家：よあけいちか(1,3)、甘夏もか(1,4)、みむまこ(1,5)、森田レシル(2,6)、椎奈(7)、うた。(7)\n作词：Nagitsune(1,3-7)、ragia(1,2)\n作曲：Nagitsune(1,2,4-7)、ragia(1,3)\n编曲：Nagitsune(1,2,4-7)、ragia(1,3)\n厂牌：キツネノアシアト\n设计-Circle Logo Design：ななむらよあけ"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-16T19:16:17.190Z"
+  }
+}
