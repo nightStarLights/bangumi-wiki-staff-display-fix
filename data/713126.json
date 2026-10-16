@@ -1,0 +1,263 @@
+{
+  "subjectId": 713126,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:79454",
+            "text": "庭師"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:79454",
+            "text": "庭師"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:79454",
+            "text": "庭師"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:79454",
+            "text": "庭師"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:79454",
+            "text": "庭師"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:79454",
+            "text": "庭師"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:79454",
+            "text": "庭師"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:79454",
+            "text": "庭師"
+          }
+        }
+      ]
+    },
+    "1.14": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:79454",
+            "text": "庭師"
+          }
+        }
+      ]
+    },
+    "1.15": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:79454",
+            "text": "庭師"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:47586",
+              "text": "Sobrem"
+            },
+            " & ",
+            {
+              "ref": "p:79454",
+              "text": "庭師"
+            }
+          ]
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "parts": [
+            "劇団",
+            {
+              "ref": "p:79454",
+              "text": "庭師"
+            },
+            " with ",
+            {
+              "ref": null,
+              "text": "kia"
+            }
+          ]
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "隣の庭は青い"
+          }
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:79454",
+              "text": "庭師"
+            },
+            " + ",
+            {
+              "ref": "p:55169",
+              "text": "Aoi"
+            }
+          ]
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Trerey-U"
+            },
+            " + ",
+            {
+              "ref": "p:79454",
+              "text": "庭師"
+            }
+          ]
+        }
+      ]
+    },
+    "1.13": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "ああああ"
+            },
+            " vs ",
+            {
+              "ref": "p:79454",
+              "text": "庭師"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:79454",
+          "text": "庭師"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:79454",
+          "text": "庭師"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:79454",
+          "text": "庭師"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "イクチワカナ"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "CinEraLiA"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：庭師\n艺术家：庭師(1-5,7-9,14,15)、Sobrem & 庭師(6)、劇団庭師 (庭師) with kia(10)、隣の庭は青い(11)、庭師 + Aoi(11)、Trerey-U + 庭師(12)、ああああ vs 庭師(13)\n作曲：庭師\n编曲：庭師\n插图：イクチワカナ\n设计：CinEraLiA"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-16T14:12:41.844Z"
+  }
+}
