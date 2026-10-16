@@ -1,4 +1,5 @@
 {
+  "subjectId": 713172,
   "trackCredits": {
     "1.4": {
       "lyricist": [
@@ -22,20 +23,29 @@
             " (Collaboration)"
           ]
         }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Synthesizer V 夏色花梨"
+          }
+        }
       ]
     }
   },
   "epinfo": {
-    "label": [
+    "producer": [
       {
         "type": "person",
         "person": {
-          "ref": "p:66068",
-          "text": "Elixir Nocturne"
+          "ref": "p:66069",
+          "text": "MALVA."
         }
       }
     ],
-    "producer": [
+    "lyricist": [
       {
         "type": "person",
         "person": {
@@ -53,12 +63,21 @@
         }
       }
     ],
-    "lyricist": [
+    "illustrator": [
       {
         "type": "person",
         "person": {
-          "ref": "p:66069",
-          "text": "MALVA."
+          "ref": "p:69015",
+          "text": "しおの"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:66068",
+          "text": "Elixir Nocturne"
         }
       }
     ],
@@ -88,24 +107,14 @@
           " (Circle Logo)"
         ]
       }
-    ],
-    "illustrator": [
-      {
-        "type": "person",
-        "person": {
-          "ref": "p:69015",
-          "text": "しおの"
-        }
-      }
     ]
   },
   "rawPatches": {
-    "editor": "制作人：MALVA.\n作词：MALVA.、すばる(4)\n作曲：MALVA.\n插图：しおの\n厂牌：Elixir Nocturne\n设计：MALVA.\n设计-Web：MALVA.\n作曲-Collaboration：CS4W(5)\n设计-Circle Logo：綜花"
+    "editor": "制作人：MALVA.\n作词：MALVA.、すばる(4)\n作曲：MALVA.\n插图：しおの\n厂牌：Elixir Nocturne\n设计：MALVA.\n设计-Web：MALVA.\n作曲-Collaboration：CS4W(5)\n设计-Circle Logo：綜花\n声乐:Synthesizer V 夏色花梨(5)"
   },
-  "subjectId": 713172,
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-16T16:50:49.206Z"
+    "submittedAt": "2026-10-16T17:16:23.158Z"
   }
 }
