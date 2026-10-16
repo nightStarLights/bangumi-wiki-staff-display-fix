@@ -1,0 +1,278 @@
+{
+  "subjectId": 713069,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:34064",
+            "text": "Srav3R"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:7561",
+              "text": "RoughSketch"
+            },
+            " feat. ",
+            {
+              "ref": "p:74659",
+              "text": "DD \"ナカタ\" Metal"
+            }
+          ]
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:74659",
+            "text": "DD \"ナカタ\" Metal"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7750",
+            "text": "DJ Noriken"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7220",
+            "text": "P*Light"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83764",
+            "text": "NAMV"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15471",
+            "text": "Kobaryo"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:47575",
+              "text": "Yuta Imai"
+            },
+            " feat. ",
+            {
+              "ref": "p:66185",
+              "text": "yosumi"
+            }
+          ]
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66185",
+            "text": "yosumi"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10213",
+            "text": "DJ Myosuke"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:7865",
+              "text": "DJ Genki"
+            },
+            " feat. ",
+            {
+              "ref": "p:73049",
+              "text": "taru"
+            }
+          ]
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73049",
+            "text": "taru"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8753",
+            "text": "Massive New Krew"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36947",
+            "text": "Getty"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7924",
+            "text": "USAO"
+          }
+        }
+      ]
+    },
+    "1.13": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:6966",
+              "text": "REDALiCE"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "DELUTAYA"
+            }
+          ]
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "DELUTAYA"
+          }
+        }
+      ]
+    },
+    "1.14": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33664",
+            "text": "Laur"
+          }
+        }
+      ]
+    },
+    "1.15": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7662",
+            "text": "aran"
+          }
+        }
+      ]
+    },
+    "1.16": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7002",
+            "text": "t+pazolite"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:8295",
+          "text": "KEI"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:7218",
+          "text": "HARDCORE TANO*C"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Tamio Iwaya"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：Srav3R(1)、RoughSketch feat. DD \"ナカタ\" Metal(2)、DJ Noriken(3)、P*Light(4)、NAMV(5)、Kobaryo(6)、Yuta Imai feat. yosumi(7)、DJ Myosuke(8)、DJ Genki feat. taru(9)、Massive New Krew(10)、Getty(11)、USAO(12)、REDALiCE feat. DELUTAYA(13)、Laur(14)、aran(15)、t+pazolite(16)\n插图：KEI\n厂牌：HARDCORE TANO*C\n客串：《DD \"ナカタ\" Metal》(2)、yosumi(7)、taru(9)、DELUTAYA(13)\n设计：Tamio Iwaya"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-16T12:22:13.191Z"
+  }
+}
