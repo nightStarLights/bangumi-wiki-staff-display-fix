@@ -1,0 +1,123 @@
+{
+  "subjectId": 713164,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66544",
+            "text": "はらもりよしな"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65419",
+            "text": "id.sh"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "AIRI KIRISHIMA"
+            },
+            " (",
+            {
+              "ref": "p:6462",
+              "text": "桐島愛里"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "AIRI KIRISHIMA"
+            },
+            " (",
+            {
+              "ref": "p:6462",
+              "text": "桐島愛里"
+            },
+            ")"
+          ]
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:65454",
+          "text": "邪王"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:65454",
+          "text": "邪王"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:65454",
+          "text": "邪王"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ひなっち"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:65454",
+          "text": "floorclean Sound"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ひなっち"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：はらもりよしな(1)、AIRI KIRISHIMA (桐島愛里)(2)\n作词：邪王、id.sh(1)、AIRI KIRISHIMA (桐島愛里)(2)\n作曲：邪王\n编曲：邪王\n插图：ひなっち\n厂牌：floorclean Sound\n设计：ひなっち"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-16T15:44:01.565Z"
+  }
+}
