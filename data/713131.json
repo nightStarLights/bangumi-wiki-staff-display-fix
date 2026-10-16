@@ -1,0 +1,91 @@
+{
+  "subjectId": 713131,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7253",
+            "text": "ななひら"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "七柊"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:10372",
+          "text": "ハム"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:10372",
+          "text": "ハム"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:10372",
+          "text": "ハム"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "moga"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:35275",
+          "text": "Confetto"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "カジデザイン"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：ななひら(1)、七柊(2)\n作词：ハム\n作曲：ハム\n编曲：ハム\n插图：moga\n厂牌：Confetto\n设计：《カジデザイン》"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-16T14:26:29.671Z"
+  }
+}
