@@ -1,0 +1,745 @@
+{
+  "subjectId": 713080,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "源屋"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "野宮あゆみ"
+            }
+          ]
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "野宮あゆみ"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "REDALiCE"
+          }
+        }
+      ]
+    },
+    "2.14": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "REDALiCE"
+          }
+        }
+      ]
+    },
+    "3.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "REDALiCE"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "kors k"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "斎藤広祐"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "DJ Noriken"
+          }
+        }
+      ]
+    },
+    "2.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "DJ Noriken"
+          }
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Yukacco"
+          }
+        }
+      ]
+    },
+    "3.13": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "DJ Noriken"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Getty"
+          }
+        }
+      ]
+    },
+    "3.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Getty"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "P*Light"
+          }
+        }
+      ]
+    },
+    "2.15": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "P*Light"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "DJ Myosuke"
+          }
+        }
+      ]
+    },
+    "2.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "DJ Myosuke"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "USAO"
+          }
+        }
+      ]
+    },
+    "2.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "USAO"
+          }
+        }
+      ]
+    },
+    "3.15": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "USAO"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "DJ Genki"
+          }
+        }
+      ]
+    },
+    "2.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "DJ Genki"
+          }
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Yukacco"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "DJ Shimamura"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "RoughSketch"
+          }
+        }
+      ]
+    },
+    "2.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "RoughSketch"
+          }
+        }
+      ]
+    },
+    "3.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "RoughSketch"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Noizenecio"
+          }
+        }
+      ]
+    },
+    "2.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Noizenecio"
+          }
+        }
+      ]
+    },
+    "1.13": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "lapix"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "石谷桂亮"
+            },
+            ")",
+            " feat. ",
+            {
+              "ref": null,
+              "text": "Shully"
+            }
+          ]
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Shully"
+          }
+        }
+      ]
+    },
+    "1.14": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Ryu*"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "中原龍太郎"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.15": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "aran"
+          }
+        }
+      ]
+    },
+    "2.13": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "aran"
+          }
+        }
+      ]
+    },
+    "3.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "aran"
+          }
+        }
+      ]
+    },
+    "1.16": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Massive New Krew"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "YUC'e"
+            }
+          ]
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "YUC'e"
+          }
+        }
+      ]
+    },
+    "1.17": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "t+pazolite"
+          }
+        }
+      ]
+    },
+    "3.17": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "t+pazolite"
+          }
+        }
+      ]
+    },
+    "2.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "umbrella"
+          }
+        }
+      ]
+    },
+    "2.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Massive New Krew"
+          }
+        }
+      ]
+    },
+    "3.14": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Massive New Krew"
+          }
+        }
+      ]
+    },
+    "2.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Srav3R"
+          }
+        }
+      ]
+    },
+    "3.16": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Srav3R"
+          }
+        }
+      ]
+    },
+    "2.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Kobaryo"
+          }
+        }
+      ]
+    },
+    "3.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Kobaryo"
+          }
+        }
+      ]
+    },
+    "2.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "kenta-v.ez."
+          }
+        }
+      ]
+    },
+    "3.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "kenta-v.ez."
+          }
+        }
+      ]
+    },
+    "2.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Laur"
+          }
+        }
+      ]
+    },
+    "3.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Laur"
+          }
+        }
+      ]
+    },
+    "2.16": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Joshka"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Josh McInnes"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "2.17": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "t+pazolite"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "Rizna"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "リズナ"
+            },
+            ")"
+          ]
+        }
+      ],
+      "featured": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Rizna"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "リズナ"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "3.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Nhato"
+          }
+        }
+      ]
+    },
+    "3.4": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "DJ Myosuke"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "Daisuke"
+            }
+          ]
+        }
+      ]
+    },
+    "3.5": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "源屋"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "motoko"
+            }
+          ]
+        }
+      ]
+    },
+    "3.8": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "DJ Genki"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "Yukacco"
+            }
+          ]
+        }
+      ]
+    },
+    "3.12": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "P*Light"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "*airi"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "KEI"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "HARDCORE TANO*C"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Shouta Kajimura"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：源屋 feat. 野宮あゆみ(1.1)、REDALiCE(1.2, 2.14, 3.7)、kors k (斎藤広祐)(1.3)、DJ Noriken(1.4, 2.2, 3.13)、Getty(1.5, 3.9)、P*Light(1.6, 2.15)、DJ Myosuke(1.7, 2.6)、USAO(1.8, 2.1, 3.15)、DJ Genki(1.9, 2.8)、DJ Shimamura(1.10)、RoughSketch(1.11, 2.5, 3.6)、Noizenecio(1.12, 2.11)、lapix (石谷桂亮) feat. Shully(1.13)、Ryu* (中原龍太郎)(1.14)、aran(1.15, 2.13, 3.2)、Massive New Krew feat. YUC'e(1.16)、t+pazolite(1.17, 3.17)、umbrella(2.3)、Massive New Krew(2.4, 3.14)、Srav3R(2.7, 3.16)、Kobaryo(2.9, 3.1)、kenta-v.ez.(2.10, 3.10)、Laur(2.12, 3.11)、Joshka (Josh McInnes)(2.16)、t+pazolite feat. Rizna (リズナ)(2.17)、Nhato(3.3)、DJ Myosuke feat. Daisuke(3.4)、源屋 feat. motoko(3.5)、DJ Genki feat. Yukacco(3.8)、P*Light feat. *airi(3.12)\n插图：KEI\n厂牌：HARDCORE TANO*C\n客串：野宮あゆみ(1.1)、Shully(1.13)、YUC'e(1.16)、Yukacco(2.2, 2.8)、Rizna (リズナ)(2.17)\n设计：Shouta Kajimura"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-16T12:35:59.262Z"
+  }
+}
