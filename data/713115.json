@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:81786",
             "text": "N4Gi"
           }
         }
@@ -17,7 +17,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:81786",
             "text": "N4Gi"
           }
         }
@@ -28,7 +28,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:81786",
             "text": "N4Gi"
           }
         }
@@ -48,12 +48,12 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:81786",
               "text": "N4Gi"
             },
             " & ",
             {
-              "ref": null,
+              "ref": "p:42184",
               "text": "Alicemetix"
             }
           ]
@@ -65,12 +65,12 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:81786",
               "text": "N4Gi"
             },
             " & ",
             {
-              "ref": null,
+              "ref": "p:92283",
               "text": "KAJI"
             }
           ]
@@ -82,12 +82,12 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:81786",
               "text": "N4Gi"
             },
             " feat. ",
             {
-              "ref": null,
+              "ref": "p:82017",
               "text": "天乃おつげ"
             }
           ]
@@ -97,7 +97,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:82017",
             "text": "天乃おつげ"
           }
         }
@@ -108,7 +108,7 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:81786",
               "text": "N4Gi"
             },
             " & ",
@@ -125,12 +125,12 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:81786",
               "text": "N4Gi"
             },
             " & ",
             {
-              "ref": null,
+              "ref": "p:55201",
               "text": "RiraN"
             },
             " feat. ",
@@ -145,7 +145,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:8753",
             "text": "Massive New Krew"
           }
         }
@@ -166,7 +166,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:81786",
           "text": "N4Gi"
         }
       }
@@ -193,7 +193,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:75747",
           "text": "6Tan"
         }
       },
@@ -212,6 +212,6 @@
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-16T13:27:51.650Z"
+    "submittedAt": "2026-10-16T13:28:02.837Z"
   }
 }
