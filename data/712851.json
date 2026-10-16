@@ -1,0 +1,93 @@
+{
+  "subjectId": 712851,
+  "trackCredits": {
+    "1.1": {
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "星界"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ナースロボタイプ＿T"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "星界"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ナースロボタイプ＿T"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ナースロボタイプ＿T"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "卯月となり"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "saebashi"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "よわいきみのとなりでばいばい"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：卯月となり\n声乐：星界(1,2)、ナースロボタイプ＿T(1,3,4)\n插图：saebashi\n厂牌：よわいきみのとなりでばいばい"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-16T03:22:34.396Z"
+  }
+}
