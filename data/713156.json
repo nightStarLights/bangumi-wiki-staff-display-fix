@@ -1,0 +1,170 @@
+{
+  "subjectId": 713156,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Nanari"
+            },
+            " (",
+            {
+              "ref": "p:9158",
+              "text": "槇ななり"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6554",
+            "text": "折倉俊則"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6554",
+            "text": "折倉俊則"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:41771",
+            "text": "保科めぐみ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "50.449"
+            },
+            " (",
+            {
+              "ref": "p:71384",
+              "text": "五十嵐芳樹"
+            },
+            ")"
+          ]
+        }
+      ],
+      "mixing": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "50.449"
+            },
+            " (",
+            {
+              "ref": "p:71384",
+              "text": "五十嵐芳樹"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:4930",
+            "text": "坂本美里"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:32737",
+            "text": "山下航生"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:32737",
+            "text": "山下航生"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6554",
+            "text": "折倉俊則"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6554",
+            "text": "折倉俊則"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:82481",
+          "text": "Sanctuarium"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "石黒 \"Takk\" 孝行"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "まきななりのさーくる"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：Sanctuarium\n艺术家：Nanari (槇ななり)(1)、保科めぐみ(2)、坂本美里(3)\n作曲：折倉俊則(1,4)、50.449 (五十嵐芳樹)(2)、山下航生(3)\n混音：折倉俊則(1,4)、50.449 (五十嵐芳樹)(2)、山下航生(3)\n母带制作：《石黒 \"Takk\" 孝行》\n厂牌：まきななりのさーくる"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-16T15:13:39.702Z"
+  }
+}
