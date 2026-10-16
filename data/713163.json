@@ -1,0 +1,627 @@
+{
+  "subjectId": 713163,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "parts": [
+            "めたりっくまがーる(CV:",
+            {
+              "ref": "p:25690",
+              "text": "ちょこ"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "うしろぎよあ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25682",
+            "text": "かゆき"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "シルクパラソル（かゆき & うしろぎよあ）"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "parts": [
+            "めたりっくまがーる(CV:",
+            {
+              "ref": "p:25690",
+              "text": "ちょこ"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25682",
+            "text": "かゆき"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25682",
+            "text": "かゆき"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25682",
+            "text": "かゆき"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "parts": [
+            "めたりっくまがーる(CV:",
+            {
+              "ref": "p:25690",
+              "text": "ちょこ"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            "黒咲さん(CV.",
+            {
+              "ref": null,
+              "text": "manamo"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25686",
+            "text": "アカリユウヤ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:25682",
+              "text": "かゆき"
+            },
+            " & ",
+            {
+              "ref": "p:25687",
+              "text": "yoa"
+            }
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": "p:25682",
+              "text": "かゆき"
+            },
+            " & ",
+            {
+              "ref": "p:25687",
+              "text": "yoa"
+            }
+          ]
+        }
+      ],
+      "custom-台本": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "黎明機構第三研究開発部"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "parts": [
+            "めたりっくまがーる(CV:",
+            {
+              "ref": "p:25690",
+              "text": "ちょこ"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25682",
+            "text": "かゆき"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25682",
+            "text": "かゆき"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25682",
+            "text": "かゆき"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69207",
+            "text": "うぐ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25682",
+            "text": "かゆき"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25682",
+            "text": "かゆき"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25682",
+            "text": "かゆき"
+          }
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:25687",
+              "text": "yoa"
+            },
+            " (Strings Arrangement)"
+          ]
+        }
+      ],
+      "custom-额外特效": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25687",
+            "text": "yoa"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69207",
+            "text": "うぐ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69207",
+            "text": "うぐ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25682",
+            "text": "かゆき"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25682",
+            "text": "かゆき"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "parts": [
+            "黒咲さん(CV.",
+            {
+              "ref": null,
+              "text": "manamo"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25686",
+            "text": "アカリユウヤ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25687",
+            "text": "yoa"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25687",
+            "text": "yoa"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:45924",
+            "text": "杠葉えりか"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "うしろぎよあ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25682",
+            "text": "かゆき"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "シルクパラソル（かゆき & うしろぎよあ）"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "parts": [
+            "いがきいみ(CV:",
+            {
+              "ref": "p:65920",
+              "text": "山田じぇみ子"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "後木夜明"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "うしろぎよあ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "うしろぎよあ"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "parts": [
+            "いがきいみ(CV:",
+            {
+              "ref": "p:65920",
+              "text": "山田じぇみ子"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "後木夜明"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "うしろぎよあ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "うしろぎよあ"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9014",
+            "text": "ゆきまめ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25682",
+            "text": "かゆき"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25682",
+            "text": "かゆき"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25682",
+            "text": "かゆき"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9014",
+            "text": "ゆきまめ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "後木夜明"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "うしろぎよあ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "うしろぎよあ"
+          }
+        }
+      ]
+    },
+    "1.13": {
+      "artist": [
+        {
+          "parts": [
+            "《木森歌音》(CV:",
+            {
+              "ref": "p:36895",
+              "text": "浅見ゆい"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "後木夜明"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "うしろぎよあ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "うしろぎよあ"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:25682",
+          "text": "かゆき"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "うしろぎよあ"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:91784",
+          "text": "ましましやさい"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "シルクパラソル"
+        }
+      }
+    ],
+    "design": [
+      {
+        "parts": [
+          {
+            "ref": "p:91784",
+            "text": "ましましやさい"
+          },
+          " (Title Logo)"
+        ]
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：かゆき、うしろぎよあ\n艺术家：めたりっくまがーる(CV:ちょこ)(1,4,6,7)、うぐ(2,3)、黒咲さん(CV.manamo)(5,6)、杠葉えりか(8)、いがきいみ(CV:山田じぇみ子)(9,10)、ゆきまめ(11,12)、《木森歌音》(CV:浅見ゆい)(13)\n作词：うしろぎよあ(1,8)、かゆき(2,4,7,11)、うぐ(3)、アカリユウヤ(5,6)、後木夜明(9,10,12,13)\n作曲：かゆき(1-4,7,8,11)、yoa(5)、かゆき & yoa(6)、うしろぎよあ(9,10,12,13)\n编曲：《シルクパラソル（かゆき & うしろぎよあ）》(1,8)、かゆき(2-4,7,11)、yoa(5)、かゆき & yoa(6)、うしろぎよあ(9,10,12,13)\n插图：ましましやさい\n厂牌：シルクパラソル\n设计-Title Logo：ましましやさい\n编曲-Strings Arrangement：yoa(2)\ncustom-额外特效：yoa(2)\ncustom-台本：黎明機構第三研究開発部(6)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-16T15:33:34.601Z"
+  }
+}
