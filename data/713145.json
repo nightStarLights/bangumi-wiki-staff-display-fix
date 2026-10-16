@@ -1,0 +1,110 @@
+{
+  "subjectId": 713145,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81778",
+            "text": "古瀬ゆらゆら"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66305",
+            "text": "高城みよ"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "け厶り"
+          },
+          " (",
+          {
+            "ref": "p:56871",
+            "text": "木村孝明"
+          },
+          ")"
+        ]
+      }
+    ],
+    "lyricist": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "け厶り"
+          },
+          " (",
+          {
+            "ref": "p:56871",
+            "text": "木村孝明"
+          },
+          ")"
+        ]
+      }
+    ],
+    "composer": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "け厶り"
+          },
+          " (",
+          {
+            "ref": "p:56871",
+            "text": "木村孝明"
+          },
+          ")"
+        ]
+      }
+    ],
+    "arranger": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "け厶り"
+          },
+          " (",
+          {
+            "ref": "p:56871",
+            "text": "木村孝明"
+          },
+          ")"
+        ]
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:81778",
+          "text": "古瀬ゆらゆら"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：け厶り (木村孝明)\n艺术家：古瀬ゆらゆら(1)、高城みよ(2)\n作词：け厶り (木村孝明)\n作曲：け厶り (木村孝明)\n编曲：け厶り (木村孝明)\n插图：古瀬ゆらゆら"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-16T14:54:20.377Z"
+  }
+}
