@@ -1,0 +1,185 @@
+{
+  "subjectId": 713161,
+  "trackCredits": {
+    "1.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Tezu"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Tezu"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "nuage"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "nuage"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ryoto"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ryoto"
+          }
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91847",
+            "text": "むむ猫"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "モコ太郎"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "モコ太郎"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25605",
+            "text": "黒沢ダイスケ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25605",
+            "text": "黒沢ダイスケ"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Chibesuna"
+            },
+            " (",
+            {
+              "ref": "p:72971",
+              "text": "チベスナ"
+            },
+            ")"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Chibesuna"
+            },
+            " (",
+            {
+              "ref": "p:72971",
+              "text": "チベスナ"
+            },
+            ")"
+          ]
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "眠れない夜の音楽室"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Tezu"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "nuage"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：眠れない夜の音楽室\n作曲：Tezu(1)、nuage(2)、Ryoto(3)、モコ太郎(4)、黒沢ダイスケ(5)、Chibesuna (チベスナ)(6)\n编曲：Tezu(1)、nuage(2)、Ryoto(3)、モコ太郎(4)、黒沢ダイスケ(5)、Chibesuna (チベスナ)(6)\n母带制作：Tezu\n客串：むむ猫(3)\n设计：nuage"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-16T15:26:31.899Z"
+  }
+}
