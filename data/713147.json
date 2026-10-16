@@ -1,4 +1,5 @@
 {
+  "subjectId": 713147,
   "trackCredits": {
     "1.1": {
       "artist": [
@@ -7,34 +8,6 @@
           "person": {
             "ref": "p:9366",
             "text": "あやぽんず＊"
-          }
-        }
-      ],
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:41138",
-            "text": "kaztora"
-          }
-        }
-      ],
-      "instrument": [
-        {
-          "type": "instrument_credit",
-          "person": {
-            "ref": "p:46431",
-            "text": "清水\"カルロス\"宥人"
-          },
-          "inst": "Guitar"
-        }
-      ],
-      "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:46431",
-            "text": "清水\"カルロス\"宥人"
           }
         }
       ],
@@ -47,6 +20,24 @@
           }
         }
       ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:41138",
+            "text": "kaztora"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:46431",
+            "text": "清水\"カルロス\"宥人"
+          }
+        }
+      ],
       "mixing": [
         {
           "type": "person",
@@ -54,6 +45,16 @@
             "ref": "p:6372",
             "text": "Hedonist"
           }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:46431",
+            "text": "清水\"カルロス\"宥人"
+          },
+          "inst": "Guitar"
         }
       ]
     },
@@ -71,6 +72,15 @@
           "person": {
             "ref": "p:34905",
             "text": "あよ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:41138",
+            "text": "kaztora"
           }
         }
       ],
@@ -92,15 +102,6 @@
           }
         }
       ],
-      "lyricist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:41138",
-            "text": "kaztora"
-          }
-        }
-      ],
       "mixing": [
         {
           "type": "person",
@@ -118,6 +119,15 @@
           "person": {
             "ref": "p:34905",
             "text": "あよ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:41138",
+            "text": "kaztora"
           }
         }
       ],
@@ -146,15 +156,6 @@
           }
         }
       ],
-      "lyricist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:41138",
-            "text": "kaztora"
-          }
-        }
-      ],
       "mixing": [
         {
           "type": "person",
@@ -176,15 +177,6 @@
         }
       }
     ],
-    "design": [
-      {
-        "type": "person",
-        "person": {
-          "ref": "p:73532",
-          "text": "柏森たま。"
-        }
-      }
-    ],
     "label": [
       {
         "type": "person",
@@ -193,15 +185,23 @@
           "text": "森羅万象"
         }
       }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:73532",
+          "text": "柏森たま。"
+        }
+      }
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：あやぽんず＊(1,2)、あよ(2,3)\n作词：詠未(1)、kaztora(2,3)\n作曲：kaztora(1-3)\n编曲：清水\"カルロス\"宥人(1)、KAYLLY(2)、fluffilm(3)、Hedonist(3)\n混音：Hedonist(1,3)、MK(2)\n插图：柏森たま。\n厂牌：森羅万象\n设计：柏森たま。\n乐器-Guitar：清水\"カルロス\"宥人(1)"
+    "editor": "艺术家：あやぽんず＊(1,2)、あよ(2,3)\n作词：詠未(1)、kaztora(2,3)\n作曲：kaztora(1-3)\n编曲：清水\"カルロス\"宥人(1)、KAYLLY(2)、fluffilm(3)、Hedonist(3)\n混音：Hedonist(1,3)、MK(2)\n插图：柏森たま。\n厂牌：森羅万象\n设计：柏森たま。\n乐器-Guitar：清水\"カルロス\"宥人(1)\nMastering・Hedonist"
   },
-  "subjectId": 713147,
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-16T15:00:19.785Z"
+    "submittedAt": "2026-10-16T15:01:10.902Z"
   }
 }
