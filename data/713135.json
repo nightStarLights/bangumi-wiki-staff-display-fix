@@ -1,0 +1,146 @@
+{
+  "subjectId": 713135,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69712",
+            "text": "MUKKURi"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69715",
+            "text": "uramp"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "saaa"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "重音テトSV"
+            }
+          ]
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "雨熊"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "ナツメイツキ"
+            }
+          ]
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Irona"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "小春六花"
+            }
+          ]
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69714",
+            "text": "クエーバー"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69717",
+            "text": "AYFW"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69712",
+          "text": "MUKKURi"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "もーどまん"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Domesti-Core"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "BORSCH+"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：MUKKURi(1)、uramp(2)、saaa feat. 重音テトSV(3)、雨熊 feat. ナツメイツキ(4)、Irona feat. 小春六花(5)、クエーバー(6)、AYFW(7)\n母带制作：MUKKURi\n插图：もーどまん\n厂牌：Domesti-Core\n设计：BORSCH+"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-16T14:33:54.898Z"
+  }
+}
