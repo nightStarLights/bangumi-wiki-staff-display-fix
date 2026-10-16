@@ -1,0 +1,225 @@
+{
+  "trackCredits": {
+    "1.6": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Hiroto Endo"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:82031",
+            "text": "嶋根颯汰"
+          },
+          "inst": "Saxophone"
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11316",
+            "text": "鈴湯"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "黒衣音波"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64714",
+            "text": "BΣretta Crossrain"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "黒衣音波"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25596",
+            "text": "みたかりん"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66190",
+            "text": "Ray_Oh"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:35280",
+              "text": "咲良ゆの"
+            },
+            " × ",
+            {
+              "ref": "p:66190",
+              "text": "Ray_Oh"
+            }
+          ]
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65399",
+            "text": "るる"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "月音"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "月音"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36042",
+            "text": "月乃"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:36042",
+              "text": "月乃"
+            },
+            " & ",
+            {
+              "ref": null,
+              "text": "月斗"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Kocyamarü"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:40030",
+          "text": "葉月透"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "しょうぽん"
+        }
+      }
+    ],
+    "custom-Promotion": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "金田泰仁"
+        }
+      }
+    ],
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:82118",
+          "text": "月城紅葉"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Maplemoon Records"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：月城紅葉\n艺术家：るる(2)、月音(3,11)、咲良ゆの × Ray_Oh(4)、鈴湯(6)、BΣretta Crossrain(7)、月乃(8)、月乃 & 月斗(9)、みたかりん(10)\n编曲：Ray_Oh(4)\n混音：黒衣音波(7,10)\n母带制作：Kocyamarü\n插图：葉月透\n厂牌：Maplemoon Records\n设计：しょうぽん\ncustom-Promotion：金田泰仁\n乐器-Guitar：Hiroto Endo(6)\n乐器-Saxophone：嶋根颯汰(6)"
+  },
+  "subjectId": 713144,
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-16T14:50:47.613Z"
+  }
+}
