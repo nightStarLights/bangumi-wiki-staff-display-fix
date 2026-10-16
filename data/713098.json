@@ -269,7 +269,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:83107",
           "text": "weiss"
         }
       }
@@ -279,8 +279,8 @@
     "editor": "制作人：ARForest\n艺术家：ARForest(1-17,19,20)、ARForest feat. nayuta(18)\n母带制作：Chester Park\n厂牌：#ffffff Records\n客串：nayuta(18)\n设计：weiss"
   },
   "_meta": {
-    "submittedBy": "459115",
+    "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-16T13:04:12.805Z"
+    "submittedAt": "2026-10-16T13:05:57.844Z"
   }
 }
