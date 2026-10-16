@@ -1,0 +1,226 @@
+{
+  "subjectId": 625141,
+  "trackCredits": {
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93590",
+            "text": "パルタ・クレイシス"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93590",
+            "text": "パルタ・クレイシス"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93589",
+            "text": "弓絃"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93590",
+            "text": "パルタ・クレイシス"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93590",
+            "text": "パルタ・クレイシス"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93590",
+            "text": "パルタ・クレイシス"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93590",
+            "text": "パルタ・クレイシス"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "夜さりにささめく"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93590",
+            "text": "パルタ・クレイシス"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93590",
+            "text": "パルタ・クレイシス"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93590",
+            "text": "パルタ・クレイシス"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ぷにばら"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "夜さりにささめく"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "夜さりにささめく"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "夜さりにささめく"
+          }
+        }
+      ]
+    },
+    "1.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93589",
+            "text": "弓絃"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93589",
+            "text": "弓絃"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:93590",
+          "text": "パルタ・クレイシス"
+        }
+      }
+    ],
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:93590",
+          "text": "パルタ・クレイシス"
+        }
+      }
+    ],
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "放電"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "放電"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:93590",
+          "text": "パルタ・クレイシス"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "青色をだきしめる"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：《パルタ・クレイシス》\n艺术家：《パルタ・クレイシス》\n作词：《パルタ・クレイシス》(2,3,5)、夜さりにささめく(4)\n作曲：弓絃(1)、《パルタ・クレイシス》(2,3,5)、夜さりにささめく(4)\n编曲：弓絃(1,2)、《パルタ・クレイシス》(2,3,5)、夜さりにささめく(3,4)、ぷにばら(5)\n混音：放電\n母带制作：放電\n插图：《パルタ・クレイシス》\n厂牌：青色をだきしめる"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-16T19:23:18.265Z"
+  }
+}
