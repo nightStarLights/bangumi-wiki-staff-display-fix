@@ -216,15 +216,9 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:65944",
               "text": "INuya"
             },
-            " (",
-            {
-              "ref": "p:65944",
-              "text": "イヌヤ"
-            },
-            ")",
             " feat. ",
             {
               "ref": null,
@@ -235,34 +229,20 @@
       ],
       "composer": [
         {
-          "parts": [
-            {
-              "ref": null,
-              "text": "INuya"
-            },
-            " (",
-            {
-              "ref": "p:65944",
-              "text": "イヌヤ"
-            },
-            ")"
-          ]
+          "type": "person",
+          "person": {
+            "ref": "p:65944",
+            "text": "INuya"
+          }
         }
       ],
       "arranger": [
         {
-          "parts": [
-            {
-              "ref": null,
-              "text": "INuya"
-            },
-            " (",
-            {
-              "ref": "p:65944",
-              "text": "イヌヤ"
-            },
-            ")"
-          ]
+          "type": "person",
+          "person": {
+            "ref": "p:65944",
+            "text": "INuya"
+          }
         }
       ]
     },
@@ -389,34 +369,20 @@
     "2.9": {
       "composer": [
         {
-          "parts": [
-            {
-              "ref": null,
-              "text": "INuya"
-            },
-            " (",
-            {
-              "ref": "p:65944",
-              "text": "イヌヤ"
-            },
-            ")"
-          ]
+          "type": "person",
+          "person": {
+            "ref": "p:65944",
+            "text": "INuya"
+          }
         }
       ],
       "arranger": [
         {
-          "parts": [
-            {
-              "ref": null,
-              "text": "INuya"
-            },
-            " (",
-            {
-              "ref": "p:65944",
-              "text": "イヌヤ"
-            },
-            ")"
-          ]
+          "type": "person",
+          "person": {
+            "ref": "p:65944",
+            "text": "INuya"
+          }
         }
       ]
     },
@@ -518,6 +484,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-16T17:01:01.425Z"
+    "submittedAt": "2026-10-16T17:01:30.845Z"
   }
 }
