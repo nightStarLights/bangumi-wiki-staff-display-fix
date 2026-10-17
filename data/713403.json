@@ -1,0 +1,80 @@
+{
+  "subjectId": 713403,
+  "trackCredits": {
+    "1.9": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69475",
+            "text": "Redsign"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "OsushiFreak"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "OsushiFreak"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "OsushiFreak"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "形状"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "OSC Freaks"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "OsushiFreak"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：OsushiFreak\n作曲：OsushiFreak\n编曲：Redsign(9)\n母带制作：OsushiFreak\n插图：形状\n厂牌：OSC Freaks\n设计：OsushiFreak"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-17T16:33:30.503Z"
+  }
+}
