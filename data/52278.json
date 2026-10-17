@@ -1,0 +1,441 @@
+{
+  "subjectId": 52278,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Risa Yuzuki"
+            },
+            " (",
+            {
+              "ref": "p:25781",
+              "text": "柚木梨沙"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "BlackY"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "BlackY"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "美弦"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Risa Yuzuki"
+            },
+            " (",
+            {
+              "ref": "p:25781",
+              "text": "柚木梨沙"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "BlackY"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "BlackY"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "美弦"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Risa Yuzuki"
+            },
+            " (",
+            {
+              "ref": "p:25781",
+              "text": "柚木梨沙"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "BlackY"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "BlackY"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Risa Yuzuki"
+            },
+            " (",
+            {
+              "ref": "p:25781",
+              "text": "柚木梨沙"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "BlackY"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "BlackY"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Risa Yuzuki"
+            },
+            " (",
+            {
+              "ref": "p:25781",
+              "text": "柚木梨沙"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "BlackY"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "BlackY"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Risa Yuzuki"
+            },
+            " (",
+            {
+              "ref": "p:25781",
+              "text": "柚木梨沙"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "BlackY"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "BlackY"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "BlackY"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "BlackY"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "BlackY"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "BlackY"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "BlackY"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "BlackY"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "BlackY"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "BlackY"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "BlackY"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "BlackY"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "BlackY"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "BlackY"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "BlackY"
+          },
+          " & ",
+          {
+            "ref": null,
+            "text": "Risa Yuzuki"
+          },
+          " (",
+          {
+            "ref": "p:25781",
+            "text": "柚木梨沙"
+          },
+          ")"
+        ]
+      }
+    ],
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:68144",
+          "text": "Kuroa*"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:66543",
+          "text": "こたろう"
+        }
+      }
+    ],
+    "label": [
+      {
+        "parts": [
+          {
+            "ref": "p:53227",
+            "text": "BlackY's BEATFLOOR"
+          },
+          " & ",
+          {
+            "ref": null,
+            "text": "Luminaria"
+          }
+        ]
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "菅原ヒロト"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "三浦シュンタ"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：BlackY & Risa Yuzuki (柚木梨沙)\n艺术家：Risa Yuzuki (柚木梨沙)(1-6)\n作词：Kuroa*\n作曲：BlackY(1-12)\n编曲：BlackY(1-12)\n插图：こたろう\n厂牌：BlackY's BEATFLOOR & Luminaria\n设计：菅原ヒロト、三浦シュンタ\n乐器-Guitar：美弦(1,2)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-17T12:28:39.433Z"
+  }
+}
