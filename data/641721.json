@@ -112,7 +112,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:104751",
             "text": "いのうつはSA"
           }
         }
@@ -145,7 +145,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:104110",
             "text": "OLDUCT"
           }
         }
@@ -189,8 +189,8 @@
     "editor": "艺术家：橘しとら(5)、はざめ(7)、夜丹れにや(8)、Swashi2(9)、漣音(11)、monof(13)、風祭瑛紀(15,16)、おおつく(16,30)、いのうつはSA(19)、.+(21)、安見すや(22)、OLDUCT(26)、ETE(27)、Stellar(28)、てらいと(29)"
   },
   "_meta": {
-    "submittedBy": "459115",
+    "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-16T04:22:37.316Z"
+    "submittedAt": "2026-10-17T07:45:20.476Z"
   }
 }
