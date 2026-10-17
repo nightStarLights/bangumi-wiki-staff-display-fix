@@ -73,7 +73,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:104752",
+          "ref": null,
           "text": "ラクガキスタジオ"
         }
       }
@@ -112,6 +112,6 @@
   "_meta": {
     "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-17T07:49:03.044Z"
+    "submittedAt": "2026-10-17T07:50:31.377Z"
   }
 }
