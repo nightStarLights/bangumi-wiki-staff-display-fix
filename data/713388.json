@@ -1,0 +1,220 @@
+{
+  "subjectId": 713388,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Riku"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Altermis"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55169",
+            "text": "Aoi"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:85227",
+            "text": "shapes"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83762",
+            "text": "utzbo"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67132",
+            "text": "Reku Mochizuki"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82811",
+            "text": "DRIVE."
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65461",
+            "text": "uma"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71672",
+            "text": "Dogsix"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Sunajiro"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "グヮカモレ"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "r"
+          }
+        }
+      ]
+    },
+    "1.13": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73501",
+            "text": "Kolaa"
+          }
+        }
+      ]
+    },
+    "1.14": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "watch"
+            },
+            " vs. ",
+            {
+              "ref": null,
+              "text": "Vanxia"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:83762",
+          "text": "utzbo"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:83762",
+          "text": "utzbo"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:70641",
+          "text": "原木シィタケ"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Ultramarine Soundz"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ムッシュ竹崎"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：utzbo\n艺术家：Riku(1)、Altermis(2)、Aoi(3)、shapes(4)、utzbo(5)、Reku Mochizuki(6)、DRIVE.(7)、uma(8)、Dogsix(9)、Sunajiro(10)、グヮカモレ(11)、r(12)、Kolaa(13)、watch vs. Vanxia(14)\n母带制作：utzbo\n插图：原木シィタケ\n厂牌：Ultramarine Soundz\n设计：ムッシュ竹崎"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-17T15:26:22.309Z"
+  }
+}
