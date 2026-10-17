@@ -1,0 +1,344 @@
+{
+  "subjectId": 713404,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65403",
+            "text": "ことの"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Ryohei Haduki"
+            },
+            " (",
+            {
+              "ref": "p:65196",
+              "text": "葉月リョウヘイ"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yuu Ito"
+            },
+            " (",
+            {
+              "ref": "p:67560",
+              "text": "伊藤由宇"
+            },
+            ")"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yuu Ito"
+            },
+            " (",
+            {
+              "ref": "p:67560",
+              "text": "伊藤由宇"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5919",
+            "text": "仲村芽衣子"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5919",
+            "text": "仲村芽衣子"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yuu Ito"
+            },
+            " (",
+            {
+              "ref": "p:67560",
+              "text": "伊藤由宇"
+            },
+            ")"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yuu Ito"
+            },
+            " (",
+            {
+              "ref": "p:67560",
+              "text": "伊藤由宇"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36042",
+            "text": "月乃"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Ryohei Haduki"
+            },
+            " (",
+            {
+              "ref": "p:65196",
+              "text": "葉月リョウヘイ"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yuu Ito"
+            },
+            " (",
+            {
+              "ref": "p:67560",
+              "text": "伊藤由宇"
+            },
+            ")"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yuu Ito"
+            },
+            " (",
+            {
+              "ref": "p:67560",
+              "text": "伊藤由宇"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36042",
+            "text": "月乃"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Ryohei Haduki"
+            },
+            " (",
+            {
+              "ref": "p:65196",
+              "text": "葉月リョウヘイ"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yuu Ito"
+            },
+            " (",
+            {
+              "ref": "p:67560",
+              "text": "伊藤由宇"
+            },
+            ")"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yuu Ito"
+            },
+            " (",
+            {
+              "ref": "p:67560",
+              "text": "伊藤由宇"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:104784",
+            "text": "こむた"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Ryohei Haduki"
+            },
+            " (",
+            {
+              "ref": "p:65196",
+              "text": "葉月リョウヘイ"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yuu Ito"
+            },
+            " (",
+            {
+              "ref": "p:67560",
+              "text": "伊藤由宇"
+            },
+            ")"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yuu Ito"
+            },
+            " (",
+            {
+              "ref": "p:67560",
+              "text": "伊藤由宇"
+            },
+            ")"
+          ]
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "Yuu Ito"
+          },
+          " (",
+          {
+            "ref": "p:67560",
+            "text": "伊藤由宇"
+          },
+          ")"
+        ]
+      }
+    ],
+    "mastering": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "Yuu Ito"
+          },
+          " (",
+          {
+            "ref": "p:67560",
+            "text": "伊藤由宇"
+          },
+          ")"
+        ]
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "U-RASIA"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：Yuu Ito (伊藤由宇)\n艺术家：ことの(1)、仲村芽衣子(2)、月乃(3,5)、こむた(4)\n作词：Ryohei Haduki (葉月リョウヘイ)(1,3-5)、仲村芽衣子(2)\n作曲：Yuu Ito (伊藤由宇)(1-5)\n编曲：Yuu Ito (伊藤由宇)(1-5)\n母带制作：Yuu Ito (伊藤由宇)\n厂牌：U-RASIA"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-17T16:37:07.093Z"
+  }
+}
