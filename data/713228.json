@@ -1,0 +1,55 @@
+{
+  "subjectId": 713228,
+  "trackCredits": {
+    "1.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:74024",
+            "text": "エハラミオリ"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:41327",
+            "text": "DÉ DÉ MOUSE"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:77594",
+          "text": "Marpril"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ヨモヒラ"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：Marpril\n作曲：エハラミオリ(1)、《DÉ DÉ MOUSE》(2)\n插图：ヨモヒラ"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-17T04:16:22.145Z"
+  }
+}
