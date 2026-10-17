@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:45358",
             "text": "Tatsunoshin"
           }
         }
@@ -17,7 +17,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:45358",
             "text": "Tatsunoshin"
           }
         }
@@ -28,7 +28,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:45358",
             "text": "Tatsunoshin"
           }
         }
@@ -39,7 +39,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:45358",
             "text": "Tatsunoshin"
           }
         }
@@ -50,7 +50,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:45358",
             "text": "Tatsunoshin"
           }
         }
@@ -61,7 +61,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:45358",
             "text": "Tatsunoshin"
           }
         }
@@ -72,7 +72,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:45358",
             "text": "Tatsunoshin"
           }
         }
@@ -83,7 +83,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:45358",
             "text": "Tatsunoshin"
           }
         }
@@ -94,7 +94,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:45358",
             "text": "Tatsunoshin"
           }
         }
@@ -105,7 +105,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:45358",
             "text": "Tatsunoshin"
           }
         }
@@ -116,12 +116,12 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:45358",
               "text": "Tatsunoshin"
             },
             " x ",
             {
-              "ref": null,
+              "ref": "p:8753",
               "text": "Massive New Krew"
             }
           ]
@@ -134,7 +134,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:45358",
           "text": "Tatsunoshin"
         }
       }
@@ -152,7 +152,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:34127",
           "text": "きあと"
         }
       }
@@ -164,6 +164,6 @@
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-17T04:12:18.128Z"
+    "submittedAt": "2026-10-17T04:13:13.071Z"
   }
 }
