@@ -1,0 +1,32 @@
+{
+  "trackCredits": {},
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "スピード出したくなる曲"
+        }
+      }
+    ],
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "は"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：は\n厂牌：スピード出したくなる曲"
+  },
+  "subjectId": 713320,
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-17T09:40:40.135Z"
+  }
+}
