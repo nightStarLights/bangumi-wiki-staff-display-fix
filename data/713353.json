@@ -441,7 +441,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:69943",
+          "ref": null,
           "text": "中谷浩平"
         }
       }
@@ -477,7 +477,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:78050",
+          "ref": null,
           "text": "菅原ヒロト"
         }
       },
@@ -498,17 +498,17 @@
             "ref": "p:67854",
             "text": "石塚陽大"
           },
-          " (Vocal)"
+          " (Vocal Rec Engineer)"
         ]
       }
     ]
   },
   "rawPatches": {
-    "editor": "制作人：棗いつき\n艺术家：棗いつき\n作词：棗いつき(1-5)、篠崎あやと(4)\n作曲：岸田(1)、草野華余子(1,3)、堀江晶太(2)、篠崎あやと(4)、イガラシ(5)\n编曲：岸田(1)、BLACK ALBATROSS(1-5)、堀江晶太(2)、草野華余子(3)、篠崎あやと(4)、イガラシ(5)\n混音：中谷浩平\n母带制作：守屋忠慶\n插图：花ヶ田\n厂牌：《LYRICFLASK》\n人声指导：草野華余子(1-5)、篠崎あやと(4)\n设计：菅原ヒロト\n录音-Vocal：石塚陽大\n设计-Web：来宮りお\n乐器-Guitar：堀江晶太(1-3,5)、岸田(1)\n乐器-Bass：岸田(1)、堀江晶太(2)、イガラシ(3,5)\n乐器-Beat programming：岸田(1,3,5)\n乐器-All other instrumental：篠崎あやと(1,3,5)、堀江晶太(2)\n乐器-Piano：草野華余子(3,5)\n乐器-All instrumental：篠崎あやと(4)\n乐器-Keyboards：イガラシ(5)"
+    "editor": "制作人：棗いつき\n艺术家：棗いつき\n作词：棗いつき(1-5)、篠崎あやと(4)\n作曲：岸田(1)、草野華余子(1,3)、堀江晶太(2)、篠崎あやと(4)、イガラシ(5)\n编曲：岸田(1)、BLACK ALBATROSS(1-5)、堀江晶太(2)、草野華余子(3)、篠崎あやと(4)、イガラシ(5)\n混音：中谷浩平\n母带制作：守屋忠慶\n插图：花ヶ田\n厂牌：《LYRICFLASK》\n人声指导：草野華余子(1-5)、篠崎あやと(4)\n设计：菅原ヒロト\n录音-Vocal Rec Engineer：石塚陽大\n设计-Web：来宮りお\n乐器-Guitar：堀江晶太(1-3,5)、岸田(1)\n乐器-Bass：岸田(1)、堀江晶太(2)、イガラシ(3,5)\n乐器-Beat programming：岸田(1,3,5)\n乐器-All other instrumental：篠崎あやと(1,3,5)、堀江晶太(2)\n乐器-Piano：草野華余子(3,5)\n乐器-All instrumental：篠崎あやと(4)\n乐器-Keyboards：イガラシ(5)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-17T10:51:37.842Z"
+    "submittedAt": "2026-10-17T10:51:56.453Z"
   }
 }
