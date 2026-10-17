@@ -1,0 +1,46 @@
+{
+  "subjectId": 713382,
+  "trackCredits": {
+    "1.11": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Wa!ter"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ぺてら"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "あずきねこp"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：あずきねこp\n编曲：Wa!ter(11)、ぺてら(12)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-17T15:24:11.467Z"
+  }
+}
