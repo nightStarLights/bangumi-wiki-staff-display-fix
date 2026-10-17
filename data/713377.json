@@ -1,0 +1,282 @@
+{
+  "subjectId": 713377,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:70007",
+              "text": "Ashrount"
+            },
+            " vs. ",
+            {
+              "ref": "p:65433",
+              "text": "打打だいず"
+            }
+          ]
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:70007",
+              "text": "Ashrount"
+            },
+            " vs. ",
+            {
+              "ref": "p:65433",
+              "text": "打打だいず"
+            }
+          ]
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:70007",
+              "text": "Ashrount"
+            },
+            " vs. ",
+            {
+              "ref": "p:65433",
+              "text": "打打だいず"
+            }
+          ]
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:70007",
+              "text": "Ashrount"
+            },
+            " vs. ",
+            {
+              "ref": "p:65433",
+              "text": "打打だいず"
+            }
+          ]
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:70007",
+              "text": "Ashrount"
+            },
+            " vs. ",
+            {
+              "ref": "p:65433",
+              "text": "打打だいず"
+            }
+          ]
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:70007",
+              "text": "Ashrount"
+            },
+            " vs. ",
+            {
+              "ref": "p:65433",
+              "text": "打打だいず"
+            }
+          ]
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:70007",
+              "text": "Ashrount"
+            },
+            " vs. ",
+            {
+              "ref": "p:65433",
+              "text": "打打だいず"
+            }
+          ]
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:70007",
+              "text": "Ashrount"
+            },
+            " vs. ",
+            {
+              "ref": "p:65433",
+              "text": "打打だいず"
+            }
+          ]
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:70007",
+              "text": "Ashrount"
+            },
+            " vs. ",
+            {
+              "ref": "p:65433",
+              "text": "打打だいず"
+            }
+          ]
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70007",
+            "text": "Ashrount"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65433",
+            "text": "打打だいず"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70007",
+            "text": "Ashrount"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65433",
+            "text": "打打だいず"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70007",
+            "text": "Ashrount"
+          }
+        }
+      ]
+    },
+    "1.13": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65433",
+            "text": "打打だいず"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Ashrount / 打打だいず"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:70007",
+          "text": "Ashrount"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:67632",
+          "text": "すずなし"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "*Ashgrey ChronicleZ"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ただただだいず"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "菅原ヒロト"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：《Ashrount / 打打だいず》\n艺术家：Ashrount vs. 打打だいず(1-9)、Ashrount(10,12)、打打だいず(11,13)\n编曲：打打だいず(10)、Ashrount(11)\n母带制作：Ashrount\n插图：すずなし\n厂牌：*Ashgrey ChronicleZ、ただただだいず\n设计：菅原ヒロト"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-17T12:32:33.527Z"
+  }
+}
