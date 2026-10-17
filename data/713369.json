@@ -1,0 +1,68 @@
+{
+  "trackCredits": {},
+  "epinfo": {
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69686",
+          "text": "aon"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69686",
+          "text": "aon"
+        }
+      }
+    ],
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69686",
+          "text": "aon"
+        }
+      }
+    ],
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69686",
+          "text": "aon"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "nayutaon"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "yuca"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：aon\n作词：aon\n作曲：aon\n编曲：aon\n插图：yuca\n厂牌：nayutaon"
+  },
+  "subjectId": 713369,
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-17T12:07:35.994Z"
+  }
+}
