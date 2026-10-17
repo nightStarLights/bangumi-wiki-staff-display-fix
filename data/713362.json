@@ -1,0 +1,118 @@
+{
+  "subjectId": 713362,
+  "trackCredits": {
+    "1.2": {
+      "custom-Vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "午慈あおい"
+          }
+        }
+      ],
+      "custom-Bass": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ナツメユウキ"
+          }
+        }
+      ],
+      "custom-Drums": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "田中航"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "custom-Vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "すずしろ"
+          }
+        }
+      ],
+      "custom-Bass": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "toyo"
+          }
+        }
+      ],
+      "custom-Drums": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "山本真央樹"
+          }
+        }
+      ],
+      "custom-Violin": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "大谷舞"
+          }
+        }
+      ],
+      "custom-Flute": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "嶋根颯汰"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "custom-Vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "えもこ"
+          }
+        }
+      ],
+      "custom-Bass": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "HONNWAKA88"
+          }
+        }
+      ],
+      "custom-Drums": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "田中航"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "custom-Vocal: 午慈あおい(2)\ncustom-Bass: ナツメユウキ(2)\ncustom-Drums: 田中航(2)\n\n\ncustom-Vocal: すずしろ(4)\ncustom-Bass: toyo(4)\ncustom-Drums: 山本真央樹(4)\ncustom-Violin: 大谷舞(4)\ncustom-Flute: 嶋根颯汰(4)\n\n\ncustom-Vocal: えもこ(6)\ncustom-Bass: HONNWAKA88(6)\ncustom-Drums: 田中航(6)"
+  },
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-17T11:45:30.882Z"
+  }
+}
