@@ -47,15 +47,6 @@
           ]
         }
       ],
-      "mixing": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:84546",
-            "text": "ふじそば"
-          }
-        }
-      ],
       "instrument": [
         {
           "type": "instrument_credit",
@@ -82,19 +73,16 @@
           "inst": "Bass"
         },
         {
-          "parts": [
-            {
-              "ref": null,
-              "text": "ざき☆すたりヴぁ"
-            },
-            " (",
-            {
-              "ref": "p:86897",
-              "text": "岡崎舜生"
-            },
-            ")",
-            " (Organ)"
-          ]
+          "type": "alias_instrument_credit",
+          "alias": {
+            "ref": "p:86897",
+            "text": "ざき☆すたりヴぁ"
+          },
+          "person": {
+            "ref": "p:86897",
+            "text": "岡崎舜生"
+          },
+          "inst": "Organ"
         },
         {
           "type": "instrument_credit",
@@ -129,6 +117,15 @@
             "text": "Moncy"
           }
         },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84546",
+            "text": "ふじそば"
+          }
+        }
+      ],
+      "mixing": [
         {
           "type": "person",
           "person": {
@@ -175,15 +172,6 @@
           }
         }
       ],
-      "mixing": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:84546",
-            "text": "ふじそば"
-          }
-        }
-      ],
       "instrument": [
         {
           "type": "instrument_credit",
@@ -224,6 +212,15 @@
           "person": {
             "ref": "p:86886",
             "text": "Moncy"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84546",
+            "text": "ふじそば"
           }
         }
       ]
@@ -274,15 +271,6 @@
           ]
         }
       ],
-      "mixing": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:84546",
-            "text": "ふじそば"
-          }
-        }
-      ],
       "instrument": [
         {
           "type": "instrument_credit",
@@ -340,23 +328,25 @@
             "text": "kanakanakanatch"
           }
         }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84546",
+            "text": "ふじそば"
+          }
+        }
       ]
     },
     "1.5": {
       "artist": [
         {
-          "parts": [
-            {
-              "ref": null,
-              "text": "花隈千冬"
-            },
-            " (",
-            {
-              "ref": null,
-              "text": "Synthesizer V AI"
-            },
-            ")"
-          ]
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "花隈千冬 (Synthesizer V AI)"
+          }
         }
       ],
       "lyricist": [
@@ -459,15 +449,6 @@
           ]
         }
       ],
-      "mixing": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:84546",
-            "text": "ふじそば"
-          }
-        }
-      ],
       "instrument": [
         {
           "type": "instrument_credit",
@@ -526,6 +507,15 @@
             "text": "kanakanakanatch"
           }
         }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84546",
+            "text": "ふじそば"
+          }
+        }
       ]
     },
     "1.9": {
@@ -572,15 +562,6 @@
             },
             " (Woodwinds Arrangement)"
           ]
-        }
-      ],
-      "mixing": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:84546",
-            "text": "ふじそば"
-          }
         }
       ],
       "instrument": [
@@ -638,6 +619,15 @@
           "person": {
             "ref": "p:86882",
             "text": "kanakanakanatch"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84546",
+            "text": "ふじそば"
           }
         }
       ]
@@ -710,6 +700,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-17T17:17:17.512Z"
+    "submittedAt": "2026-10-17T17:17:31.450Z"
   }
 }
