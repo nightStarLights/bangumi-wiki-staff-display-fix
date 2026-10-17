@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:12084",
             "text": "DJ WILDPARTY"
           }
         }
@@ -17,7 +17,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:7693",
             "text": "鬱P"
           }
         }
@@ -28,7 +28,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:65508",
             "text": "ど～ぱみん"
           }
         }
@@ -39,12 +39,12 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:65118",
               "text": "なきそ"
             },
             " × ",
             {
-              "ref": null,
+              "ref": "p:95516",
               "text": "威戸れもね。"
             }
           ]
@@ -56,7 +56,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:36776",
             "text": "KO3"
           }
         }
@@ -65,10 +65,31 @@
     "1.6": {
       "artist": [
         {
+          "parts": [
+            {
+              "ref": "p:69532",
+              "text": "キツネリ"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "只野 楓"
+            },
+            " (",
+            {
+              "ref": "p:56595",
+              "text": "A4。"
+            },
+            ")"
+          ]
+        }
+      ],
+      "featured": [
+        {
           "type": "person",
           "person": {
             "ref": null,
-            "text": "キツネリ"
+            "text": "feat. 只野 楓"
           }
         }
       ]
@@ -78,28 +99,28 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:69135",
             "text": "Reno"
           }
         },
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:65470",
             "text": "picco"
           }
         },
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:90520",
             "text": "purini"
           }
         },
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:92522",
             "text": "Mi7s3"
           }
         }
@@ -125,11 +146,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：DJ WILDPARTY(1)、鬱P(2)、ど～ぱみん(3)、なきそ × 威戸れもね。(4)、KO3(5)、キツネリ(6)、Reno(7)、picco(7)、purini(7)、Mi7s3(7)\n厂牌：NIGHT HIKE、TRIPOD Records"
+    "editor": "艺术家：DJ WILDPARTY(1)、鬱P(2)、ど～ぱみん(3)、なきそ × 威戸れもね。(4)、KO3(5)、キツネリ feat. 只野 楓 (A4。)(6)、Reno(7)、picco(7)、purini(7)、Mi7s3(7)\n厂牌：NIGHT HIKE、TRIPOD Records\n客串：《feat. 只野 楓》(6)"
   },
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-17T04:37:32.717Z"
+    "submittedAt": "2026-10-17T04:38:37.787Z"
   }
 }
