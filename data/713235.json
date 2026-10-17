@@ -1,0 +1,108 @@
+{
+  "subjectId": 713235,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Save Me The Trouble"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Save Me The Trouble"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "FAIZ"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Save Me The Trouble"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ichii"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Save Me The Trouble"
+            },
+            " & ",
+            {
+              "ref": null,
+              "text": "sibitto"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Invaders"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "PY-2"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "FAIZ"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：Save Me The Trouble(1,3,4)、Save Me The Trouble & sibitto(2)\n编曲：FAIZ(3)、Ichii(4)\n厂牌：Invaders\n设计：PY-2、FAIZ"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-17T04:31:54.411Z"
+  }
+}
