@@ -1,0 +1,234 @@
+{
+  "subjectId": 713394,
+  "trackCredits": {
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:104771",
+            "text": "ひのせ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66211",
+            "text": "Toccoyaki"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66211",
+            "text": "Toccoyaki"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:104771",
+            "text": "ひのせ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69138",
+            "text": "Mono."
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69138",
+            "text": "Mono."
+          }
+        }
+      ]
+    },
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:104772",
+            "text": "かきもち"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:104772",
+            "text": "かきもち"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:104772",
+            "text": "かきもち"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "sato."
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:86895",
+            "text": "hinode︎°"
+          },
+          "inst": "Bass"
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86879",
+            "text": "カシラテ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68666",
+            "text": "瀬名水紀"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68666",
+            "text": "瀬名水紀"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68440",
+            "text": "後藤涼輔"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68440",
+            "text": "後藤涼輔"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68440",
+            "text": "後藤涼輔"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ひのせ"
+        }
+      }
+    ],
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ひのせ"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:67878",
+          "text": "たっち"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ひのせ"
+        }
+      }
+    ],
+    "design": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "ほそい"
+          },
+          " (Jacket Design)"
+        ]
+      },
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "恋衣なの"
+          },
+          " (Menu Design)"
+        ]
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：ひのせ\n艺术家：ひのせ\n作词：ひのせ(3,4)、かきもち(1)、カシラテ(2)、後藤涼輔(5)\n作曲：かきもち(1)、瀬名水紀(2)、Toccoyaki(3)、Mono.(4)、後藤涼輔(5)\n编曲：かきもち(1)、瀬名水紀(2)、Toccoyaki(3)、Mono.(4)、後藤涼輔(5)\n母带制作：たっち\n插图：ひのせ\n设计-Jacket Design：ほそい\n设计-Menu Design：恋衣なの\n乐器-Guitar：sato.(1)\n乐器-Bass：hinode︎°(1)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-17T15:37:09.979Z"
+  }
+}
