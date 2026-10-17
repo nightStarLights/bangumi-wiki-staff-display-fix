@@ -441,7 +441,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:69943",
           "text": "中谷浩平"
         }
       }
@@ -509,6 +509,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-17T10:49:10.597Z"
+    "submittedAt": "2026-10-17T10:50:48.835Z"
   }
 }
