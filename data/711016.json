@@ -461,7 +461,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:71340",
+          "ref": null,
           "text": "木葉はづく"
         }
       }
@@ -470,14 +470,14 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:59104",
+          "ref": null,
           "text": "原口沙輔"
         }
       },
       {
         "type": "person",
         "person": {
-          "ref": "p:66174",
+          "ref": null,
           "text": "式部めぐり"
         }
       }
@@ -486,7 +486,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:59104",
+          "ref": null,
           "text": "原口沙輔"
         }
       }
@@ -495,7 +495,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:66174",
+          "ref": null,
           "text": "式部めぐり"
         }
       }
@@ -505,8 +505,8 @@
     "editor": "艺术家：式部めぐり\n作词：ミフメイ(2)、Shogo Nomura (野村渉悟)(3)、MEMODEMO(4)、AQUASINE(4)、原口沙輔(5,9)、inoutsuha SA(6)、鹿あるく(7)、Mylta(8)\n作曲：factal(1,10)、ミフメイ(2)、Shogo Nomura (野村渉悟)(3)、MEMODEMO(4)、AQUASINE(4)、原口沙輔(5)、inoutsuha SA(6)、鹿あるく(7)、Mylta(8)、Talich Helfen(9)\n编曲：factal(1,10)、ミフメイ(2)、Shogo Nomura (野村渉悟)(3)、MEMODEMO(4)、AQUASINE(4)、原口沙輔(5)、inoutsuha SA(6)、鹿あるく(7)、Mylta(8)、Talich Helfen(9)\n混音：factal(1,10)、ミフメイ(2)、Shogo Nomura (野村渉悟)(3)、MEMODEMO(4)、AQUASINE(4)、原口沙輔(5)、inoutsuha SA(6)、鹿あるく(7)、Mylta(8)、Talich Helfen(9)\n插图：駅々みそはた\n厂牌：CDs\n设计：ひかかみひなみ\ncustom-Crossfade Movie：木葉はづく\ncustom-Direction：原口沙輔、式部めぐり\ncustom-Artist Coordination：原口沙輔\ncustom-Management：式部めぐり"
   },
   "_meta": {
-    "submittedBy": "sakarin",
+    "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-08T10:35:43.980Z"
+    "submittedAt": "2026-10-17T07:46:27.451Z"
   }
 }
