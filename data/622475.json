@@ -1,0 +1,831 @@
+{
+  "subjectId": 622475,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86889",
+            "text": "天音玲"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86879",
+            "text": "カシラテ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "《AugMates"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "ふじそば》"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "1"
+            },
+            ")",
+            "、",
+            {
+              "ref": "p:86879",
+              "text": "カシラテ"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "1"
+            },
+            "、",
+            {
+              "ref": null,
+              "text": "2"
+            },
+            ")",
+            "、",
+            {
+              "ref": "p:86882",
+              "text": "kanakanakanatch"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "1"
+            },
+            ")",
+            "、",
+            {
+              "ref": "p:86886",
+              "text": "Moncy"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "1"
+            },
+            ")",
+            "、",
+            {
+              "ref": "p:86897",
+              "text": "ざき☆すたりヴぁ (岡崎舜生)"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "1"
+            },
+            ")",
+            "、",
+            {
+              "ref": "p:86898",
+              "text": "ゾウリムシ"
+            },
+            ")"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "《AugMates"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "ふじそば》"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "1"
+            },
+            ")",
+            "、",
+            {
+              "ref": "p:86879",
+              "text": "カシラテ"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "1"
+            },
+            ")",
+            "、",
+            {
+              "ref": "p:86882",
+              "text": "kanakanakanatch"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "1"
+            },
+            ")",
+            "、",
+            {
+              "ref": "p:86886",
+              "text": "Moncy"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "1"
+            },
+            "、",
+            {
+              "ref": null,
+              "text": "2"
+            },
+            ")",
+            "、",
+            {
+              "ref": "p:86897",
+              "text": "ざき☆すたりヴぁ (岡崎舜生)"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "1"
+            },
+            ")",
+            "、",
+            {
+              "ref": "p:86898",
+              "text": "ゾウリムシ"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:86886",
+              "text": "Moncy"
+            },
+            " (Strings Arrangement)"
+          ]
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84546",
+            "text": "ふじそば"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:86898",
+            "text": "ゾウリムシ"
+          },
+          "inst": "Electric Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:86899",
+            "text": "米田聖斗"
+          },
+          "inst": "Acoustic Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:86879",
+            "text": "カシラテ"
+          },
+          "inst": "Bass"
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "ざき☆すたりヴぁ"
+            },
+            " (",
+            {
+              "ref": "p:86897",
+              "text": "岡崎舜生"
+            },
+            ")",
+            " (Organ)"
+          ]
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:86886",
+            "text": "Moncy"
+          },
+          "inst": "Piano"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:86882",
+            "text": "kanakanakanatch"
+          },
+          "inst": "Piano"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:84546",
+            "text": "ふじそば"
+          },
+          "inst": "All Other Instruments"
+        }
+      ],
+      "custom-Programming": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86886",
+            "text": "Moncy"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84546",
+            "text": "ふじそば"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86889",
+            "text": "天音玲"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86879",
+            "text": "カシラテ"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84546",
+            "text": "ふじそば"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:86898",
+            "text": "ゾウリムシ"
+          },
+          "inst": "Electric Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:86879",
+            "text": "カシラテ"
+          },
+          "inst": "Bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:86882",
+            "text": "kanakanakanatch"
+          },
+          "inst": "Piano"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:86886",
+            "text": "Moncy"
+          },
+          "inst": "All Other Instruments"
+        }
+      ],
+      "custom-Programming": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86886",
+            "text": "Moncy"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86889",
+            "text": "天音玲"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86879",
+            "text": "カシラテ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84546",
+            "text": "ふじそば"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84546",
+            "text": "ふじそば"
+          }
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:86882",
+              "text": "kanakanakanatch"
+            },
+            " (Woodwinds Arrangement)"
+          ]
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84546",
+            "text": "ふじそば"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:86899",
+            "text": "米田聖斗"
+          },
+          "inst": "Electric Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:86899",
+            "text": "米田聖斗"
+          },
+          "inst": "Acoustic Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:86879",
+            "text": "カシラテ"
+          },
+          "inst": "Bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:86882",
+            "text": "kanakanakanatch"
+          },
+          "inst": "Piano"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:84546",
+            "text": "ふじそば"
+          },
+          "inst": "All Other Instruments"
+        }
+      ],
+      "custom-Programming": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84546",
+            "text": "ふじそば"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86882",
+            "text": "kanakanakanatch"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "花隈千冬"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Synthesizer V AI"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86879",
+            "text": "カシラテ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84546",
+            "text": "ふじそば"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84546",
+            "text": "ふじそば"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "まひるる"
+          },
+          "inst": "Electric Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:86879",
+            "text": "カシラテ"
+          },
+          "inst": "Bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:86882",
+            "text": "kanakanakanatch"
+          },
+          "inst": "Piano"
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "神田佐知"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86879",
+            "text": "カシラテ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84546",
+            "text": "ふじそば"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84546",
+            "text": "ふじそば"
+          }
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:86882",
+              "text": "kanakanakanatch"
+            },
+            " (Woodwinds Arrangement)"
+          ]
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84546",
+            "text": "ふじそば"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:86899",
+            "text": "米田聖斗"
+          },
+          "inst": "Electric Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:86899",
+            "text": "米田聖斗"
+          },
+          "inst": "Acoustic Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:86879",
+            "text": "カシラテ"
+          },
+          "inst": "Bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:86882",
+            "text": "kanakanakanatch"
+          },
+          "inst": "Piano"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:84546",
+            "text": "ふじそば"
+          },
+          "inst": "All Other Instruments"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Programming"
+          },
+          "inst": "All Other Instruments"
+        }
+      ],
+      "custom-Programming": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86882",
+            "text": "kanakanakanatch"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65403",
+            "text": "ことの"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86879",
+            "text": "カシラテ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84546",
+            "text": "ふじそば"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84546",
+            "text": "ふじそば"
+          }
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:86882",
+              "text": "kanakanakanatch"
+            },
+            " (Woodwinds Arrangement)"
+          ]
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84546",
+            "text": "ふじそば"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:86899",
+            "text": "米田聖斗"
+          },
+          "inst": "Electric Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:86899",
+            "text": "米田聖斗"
+          },
+          "inst": "Acoustic Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:86879",
+            "text": "カシラテ"
+          },
+          "inst": "Bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:86882",
+            "text": "kanakanakanatch"
+          },
+          "inst": "Piano"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:84546",
+            "text": "ふじそば"
+          },
+          "inst": "All Other Instruments"
+        }
+      ],
+      "custom-Programming": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84546",
+            "text": "ふじそば"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86882",
+            "text": "kanakanakanatch"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84546",
+            "text": "ふじそば"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:86885",
+          "text": "AugMates"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "くろま"
+        }
+      }
+    ],
+    "design": [
+      {
+        "parts": [
+          {
+            "ref": "p:86882",
+            "text": "kanakanakanatch"
+          },
+          " (Jacket Design)"
+        ]
+      },
+      {
+        "parts": [
+          "猫羽",
+          {
+            "ref": "p:86894",
+            "text": "ひお"
+          },
+          " (Original Character Design)"
+        ]
+      }
+    ],
+    "narration": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:86889",
+          "text": "天音玲"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：AugMates\n艺术家：天音玲(1,2,7)、花隈千冬 (Synthesizer V AI)(5)、神田佐知(8)、ことの(9)\n作词：カシラテ(1,2,5,7-9)\n作曲：《AugMates (ふじそば》(1)、カシラテ(1,2)、kanakanakanatch(1)、Moncy(1)、ざき☆すたりヴぁ (岡崎舜生)(1)、ゾウリムシ)(1)、ふじそば(5,7-9)\n编曲：《AugMates (ふじそば》(1)、カシラテ(1)、kanakanakanatch(1)、Moncy(1,2)、ざき☆すたりヴぁ (岡崎舜生)(1)、ゾウリムシ)(1)、ふじそば(5,7-9)\n混音：ふじそば(1,2,6-9)\n插图：くろま\n设计-Jacket Design：kanakanakanatch\n念白/旁白：天音玲\n设计-Original Character Design：猫羽ひお (ひお)\n乐器-Electric Guitar：ゾウリムシ(1,2)、まひるる(5)、米田聖斗(7-9)\n乐器-Acoustic Guitar：米田聖斗(1,7-9)\n乐器-Bass：カシラテ(1,2,5,7-9)\n乐器-Organ：ざき☆すたりヴぁ (岡崎舜生)(1)\n乐器-Piano：Moncy(1)、kanakanakanatch(1,2,5,7-9)\n编曲-Strings Arrangement：Moncy(1)\ncustom-Programming：Moncy(1,2)、ふじそば(1,7,9)、kanakanakanatch(7-9)\n乐器-All Other Instruments：ふじそば(1,7-9)、Moncy(2)、Programming(8)\n编曲-Woodwinds Arrangement：kanakanakanatch(7-9)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-17T17:15:06.565Z"
+  }
+}
