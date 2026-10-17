@@ -43,6 +43,15 @@
           }
         }
       ],
+      "vocaldirection": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:16251",
+            "text": "草野華余子"
+          }
+        }
+      ],
       "instrument": [
         {
           "type": "instrument_credit",
@@ -84,15 +93,6 @@
           },
           "inst": "All other instrumental"
         }
-      ],
-      "vocaldirection": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:16251",
-            "text": "草野華余子"
-          }
-        }
       ]
     },
     "1.2": {
@@ -130,6 +130,15 @@
           }
         }
       ],
+      "vocaldirection": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:16251",
+            "text": "草野華余子"
+          }
+        }
+      ],
       "instrument": [
         {
           "type": "instrument_credit",
@@ -154,15 +163,6 @@
             "text": "堀江晶太"
           },
           "inst": "All other instrumental"
-        }
-      ],
-      "vocaldirection": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:16251",
-            "text": "草野華余子"
-          }
         }
       ]
     },
@@ -193,6 +193,15 @@
             "text": "BLACK ALBATROSS"
           }
         },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:16251",
+            "text": "草野華余子"
+          }
+        }
+      ],
+      "vocaldirection": [
         {
           "type": "person",
           "person": {
@@ -241,15 +250,6 @@
             "text": "草野華余子"
           },
           "inst": "Piano"
-        }
-      ],
-      "vocaldirection": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:16251",
-            "text": "草野華余子"
-          }
         }
       ]
     },
@@ -357,6 +357,15 @@
           }
         }
       ],
+      "vocaldirection": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:16251",
+            "text": "草野華余子"
+          }
+        }
+      ],
       "instrument": [
         {
           "type": "instrument_credit",
@@ -406,15 +415,6 @@
           },
           "inst": "Keyboards"
         }
-      ],
-      "vocaldirection": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:16251",
-            "text": "草野華余子"
-          }
-        }
       ]
     }
   },
@@ -455,23 +455,21 @@
         }
       }
     ],
-    "recording": [
-      {
-        "parts": [
-          {
-            "ref": "p:67854",
-            "text": "石塚陽大"
-          },
-          " (Vocal)"
-        ]
-      }
-    ],
     "illustrator": [
       {
         "type": "person",
         "person": {
           "ref": "p:57746",
           "text": "花ヶ田"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "LYRICFLASK"
         }
       }
     ],
@@ -493,13 +491,15 @@
         ]
       }
     ],
-    "label": [
+    "recording": [
       {
-        "type": "person",
-        "person": {
-          "ref": null,
-          "text": "LYRICFLASK"
-        }
+        "parts": [
+          {
+            "ref": "p:67854",
+            "text": "石塚陽大"
+          },
+          " (Vocal)"
+        ]
       }
     ]
   },
@@ -509,6 +509,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-17T10:50:48.835Z"
+    "submittedAt": "2026-10-17T10:51:37.842Z"
   }
 }
