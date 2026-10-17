@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:90398",
             "text": "微円"
           }
         }
@@ -94,7 +94,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:104751",
             "text": "いのうつはSA"
           }
         }
@@ -127,7 +127,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:7123",
             "text": "ろん"
           }
         }
@@ -138,8 +138,8 @@
     "editor": "艺术家：微円(1)、Wa!ter(2)、Raiwo(3)、世の中ヨナカ(4)、Auauo(5)、suzxa(6)、ぶるーむ(7)、乍仝盒个(8)、いのうつはSA(11)、鬱桑型(12)、奏(13)、ろん(9)"
   },
   "_meta": {
-    "submittedBy": "459115",
+    "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-18T15:07:26.695Z"
+    "submittedAt": "2026-10-17T07:45:09.228Z"
   }
 }
