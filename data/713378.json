@@ -193,12 +193,6 @@
               "ref": null,
               "text": "Asayami"
             },
-            " (",
-            {
-              "ref": "p:70471",
-              "text": "Mei Naganowa"
-            },
-            ")",
             " & ",
             {
               "ref": null,
@@ -268,11 +262,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "制作人：Rabbit House\n艺术家：Rabbit House(1)、Tohrchu(2)、M2U(3)、litmus*(4)、Laur(5)、gmtn.(6)、Juggernaut.(7)、CS4W(8)、ZxNX(9)、AisE & FUT3R(10)、Kapoo(11)、LucaProject VS Xeudo Code(12)、Gram (DJ Genki)(13)、Team Grimoire(14)、Hayato(15)、Asayami (Mei Naganowa) & Afflected Light (Mei Naganowa) ft. neur6sia(16)\n母带制作：《A. Ki》\n插图：shru\n厂牌：Milkyway TRAXX\n设计：Piranesi"
+    "editor": "制作人：Rabbit House\n艺术家：Rabbit House(1)、Tohrchu(2)、M2U(3)、litmus*(4)、Laur(5)、gmtn.(6)、Juggernaut.(7)、CS4W(8)、ZxNX(9)、AisE & FUT3R(10)、Kapoo(11)、LucaProject VS Xeudo Code(12)、Gram (DJ Genki)(13)、Team Grimoire(14)、Hayato(15)、Asayami & Afflected Light (Mei Naganowa) ft. neur6sia(16)\n母带制作：《A. Ki》\n插图：shru\n厂牌：Milkyway TRAXX\n设计：Piranesi"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-17T12:35:35.290Z"
+    "submittedAt": "2026-10-17T12:36:31.956Z"
   }
 }
