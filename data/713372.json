@@ -1,6 +1,16 @@
 {
+  "subjectId": 713372,
   "trackCredits": {
     "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66528",
+            "text": "Synthion"
+          }
+        }
+      ],
       "composer": [
         {
           "type": "person",
@@ -11,15 +21,6 @@
         }
       ],
       "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:66528",
-            "text": "Synthion"
-          }
-        }
-      ],
-      "lyricist": [
         {
           "type": "person",
           "person": {
@@ -30,6 +31,15 @@
       ]
     },
     "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65196",
+            "text": "葉月リョウヘイ"
+          }
+        }
+      ],
       "composer": [
         {
           "type": "person",
@@ -45,15 +55,6 @@
           "person": {
             "ref": "p:67560",
             "text": "伊藤由宇"
-          }
-        }
-      ],
-      "lyricist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:65196",
-            "text": "葉月リョウヘイ"
           }
         }
       ],
@@ -68,6 +69,15 @@
       ]
     },
     "1.6": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65196",
+            "text": "葉月リョウヘイ"
+          }
+        }
+      ],
       "composer": [
         {
           "type": "person",
@@ -83,15 +93,6 @@
           "person": {
             "ref": "p:67560",
             "text": "伊藤由宇"
-          }
-        }
-      ],
-      "lyricist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:65196",
-            "text": "葉月リョウヘイ"
           }
         }
       ],
@@ -106,6 +107,15 @@
       ]
     },
     "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83306",
+            "text": "七瀬千代子"
+          }
+        }
+      ],
       "composer": [
         {
           "type": "person",
@@ -135,15 +145,6 @@
           "person": {
             "ref": "p:83304",
             "text": "汐見しの"
-          }
-        }
-      ],
-      "lyricist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:83306",
-            "text": "七瀬千代子"
           }
         }
       ],
@@ -158,6 +159,15 @@
       ]
     },
     "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "岩嵜壮志"
+          }
+        }
+      ],
       "composer": [
         {
           "type": "person",
@@ -168,15 +178,6 @@
         }
       ],
       "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "岩嵜壮志"
-          }
-        }
-      ],
-      "lyricist": [
         {
           "type": "person",
           "person": {
@@ -220,51 +221,62 @@
           }
         },
         {
-          "parts": [
-            {
-              "ref": null,
-              "text": "Studio アステロイド"
-            },
-            " (Violin)"
-          ]
+          "type": "text",
+          "text": "Studio アステロイド (Violin)"
         },
         {
-          "parts": [
-            {
-              "ref": null,
-              "text": "Studio アステロイド"
-            },
-            " (Cello)"
-          ]
+          "type": "text",
+          "text": "Studio アステロイド (Cello)"
         }
       ]
     },
     "1.5": {
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "OzaShin"
+            },
+            " (",
+            {
+              "ref": "p:9045",
+              "text": "ぺぺろんP"
+            },
+            ")"
+          ]
+        }
+      ],
       "composer": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:9045",
-            "text": "OzaShin"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "OzaShin"
+            },
+            " (",
+            {
+              "ref": "p:9045",
+              "text": "ぺぺろんP"
+            },
+            ")"
+          ]
         }
       ],
       "arranger": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:9045",
-            "text": "OzaShin"
-          }
-        }
-      ],
-      "lyricist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:9045",
-            "text": "OzaShin"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "OzaShin"
+            },
+            " (",
+            {
+              "ref": "p:9045",
+              "text": "ぺぺろんP"
+            },
+            ")"
+          ]
         }
       ],
       "mixing": [
@@ -278,6 +290,15 @@
       ]
     },
     "1.7": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:17630",
+            "text": "ねこふじかおる"
+          }
+        }
+      ],
       "composer": [
         {
           "type": "person",
@@ -293,15 +314,6 @@
           "person": {
             "ref": null,
             "text": "TAKASUKE"
-          }
-        }
-      ],
-      "lyricist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:17630",
-            "text": "ねこふじかおる"
           }
         }
       ],
@@ -316,6 +328,15 @@
       ]
     },
     "1.8": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68973",
+            "text": "あいの"
+          }
+        }
+      ],
       "composer": [
         {
           "type": "person",
@@ -331,15 +352,6 @@
           "person": {
             "ref": "p:65660",
             "text": "早蕨凪音"
-          }
-        }
-      ],
-      "lyricist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:68973",
-            "text": "あいの"
           }
         }
       ],
@@ -354,11 +366,20 @@
       ]
     },
     "1.9": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69372",
+            "text": "めがねこ"
+          }
+        }
+      ],
       "composer": [
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:63435",
             "text": "鈴谷皆人（Vivid Lila）"
           }
         }
@@ -367,17 +388,8 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:63435",
             "text": "鈴谷皆人（Vivid Lila）"
-          }
-        }
-      ],
-      "lyricist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:69372",
-            "text": "めがねこ"
           }
         }
       ],
@@ -392,6 +404,15 @@
       ]
     },
     "1.10": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65433",
+            "text": "打打だいず"
+          }
+        }
+      ],
       "composer": [
         {
           "type": "person",
@@ -402,15 +423,6 @@
         }
       ],
       "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:65433",
-            "text": "打打だいず"
-          }
-        }
-      ],
-      "lyricist": [
         {
           "type": "person",
           "person": {
@@ -421,6 +433,15 @@
       ]
     },
     "1.11": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:90326",
+            "text": "ろいた"
+          }
+        }
+      ],
       "composer": [
         {
           "type": "person",
@@ -431,15 +452,6 @@
         }
       ],
       "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:90326",
-            "text": "ろいた"
-          }
-        }
-      ],
-      "lyricist": [
         {
           "type": "person",
           "person": {
@@ -450,24 +462,6 @@
       ]
     },
     "1.12": {
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "？？？？"
-          }
-        }
-      ],
-      "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "？？？？"
-          }
-        }
-      ],
       "lyricist": [
         {
           "type": "person",
@@ -476,29 +470,29 @@
             "text": "月乃"
           }
         }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69226",
+            "text": "？？？？"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69226",
+            "text": "？？？？"
+          }
+        }
       ]
     }
   },
   "epinfo": {
-    "design": [
-      {
-        "type": "person",
-        "person": {
-          "ref": null,
-          "text": "花杜ゆのき"
-        }
-      }
-    ],
-    "illustrator": [
-      {
-        "type": "person",
-        "person": {
-          "ref": null,
-          "text": "Isari"
-        }
-      }
-    ],
-    "artist": [
+    "producer": [
       {
         "type": "person",
         "person": {
@@ -507,7 +501,7 @@
         }
       }
     ],
-    "producer": [
+    "artist": [
       {
         "type": "person",
         "person": {
@@ -525,6 +519,15 @@
         }
       }
     ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Isari"
+        }
+      }
+    ],
     "label": [
       {
         "type": "person",
@@ -533,15 +536,23 @@
           "text": "Lunatic★Melody"
         }
       }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "花杜ゆのき"
+        }
+      }
     ]
   },
   "rawPatches": {
     "editor": "制作人：月乃\n艺术家：月乃\n作词：Synthion(1)、葉月リョウヘイ(2,6)、七瀬千代子(3)、岩嵜壮志(4)、OzaShin (ぺぺろんP)(5)、ねこふじかおる(7)、あいの(8)、めがねこ(9)、打打だいず(10)、ろいた(11)、月乃(12)\n作曲：Synthion(1)、伊藤由宇(2,6)、篠沙季ナユタ(3)、汐見しの(3)、岩嵜壮志(4)、OzaShin (ぺぺろんP)(5)、TAKASUKE(7)、早蕨凪音(8)、鈴谷皆人（Vivid Lila）(9)、打打だいず(10)、ろいた(11)、？？？？(12)\n编曲：Synthion(1)、伊藤由宇(2,6)、篠沙季ナユタ(3)、汐見しの(3)、岩嵜壮志(4)、OzaShin (ぺぺろんP)(5)、TAKASUKE(7)、早蕨凪音(8)、鈴谷皆人（Vivid Lila）(9)、打打だいず(10)、ろいた(11)、？？？？(12)\n混音：打打だいず(2,5,6,8,9)、えあ。(3,7)\n母带制作：打打だいず\n插图：Isari\n厂牌：Lunatic★Melody\n设计：花杜ゆのき\n乐器-Violin：岩嵜壮志(4)\n乐器-Violoncello：佐藤空(4)\n乐器-Piano：Akki(4)\n录音：橘悠季(4)\n录音-Violin：《Studio アステロイド》(4)\n录音-Cello：《Studio アステロイド》(4)"
   },
-  "subjectId": 713372,
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-17T12:23:45.080Z"
+    "submittedAt": "2026-10-17T12:24:44.769Z"
   }
 }
