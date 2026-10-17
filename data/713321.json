@@ -1,0 +1,217 @@
+{
+  "subjectId": 713321,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "parts": [
+            "Masahiro \"",
+            {
+              "ref": "p:10388",
+              "text": "Godspeed"
+            },
+            "\" Aoki"
+          ]
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Seda"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Zenko Mitsuya"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "AZ"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "JIRO"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Ash Inoue"
+            },
+            " (",
+            {
+              "ref": "p:43547",
+              "text": "アッシュ井上"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Alfie Bradic"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Satoshi Oka"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hiroki Fujimoto"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "parts": [
+            "Satoshi \"",
+            {
+              "ref": "p:10390",
+              "text": "setsat"
+            },
+            "\" Setsune"
+          ]
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "JungMato"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10391",
+            "text": "大和"
+          }
+        }
+      ]
+    },
+    "1.13": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Mitsuyo"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "parts": [
+          "Masahiro \"",
+          {
+            "ref": "p:10388",
+            "text": "Godspeed"
+          },
+          "\" Aoki"
+        ]
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Yasuji Yasman Maeda"
+        }
+      }
+    ],
+    "label": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "G.O.D."
+          },
+          " (",
+          {
+            "ref": "p:69453",
+            "text": "GUITARISTS ON DEMAND"
+          },
+          ")"
+        ]
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:10391",
+          "text": "大和"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：《Masahiro \"Godspeed\" Aoki》 (Godspeed)\n艺术家：《Masahiro \"Godspeed\" Aoki》 (Godspeed)(1)、Seda(2)、Zenko Mitsuya(3)、AZ(4)、JIRO(5)、Ash Inoue (アッシュ井上)(6)、Alfie Bradic(7)、Satoshi Oka(8)、Hiroki Fujimoto(9)、《Satoshi \"setsat\" Setsune》 (setsat)(10)、JungMato(11)、大和(12)、Mitsuyo(13)\n母带制作：Yasuji Yasman Maeda\n厂牌：G.O.D. (GUITARISTS ON DEMAND)\n设计：大和"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-17T09:45:54.510Z"
+  }
+}
