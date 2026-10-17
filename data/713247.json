@@ -1,0 +1,244 @@
+{
+  "subjectId": 713247,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "NILMA"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "NILMA"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "NILMA"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "NILMA"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "NILMA"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "NILMA"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Wipecore"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "NILMA"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "SCHNE1DER"
+          }
+        }
+      ]
+    },
+    "1.13": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "NILMA"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "PV1N"
+          }
+        }
+      ]
+    },
+    "1.14": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "NILMA"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "苔原"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "NILMA"
+            },
+            " & ",
+            {
+              "ref": null,
+              "text": "Wipecore"
+            }
+          ]
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "PV1N"
+            },
+            " & ",
+            {
+              "ref": null,
+              "text": "NILMA"
+            }
+          ]
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "NILMA"
+            },
+            " & ",
+            {
+              "ref": null,
+              "text": "PV1N"
+            }
+          ]
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "NILMA"
+            },
+            " & ",
+            {
+              "ref": null,
+              "text": "QOM3T"
+            }
+          ]
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "NILMA"
+            },
+            " & ",
+            {
+              "ref": null,
+              "text": "RIZARDI"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "NILMA"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：NILMA(1-5,11-14)、NILMA & Wipecore(6)、PV1N & NILMA(7)、NILMA & PV1N(8)、NILMA & QOM3T(9)、NILMA & RIZARDI(10)\n编曲：Wipecore(11)、SCHNE1DER(12)、PV1N(13)、苔原(14)\n设计：NILMA"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-17T04:51:11.488Z"
+  }
+}
