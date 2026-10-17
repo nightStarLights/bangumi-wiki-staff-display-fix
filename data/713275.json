@@ -50,7 +50,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:104751",
             "text": "いのうつはSA"
           }
         }
@@ -73,7 +73,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:104752",
           "text": "ラクガキスタジオ"
         }
       }
@@ -112,6 +112,6 @@
   "_meta": {
     "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-17T07:42:35.705Z"
+    "submittedAt": "2026-10-17T07:49:03.044Z"
   }
 }
