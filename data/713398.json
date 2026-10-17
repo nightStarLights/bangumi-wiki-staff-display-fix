@@ -1,0 +1,80 @@
+{
+  "subjectId": 713398,
+  "trackCredits": {
+    "1.6": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "いやん"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Mi7s3"
+        }
+      }
+    ],
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Mi7s3"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Mi7s3"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Mi7s3"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "NEXTLIGHT"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ハチナナ"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：Mi7s3\n作词：Mi7s3\n作曲：Mi7s3\n编曲：Mi7s3\n厂牌：NEXTLIGHT\n插图：ハチナナ\n\n作词：いやん(6)"
+  },
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-17T15:51:15.478Z"
+  }
+}
