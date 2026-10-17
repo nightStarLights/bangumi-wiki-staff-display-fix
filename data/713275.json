@@ -1,0 +1,117 @@
+{
+  "subjectId": 713275,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81542",
+            "text": "織井辺コフィ"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:40239",
+            "text": "星銀乃丈"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:74364",
+            "text": "Gyr0"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:92963",
+            "text": "ハレトキドキ"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "いのうつはSA"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:20262",
+            "text": "佐藤貴文"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ラクガキスタジオ"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:74364",
+          "text": "Gyr0"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:34127",
+          "text": "きあと"
+        }
+      }
+    ],
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:74364",
+          "text": "Gyr0"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "厂牌：ラクガキスタジオ\n母带制作：Gyr0\n插图：きあと\n制作人：Gyr0\n\n艺术家：織井辺コフィ(1)、星銀乃丈(2)、Gyr0(3)、ハレトキドキ(4)、いのうつはSA(5)、佐藤貴文(6)"
+  },
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-17T07:42:35.705Z"
+  }
+}
