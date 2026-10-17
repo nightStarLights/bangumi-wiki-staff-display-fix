@@ -331,14 +331,23 @@
           "text": "U-RASIA"
         }
       }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "鬼太"
+        }
+      }
     ]
   },
   "rawPatches": {
-    "editor": "制作人：Yuu Ito (伊藤由宇)\n艺术家：ことの(1)、仲村芽衣子(2)、月乃(3,5)、こむた(4)\n作词：Ryohei Haduki (葉月リョウヘイ)(1,3-5)、仲村芽衣子(2)\n作曲：Yuu Ito (伊藤由宇)(1-5)\n编曲：Yuu Ito (伊藤由宇)(1-5)\n母带制作：Yuu Ito (伊藤由宇)\n厂牌：U-RASIA"
+    "editor": "制作人：Yuu Ito (伊藤由宇)\n艺术家：ことの(1)、仲村芽衣子(2)、月乃(3,5)、こむた(4)\n作词：Ryohei Haduki (葉月リョウヘイ)(1,3-5)、仲村芽衣子(2)\n作曲：Yuu Ito (伊藤由宇)(1-5)\n编曲：Yuu Ito (伊藤由宇)(1-5)\n母带制作：Yuu Ito (伊藤由宇)\n厂牌：U-RASIA\n插图：鬼太"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-17T16:37:07.093Z"
+    "submittedAt": "2026-10-17T16:37:45.814Z"
   }
 }
