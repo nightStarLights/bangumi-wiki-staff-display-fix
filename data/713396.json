@@ -1,0 +1,268 @@
+{
+  "subjectId": 713396,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "七条レタス"
+            },
+            " (",
+            {
+              "ref": "p:10414",
+              "text": "D.watt"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7002",
+            "text": "t+pazolite"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7002",
+            "text": "t+pazolite"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7002",
+            "text": "t+pazolite"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10164",
+            "text": "黒魔"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10164",
+            "text": "黒魔"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10164",
+            "text": "黒魔"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10164",
+            "text": "黒魔"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:34899",
+            "text": "YASUHIRO"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:34899",
+            "text": "YASUHIRO"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:34899",
+            "text": "YASUHIRO"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "parts": [
+            {
+              "ref": "p:82010",
+              "text": "つこ"
+            },
+            " (Vo Mix)"
+          ]
+        }
+      ]
+    },
+    "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25689",
+            "text": "立秋"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25689",
+            "text": "立秋"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25689",
+            "text": "立秋"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25689",
+            "text": "立秋"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83161",
+            "text": "鹿あるく"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83161",
+            "text": "鹿あるく"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83161",
+            "text": "鹿あるく"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83161",
+            "text": "鹿あるく"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:67750",
+          "text": "ころねぽち"
+        }
+      }
+    ],
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:67750",
+          "text": "ころねぽち"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:82010",
+          "text": "つこ"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:33809",
+          "text": "上倉エク"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ころねぽち屋さん"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "カジデザイン"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：ころねぽち\n艺术家：ころねぽち\n作词：七条レタス (D.watt)(1)、黒魔(2)、YASUHIRO(3)、立秋(4)、鹿あるく(5)\n作曲：t+pazolite(1)、黒魔(2)、YASUHIRO(3)、立秋(4)、鹿あるく(5)\n编曲：t+pazolite(1)、黒魔(2)、YASUHIRO(3)、立秋(4)、鹿あるく(5)\n混音：t+pazolite(1)、黒魔(2)、立秋(4)、鹿あるく(5)\n母带制作：つこ\n插图：上倉エク\n厂牌：ころねぽち屋さん\n设计：《カジデザイン》\n混音-Vo Mix：つこ(3)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-17T15:42:36.841Z"
+  }
+}
