@@ -1,0 +1,165 @@
+{
+  "subjectId": 713405,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:3862",
+            "text": "田中理恵"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65404",
+            "text": "みそらみみ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:61569",
+            "text": "KOKOMI"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:63440",
+            "text": "okogeeechann"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68087",
+            "text": "橋村姫"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:72977",
+          "text": "Mina隊長"
+        }
+      }
+    ],
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:72977",
+          "text": "Mina隊長"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:72977",
+          "text": "Mina隊長"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:72977",
+          "text": "Mina隊長"
+        }
+      }
+    ],
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "和田高志"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "和田高志"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:66075",
+          "text": "幽妃-yuki-"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "FATE GEAR"
+        }
+      }
+    ],
+    "instrument": [
+      {
+        "type": "instrument_credit",
+        "person": {
+          "ref": "p:72977",
+          "text": "Mina隊長"
+        },
+        "inst": "Guitar"
+      },
+      {
+        "type": "instrument_credit",
+        "person": {
+          "ref": "p:72977",
+          "text": "Mina隊長"
+        },
+        "inst": "Bass"
+      }
+    ],
+    "custom-Programming": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:72977",
+          "text": "Mina隊長"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：Mina隊長\n艺术家：田中理恵(1)、みそらみみ(2)、KOKOMI(2)、okogeeechann(3)、橋村姫(4)\n作词：Mina隊長\n作曲：Mina隊長\n编曲：Mina隊長\n混音：和田高志\n母带制作：和田高志\n插图：幽妃-yuki-\n厂牌：FATE GEAR\n乐器-Guitar：Mina隊長\n乐器-Bass：Mina隊長\ncustom-Programming：Mina隊長"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-17T17:14:47.689Z"
+  }
+}
