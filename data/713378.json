@@ -1,0 +1,278 @@
+{
+  "subjectId": 713378,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69136",
+            "text": "Rabbit House"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:92380",
+            "text": "Tohrchu"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:31763",
+            "text": "M2U"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47324",
+            "text": "litmus*"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33664",
+            "text": "Laur"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33589",
+            "text": "gmtn."
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47371",
+            "text": "Juggernaut."
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64712",
+            "text": "CS4W"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:90409",
+            "text": "ZxNX"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "AisE"
+            },
+            " & ",
+            {
+              "ref": null,
+              "text": "FUT3R"
+            }
+          ]
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Kapoo"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:69634",
+              "text": "LucaProject"
+            },
+            " VS ",
+            {
+              "ref": "p:82122",
+              "text": "Xeudo Code"
+            }
+          ]
+        }
+      ]
+    },
+    "1.13": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Gram"
+            },
+            " (",
+            {
+              "ref": "p:7865",
+              "text": "DJ Genki"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.14": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56439",
+            "text": "Team Grimoire"
+          }
+        }
+      ]
+    },
+    "1.15": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hayato"
+          }
+        }
+      ]
+    },
+    "1.16": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Asayami"
+            },
+            " (",
+            {
+              "ref": "p:70471",
+              "text": "Mei Naganowa"
+            },
+            ")",
+            " & ",
+            {
+              "ref": null,
+              "text": "Afflected Light"
+            },
+            " (",
+            {
+              "ref": "p:70471",
+              "text": "Mei Naganowa"
+            },
+            ")",
+            " ft. ",
+            {
+              "ref": "p:85267",
+              "text": "neur6sia"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69136",
+          "text": "Rabbit House"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "A. Ki"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "shru"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:68102",
+          "text": "Milkyway TRAXX"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Piranesi"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：Rabbit House\n艺术家：Rabbit House(1)、Tohrchu(2)、M2U(3)、litmus*(4)、Laur(5)、gmtn.(6)、Juggernaut.(7)、CS4W(8)、ZxNX(9)、AisE & FUT3R(10)、Kapoo(11)、LucaProject VS Xeudo Code(12)、Gram (DJ Genki)(13)、Team Grimoire(14)、Hayato(15)、Asayami (Mei Naganowa) & Afflected Light (Mei Naganowa) ft. neur6sia(16)\n母带制作：《A. Ki》\n插图：shru\n厂牌：Milkyway TRAXX\n设计：Piranesi"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-17T12:35:35.290Z"
+  }
+}
