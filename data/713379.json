@@ -1,0 +1,84 @@
+{
+  "subjectId": 713379,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55161",
+            "text": "PODA"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55161",
+            "text": "PODA"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55161",
+            "text": "PODA"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:55161",
+          "text": "PODA"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69630",
+          "text": "Chester Park"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "武にぃ"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "林田 新"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：PODA\n艺术家：PODA(1-3)\n母带制作：Chester Park\n插图：武にぃ\n设计：《林田 新》"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-17T12:37:55.075Z"
+  }
+}
