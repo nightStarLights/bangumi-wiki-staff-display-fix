@@ -1,0 +1,44 @@
+{
+  "subjectId": 713652,
+  "trackCredits": {
+    "1.1": {
+      "custom-Guitar": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "HAPPYMACHINE"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "custom-Guitar": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "岡聡志"
+          }
+        }
+      ],
+      "custom-Bass Programming": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "森本練"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "custom-Guitar: HAPPYMACHINE (1)\ncustom-Guitar: 岡聡志 (2)\ncustom-Bass Programming: 森本練 (2)"
+  },
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-18T13:37:59.783Z"
+  }
+}
