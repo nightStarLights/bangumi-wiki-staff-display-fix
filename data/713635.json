@@ -1,0 +1,76 @@
+{
+  "subjectId": 713635,
+  "trackCredits": {
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Aria Tsukiyomi"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:74361",
+          "text": "ユヤ"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "坂ノハル"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:7763",
+          "text": "松本文紀"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:7763",
+          "text": "松本文紀"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:7763",
+          "text": "松本文紀"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:92159",
+          "text": "Lighm."
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "作词：ユヤ、坂ノハル、松本文紀\n作曲：松本文紀\n编曲：松本文紀\n厂牌：Lighm.\n\n艺术家：Aria Tsukiyomi(4)"
+  },
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-18T12:42:32.531Z"
+  }
+}
