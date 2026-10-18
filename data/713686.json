@@ -1,0 +1,263 @@
+{
+  "subjectId": 713686,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:104871",
+            "text": "せろりろせ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:104869",
+            "text": "べあと"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:104871",
+            "text": "せろりろせ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:104869",
+            "text": "べあと"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91489",
+            "text": "T-J"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:104869",
+            "text": "べあと"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91489",
+            "text": "T-J"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:104871",
+            "text": "せろりろせ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:104869",
+            "text": "べあと"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:104869",
+            "text": "べあと"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:104869",
+            "text": "べあと"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:104871",
+            "text": "せろりろせ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:104869",
+            "text": "べあと"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:104869",
+            "text": "べあと"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:104869",
+            "text": "べあと"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:104871",
+            "text": "せろりろせ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:54879",
+            "text": "中村さんそ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:104869",
+            "text": "べあと"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:54879",
+            "text": "中村さんそ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:104869",
+            "text": "べあと"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:104869",
+            "text": "べあと"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "べあと"
+        }
+      }
+    ],
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "べあと"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "べあと"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "くましろ"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "べあと"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "甘電コア"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "べあと"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：べあと\n艺术家：せろりろせ(1-4)、中村さんそ(4)\n作词：べあと(1-4)、せろりろせ(1)、中村さんそ(4)\n作曲：べあと(1-4)、T-J(1)\n编曲：べあと(1-4)、T-J(1)\n混音：べあと\n母带制作：べあと\n插图：くましろ、べあと\n厂牌：甘電コア\n设计：べあと"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-18T15:09:58.574Z"
+  }
+}
