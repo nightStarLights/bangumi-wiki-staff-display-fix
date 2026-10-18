@@ -1,0 +1,64 @@
+{
+  "subjectId": 713684,
+  "trackCredits": {
+    "1.6": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68660",
+            "text": "dan*tan"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Na'o"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Na'o"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Uka."
+        }
+      }
+    ],
+    "design": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "Uka."
+          },
+          " (Title Design)"
+        ]
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "作曲：Na'o\n编曲：Na'o、dan*tan(6)\n插图：Uka.\n设计-Title Design：Uka."
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-18T14:58:14.223Z"
+  }
+}
