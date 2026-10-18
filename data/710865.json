@@ -1,0 +1,399 @@
+{
+  "subjectId": 710865,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6554",
+            "text": "折倉俊則"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6554",
+            "text": "折倉俊則"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6554",
+            "text": "折倉俊則"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:7088",
+              "text": "中恵光城"
+            },
+            " & ",
+            {
+              "ref": "p:6243",
+              "text": "ゆな"
+            }
+          ]
+        }
+      ]
+    },
+    "1.7": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6554",
+            "text": "折倉俊則"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6554",
+            "text": "折倉俊則"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6554",
+            "text": "折倉俊則"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:6243",
+              "text": "ゆな"
+            },
+            " × ",
+            {
+              "ref": "p:71230",
+              "text": "くにい"
+            }
+          ]
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7460",
+            "text": "yuiko"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8788",
+            "text": "五条下位"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8788",
+            "text": "五条下位"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:7460",
+              "text": "yuiko"
+            },
+            " & ",
+            {
+              "ref": "p:6243",
+              "text": "ゆな"
+            }
+          ]
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8389",
+            "text": "コツキミヤ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8917",
+            "text": "流歌"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8917",
+            "text": "流歌"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:8389",
+              "text": "コツキミヤ"
+            },
+            " & ",
+            {
+              "ref": "p:6243",
+              "text": "ゆな"
+            }
+          ]
+        }
+      ]
+    },
+    "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11443",
+            "text": "SENTIVE"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11443",
+            "text": "SENTIVE"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11443",
+            "text": "SENTIVE"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:5893",
+              "text": "片霧烈火"
+            },
+            " & ",
+            {
+              "ref": "p:6243",
+              "text": "ゆな"
+            }
+          ]
+        }
+      ]
+    },
+    "1.5": {
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": "p:7789",
+              "text": "悠花"
+            },
+            "ユカ"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:7789",
+              "text": "悠花"
+            },
+            "ユカ"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": "p:7789",
+              "text": "悠花"
+            },
+            "ユカ"
+          ]
+        }
+      ],
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:7789",
+              "text": "悠花"
+            },
+            "ユカ",
+            " & ",
+            {
+              "ref": "p:6243",
+              "text": "ゆな"
+            }
+          ]
+        }
+      ]
+    },
+    "1.6": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6249",
+            "text": "葉山りく"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8788",
+            "text": "五条下位"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8788",
+            "text": "五条下位"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:6249",
+              "text": "葉山りく"
+            },
+            " & ",
+            {
+              "ref": "p:6243",
+              "text": "ゆな"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ゆなづきゆかり"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:6554",
+          "text": "折倉俊則"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "めーめ"
+        }
+      }
+    ],
+    "design": [
+      {
+        "parts": [
+          {
+            "ref": "p:7789",
+            "text": "悠花"
+          },
+          "ユカ",
+          " (サイト)"
+        ]
+      },
+      {
+        "parts": [
+          {
+            "ref": "p:7789",
+            "text": "悠花"
+          },
+          "ユカ",
+          " (装丁)"
+        ]
+      }
+    ],
+    "recording": [
+      {
+        "parts": [
+          {
+            "ref": "p:68050",
+            "text": "Sebastian"
+          },
+          " (录音协力)"
+        ]
+      }
+    ],
+    "vocaledit": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:7788",
+          "text": "あたいわだれか"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：中恵光城 & ゆな (遊女)(1)、yuiko & ゆな (遊女)(2)、コツキミヤ & ゆな (遊女)(3)、片霧烈火 & ゆな (遊女)(4)、悠花ユカ (悠花) & ゆな (遊女)(5)、葉山りく & ゆな (遊女)(6)、ゆな (遊女) × くにい(7)\n作词：折倉俊則(1,7)、yuiko(2)、コツキミヤ(3)、SENTIVE(4)、悠花ユカ (悠花)(5)、葉山りく(6)\n作曲：折倉俊則(1,7)、五条下位(2,6)、《流歌》(3)、SENTIVE(4)、悠花ユカ (悠花)(5)\n编曲：折倉俊則(1,7)、五条下位(2,6)、《流歌》(3)、SENTIVE(4)、悠花ユカ (悠花)(5)\n母带制作：折倉俊則\n插图：めーめ\n厂牌：ゆなづきゆかり\n人声编辑：あたいわだれか\n设计-サイト：悠花ユカ (悠花)\n设计-装丁：悠花ユカ (悠花)\n录音-录音协力：Sebastian"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-18T07:18:50.876Z"
+  }
+}
