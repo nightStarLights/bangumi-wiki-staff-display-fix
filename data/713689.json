@@ -22,15 +22,13 @@
           }
         }
       ],
-      "composer": [
+      "custom-Melody": [
         {
-          "parts": [
-            {
-              "ref": null,
-              "text": "夜抒"
-            },
-            " (Melody)"
-          ]
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "夜抒"
+          }
         }
       ]
     },
@@ -46,15 +44,13 @@
       ]
     },
     "1.2": {
-      "composer": [
+      "custom-Melody": [
         {
-          "parts": [
-            {
-              "ref": null,
-              "text": "夜抒"
-            },
-            " (Melody)"
-          ]
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "夜抒"
+          }
         }
       ]
     }
@@ -80,11 +76,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：はざめ\n编曲：たたまれ(4)\n厂牌：たたまれ\n客串：ういはら(1)、天乃おつげ(3)\n作曲-Melody：夜抒(1,2)"
+    "editor": "艺术家：はざめ\n编曲：たたまれ(4)\n厂牌：たたまれ\n客串：ういはら(1)、天乃おつげ(3)\ncustom-Melody：夜抒(1,2)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-18T15:47:20.226Z"
+    "submittedAt": "2026-10-18T16:16:44.411Z"
   }
 }
