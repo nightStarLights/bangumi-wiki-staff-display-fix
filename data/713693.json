@@ -1,0 +1,59 @@
+{
+  "subjectId": 713693,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Attra Pop Gate"
+            },
+            " feat. ",
+            {
+              "ref": "p:65625",
+              "text": "花摘藍"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:36952",
+          "text": "新海雅代"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:6554",
+          "text": "折倉俊則"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:6554",
+          "text": "折倉俊則"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：Attra Pop Gate feat. 花摘藍(1)\n作词：新海雅代\n作曲：折倉俊則\n编曲：折倉俊則"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-18T16:48:01.100Z"
+  }
+}
