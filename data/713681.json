@@ -127,14 +127,23 @@
           "text": "ここは"
         }
       }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "fuipro"
+        }
+      }
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：fui\n作词：fui(2)\n作曲：NEKOZUME(1)、Fujiyori(2)、べあと(3)、Raz(4)\n编曲：NEKOZUME(1)、Fujiyori(2)、べあと(3)、Raz(4)\n混音：Noro(1)\n插图：兎鷺ぬい\n设计：ここは"
+    "editor": "艺术家：fui\n作词：fui(2)\n作曲：NEKOZUME(1)、Fujiyori(2)、べあと(3)、Raz(4)\n编曲：NEKOZUME(1)、Fujiyori(2)、べあと(3)、Raz(4)\n混音：Noro(1)\n插图：兎鷺ぬい\n设计：ここは\n\n厂牌：fuipro"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-18T14:48:13.040Z"
+    "submittedAt": "2026-10-18T14:48:59.219Z"
   }
 }
