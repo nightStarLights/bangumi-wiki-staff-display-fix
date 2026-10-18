@@ -1,0 +1,51 @@
+{
+  "subjectId": 713703,
+  "trackCredits": {
+    "1.7": {
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "93poetry"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Suguru Ohtaka"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "桜葉どらいぶ"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "桜葉どらいぶのプレハブ小屋"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：桜葉どらいぶ\n厂牌：桜葉どらいぶのプレハブ小屋\n客串：93poetry(7)、Suguru Ohtaka(7)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-18T18:49:22.994Z"
+  }
+}
