@@ -65,7 +65,7 @@
         }
       }
     ],
-    "label": [
+    "producer": [
       {
         "type": "person",
         "person": {
@@ -76,11 +76,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：事切れる\n作曲：ukaihi(1)、HotaRu(2)、ETE(3)、Lil Hyvää(4)\n插图：きうじうきう\n厂牌：True Happiness Lab"
+    "editor": "艺术家：事切れる\n作曲：ukaihi(1)、HotaRu(2)、ETE(3)、Lil Hyvää(4)\n插图：きうじうきう\n制作人：True Happiness Lab"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-18T14:12:52.840Z"
+    "submittedAt": "2026-10-18T14:15:08.985Z"
   }
 }
