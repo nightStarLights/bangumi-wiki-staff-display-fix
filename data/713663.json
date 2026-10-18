@@ -166,6 +166,15 @@
         }
       }
     ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "トーチケイスケ"
+        }
+      }
+    ],
     "design": [
       {
         "type": "person",
@@ -177,11 +186,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：NaYuri\n作词：nayuta(1)、優莉(2,3)\n作曲：nayuta(1)、立崎レイン(1)、優莉(2,3)\n编曲：立崎レイン(1-3)\n声乐：nayuta、優莉\n混音：神尾けい\n母带制作：神尾けい\n设计：後方一気\n乐器-Piano：HONNWAKA88(2)\n乐器-Bass：HONNWAKA88(2)\n乐器-Acoustic Guitar：藤屋(2)"
+    "editor": "艺术家：NaYuri\n作词：nayuta(1)、優莉(2,3)\n作曲：nayuta(1)、立崎レイン(1)、優莉(2,3)\n编曲：立崎レイン(1-3)\n声乐：nayuta、優莉\n混音：神尾けい\n母带制作：神尾けい\n插图：トーチケイスケ\n设计：後方一気\n乐器-Piano：HONNWAKA88(2)\n乐器-Bass：HONNWAKA88(2)\n乐器-Acoustic Guitar：藤屋(2)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-18T14:06:31.726Z"
+    "submittedAt": "2026-10-18T14:07:50.095Z"
   }
 }
