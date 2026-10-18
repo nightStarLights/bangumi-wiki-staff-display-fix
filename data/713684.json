@@ -14,51 +14,22 @@
     }
   },
   "epinfo": {
-    "composer": [
+    "custom-est": [
       {
         "type": "person",
         "person": {
           "ref": null,
-          "text": "Na'o"
+          "text": "1"
         }
-      }
-    ],
-    "arranger": [
-      {
-        "type": "person",
-        "person": {
-          "ref": null,
-          "text": "Na'o"
-        }
-      }
-    ],
-    "illustrator": [
-      {
-        "type": "person",
-        "person": {
-          "ref": null,
-          "text": "Uka."
-        }
-      }
-    ],
-    "design": [
-      {
-        "parts": [
-          {
-            "ref": null,
-            "text": "Uka."
-          },
-          " (Title Design)"
-        ]
       }
     ]
   },
   "rawPatches": {
-    "editor": "作曲：Na'o\n编曲：Na'o、dan*tan(6)\n插图：Uka.\n设计-Title Design：Uka."
+    "editor": "custom-est:1\n编曲：dan*tan(6)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-18T14:58:14.223Z"
+    "submittedAt": "2026-10-18T14:59:04.705Z"
   }
 }
