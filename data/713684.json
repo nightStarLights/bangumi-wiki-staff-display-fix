@@ -1,35 +1,12 @@
 {
-  "subjectId": 713684,
-  "trackCredits": {
-    "1.6": {
-      "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:68660",
-            "text": "dan*tan"
-          }
-        }
-      ]
-    }
-  },
-  "epinfo": {
-    "custom-est": [
-      {
-        "type": "person",
-        "person": {
-          "ref": null,
-          "text": "1"
-        }
-      }
-    ]
-  },
+  "trackCredits": {},
   "rawPatches": {
-    "editor": "custom-est:1\n编曲：dan*tan(6)"
+    "editor": ""
   },
+  "subjectId": 713684,
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-18T14:59:04.705Z"
+    "submittedAt": "2026-10-18T14:59:18.457Z"
   }
 }
