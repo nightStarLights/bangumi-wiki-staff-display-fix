@@ -1,0 +1,86 @@
+{
+  "subjectId": 713670,
+  "trackCredits": {
+    "1.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73080",
+            "text": "ukaihi"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:80430",
+            "text": "HotaRu"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ETE"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72448",
+            "text": "Lil Hyvää"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:81976",
+          "text": "事切れる"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "きうじうきう"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "True Happiness Lab"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：事切れる\n作曲：ukaihi(1)、HotaRu(2)、ETE(3)、Lil Hyvää(4)\n插图：きうじうきう\n厂牌：True Happiness Lab"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-18T14:12:52.840Z"
+  }
+}
