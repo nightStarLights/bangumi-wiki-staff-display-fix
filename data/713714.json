@@ -1,0 +1,227 @@
+{
+  "subjectId": 713714,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:84187",
+              "text": "Kumamin"
+            },
+            " feat. ",
+            {
+              "ref": "p:65401",
+              "text": "しろさきあや"
+            }
+          ]
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:68311",
+              "text": "Wasabeep"
+            },
+            " feat. ",
+            {
+              "ref": "p:65675",
+              "text": "月詠あると"
+            }
+          ]
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:68312",
+              "text": "aimu"
+            },
+            " feat. ",
+            {
+              "ref": "p:66544",
+              "text": "はらもりよしな"
+            }
+          ]
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:69497",
+              "text": "TAKIO"
+            },
+            " feat. ",
+            {
+              "ref": "p:65401",
+              "text": "しろさきあや"
+            }
+          ]
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ask.A"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Sunajiro"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68313",
+            "text": "brz1128"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "4ra8"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68316",
+            "text": "masaka"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91471",
+            "text": "10kkey"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "すいかマグノリア散るちゃん"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "Mai"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Synthesizer V"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:64864",
+              "text": "しなちくシステム"
+            },
+            " feat. ",
+            {
+              "ref": "p:65401",
+              "text": "しろさきあや"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "すいかマグノリア散るちゃん"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "P!"
+        }
+      }
+    ],
+    "design": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "P!"
+          },
+          " (CD Design)"
+        ]
+      },
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "masaka"
+          },
+          " (Website)"
+        ]
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：すいかマグノリア散るちゃん\n艺术家：Kumamin feat. しろさきあや(1)、Wasabeep feat. 月詠あると(2)、aimu feat. はらもりよしな(3)、TAKIO feat. しろさきあや(4)、Ask.A(5)、Sunajiro(6)、brz1128(7)、4ra8(8)、masaka(9)、10kkey(10)、すいかマグノリア散るちゃん feat. Mai (Synthesizer V)(11)、しなちくシステム feat. しろさきあや(12)\n插图：P!\n设计-CD Design：P!\n设计-Website：masaka"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-18T20:22:38.816Z"
+  }
+}
