@@ -1,0 +1,140 @@
+{
+  "subjectId": 713681,
+  "trackCredits": {
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:92243",
+            "text": "fui"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69115",
+            "text": "Fujiyori"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69115",
+            "text": "Fujiyori"
+          }
+        }
+      ]
+    },
+    "1.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73678",
+            "text": "NEKOZUME"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73678",
+            "text": "NEKOZUME"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Noro"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "べあと"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "べあと"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Raz"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Raz"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:92243",
+          "text": "fui"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "兎鷺ぬい"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ここは"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：fui\n作词：fui(2)\n作曲：NEKOZUME(1)、Fujiyori(2)、べあと(3)、Raz(4)\n编曲：NEKOZUME(1)、Fujiyori(2)、べあと(3)、Raz(4)\n混音：Noro(1)\n插图：兎鷺ぬい\n设计：ここは"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-18T14:48:13.040Z"
+  }
+}
