@@ -1,0 +1,538 @@
+{
+  "subjectId": 713637,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:42183",
+            "text": "Zekk"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47371",
+            "text": "Juggernaut."
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:41589",
+            "text": "MYTK"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:55167",
+              "text": "yusi."
+            },
+            " × ",
+            {
+              "ref": null,
+              "text": "yeowool"
+            }
+          ]
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47386",
+            "text": "Go^Ma"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7094",
+            "text": "Nhato"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47587",
+            "text": "Solvrae"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:79339",
+            "text": "Glancia"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Noir"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47577",
+            "text": "Ryo Arue"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:65768",
+              "text": "K-forest"
+            },
+            " vs. ",
+            {
+              "ref": null,
+              "text": "OsushiFreak"
+            }
+          ]
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67132",
+            "text": "Reku Mochizuki"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70306",
+            "text": "Gomadare"
+          }
+        }
+      ]
+    },
+    "1.13": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73879",
+            "text": "Todayday"
+          }
+        }
+      ]
+    },
+    "1.14": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:85229",
+            "text": "Hiyo"
+          }
+        }
+      ]
+    },
+    "1.15": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:55168",
+              "text": "テヅカ"
+            },
+            " × ",
+            {
+              "ref": "p:55169",
+              "text": "Aoi"
+            }
+          ]
+        }
+      ]
+    },
+    "1.16": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47365",
+            "text": "Katali"
+          }
+        }
+      ]
+    },
+    "1.17": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Kinosia"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "V!crø"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "EageMea"
+          }
+        }
+      ]
+    },
+    "1.18": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33534",
+            "text": "Ryo Nakamura"
+          }
+        }
+      ]
+    },
+    "2.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33534",
+            "text": "Ryo Nakamura"
+          }
+        }
+      ]
+    },
+    "2.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:45308",
+            "text": "Tanchiky"
+          }
+        }
+      ]
+    },
+    "2.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47721",
+            "text": "EmoCosine"
+          }
+        }
+      ]
+    },
+    "2.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Tengyou"
+          }
+        }
+      ]
+    },
+    "2.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Xeno"
+          }
+        }
+      ]
+    },
+    "2.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6366",
+            "text": "MK"
+          }
+        }
+      ]
+    },
+    "2.7": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "INuya"
+            },
+            " (",
+            {
+              "ref": "p:65944",
+              "text": "イヌヤ"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "2.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64862",
+            "text": "muyu"
+          }
+        }
+      ]
+    },
+    "2.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47385",
+            "text": "KARUT"
+          }
+        }
+      ]
+    },
+    "2.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "なまとしば"
+          }
+        }
+      ]
+    },
+    "2.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "がむ"
+          }
+        }
+      ]
+    },
+    "2.12": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Rin"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "凛"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "2.13": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Jasmin T."
+          }
+        }
+      ]
+    },
+    "2.14": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64711",
+            "text": "Connexio"
+          }
+        }
+      ]
+    },
+    "2.15": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8782",
+            "text": "Powerless"
+          }
+        }
+      ]
+    },
+    "2.16": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10164",
+            "text": "黒魔"
+          }
+        }
+      ]
+    },
+    "2.17": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Sauce"
+          }
+        }
+      ]
+    },
+    "2.18": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:23765",
+            "text": "taqumi"
+          }
+        }
+      ]
+    },
+    "2.19": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70560",
+            "text": "濵田有共"
+          }
+        }
+      ]
+    },
+    "2.20": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:64868",
+            "text": "fnylsp"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:31962",
+          "text": "YsK439"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:65945",
+          "text": "k4sen"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:48924",
+          "text": "Puru"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:56354",
+          "text": "FAMY"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:8215",
+          "text": "Diverse System"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Hayashida Arata"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：YsK439、k4sen\n艺术家：Zekk(1.1)、Juggernaut.(1.2)、MYTK(1.3)、yusi. × yeowool(1.4)、Go^Ma(1.5)、Nhato(1.6)、Solvrae(1.7)、Glancia(1.8)、Noir(1.8)、Ryo Arue(1.9)、K-forest vs. OsushiFreak(1.10)、Reku Mochizuki(1.11)、Gomadare(1.12)、Todayday(1.13)、Hiyo(1.14)、テヅカ × Aoi(1.15)、Katali(1.16)、Kinosia(1.17)、V!crø(1.17)、EageMea(1.17)、Ryo Nakamura(1.18, 2.6)、Tanchiky(2.1)、EmoCosine(2.2)、Tengyou(2.3)、Xeno(2.4)、MK(2.5)、INuya (イヌヤ)(2.7)、muyu(2.8)、KARUT(2.9)、なまとしば(2.10)、がむ(2.11)、Rin (凛)(2.12)、Jasmin T.(2.13)、Connexio(2.14)、Powerless(2.15)、黒魔(2.16)、Sauce(2.17)、taqumi(2.18)、濵田有共(2.19)、fnylsp(2.20)\n母带制作：Puru\n插图：FAMY\n厂牌：Diverse System\n设计：Hayashida Arata"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-18T12:46:09.824Z"
+  }
+}
