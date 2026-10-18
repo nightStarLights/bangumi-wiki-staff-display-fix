@@ -1,0 +1,117 @@
+{
+  "subjectId": 713640,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70007",
+            "text": "Ashrount"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70007",
+            "text": "Ashrount"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70007",
+            "text": "Ashrount"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70007",
+            "text": "Ashrount"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70007",
+            "text": "Ashrount"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70007",
+            "text": "Ashrount"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:70007",
+          "text": "Ashrount"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "るれぷ"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Ashgrey ChronicleZ"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "yoshimo"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：Ashrount(1-6)\n母带制作：Ashrount\n插图：るれぷ\n厂牌：Ashgrey ChronicleZ\n设计：yoshimo"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-18T12:51:58.700Z"
+  }
+}
