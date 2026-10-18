@@ -1,12 +1,24 @@
 {
-  "trackCredits": {},
-  "rawPatches": {
-    "editor": ""
-  },
   "subjectId": 713684,
+  "trackCredits": {
+    "1.6": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68660",
+            "text": "dan*tan"
+          }
+        }
+      ]
+    }
+  },
+  "rawPatches": {
+    "editor": "编曲：dan*tan(6)"
+  },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-18T14:59:18.457Z"
+    "submittedAt": "2026-10-18T14:59:24.730Z"
   }
 }
