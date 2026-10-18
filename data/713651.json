@@ -1,0 +1,218 @@
+{
+  "subjectId": 713651,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65768",
+            "text": "K-forest"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65768",
+            "text": "K-forest"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68440",
+            "text": "後藤涼輔"
+          }
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68144",
+            "text": "Kuroa*"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65768",
+            "text": "K-forest"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65768",
+            "text": "K-forest"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65768",
+            "text": "K-forest"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65768",
+            "text": "K-forest"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65768",
+            "text": "K-forest"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65768",
+            "text": "K-forest"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67132",
+            "text": "Reku Mochizuki"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:65768",
+              "text": "K-forest"
+            },
+            " vs. ",
+            {
+              "ref": "p:65772",
+              "text": "Halv"
+            }
+          ]
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:65768",
+              "text": "K-forest"
+            },
+            " vs. ",
+            {
+              "ref": null,
+              "text": "Riku"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:65768",
+          "text": "K-forest"
+        }
+      }
+    ],
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:68440",
+          "text": "後藤涼輔"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:65768",
+          "text": "K-forest"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "あらね"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Sound of Forest"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ひのき"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：K-forest\n艺术家：K-forest(1,2,5-10)、K-forest vs. Halv(3)、K-forest vs. Riku(4)\n作词：後藤涼輔(2)\n编曲：Reku Mochizuki(10)\n混音：後藤涼輔\n母带制作：K-forest\n插图：あらね\n厂牌：Sound of Forest\n客串：Kuroa*(2)\n设计：ひのき"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-18T13:35:22.820Z"
+  }
+}
