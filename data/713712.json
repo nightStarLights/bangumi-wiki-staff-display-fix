@@ -1,0 +1,244 @@
+{
+  "subjectId": 713712,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "parts": [
+            "まさかけー (masaka)",
+            " feat. ",
+            {
+              "ref": null,
+              "text": "花隈千冬"
+            }
+          ]
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:68311",
+              "text": "Wasabeep"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "yukino"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "ゆきの"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:84187",
+              "text": "Kumamin"
+            },
+            " feat. ",
+            {
+              "ref": "p:69830",
+              "text": "綜花"
+            }
+          ]
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:91471",
+              "text": "10kkey"
+            },
+            " feat. ",
+            "夢ノ結唱 ROSE"
+          ]
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ask.A"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Oga(c)han"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "重音テトSV"
+            }
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ナースロボ＿タイプＴ"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "MO-MEN"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "ナツメイツキ"
+            }
+          ]
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68318",
+            "text": "すいかマグノリア散るちゃん"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:68313",
+              "text": "brz1128"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "やまだかのん"
+            }
+          ]
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:68312",
+              "text": "aimu"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "初音ミク"
+            }
+          ]
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:64864",
+              "text": "しなちくシステム"
+            },
+            " feat. ",
+            {
+              "ref": "p:65401",
+              "text": "しろさきあや"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "すいかマグノリア散るちゃん"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "P!"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Oin RECords"
+        }
+      }
+    ],
+    "design": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "P!"
+          },
+          " (CD Design)"
+        ]
+      },
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "masaka"
+          },
+          " (Website)"
+        ]
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：すいかマグノリア散るちゃん\n艺术家：《まさかけー (masaka)》 feat. 花隈千冬(1)、Wasabeep feat. yukino (ゆきの)(2)、Kumamin feat. 綜花(3)、10kkey feat. 《夢ノ結唱 ROSE》(4)、Ask.A(5)、Oga(c)han feat. 重音テトSV(6)、ナースロボ＿タイプＴ(6)、MO-MEN feat. ナツメイツキ(7)、すいかマグノリア散るちゃん(8)、brz1128 feat. やまだかのん(9)、aimu feat. 初音ミク(10)、しなちくシステム feat. しろさきあや(11)\n插图：P!\n厂牌：Oin RECords\n设计-CD Design：P!\n设计-Website：masaka"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-18T19:36:27.519Z"
+  }
+}
