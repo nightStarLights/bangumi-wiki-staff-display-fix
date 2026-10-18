@@ -1,0 +1,266 @@
+{
+  "subjectId": 713687,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:78477",
+            "text": "N_dog"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69028",
+            "text": "Letsu"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69028",
+            "text": "Letsu"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:78477",
+            "text": "N_dog"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55164",
+            "text": "icesawder"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Yutori"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:78477",
+            "text": "N_dog"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "MiaplaK"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:78477",
+            "text": "N_dog"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "quu-zie"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:78477",
+            "text": "N_dog"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:78477",
+            "text": "N_dog"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82955",
+            "text": "KURORO"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:78477",
+            "text": "N_dog"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:78477",
+            "text": "N_dog"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:78477",
+            "text": "N_dog"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ようだよ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "今日山セイル"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ようだよ"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:78477",
+            "text": "N_dog"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:78477",
+          "text": "N_dog"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:78477",
+          "text": "N_dog"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:78477",
+          "text": "N_dog"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:78477",
+          "text": "N_dog"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "乙女♰SAVAGE"
+        }
+      }
+    ],
+    "design": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "yualith"
+          },
+          " (Logo)"
+        ]
+      },
+      {
+        "parts": [
+          {
+            "ref": "p:69591",
+            "text": "宙風みけ"
+          },
+          " (character design)"
+        ]
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：N_dog\n艺术家：N_dog(1-10)、icesawder(2)、Yutori(2)、MiaplaK(3)、quu-zie(4)、KURORO(6)、ようだよ(9)、今日山セイル(9)\n作词：Letsu(1)、ようだよ(9)\n作曲：N_dog\n编曲：N_dog\n声乐：Letsu(1)\n母带制作：N_dog\n插图：乙女♰SAVAGE\n设计-Logo：yualith\n设计-character design：宙風みけ"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-18T15:33:08.876Z"
+  }
+}
