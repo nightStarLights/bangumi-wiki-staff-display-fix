@@ -5,7 +5,16 @@
       "artist": [
         {
           "parts": [
-            "まさかけー (masaka)",
+            {
+              "ref": null,
+              "text": "まさかけー"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "masaka"
+            },
+            ")",
             " feat. ",
             {
               "ref": null,
@@ -20,7 +29,7 @@
         {
           "parts": [
             {
-              "ref": "p:68311",
+              "ref": null,
               "text": "Wasabeep"
             },
             " feat. ",
@@ -43,12 +52,12 @@
         {
           "parts": [
             {
-              "ref": "p:84187",
+              "ref": null,
               "text": "Kumamin"
             },
             " feat. ",
             {
-              "ref": "p:69830",
+              "ref": null,
               "text": "綜花"
             }
           ]
@@ -60,7 +69,7 @@
         {
           "parts": [
             {
-              "ref": "p:91471",
+              "ref": null,
               "text": "10kkey"
             },
             " feat. ",
@@ -137,7 +146,7 @@
         {
           "parts": [
             {
-              "ref": "p:68313",
+              "ref": null,
               "text": "brz1128"
             },
             " feat. ",
@@ -154,7 +163,7 @@
         {
           "parts": [
             {
-              "ref": "p:68312",
+              "ref": null,
               "text": "aimu"
             },
             " feat. ",
@@ -171,12 +180,12 @@
         {
           "parts": [
             {
-              "ref": "p:64864",
+              "ref": null,
               "text": "しなちくシステム"
             },
             " feat. ",
             {
-              "ref": "p:65401",
+              "ref": null,
               "text": "しろさきあや"
             }
           ]
@@ -234,11 +243,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "制作人：すいかマグノリア散るちゃん\n艺术家：《まさかけー (masaka)》 feat. 花隈千冬(1)、Wasabeep feat. yukino (ゆきの)(2)、Kumamin feat. 綜花(3)、10kkey feat. 《夢ノ結唱 ROSE》(4)、Ask.A(5)、Oga(c)han feat. 重音テトSV(6)、ナースロボ＿タイプＴ(6)、MO-MEN feat. ナツメイツキ(7)、すいかマグノリア散るちゃん(8)、brz1128 feat. やまだかのん(9)、aimu feat. 初音ミク(10)、しなちくシステム feat. しろさきあや(11)\n插图：P!\n厂牌：Oin RECords\n设计-CD Design：P!\n设计-Website：masaka"
+    "editor": "制作人：すいかマグノリア散るちゃん\n艺术家：まさかけー (masaka) feat. 花隈千冬(1)、Wasabeep feat. yukino (ゆきの)(2)、Kumamin feat. 綜花(3)、10kkey feat. 《夢ノ結唱 ROSE》(4)、Ask.A(5)、Oga(c)han feat. 重音テトSV(6)、ナースロボ＿タイプＴ(6)、MO-MEN feat. ナツメイツキ(7)、すいかマグノリア散るちゃん(8)、brz1128 feat. やまだかのん(9)、aimu feat. 初音ミク(10)、しなちくシステム feat. しろさきあや(11)\n插图：P!\n厂牌：Oin RECords\n设计-CD Design：P!\n设计-Website：masaka"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-18T19:36:27.519Z"
+    "submittedAt": "2026-10-19T06:30:34.405Z"
   }
 }
