@@ -1,0 +1,106 @@
+{
+  "subjectId": 713974,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:47575",
+              "text": "Yuta Imai"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "重音テト"
+            }
+          ]
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:47575",
+              "text": "Yuta Imai"
+            },
+            " vs. ",
+            {
+              "ref": null,
+              "text": "DJ Myosuke"
+            }
+          ]
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:47575",
+              "text": "Yuta Imai"
+            },
+            " vs. ",
+            {
+              "ref": null,
+              "text": "N4Gi"
+            }
+          ]
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47575",
+            "text": "Yuta Imai"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47575",
+            "text": "Yuta Imai"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ああもんど"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:79720",
+          "text": "TOKYO HARD DANCE"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：Yuta Imai feat. 重音テト(1)、Yuta Imai vs. DJ Myosuke(2)、Yuta Imai vs. N4Gi(3)、Yuta Imai(4,5)\n插图：ああもんど\n厂牌：TOKYO HARD DANCE"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-19T16:12:08.020Z"
+  }
+}
