@@ -1,0 +1,195 @@
+{
+  "subjectId": 713888,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68874",
+            "text": "木瀬のん"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68874",
+            "text": "木瀬のん"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68874",
+            "text": "木瀬のん"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "taiyaki"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "iroha"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "sasaki"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "iroha"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "sasaki"
+            },
+            ")"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "iroha"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "sasaki"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8014",
+            "text": "kidlit"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68766",
+            "text": "m@sumi"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68766",
+            "text": "m@sumi"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10165",
+            "text": "西島尊大"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10165",
+            "text": "西島尊大"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10165",
+            "text": "西島尊大"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "taiyaki"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:68918",
+          "text": "凪乃ましろ"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "えと"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "菊月"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：凪乃ましろ\n插图：えと、菊月\n\n作词：木瀬のん(1)、iroha(sasaki)(2)、kidlit(3)、西島尊大(4)\n作曲：木瀬のん(1)、iroha(sasaki)(2)、m@sumi(3)、西島尊大(4)\n编曲：木瀬のん(1)、iroha(sasaki)(2)、m@sumi(3)、西島尊大(4)\n混音：taiyaki(1,4)"
+  },
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-19T11:34:33.493Z"
+  }
+}
