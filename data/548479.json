@@ -1,0 +1,53 @@
+{
+  "subjectId": 548479,
+  "trackCredits": {
+    "1.7": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47575",
+            "text": "Yuta Imai"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:15889",
+          "text": "3R2"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:74408",
+          "text": "アヤ"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "3R2music"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：3R2\n编曲：Yuta Imai(7)\n插图：アヤ\n厂牌：《3R2music》"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-19T12:03:30.243Z"
+  }
+}
