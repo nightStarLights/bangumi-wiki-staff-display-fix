@@ -1,0 +1,105 @@
+{
+  "subjectId": 713982,
+  "trackCredits": {
+    "1.3": {
+      "narration": [
+        {
+          "parts": [
+            "魔王ちゃん(CV:",
+            {
+              "ref": "p:36044",
+              "text": "飯田ヒカル"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            "セイナ(CV:",
+            {
+              "ref": "p:45288",
+              "text": "今泉りおな"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            "コハク(CV:",
+            {
+              "ref": "p:18087",
+              "text": "高田憂希"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            "アヤメ(CV:",
+            {
+              "ref": "p:36024",
+              "text": "夏吉ゆうこ"
+            },
+            ")"
+          ]
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "parts": [
+          "魔王ちゃん(CV:",
+          {
+            "ref": "p:36044",
+            "text": "飯田ヒカル"
+          },
+          ")"
+        ]
+      }
+    ],
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ワカツジスバル"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "でか大"
+          },
+          " (",
+          {
+            "ref": null,
+            "text": "挫折P"
+          },
+          ")"
+        ]
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:44495",
+          "text": "Yostar"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：魔王ちゃん(CV:飯田ヒカル)\n作词：ワカツジスバル\n作曲：でか大 (挫折P)\n厂牌：Yostar\n念白/旁白：魔王ちゃん(CV:飯田ヒカル)(3)、セイナ(CV:今泉りおな)(3)、コハク(CV:高田憂希)(3)、アヤメ(CV:夏吉ゆうこ)(3)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-19T16:34:52.594Z"
+  }
+}
