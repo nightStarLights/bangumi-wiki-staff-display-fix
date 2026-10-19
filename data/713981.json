@@ -1,0 +1,174 @@
+{
+  "subjectId": 713981,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Palimach"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "rokusan"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "parts": [
+            "DJ 乾紗凪",
+            " (",
+            {
+              "ref": "p:71396",
+              "text": "Sana Logic"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81733",
+            "text": "Serji"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "hallycore"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "rawham"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "exnoiz"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82120",
+            "text": "ELECTR"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:61699",
+            "text": "すてらべえ"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93329",
+            "text": "Lazhward"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Loli Nyanko"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "baibukken"
+          },
+          " (",
+          {
+            "ref": "p:93328",
+            "text": "買物件"
+          },
+          ")"
+        ]
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:93330",
+          "text": "Moetek"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:88264",
+          "text": "無責任レコーズ"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：baibukken (買物件)\n艺术家：Palimach(1)、rokusan(2)、《DJ 乾紗凪》 (Sana Logic)(3)、Serji(4)、hallycore(5)、rawham(6)、exnoiz(7)、ELECTR(8)、すてらべえ(9)、Lazhward(10)、Loli Nyanko(11)\n母带制作：Moetek\n厂牌：無責任レコーズ"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-19T16:32:40.047Z"
+  }
+}
