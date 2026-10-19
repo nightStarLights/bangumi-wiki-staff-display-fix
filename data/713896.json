@@ -1,0 +1,195 @@
+{
+  "subjectId": 713896,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "parts": [
+            "Hylen (宇佐美祐二)",
+            " feat. ",
+            {
+              "ref": null,
+              "text": "兎丹らび"
+            },
+            " & ",
+            "ソアム・オクシィ",
+            " & ",
+            {
+              "ref": null,
+              "text": "みわくちゃん"
+            }
+          ]
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:55992",
+              "text": "Twinfield"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "鬼麗リュカ"
+            }
+          ]
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:73539",
+              "text": "tekalu"
+            },
+            " feat. ",
+            {
+              "ref": "p:66183",
+              "text": "ChumuNote"
+            }
+          ]
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:73539",
+              "text": "tekalu"
+            },
+            " feat. ",
+            {
+              "ref": "p:66183",
+              "text": "ChumuNote"
+            }
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:35932",
+            "text": "Capchii"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:73539",
+              "text": "tekalu"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "兎丹らび"
+            }
+          ]
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:58726",
+              "text": "nogi"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "みわくちゃん"
+            }
+          ]
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:35932",
+              "text": "Capchii"
+            },
+            " feat. ",
+            "ソアム・オクシィ"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "aina"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "Popism"
+          },
+          " & ",
+          {
+            "ref": null,
+            "text": "MOLA STUDIO"
+          }
+        ]
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:74340",
+          "text": "めるのめる"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "YuKiMuMa"
+        }
+      }
+    ],
+    "custom-策划": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:66183",
+          "text": "ChumuNote"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：Popism & MOLA STUDIO\n艺术家：《Hylen (宇佐美祐二)》 feat. 兎丹らび & 《ソアム・オクシィ》 & みわくちゃん(1)、Twinfield feat. 鬼麗リュカ(2)、tekalu feat. ChumuNote(3,7)、tekalu feat. 兎丹らび(4)、nogi feat. みわくちゃん(5)、Capchii feat. 《ソアム・オクシィ》(6)\n作词：aina(6)\n编曲：Capchii(7)\n插图：めるのめる\n设计：YuKiMuMa\ncustom-策划：ChumuNote"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-19T11:50:51.903Z"
+  }
+}
