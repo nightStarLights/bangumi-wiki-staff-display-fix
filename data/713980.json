@@ -1,0 +1,110 @@
+{
+  "subjectId": 713980,
+  "trackCredits": {
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "MAID TWIST"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93330",
+            "text": "Moetek"
+          }
+        }
+      ]
+    },
+    "1.1": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:93330",
+              "text": "Moetek"
+            },
+            " & ",
+            {
+              "ref": null,
+              "text": "MAID TWIST"
+            }
+          ]
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "emmy"
+          }
+        }
+      ]
+    },
+    "2.1": {
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Kurol"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Kurol"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:93329",
+          "text": "Lazhward"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:93330",
+          "text": "Moetek"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "23AM ETERNAL"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：MAID TWIST(1.4)、Moetek(1.2)、Kurol、Lazhward、Moetek & MAID TWIST(1.1)、emmy(1.3)\n混音：Kurol(2.1)\n母带制作：Moetek\n厂牌：23AM ETERNAL"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-19T16:29:21.484Z"
+  }
+}
