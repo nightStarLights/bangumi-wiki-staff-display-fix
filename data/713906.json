@@ -1,0 +1,188 @@
+{
+  "subjectId": 713906,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65772",
+            "text": "Halv"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "グヮカモレ"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "∀S∀"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "TRIAL"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68835",
+            "text": "seatrus"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69138",
+            "text": "Mono."
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:66912",
+              "text": "otoshi.b"
+            },
+            " & ",
+            {
+              "ref": "p:88616",
+              "text": "kooridori"
+            }
+          ]
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:66083",
+              "text": "Lime"
+            },
+            " + ",
+            {
+              "ref": null,
+              "text": "ああああ"
+            }
+          ]
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:82121",
+              "text": "Hexacube"
+            },
+            " & ",
+            {
+              "ref": "p:69634",
+              "text": "LucaProject"
+            }
+          ]
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83764",
+            "text": "NAMV"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "TRIAL"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "xyst"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "もーどまん"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ハピコアだいすきクラブ"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "strayedwave"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：TRIAL\n艺术家：Halv(1)、グヮカモレ(2)、∀S∀(3)、TRIAL(4)、seatrus(5)、Mono.(6)、otoshi.b & kooridori(7)、Lime + ああああ(8)、Hexacube & LucaProject(9)、NAMV(10)\n母带制作：xyst\n插图：もーどまん\n厂牌：ハピコアだいすきクラブ\n和声：輪音(7)、卯の宮ぽむ(7)、kooridori(7)、otoshi.b(7)\n设计：strayedwave"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-19T12:31:48.909Z"
+  }
+}
