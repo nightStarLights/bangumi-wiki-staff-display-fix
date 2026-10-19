@@ -1,0 +1,55 @@
+{
+  "subjectId": 713909,
+  "trackCredits": {
+    "1.1": {
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68800",
+            "text": "はぁち"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68800",
+            "text": "はぁち"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69138",
+          "text": "Mono."
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "おひるね音楽部"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：Mono.\n厂牌：おひるね音楽部\n客串：はぁち(1,7)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-19T12:36:49.272Z"
+  }
+}
