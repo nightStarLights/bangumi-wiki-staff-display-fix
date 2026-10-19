@@ -1,0 +1,317 @@
+{
+  "subjectId": 713897,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5761",
+            "text": "霜月はるか"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11154",
+            "text": "日山尚"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5910",
+            "text": "MANYO"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5910",
+            "text": "MANYO"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:67696",
+            "text": "渡邉\"nabeken\"賢一"
+          },
+          "inst": "Guitars"
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5761",
+            "text": "霜月はるか"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11154",
+            "text": "日山尚"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5910",
+            "text": "MANYO"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5910",
+            "text": "MANYO"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:67696",
+            "text": "渡邉\"nabeken\"賢一"
+          },
+          "inst": "Guitars"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:70436",
+            "text": "矢吹正則"
+          },
+          "inst": "Drums"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:70437",
+            "text": "蛇石徹"
+          },
+          "inst": "Bass"
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5761",
+            "text": "霜月はるか"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11154",
+            "text": "日山尚"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5910",
+            "text": "MANYO"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5910",
+            "text": "MANYO"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:67696",
+            "text": "渡邉\"nabeken\"賢一"
+          },
+          "inst": "Guitars"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:70436",
+            "text": "矢吹正則"
+          },
+          "inst": "Drums"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:70437",
+            "text": "蛇石徹"
+          },
+          "inst": "Bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "MiMi"
+          },
+          "inst": "Hammer Dulcimer"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:67697",
+            "text": "藤野由佳"
+          },
+          "inst": "Accordion"
+        }
+      ]
+    },
+    "1.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5910",
+            "text": "MANYO"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:5910",
+            "text": "MANYO"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:70434",
+          "text": "canoue"
+        }
+      }
+    ],
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "hina studio"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:65925",
+          "text": "坂知学"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:65925",
+          "text": "坂知学"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:49742",
+          "text": "chibi"
+        }
+      }
+    ],
+    "label": [
+      {
+        "parts": [
+          {
+            "ref": "p:71442",
+            "text": "しちごさん。"
+          },
+          " & ",
+          {
+            "ref": "p:70434",
+            "text": "canoue"
+          }
+        ]
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:86681",
+          "text": "二月ほづみ"
+        }
+      }
+    ],
+    "recording": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Sound Arts"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "hina studio"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:65925",
+          "text": "坂知学"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：canoue\n艺术家：霜月はるか(1,2,4)\n作词：日山尚(1,2,4)\n作曲：MANYO(1-4)\n编曲：MANYO(1-4)\n混音：hina studio、坂知学\n母带制作：坂知学\n插图：chibi\n厂牌：しちごさん。 & canoue\n和声：霜月はるか(1-4)\n设计：二月ほづみ\n录音：Sound Arts、hina studio、坂知学\n乐器-Guitars：渡邉\"nabeken\"賢一(1,2,4)\n乐器-Drums：矢吹正則(2,4)\n乐器-Bass：蛇石徹(2,4)\n乐器-Hammer Dulcimer：MiMi(4)\n乐器-Accordion：藤野由佳(4)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-19T11:58:05.653Z"
+  }
+}
