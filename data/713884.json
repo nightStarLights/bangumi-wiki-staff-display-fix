@@ -1,0 +1,385 @@
+{
+  "subjectId": 713884,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7094",
+            "text": "Nhato"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69500",
+            "text": "BEC8723"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:34064",
+            "text": "Srav3R"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6366",
+            "text": "MK"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36776",
+            "text": "KO3"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47365",
+            "text": "Katali"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55201",
+            "text": "RiraN"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Casual Killer"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47573",
+            "text": "crayvxn"
+          }
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "vjorka"
+            },
+            " (",
+            {
+              "ref": "p:47573",
+              "text": "crayvxn"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "2.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67237",
+            "text": "rejection"
+          }
+        }
+      ]
+    },
+    "2.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47360",
+            "text": "ESAI"
+          }
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Hylen"
+            },
+            " (",
+            {
+              "ref": "p:67872",
+              "text": "宇佐美祐二"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "2.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69475",
+            "text": "Redsign"
+          }
+        }
+      ]
+    },
+    "2.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:92713",
+            "text": "Dubscribe"
+          }
+        }
+      ]
+    },
+    "2.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:42183",
+            "text": "Zekk"
+          }
+        }
+      ]
+    },
+    "2.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55161",
+            "text": "PODA"
+          }
+        }
+      ]
+    },
+    "2.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Vishnu Okuno"
+          }
+        }
+      ]
+    },
+    "2.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47424",
+            "text": "Relect"
+          }
+        }
+      ]
+    },
+    "2.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6368",
+            "text": "Hommarju"
+          }
+        }
+      ]
+    },
+    "3.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:31965",
+            "text": "Maozon"
+          }
+        }
+      ]
+    },
+    "3.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65942",
+            "text": "Tsuyoshi A."
+          }
+        }
+      ]
+    },
+    "3.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7750",
+            "text": "DJ Noriken"
+          }
+        }
+      ]
+    },
+    "3.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:45358",
+            "text": "Tatsunoshin"
+          }
+        }
+      ]
+    },
+    "3.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:45308",
+            "text": "Tanchiky"
+          }
+        }
+      ]
+    },
+    "3.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "crp."
+          }
+        }
+      ]
+    },
+    "3.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47364",
+            "text": "Musicarus"
+          }
+        }
+      ]
+    },
+    "3.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:30796",
+            "text": "Ujico*"
+          }
+        }
+      ]
+    },
+    "3.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47570",
+            "text": "Feryquitous"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69506",
+          "text": "SoU"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "roomy mastering"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:25671",
+          "text": "wavforme"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69506",
+          "text": "SoU"
+        }
+      }
+    ],
+    "custom-Assistant Director": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Xeria"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：SoU\n艺术家：Nhato(1.1)、BEC8723(1.2)、Srav3R(1.3)、MK(1.4)、KO3(1.5)、Katali(1.6)、RiraN(1.7)、Casual Killer(1.8)、crayvxn(1.9)、vjorka (crayvxn)(1.9)、rejection(2.1)、ESAI(2.2)、Hylen (宇佐美祐二)(2.2)、Redsign(2.3)、Dubscribe(2.4)、Zekk(2.5)、PODA(2.6)、Vishnu Okuno(2.7)、Relect(2.8)、Hommarju(2.9)、Maozon(3.1)、Tsuyoshi A.(3.2)、DJ Noriken(3.3)、Tatsunoshin(3.4)、Tanchiky(3.5)、crp.(3.6)、《Musicarus》(3.7)、Ujico*(3.8)、Feryquitous(3.9)\n母带制作：《roomy mastering》\n厂牌：wavforme\n设计：SoU\ncustom-Assistant Director：Xeria"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-19T11:21:55.675Z"
+  }
+}
