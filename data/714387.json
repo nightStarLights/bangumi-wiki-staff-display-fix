@@ -1,0 +1,194 @@
+{
+  "subjectId": 714387,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "エナ・レト"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65401",
+            "text": "しろさきあや"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:64868",
+            "text": "fnylsp"
+          },
+          "inst": "E.Guitar"
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "水垂青"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:64868",
+            "text": "fnylsp"
+          },
+          "inst": "E.Guitar"
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "GUMI"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66305",
+            "text": "高城みよ"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:18123",
+            "text": "藤村鼓乃美"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:68345",
+            "text": "Nika Lenz"
+          },
+          "inst": "E.Guitar"
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68800",
+            "text": "はぁち"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:68128",
+          "text": "polysha"
+        }
+      }
+    ],
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:68128",
+          "text": "polysha"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:68128",
+          "text": "polysha"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:68128",
+          "text": "polysha"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:66880",
+          "text": "daph"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "るれぷ"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:80442",
+          "text": "Masamune"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "サム"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：polysha\n艺术家：《エナ・レト》(1)、しろさきあや(2)、水垂青(3)、GUMI(4)、高城みよ(5)、藤村鼓乃美(6)、はぁち(7)\n作词：polysha\n作曲：polysha\n编曲：polysha\n母带制作：daph\n插图：るれぷ\n厂牌：Masamune\n设计：サム\n乐器-E.Guitar：fnylsp(2,3)、Nika Lenz(6)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-20T14:31:17.603Z"
+  }
+}
