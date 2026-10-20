@@ -1,4 +1,5 @@
 {
+  "subjectId": 714453,
   "trackCredits": {
     "1.2": {
       "instrument": [
@@ -38,13 +39,20 @@
     }
   },
   "epinfo": {
-    "label": [
+    "artist": [
       {
-        "type": "person",
-        "person": {
-          "ref": "p:78760",
-          "text": "ANAGRAM"
-        }
+        "parts": [
+          {
+            "ref": null,
+            "text": "Taishi"
+          },
+          " (",
+          {
+            "ref": "p:8023",
+            "text": "河合泰志"
+          },
+          ")"
+        ]
       }
     ],
     "illustrator": [
@@ -56,6 +64,15 @@
         }
       }
     ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:78760",
+          "text": "ANAGRAM"
+        }
+      }
+    ],
     "design": [
       {
         "type": "person",
@@ -64,24 +81,14 @@
           "text": "Lawy"
         }
       }
-    ],
-    "artist": [
-      {
-        "type": "person",
-        "person": {
-          "ref": "p:8023",
-          "text": "Taishi"
-        }
-      }
     ]
   },
   "rawPatches": {
     "editor": "艺术家：Taishi (河合泰志)\n插图：hinayuri\n厂牌：ANAGRAM\n设计：Lawy\n乐器-Guitar：鈴木洋輔(2,4,10)"
   },
-  "subjectId": 714453,
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-20T16:24:55.441Z"
+    "submittedAt": "2026-10-20T16:25:10.133Z"
   }
 }
