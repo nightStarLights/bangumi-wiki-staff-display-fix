@@ -1,56 +1,134 @@
 {
   "subjectId": 714351,
   "trackCredits": {
-    "1.3": {
-      "arranger": [
+    "1.1": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "pico"
+            },
+            " (",
+            {
+              "ref": "p:47430",
+              "text": "渡辺良子"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
         {
           "type": "person",
           "person": {
-            "ref": null,
-            "text": "ariiol"
+            "ref": "p:104981",
+            "text": "AoMeroiNe"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82630",
+            "text": "RE:LEE"
           }
         }
       ]
     },
     "1.4": {
-      "arranger": [
+      "artist": [
         {
           "type": "person",
           "person": {
             "ref": null,
-            "text": "原口沙輔"
+            "text": "kana?"
           }
         }
       ]
     },
-    "1.9": {
-      "arranger": [
+    "1.5": {
+      "artist": [
         {
           "type": "person",
           "person": {
             "ref": null,
-            "text": "higma"
+            "text": "GO+"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55164",
+            "text": "icesawder"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Mu9"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "NOuk1n"
           }
         }
       ]
     }
   },
   "epinfo": {
-    "artist": [
+    "producer": [
       {
         "type": "person",
         "person": {
           "ref": null,
-          "text": "SEE"
+          "text": "AoMeroiNe"
         }
       }
     ],
-    "label": [
+    "vocal": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:63341",
+          "text": "恋摘もなか"
+        }
+      },
       {
         "type": "person",
         "person": {
           "ref": null,
-          "text": "kakeashi records"
+          "text": "ここあ"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:84529",
+          "text": "tomatoism"
         }
       }
     ],
@@ -59,24 +137,35 @@
         "type": "person",
         "person": {
           "ref": null,
-          "text": "y43"
+          "text": "ウサもとう"
         }
-      },
+      }
+    ],
+    "label": [
       {
         "type": "person",
         "person": {
           "ref": null,
-          "text": "ゆーきん"
+          "text": "Future Love Records"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:82630",
+          "text": "RE:LEE"
         }
       }
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：SEE\n厂牌：kakeashi records\n插图：y43、ゆーきん\n\n编曲：ariiol(3)、原口沙輔(4)、higma(9)"
+    "editor": "制作人：AoMeroiNe\n艺术家：pico (渡辺良子)(1)、AoMeroiNe(2)、《RE:LEE》(3)、kana?(4)、GO+(5)、icesawder(6)、Mu9(7)、NOuk1n(8)\n声乐：恋摘もなか、ここあ\n母带制作：tomatoism\n插图：ウサもとう\n厂牌：Future Love Records\n设计：《RE:LEE》"
   },
   "_meta": {
-    "submittedBy": "809907",
+    "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-20T14:23:38.907Z"
+    "submittedAt": "2026-10-20T14:25:59.312Z"
   }
 }
