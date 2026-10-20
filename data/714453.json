@@ -1,0 +1,78 @@
+{
+  "subjectId": 714453,
+  "trackCredits": {
+    "1.2": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:78194",
+            "text": "鈴木洋輔"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.4": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:78194",
+            "text": "鈴木洋輔"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.10": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:78194",
+            "text": "鈴木洋輔"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69041",
+          "text": "hinayuri"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ANAGRAM"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Lawy"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "插图：hinayuri\n厂牌：ANAGRAM\n设计：Lawy\n乐器-Guitar：鈴木洋輔(2,4,10)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-20T16:24:51.595Z"
+  }
+}
