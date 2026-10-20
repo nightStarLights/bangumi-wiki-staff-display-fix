@@ -2,7 +2,7 @@
   "subjectId": 222680,
   "trackCredits": {
     "1.1": {
-      "composer": [
+      "artist": [
         {
           "type": "person",
           "person": {
@@ -11,7 +11,7 @@
           }
         }
       ],
-      "artist": [
+      "composer": [
         {
           "type": "person",
           "person": {
@@ -22,7 +22,7 @@
       ]
     },
     "1.2": {
-      "composer": [
+      "artist": [
         {
           "type": "person",
           "person": {
@@ -31,7 +31,7 @@
           }
         }
       ],
-      "artist": [
+      "composer": [
         {
           "type": "person",
           "person": {
@@ -42,7 +42,7 @@
       ]
     },
     "1.3": {
-      "composer": [
+      "artist": [
         {
           "type": "person",
           "person": {
@@ -51,7 +51,7 @@
           }
         }
       ],
-      "artist": [
+      "composer": [
         {
           "type": "person",
           "person": {
@@ -62,7 +62,7 @@
       ]
     },
     "1.4": {
-      "composer": [
+      "artist": [
         {
           "type": "person",
           "person": {
@@ -71,7 +71,7 @@
           }
         }
       ],
-      "artist": [
+      "composer": [
         {
           "type": "person",
           "person": {
@@ -82,7 +82,7 @@
       ]
     },
     "1.5": {
-      "composer": [
+      "artist": [
         {
           "type": "person",
           "person": {
@@ -91,7 +91,7 @@
           }
         }
       ],
-      "artist": [
+      "composer": [
         {
           "type": "person",
           "person": {
@@ -102,7 +102,7 @@
       ]
     },
     "1.10": {
-      "composer": [
+      "artist": [
         {
           "type": "person",
           "person": {
@@ -111,7 +111,7 @@
           }
         }
       ],
-      "artist": [
+      "composer": [
         {
           "type": "person",
           "person": {
@@ -122,7 +122,7 @@
       ]
     },
     "1.6": {
-      "composer": [
+      "artist": [
         {
           "type": "person",
           "person": {
@@ -131,7 +131,7 @@
           }
         }
       ],
-      "artist": [
+      "composer": [
         {
           "type": "person",
           "person": {
@@ -142,7 +142,7 @@
       ]
     },
     "1.7": {
-      "composer": [
+      "artist": [
         {
           "type": "person",
           "person": {
@@ -151,7 +151,7 @@
           }
         }
       ],
-      "artist": [
+      "composer": [
         {
           "type": "person",
           "person": {
@@ -162,7 +162,7 @@
       ]
     },
     "1.8": {
-      "composer": [
+      "artist": [
         {
           "type": "person",
           "person": {
@@ -171,7 +171,7 @@
           }
         }
       ],
-      "artist": [
+      "composer": [
         {
           "type": "person",
           "person": {
@@ -182,7 +182,7 @@
       ]
     },
     "1.9": {
-      "composer": [
+      "artist": [
         {
           "type": "person",
           "person": {
@@ -191,7 +191,7 @@
           }
         }
       ],
-      "artist": [
+      "composer": [
         {
           "type": "person",
           "person": {
@@ -202,7 +202,7 @@
       ]
     },
     "1.11": {
-      "composer": [
+      "artist": [
         {
           "type": "person",
           "person": {
@@ -211,7 +211,7 @@
           }
         }
       ],
-      "artist": [
+      "composer": [
         {
           "type": "person",
           "person": {
@@ -238,100 +238,14 @@
           "text": "土屋玲子"
         }
       }
-    ],
-    "instrument": [
-      {
-        "type": "instrument_credit",
-        "person": {
-          "ref": "p:67699",
-          "text": "土屋玲子"
-        },
-        "inst": "Violin"
-      },
-      {
-        "type": "instrument_credit",
-        "person": {
-          "ref": "p:67699",
-          "text": "土屋玲子"
-        },
-        "inst": "Viola"
-      },
-      {
-        "type": "instrument_credit",
-        "person": {
-          "ref": "p:67699",
-          "text": "土屋玲子"
-        },
-        "inst": "Cello"
-      },
-      {
-        "type": "instrument_credit",
-        "person": {
-          "ref": "p:67699",
-          "text": "土屋玲子"
-        },
-        "inst": "Erhu"
-      },
-      {
-        "type": "instrument_credit",
-        "person": {
-          "ref": "p:5972",
-          "text": "岩垂徳行"
-        },
-        "inst": "Guitar"
-      },
-      {
-        "type": "instrument_credit",
-        "person": {
-          "ref": "p:5972",
-          "text": "岩垂徳行"
-        },
-        "inst": "Trumpet"
-      },
-      {
-        "type": "instrument_credit",
-        "person": {
-          "ref": "p:5972",
-          "text": "岩垂徳行"
-        },
-        "inst": "Trombone"
-      },
-      {
-        "type": "instrument_credit",
-        "person": {
-          "ref": "p:5972",
-          "text": "岩垂徳行"
-        },
-        "inst": "French Horn"
-      }
-    ],
-    "chorus": [
-      {
-        "type": "person",
-        "person": {
-          "ref": "p:67699",
-          "text": "土屋玲子"
-        }
-      }
-    ],
-    "design": [
-      {
-        "parts": [
-          {
-            "ref": null,
-            "text": "加藤伊織"
-          },
-          " (Jacket Design)"
-        ]
-      }
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：岩垂徳行(1-5,10)、土屋玲子(6-9,11)\n作曲：岩垂徳行(1-5,10)、土屋玲子(6-9,11)\n编曲：岩垂徳行、土屋玲子\n和声：土屋玲子\n乐器-Violin：土屋玲子\n乐器-Viola：土屋玲子\n乐器-Cello：土屋玲子\n乐器-Erhu：土屋玲子\n乐器-Guitar：岩垂徳行\n乐器-Trumpet：岩垂徳行\n乐器-Trombone：岩垂徳行\n乐器-French Horn：岩垂徳行\n设计-Jacket Design：加藤伊織"
+    "editor": "艺术家：岩垂徳行(1-5,10)、土屋玲子(6-9,11)\n作曲：岩垂徳行(1-5,10)、土屋玲子(6-9,11)\n编曲：岩垂徳行、土屋玲子\n和声：土屋玲子"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-20T17:45:09.306Z"
+    "submittedAt": "2026-10-20T17:45:22.869Z"
   }
 }
