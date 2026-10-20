@@ -1,0 +1,748 @@
+{
+  "subjectId": 714432,
+  "trackCredits": {
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70463",
+            "text": "結城碧"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69150",
+            "text": "Lily"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70463",
+            "text": "結城碧"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9316",
+            "text": "Morrigan"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69150",
+            "text": "Lily"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70463",
+            "text": "結城碧"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "にーさん"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75277",
+            "text": "暁星ちかげ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69150",
+            "text": "Lily"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69150",
+            "text": "Lily"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70463",
+            "text": "結城碧"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9316",
+            "text": "Morrigan"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:71167",
+            "text": "Yushi"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69150",
+            "text": "Lily"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9316",
+            "text": "Morrigan"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70463",
+            "text": "結城碧"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69150",
+            "text": "Lily"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69150",
+            "text": "Lily"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9316",
+            "text": "Morrigan"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69150",
+            "text": "Lily"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75278",
+            "text": "あしゅ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "にーさん"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69150",
+            "text": "Lily"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9316",
+            "text": "Morrigan"
+          }
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "くりたしげたか"
+          }
+        }
+      ],
+      "choir": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "TEAM “Symphonic Choir” 『交響唱』"
+          }
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:73422",
+              "text": "Shuka"
+            },
+            " (Soprano Choir)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "unknown"
+            },
+            " (Soprano Choir)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "おちびちゃん"
+            },
+            " (Soprano Choir)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "きょぴぴ"
+            },
+            " (Soprano Choir)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "言乃麻衣"
+            },
+            " (Soprano Choir)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:71172",
+              "text": "月宮瑠璃華"
+            },
+            " (Soprano Choir)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "山瀬茜心"
+            },
+            " (Soprano Choir)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Lycoris"
+            },
+            " (Alto Choir)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "えのもと"
+            },
+            " (Alto Choir)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "傘水音しゅう"
+            },
+            " (Alto Choir)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:73092",
+              "text": "空華オキ"
+            },
+            " (Alto Choir)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "カルドウェル"
+            },
+            " (",
+            {
+              "ref": "p:92143",
+              "text": "カーク＝クランクケー＝カルドウェル"
+            },
+            ")",
+            " (Alto Choir)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "ハルネ"
+            },
+            " (Alto Choir)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "梨夢"
+            },
+            " (Alto Choir)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "fuanfuan"
+            },
+            " (Tenor Choir)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "makoto"
+            },
+            " (Tenor Choir)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Syuwa"
+            },
+            " (Tenor Choir)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "色月"
+            },
+            " (Tenor Choir)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "おかずおかず"
+            },
+            " (Tenor Choir)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "漆海次郎"
+            },
+            " (Tenor Choir)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "虹兎"
+            },
+            " (Tenor Choir)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "ロウリュー"
+            },
+            " (Tenor Choir)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "DEL"
+            },
+            " (Bass Choir)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Le-na"
+            },
+            " (Bass Choir)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "素空"
+            },
+            " (Bass Choir)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "だいこん"
+            },
+            " (Bass Choir)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "日向さにい"
+            },
+            " (Bass Choir)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "氷炎"
+            },
+            " (Bass Choir)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "風河"
+            },
+            " (Bass Choir)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "ヨザキリ"
+            },
+            " (Bass Choir)"
+          ]
+        }
+      ],
+      "custom-Story Concept": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75277",
+            "text": "暁星ちかげ"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "parts": [
+            {
+              "ref": "p:75278",
+              "text": "あしゅ"
+            },
+            " (Main Vocals)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:75277",
+              "text": "暁星ちかげ"
+            },
+            " (Main Vocals)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:69150",
+              "text": "Lily"
+            },
+            " (Main Vocals)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:74862",
+              "text": "ケィニ"
+            },
+            " (Main Vocals)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "miip"
+            },
+            " (Main Vocals)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "にーさん"
+            },
+            " (Main Vocals)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:70463",
+              "text": "結城碧"
+            },
+            " (Main Vocals)"
+          ]
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "CROWN VERRE"
+        }
+      }
+    ],
+    "vocal": [
+      {
+        "parts": [
+          {
+            "ref": "p:70463",
+            "text": "結城碧"
+          },
+          " + ",
+          {
+            "ref": "p:69150",
+            "text": "Lily"
+          }
+        ]
+      }
+    ],
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:9316",
+          "text": "Morrigan"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:75371",
+          "text": "イシダタツキ"
+        }
+      }
+    ],
+    "vocaledit": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69150",
+          "text": "Lily"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:75278",
+          "text": "あしゅ"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:70463",
+          "text": "結城碧"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "にーさん"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:74862",
+          "text": "ケィニ"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "miip"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "えのもと"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "色月"
+        }
+      }
+    ],
+    "custom-Original Story": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69150",
+          "text": "Lily"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:70463",
+          "text": "結城碧"
+        }
+      }
+    ],
+    "custom-All Story Development": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69150",
+          "text": "Lily"
+        }
+      }
+    ],
+    "design": [
+      {
+        "parts": [
+          {
+            "ref": "p:69150",
+            "text": "Lily"
+          },
+          " (Logo Design)"
+        ]
+      },
+      {
+        "parts": [
+          {
+            "ref": "p:75277",
+            "text": "暁星ちかげ"
+          },
+          " (Logo Design)"
+        ]
+      },
+      {
+        "parts": [
+          {
+            "ref": "p:69150",
+            "text": "Lily"
+          },
+          " (Package Design)"
+        ]
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：CROWN VERRE、結城碧(4,5)、にーさん(5)、暁星ちかげ(5)、Lily(5)\n作词：Lily(1-5)、結城碧(4,5)\n作曲：Morrigan(1,2,4,5)\n编曲：Morrigan(3)、Lily(4)\n声乐：結城碧 + Lily、結城碧(1)、Lily(1,2)、あしゅ(2)、にーさん(2)\n混音：Morrigan\n插图：イシダタツキ\n客串：くりたしげたか(3)\n合唱：《TEAM “Symphonic Choir” 『交響唱』》(3)\n人声编辑：Lily、あしゅ、結城碧、にーさん、ケィニ、miip、えのもと、色月\ncustom-Original Story：Lily、結城碧\ncustom-Story Concept：暁星ちかげ(3)\ncustom-All Story Development：Lily\n设计-Logo Design：Lily、暁星ちかげ\n设计-Package Design：Lily\n乐器-Guitar：Yushi(5)\n声乐-Main Vocals：あしゅ(3)、暁星ちかげ(3)、Lily(3)、ケィニ(3)、miip(3)、にーさん(3)、結城碧(3)\n合唱-Soprano Choir：Shuka(3)、unknown(3)、おちびちゃん(3)、きょぴぴ(3)、言乃麻衣(3)、月宮瑠璃華(3)、山瀬茜心(3)\n合唱-Alto Choir：Lycoris(3)、えのもと(3)、傘水音しゅう(3)、空華オキ(3)、カルドウェル (カーク＝クランクケー＝カルドウェル)(3)、ハルネ(3)、梨夢(3)\n合唱-Tenor Choir：fuanfuan(3)、makoto(3)、Syuwa(3)、色月(3)、おかずおかず(3)、漆海次郎(3)、虹兎(3)、ロウリュー(3)\n合唱-Bass Choir：DEL(3)、Le-na(3)、素空(3)、だいこん(3)、日向さにい(3)、氷炎(3)、風河(3)、ヨザキリ(3)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-20T15:18:46.231Z"
+  }
+}
