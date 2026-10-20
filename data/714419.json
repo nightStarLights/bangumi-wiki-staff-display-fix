@@ -249,7 +249,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:93455",
           "text": "なずしろ"
         }
       }
@@ -258,7 +258,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:94058",
           "text": "nion"
         }
       }
@@ -267,7 +267,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:93455",
           "text": "なずしろ"
         }
       }
@@ -279,6 +279,6 @@
   "_meta": {
     "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-20T14:49:52.059Z"
+    "submittedAt": "2026-10-20T14:51:10.371Z"
   }
 }
