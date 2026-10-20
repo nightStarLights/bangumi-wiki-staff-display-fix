@@ -580,7 +580,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:104986",
           "text": "CROWN VERRE"
         }
       }
@@ -737,6 +737,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-20T15:19:48.558Z"
+    "submittedAt": "2026-10-20T15:20:40.527Z"
   }
 }
