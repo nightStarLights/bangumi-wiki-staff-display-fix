@@ -65,7 +65,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:104368",
           "text": "ゆーきん"
         }
       }
@@ -77,6 +77,6 @@
   "_meta": {
     "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-20T14:26:01.662Z"
+    "submittedAt": "2026-10-20T14:26:27.476Z"
   }
 }
