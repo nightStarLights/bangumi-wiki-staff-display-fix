@@ -1,0 +1,341 @@
+{
+  "subjectId": 714374,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55566",
+            "text": "をとは"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:78879",
+            "text": "Parang"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:78879",
+            "text": "Parang"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:78879",
+            "text": "Parang"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65740",
+            "text": "桃寝ちのい"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "INuya"
+            },
+            " (",
+            {
+              "ref": "p:65944",
+              "text": "イヌヤ"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "INuya"
+            },
+            " (",
+            {
+              "ref": "p:65944",
+              "text": "イヌヤ"
+            },
+            ")"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "INuya"
+            },
+            " (",
+            {
+              "ref": "p:65944",
+              "text": "イヌヤ"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36042",
+            "text": "月乃"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:95435",
+            "text": "Malcha"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:95435",
+            "text": "Malcha"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:95435",
+            "text": "Malcha"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "KMNZ TINA"
+            },
+            " (",
+            {
+              "ref": "p:69962",
+              "text": "ティナ"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:90407",
+            "text": "Eno"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:90407",
+            "text": "Eno"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:90407",
+            "text": "Eno"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:78879",
+            "text": "Parang"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:78879",
+            "text": "Parang"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "INuya"
+            },
+            " (",
+            {
+              "ref": "p:65944",
+              "text": "イヌヤ"
+            },
+            ")"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "INuya"
+            },
+            " (",
+            {
+              "ref": "p:65944",
+              "text": "イヌヤ"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.7": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:95435",
+            "text": "Malcha"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:95435",
+            "text": "Malcha"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:90407",
+            "text": "Eno"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:90407",
+            "text": "Eno"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:90407",
+          "text": "Eno"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "A1NVERSE"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Malro"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "小鳥遊ソラ"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "STAR STATION"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Malro"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：Eno\n艺术家：をとは(1)、桃寝ちのい(2)、月乃(3)、KMNZ TINA (ティナ)(4)\n作词：Parang(1)、INuya (イヌヤ)(2)、Malcha(3)、Eno(4)\n作曲：Parang(1,5)、INuya (イヌヤ)(2,6)、Malcha(3,7)、Eno(4,8)\n编曲：Parang(1,5)、INuya (イヌヤ)(2,6)、Malcha(3,7)、Eno(4,8)\n母带制作：A1NVERSE\n插图：Malro、小鳥遊ソラ\n厂牌：STAR STATION\n设计：Malro"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-20T14:28:03.295Z"
+  }
+}
