@@ -49,6 +49,24 @@
             "text": "niikei"
           }
         }
+      ],
+      "custom-Guitar": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "しもぞの"
+          }
+        }
+      ],
+      "custom-Bass": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Imanishi"
+          }
+        }
       ]
     },
     "1.2": {
@@ -171,6 +189,15 @@
             "text": "ソニオル"
           }
         }
+      ],
+      "custom-Bass": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "あんいち"
+          }
+        }
       ]
     },
     "1.5": {
@@ -222,7 +249,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:93455",
+          "ref": null,
           "text": "なずしろ"
         }
       }
@@ -231,7 +258,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:94058",
+          "ref": null,
           "text": "nion"
         }
       }
@@ -240,18 +267,18 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:93455",
+          "ref": null,
           "text": "なずしろ"
         }
       }
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：なずしろ\n母带制作：nion\n制作人：なずしろ\n\n作词：なずしろ(1,2,3,4,5)、niikei(1)、Tormanerico(3)\n作曲：なずしろ(1,2,3,4,5)、niikei(1)、Tormanerico(3)、ソニオル(4)、しなちくシステム(5)\n编曲：なずしろ(1,3,4,5)、niikei(1)、コサメガ(2)、Tormanerico(3)、ソニオル(4)、しなちくシステム(5)"
+    "editor": "艺术家：なずしろ\n母带制作：nion\n制作人：なずしろ\n\n作词：なずしろ(1,2,3,4,5)、niikei(1)、Tormanerico(3)\n作曲：なずしろ(1,2,3,4,5)、niikei(1)、Tormanerico(3)、ソニオル(4)、しなちくシステム(5)\n编曲：なずしろ(1,3,4,5)、niikei(1)、コサメガ(2)、Tormanerico(3)、ソニオル(4)、しなちくシステム(5)\ncustom-Guitar: しもぞの(1)\ncustom-Bass: Imanishi(1), あんいち(4)"
   },
   "_meta": {
     "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-20T14:48:18.014Z"
+    "submittedAt": "2026-10-20T14:49:52.059Z"
   }
 }
