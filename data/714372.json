@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:73995",
             "text": "ariiol"
           }
         }
@@ -17,7 +17,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:59104",
             "text": "原口沙輔"
           }
         }
@@ -28,7 +28,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:68896",
             "text": "higma"
           }
         }
@@ -40,7 +40,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:94445",
           "text": "SEE"
         }
       }
@@ -58,7 +58,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:104983",
           "text": "y43"
         }
       },
@@ -77,6 +77,6 @@
   "_meta": {
     "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-20T14:25:35.353Z"
+    "submittedAt": "2026-10-20T14:26:01.662Z"
   }
 }
