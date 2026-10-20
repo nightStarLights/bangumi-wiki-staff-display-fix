@@ -2,49 +2,119 @@
   "subjectId": 714372,
   "trackCredits": {
     "1.3": {
-      "arranger": [
+      "custom-Remix": [
         {
           "type": "person",
           "person": {
-            "ref": "p:73995",
+            "ref": null,
             "text": "ariiol"
           }
         }
       ]
     },
     "1.4": {
-      "arranger": [
+      "custom-Remix": [
         {
           "type": "person",
           "person": {
-            "ref": "p:59104",
+            "ref": null,
             "text": "原口沙輔"
           }
         }
       ]
     },
     "1.9": {
-      "arranger": [
+      "custom-Remix": [
         {
           "type": "person",
           "person": {
-            "ref": "p:68896",
+            "ref": null,
             "text": "higma"
           }
+        }
+      ]
+    },
+    "1.1": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "SEE"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "Nqsi"
+            }
+          ]
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "SEE"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "KMNZ TINA"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "ティナ"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "SEE w/イマニシ"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "SEE w/higma"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "SEE"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "丹下風"
+            }
+          ]
         }
       ]
     }
   },
   "epinfo": {
-    "artist": [
-      {
-        "type": "person",
-        "person": {
-          "ref": "p:94445",
-          "text": "SEE"
-        }
-      }
-    ],
     "label": [
       {
         "type": "person",
@@ -58,25 +128,25 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:104983",
+          "ref": null,
           "text": "y43"
         }
       },
       {
         "type": "person",
         "person": {
-          "ref": "p:104368",
+          "ref": null,
           "text": "ゆーきん"
         }
       }
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：SEE\n厂牌：kakeashi records\n插图：y43、ゆーきん\n\n编曲：ariiol(3)、原口沙輔(4)、higma(9)"
+    "editor": "厂牌：kakeashi records\n插图：y43、ゆーきん\n\ncustom-Remix：ariiol(3)、原口沙輔(4)、higma(9)\n艺术家: SEE feat.Nqsi(1), SEE feat. KMNZ TINA (ティナ)(2), 《SEE w/イマニシ》(6), 《SEE w/higma》(7),SEE feat. 丹下風(11)"
   },
   "_meta": {
     "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-20T14:26:27.476Z"
+    "submittedAt": "2026-10-20T14:29:38.766Z"
   }
 }
