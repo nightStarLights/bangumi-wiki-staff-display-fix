@@ -1,0 +1,412 @@
+{
+  "subjectId": 714782,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:55201",
+              "text": "RiraN"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "AZK"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "澁谷梓希"
+            },
+            ")"
+          ]
+        }
+      ],
+      "featured": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "AZK"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "澁谷梓希"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:55201",
+              "text": "RiraN"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "AZK"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "澁谷梓希"
+            },
+            ")"
+          ]
+        }
+      ],
+      "featured": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "AZK"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "澁谷梓希"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:55201",
+              "text": "RiraN"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "AZK"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "澁谷梓希"
+            },
+            ")"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Mitsukiyo"
+            },
+            " (",
+            {
+              "ref": "p:55345",
+              "text": "ミツキヨ"
+            },
+            ")"
+          ]
+        }
+      ],
+      "featured": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "AZK"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "澁谷梓希"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:55201",
+              "text": "RiraN"
+            },
+            " feat. ",
+            {
+              "ref": "p:70375",
+              "text": "音琴兎愛"
+            }
+          ]
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70375",
+            "text": "音琴兎愛"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:55201",
+              "text": "RiraN"
+            },
+            " feat. ",
+            {
+              "ref": "p:70375",
+              "text": "音琴兎愛"
+            }
+          ]
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70375",
+            "text": "音琴兎愛"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:55201",
+              "text": "RiraN"
+            },
+            " feat. ",
+            {
+              "ref": "p:70375",
+              "text": "音琴兎愛"
+            }
+          ]
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70375",
+            "text": "音琴兎愛"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:55201",
+              "text": "RiraN"
+            },
+            " feat. ",
+            {
+              "ref": "p:70375",
+              "text": "音琴兎愛"
+            }
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Thunders"
+          }
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70375",
+            "text": "音琴兎愛"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:55201",
+              "text": "RiraN"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "ひやむぎこむぎ。"
+            }
+          ]
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ひやむぎこむぎ。"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:55201",
+              "text": "RiraN"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "初音ミク"
+            }
+          ]
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:55201",
+              "text": "RiraN"
+            },
+            " & ",
+            {
+              "ref": null,
+              "text": "Xeno"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "重音テト"
+            }
+          ]
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:55201",
+              "text": "RiraN"
+            },
+            " & ",
+            {
+              "ref": null,
+              "text": "Xeno"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "重音テト"
+            }
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:42103",
+            "text": "Jun Kuroda"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:55201",
+          "text": "RiraN"
+        }
+      }
+    ],
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:70375",
+          "text": "音琴兎愛"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:88036",
+          "text": "森ZÖ"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:70376",
+          "text": "Emoism Records"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "sh0p"
+        }
+      }
+    ],
+    "instrument": [
+      {
+        "type": "instrument_credit",
+        "person": {
+          "ref": "p:68581",
+          "text": "NeLiME"
+        },
+        "inst": "Guitar"
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：RiraN\n艺术家：RiraN feat. AZK (澁谷梓希)(1,7,9)、RiraN feat. 音琴兎愛(2,4,8,11)、RiraN feat. ひやむぎこむぎ。(3)、RiraN feat. 初音ミク(5)、RiraN & Xeno feat. 重音テト(6,10)\n作词：音琴兎愛\n编曲：Mitsukiyo (ミツキヨ)(9)、Jun Kuroda(10)、Thunders(11)\n插图：森ZÖ\n厂牌：Emoism Records\n客串：AZK (澁谷梓希)(1,7,9)、音琴兎愛(2,4,8,11)、ひやむぎこむぎ。(3)\n设计：sh0p\n乐器-Guitar：NeLiME"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-21T13:04:25.791Z"
+  }
+}
