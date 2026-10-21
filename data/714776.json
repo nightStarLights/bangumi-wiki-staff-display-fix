@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:7002",
             "text": "t+pazolite"
           }
         }
@@ -17,7 +17,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:7002",
             "text": "t+pazolite"
           }
         }
@@ -28,7 +28,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:7002",
             "text": "t+pazolite"
           }
         }
@@ -39,7 +39,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:7002",
             "text": "t+pazolite"
           }
         }
@@ -50,7 +50,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:7002",
             "text": "t+pazolite"
           }
         }
@@ -61,7 +61,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:7002",
             "text": "t+pazolite"
           }
         }
@@ -72,7 +72,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:7002",
             "text": "t+pazolite"
           }
         }
@@ -83,7 +83,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:7002",
             "text": "t+pazolite"
           }
         }
@@ -94,12 +94,12 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:7002",
               "text": "t+pazolite"
             },
             " & ",
             {
-              "ref": null,
+              "ref": "p:71342",
               "text": "フロクロ"
             }
           ]
@@ -111,12 +111,12 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:7002",
               "text": "t+pazolite"
             },
             " & ",
             {
-              "ref": null,
+              "ref": "p:10213",
               "text": "DJ Myosuke"
             }
           ]
@@ -128,12 +128,12 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:7002",
               "text": "t+pazolite"
             },
             " & ",
             {
-              "ref": null,
+              "ref": "p:66787",
               "text": "かねこちはる"
             }
           ]
@@ -146,7 +146,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:7002",
           "text": "t+pazolite"
         }
       }
@@ -164,7 +164,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:32979",
           "text": "C.H.S"
         }
       }
@@ -185,6 +185,6 @@
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-21T12:44:12.165Z"
+    "submittedAt": "2026-10-21T12:44:43.387Z"
   }
 }
