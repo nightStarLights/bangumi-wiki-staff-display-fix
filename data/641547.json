@@ -94,7 +94,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:105059",
             "text": "Keton"
           }
         }
@@ -197,15 +197,18 @@
           }
         },
         {
-          "type": "alias_person",
-          "alias": {
-            "ref": null,
-            "text": "ALTαir"
-          },
-          "person": {
-            "ref": null,
-            "text": "αirlemoneX"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "ALTαir"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "αirlemoneX"
+            },
+            ")"
+          ]
         }
       ]
     }
@@ -214,8 +217,8 @@
     "editor": "艺术家：KOMAtsuda(1.3)、RND.K(1.4)、Vivit(1.6)、Future Record(1.7)、Mitinoku(1.9)、robotica(1.11)、Vanillin(2.1)、Meadery(2.2)、Keton(2.3)、SubCool(2.4)、Velocity(2.5)、Naktics(2.6)、ReFuCafé(2.7)、SPYKEY(2.7)、radexql(2.8)、ron3lyscript(2.8)、toti(2.9)、DUZI(2.9)、SilkGhost(2.10)、ALTαir (αirlemoneX)(2.10)"
   },
   "_meta": {
-    "submittedBy": "459115",
+    "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-15T08:10:12.841Z"
+    "submittedAt": "2026-10-21T17:18:50.941Z"
   }
 }
