@@ -7,18 +7,36 @@
           "type": "person",
           "person": {
             "ref": null,
-            "text": "N4Gi"
+            "text": "KoZiR4w"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "KoZiR4w"
           }
         }
       ]
     },
-    "1.2": {
+    "1.6": {
       "artist": [
         {
           "type": "person",
           "person": {
             "ref": null,
-            "text": "N4Gi"
+            "text": "KoZiR4w"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "KoZiR4w"
           }
         }
       ]
@@ -29,7 +47,7 @@
           "type": "person",
           "person": {
             "ref": null,
-            "text": "N4Gi"
+            "text": "KoZiR4w"
           }
         }
       ],
@@ -38,42 +56,108 @@
           "type": "person",
           "person": {
             "ref": null,
-            "text": "SDF"
+            "text": "KoZiR4w"
           }
         }
       ]
     },
-    "1.3": {
+    "1.8": {
       "artist": [
         {
-          "parts": [
-            {
-              "ref": null,
-              "text": "N4Gi"
-            },
-            " & ",
-            {
-              "ref": null,
-              "text": "Alicemetix"
-            }
-          ]
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "KoZiR4w"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "493Water"
+          }
         }
       ]
     },
-    "1.4": {
+    "1.9": {
       "artist": [
         {
-          "parts": [
-            {
-              "ref": null,
-              "text": "N4Gi"
-            },
-            " & ",
-            {
-              "ref": null,
-              "text": "KAJI"
-            }
-          ]
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "KoZiR4w"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Fatal Menace"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "KoZiR4w"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82030",
+            "text": "ryhki"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "KoZiR4w"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "RUTHS"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "KoZiR4w"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "MΣG²"
+          }
         }
       ]
     },
@@ -83,14 +167,23 @@
           "parts": [
             {
               "ref": null,
-              "text": "N4Gi"
+              "text": "KoZiR4w"
             },
             " feat. ",
             {
               "ref": null,
-              "text": "天乃おつげ"
+              "text": "翠京"
             }
           ]
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "翠京"
+          }
         }
       ],
       "featured": [
@@ -98,64 +191,40 @@
           "type": "person",
           "person": {
             "ref": null,
-            "text": "天乃おつげ"
+            "text": "翠京"
           }
         }
       ]
     },
-    "1.6": {
-      "artist": [
-        {
-          "parts": [
-            {
-              "ref": null,
-              "text": "N4Gi"
-            },
-            " & ",
-            {
-              "ref": null,
-              "text": "RAWPVCK"
-            }
-          ]
-        }
-      ]
-    },
-    "1.8": {
-      "artist": [
-        {
-          "parts": [
-            {
-              "ref": null,
-              "text": "N4Gi"
-            },
-            " & ",
-            {
-              "ref": null,
-              "text": "RiraN"
-            },
-            " feat. ",
-            {
-              "ref": null,
-              "text": "AZK"
-            }
-          ]
-        }
-      ],
+    "1.2": {
       "arranger": [
         {
           "type": "person",
           "person": {
             "ref": null,
-            "text": "Massive New Krew"
+            "text": "KoZiR4w"
           }
         }
-      ],
-      "featured": [
+      ]
+    },
+    "1.3": {
+      "arranger": [
         {
           "type": "person",
           "person": {
             "ref": null,
-            "text": "AZK"
+            "text": "KoZiR4w"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "KoZiR4w"
           }
         }
       ]
@@ -167,16 +236,16 @@
         "type": "person",
         "person": {
           "ref": null,
-          "text": "N4Gi"
+          "text": "KoZiR4w"
         }
       }
     ],
-    "illustrator": [
+    "composer": [
       {
         "type": "person",
         "person": {
           "ref": null,
-          "text": "律薪名"
+          "text": "KoZiR4w"
         }
       }
     ],
@@ -185,7 +254,7 @@
         "type": "person",
         "person": {
           "ref": null,
-          "text": "N4 Records"
+          "text": "Energetic D4NCE Recordz"
         }
       }
     ],
@@ -194,24 +263,17 @@
         "type": "person",
         "person": {
           "ref": null,
-          "text": "6Tan"
-        }
-      },
-      {
-        "type": "person",
-        "person": {
-          "ref": null,
-          "text": "SixStylez"
+          "text": "宗方シロウ"
         }
       }
     ]
   },
   "rawPatches": {
-    "editor": "制作人：N4Gi\n艺术家：N4Gi(1,2,7)、N4Gi & Alicemetix(3)、N4Gi & KAJI(4)、N4Gi feat. 天乃おつげ(5)、N4Gi & RAWPVCK(6)、N4Gi & RiraN feat. AZK(8)\n编曲：SDF(7)、Massive New Krew(8)\n插图：律薪名\n厂牌：《N4 Records》\n客串：天乃おつげ(5)、AZK(8)\n设计：6Tan、SixStylez"
+    "editor": "制作人：KoZiR4w\n艺术家：KoZiR4w(1,6-12)、KoZiR4w feat. 翠京(5)\n作曲：KoZiR4w\n编曲：KoZiR4w(1-4,6,7)、493Water(8)、Fatal Menace(9)、ryhki(10)、RUTHS(11)、MΣG²(12)\n声乐：翠京(5)\n厂牌：Energetic D4NCE Recordz\n客串：翠京(5)\n设计：宗方シロウ"
   },
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-16T13:28:35.386Z"
+    "submittedAt": "2026-10-21T12:24:19.814Z"
   }
 }
