@@ -1,0 +1,184 @@
+{
+  "subjectId": 714752,
+  "trackCredits": {
+    "1.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55164",
+            "text": "icesawder"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65470",
+            "text": "picco"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55164",
+            "text": "icesawder"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65470",
+            "text": "picco"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:90520",
+            "text": "purini"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:90520",
+            "text": "purini"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Yutori"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81943",
+            "text": "前澤"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Yutori"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81943",
+            "text": "前澤"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "たたまれ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "たたまれ"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "KettenKrad"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:77510",
+            "text": "乙女†SAVAGE"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "KettenKrad"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:77510",
+            "text": "乙女†SAVAGE"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:82017",
+          "text": "天乃おつげ"
+        }
+      }
+    ],
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:82017",
+          "text": "天乃おつげ"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:82014",
+          "text": "総長"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：天乃おつげ\n作词：天乃おつげ\n插图：総長\n\n作曲：icesawder(1)、picco(1)、purini(2)、Yutori(3)、前澤(3)、たたまれ(4)、KettenKrad(5)、乙女†SAVAGE(5)\n编曲：icesawder(1)、picco(1)、purini(2)、Yutori(3)、前澤(3)、たたまれ(4)、KettenKrad(5)、乙女†SAVAGE(5)"
+  },
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-21T11:42:45.048Z"
+  }
+}
