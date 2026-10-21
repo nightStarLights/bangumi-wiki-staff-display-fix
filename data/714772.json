@@ -220,7 +220,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:80608",
+          "ref": null,
           "text": "Gemeinschaft of Hardcore"
         }
       }
@@ -232,6 +232,6 @@
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-21T12:31:37.223Z"
+    "submittedAt": "2026-10-21T12:35:15.207Z"
   }
 }
