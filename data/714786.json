@@ -1,0 +1,156 @@
+{
+  "subjectId": 714786,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "YACA IN DA HOUSE"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Yaca"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "hallycore"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Alicemetix"
+            },
+            " vs. ",
+            {
+              "ref": null,
+              "text": "前澤"
+            }
+          ]
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "picco"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "yosumi"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "gaburyu"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "icesawder"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "nyankobrq"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "をとは"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "higma"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "yuigot"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Yaca"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Generation Z"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "chlumi"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：YACA IN DA HOUSE (Yaca)(1)、hallycore(1)、Alicemetix vs. 前澤(2)、picco(3)、yosumi(3)、gaburyu(4)、icesawder(4)、nyankobrq(5)、をとは(5)、higma(6)、yuigot(6)\n母带制作：Yaca\n厂牌：Generation Z\n设计：chlumi"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-21T13:13:10.495Z"
+  }
+}
