@@ -11,7 +11,7 @@
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:65557",
               "text": "Yaca"
             },
             ")"
@@ -31,12 +31,12 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:42184",
               "text": "Alicemetix"
             },
             " vs. ",
             {
-              "ref": null,
+              "ref": "p:81943",
               "text": "前澤"
             }
           ]
@@ -48,14 +48,14 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:65470",
             "text": "picco"
           }
         },
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:66185",
             "text": "yosumi"
           }
         }
@@ -66,14 +66,14 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:71275",
             "text": "gaburyu"
           }
         },
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:55164",
             "text": "icesawder"
           }
         }
@@ -84,14 +84,14 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:65617",
             "text": "nyankobrq"
           }
         },
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:55566",
             "text": "をとは"
           }
         }
@@ -102,14 +102,14 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:68896",
             "text": "higma"
           }
         },
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:65821",
             "text": "yuigot"
           }
         }
@@ -121,7 +121,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:65557",
           "text": "Yaca"
         }
       }
@@ -151,6 +151,6 @@
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-21T13:13:10.495Z"
+    "submittedAt": "2026-10-21T13:13:40.459Z"
   }
 }
