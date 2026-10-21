@@ -1,0 +1,200 @@
+{
+  "subjectId": 236801,
+  "trackCredits": {
+    "1.7": {
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": "p:44867",
+              "text": "こんにちは谷田さん"
+            },
+            " (Guitar Arrangement)"
+          ]
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9313",
+            "text": "Neru"
+          }
+        }
+      ],
+      "声乐": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "鏡音レン V4X"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "鏡音リン V4X"
+          }
+        }
+      ]
+    },
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25286",
+            "text": "ナユタン星人"
+          }
+        }
+      ],
+      "声乐": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "初音ミク"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:52975",
+            "text": "はるふり"
+          }
+        }
+      ],
+      "声乐": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "重音テト"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:41394",
+            "text": "はるまきごはん"
+          }
+        }
+      ],
+      "声乐": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "初音ミク V4X"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:54621",
+            "text": "MI8k"
+          }
+        }
+      ],
+      "声乐": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "VY1V4"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10188",
+            "text": "カラスヤサボウ"
+          }
+        }
+      ],
+      "声乐": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "鏡音リン"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:13292",
+            "text": "和田たけあき"
+          }
+        }
+      ],
+      "声乐": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "音街ウナ Spicy"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "くらげや茶房"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:25288",
+          "text": "寺田てら"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "中村リョーマ"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：ナユタン星人(1)、はるふり(2)、はるまきごはん(3)、MI8k (ナポリP)(4)、カラスヤサボウ (烏屋茶房)(5)、和田たけあき(6)、Neru(7)\n声乐：初音ミク(1)、重音テト(2)、《初音ミク V4X》(3)、VY1V4(4)、鏡音リン(5)、《音街ウナ Spicy》(6)、《鏡音レン V4X》(7)、《鏡音リン V4X》(7)\n母带制作：中村リョーマ\n插图：寺田てら\n厂牌：くらげや茶房\n编曲-Guitar Arrangement：こんにちは谷田さん (キタニタツヤ)(7)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-21T15:09:56.022Z"
+  }
+}
