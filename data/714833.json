@@ -1,0 +1,75 @@
+{
+  "subjectId": 714833,
+  "trackCredits": {
+    "1.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84092",
+            "text": "AIKA"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Jayiei"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "mahziel"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:92161",
+          "text": "RuuChan"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:89948",
+          "text": "nekory"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "vvi"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：RuuChan\n作曲：AIKA(1)、Jayiei(2)、mahziel(3)\n插图：nekory\n设计：vvi"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-21T16:55:44.636Z"
+  }
+}
