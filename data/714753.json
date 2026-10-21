@@ -6,12 +6,12 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:34064",
               "text": "Srav3R"
             },
             " vs ",
             {
-              "ref": null,
+              "ref": "p:36947",
               "text": "Getty"
             }
           ]
@@ -23,12 +23,12 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:34064",
               "text": "Srav3R"
             },
             " vs ",
             {
-              "ref": null,
+              "ref": "p:36947",
               "text": "Getty"
             }
           ]
@@ -40,12 +40,12 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:34064",
               "text": "Srav3R"
             },
             " vs ",
             {
-              "ref": null,
+              "ref": "p:36947",
               "text": "Getty"
             }
           ]
@@ -57,15 +57,24 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:34064",
               "text": "Srav3R"
             },
             " vs ",
             {
-              "ref": null,
+              "ref": "p:36947",
               "text": "Getty"
             }
           ]
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7750",
+            "text": "DJ Noriken"
+          }
         }
       ]
     },
@@ -74,15 +83,24 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:34064",
               "text": "Srav3R"
             },
             " vs ",
             {
-              "ref": null,
+              "ref": "p:36947",
               "text": "Getty"
             }
           ]
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7662",
+            "text": "aran"
+          }
         }
       ]
     },
@@ -91,12 +109,12 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:34064",
               "text": "Srav3R"
             },
             " & ",
             {
-              "ref": null,
+              "ref": "p:36947",
               "text": "Getty"
             }
           ]
@@ -108,12 +126,12 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:34064",
               "text": "Srav3R"
             },
             " & ",
             {
-              "ref": null,
+              "ref": "p:36947",
               "text": "Getty"
             }
           ]
@@ -125,12 +143,12 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:34064",
               "text": "Srav3R"
             },
             " & ",
             {
-              "ref": null,
+              "ref": "p:36947",
               "text": "Getty"
             }
           ]
@@ -142,22 +160,22 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:34064",
               "text": "Srav3R"
             },
             " & ",
             {
-              "ref": null,
+              "ref": "p:36947",
               "text": "Getty"
             },
             " & ",
             {
-              "ref": null,
+              "ref": "p:36776",
               "text": "KO3"
             },
             " & ",
             {
-              "ref": null,
+              "ref": "p:47424",
               "text": "Relect"
             }
           ]
@@ -169,17 +187,17 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:34064",
               "text": "Srav3R"
             },
             " & ",
             {
-              "ref": null,
+              "ref": "p:36947",
               "text": "Getty"
             },
             " & ",
             {
-              "ref": null,
+              "ref": "p:7750",
               "text": "DJ Noriken"
             }
           ]
@@ -192,18 +210,18 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:7218",
           "text": "HARDCORE TANO*C"
         }
       }
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：Srav3R vs Getty(1,2,8-10)、Srav3R & Getty(3,4,6)、Srav3R & Getty & KO3 & Relect(5)、Srav3R & Getty & DJ Noriken(7)\n厂牌：HARDCORE TANO*C"
+    "editor": "艺术家：Srav3R vs Getty(1,2,8-10)、Srav3R & Getty(3,4,6)、Srav3R & Getty & KO3 & Relect(5)、Srav3R & Getty & DJ Noriken(7)\n编曲：DJ Noriken(9)、aran(10)\n厂牌：HARDCORE TANO*C"
   },
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-21T11:45:19.287Z"
+    "submittedAt": "2026-10-21T11:45:44.947Z"
   }
 }
