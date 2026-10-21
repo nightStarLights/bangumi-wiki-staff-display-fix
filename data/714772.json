@@ -6,7 +6,7 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:71409",
               "text": "RIZARDI"
             },
             " feat. ",
@@ -71,12 +71,12 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:46570",
               "text": "QURELESS"
             },
             " & ",
             {
-              "ref": null,
+              "ref": "p:71409",
               "text": "RIZARDI"
             }
           ]
@@ -102,12 +102,12 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:77638",
               "text": "X14N"
             },
             " & ",
             {
-              "ref": null,
+              "ref": "p:71409",
               "text": "RIZARDI"
             }
           ]
@@ -133,12 +133,12 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:77638",
               "text": "X14N"
             },
             " & ",
             {
-              "ref": null,
+              "ref": "p:71409",
               "text": "RIZARDI"
             }
           ]
@@ -148,7 +148,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:91891",
             "text": "YOFUKASHi Sound Team"
           }
         }
@@ -159,7 +159,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:82568",
             "text": "Myx4"
           }
         },
@@ -173,12 +173,12 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:69716",
               "text": "GoldenEggs"
             },
             " & ",
             {
-              "ref": null,
+              "ref": "p:71409",
               "text": "RIZARDI"
             }
           ]
@@ -190,7 +190,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:71409",
             "text": "RIZARDI"
           }
         }
@@ -199,7 +199,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:82119",
             "text": "Ko-Shan"
           }
         }
@@ -220,7 +220,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:80608",
           "text": "Gemeinschaft of Hardcore"
         }
       }
@@ -232,6 +232,6 @@
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-21T12:31:19.752Z"
+    "submittedAt": "2026-10-21T12:31:37.223Z"
   }
 }
