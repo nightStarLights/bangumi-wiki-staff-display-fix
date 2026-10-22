@@ -1,0 +1,183 @@
+{
+  "subjectId": 489819,
+  "trackCredits": {
+    "1.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69115",
+            "text": "Fujiyori"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69115",
+            "text": "Fujiyori"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "きゅいすた"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:63008",
+            "text": "ゆゆ"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91850",
+            "text": "*Yuu"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91850",
+            "text": "*Yuu"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "きゅいすた"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "x-x (byby)"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "x-x (byby)"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "きゅいすた"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Tokunostar"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Tokunostar"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "きゅいすた"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69120",
+          "text": "Smol Mochi"
+        }
+      }
+    ],
+    "声乐": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:65215",
+          "text": "入夏えみりー"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69117",
+          "text": "まより"
+        }
+      }
+    ],
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:105099",
+          "text": "きゅいきゅいすたー"
+        }
+      }
+    ],
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69116",
+          "text": "夏野"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：きゅいきゅいすたー\n作词：きゅいすた(1-4)\n作曲：Fujiyori(1)、*Yuu(2)、x-x (byby)(3)、Tokunostar(4)\n编曲：Fujiyori(1)、*Yuu(2)、x-x (byby)(3)、Tokunostar(4)\n声乐：入夏えみりー、まより\n混音：夏野\n母带制作：ゆゆ (遊遊)(1)\n插图：Smol Mochi"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-22T17:22:01.638Z"
+  }
+}
