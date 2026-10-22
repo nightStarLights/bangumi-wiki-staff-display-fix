@@ -1,0 +1,140 @@
+{
+  "subjectId": 715212,
+  "trackCredits": {
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:77508",
+            "text": "湯煎白雪"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:77508",
+            "text": "湯煎白雪"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:77508",
+            "text": "湯煎白雪"
+          }
+        }
+      ]
+    },
+    "1.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82592",
+            "text": "NEO-Kaishin"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82592",
+            "text": "NEO-Kaishin"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "TAKI"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "TAKI"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ほいっぷ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ほいっぷ"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:82589",
+          "text": "泡沫"
+        }
+      }
+    ],
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:82589",
+          "text": "泡沫"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "むゆるん"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:82590",
+          "text": "momo3ilk"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：泡沫\n艺术家：泡沫\n作词：湯煎白雪(3)\n作曲：NEO-Kaishin(1)、TAKI(2)、湯煎白雪(3)、ほいっぷ(4)\n编曲：NEO-Kaishin(1)、TAKI(2)、湯煎白雪(3)、ほいっぷ(4)\n母带制作：むゆるん\n插图：momo3ilk"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-22T18:20:54.100Z"
+  }
+}
