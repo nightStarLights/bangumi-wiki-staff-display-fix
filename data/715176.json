@@ -1,0 +1,161 @@
+{
+  "subjectId": 715176,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69133",
+            "text": "Pernelle"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:40140",
+            "text": "棗いつき"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65399",
+            "text": "るる"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Risa Yuzuki"
+            },
+            " (",
+            {
+              "ref": "p:25781",
+              "text": "柚木梨沙"
+            },
+            ")"
+          ]
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:10872",
+          "text": "satella"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:10872",
+          "text": "satella"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:10872",
+          "text": "satella"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:7662",
+          "text": "aran"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "魔界の住民"
+          },
+          " (",
+          {
+            "ref": "p:38832",
+            "text": "Seventhrun"
+          },
+          ")"
+        ]
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69041",
+          "text": "hinayuri"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Unitone"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "菅原ヒロト"
+        }
+      },
+      {
+        "parts": [
+          {
+            "ref": "p:10322",
+            "text": "lawy"
+          },
+          " (Web)"
+        ]
+      },
+      {
+        "parts": [
+          {
+            "ref": "p:10322",
+            "text": "lawy"
+          },
+          " (PV)"
+        ]
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：satella\n艺术家：Pernelle(1)、棗いつき(2)、るる(3)、Risa Yuzuki (柚木梨沙)(5)\n作曲：satella\n编曲：satella\n母带制作：aran\n插图：魔界の住民 (Seventhrun)、hinayuri\n厂牌：Unitone\n设计：菅原ヒロト\n设计-Web：lawy\n设计-PV：lawy"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-22T15:03:02.023Z"
+  }
+}
