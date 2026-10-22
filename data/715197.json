@@ -1,0 +1,199 @@
+{
+  "subjectId": 715197,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:105099",
+            "text": "きゅいきゅいすたー"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73349",
+            "text": "R1cefarm"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73349",
+            "text": "R1cefarm"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "×-×"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "byby"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "×-×"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "byby"
+            },
+            ")"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "×-×"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "byby"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69117",
+            "text": "まより"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66190",
+            "text": "Ray_Oh"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66190",
+            "text": "Ray_Oh"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65215",
+            "text": "入夏えみりー"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65215",
+            "text": "入夏えみりー"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84546",
+            "text": "ふじそば"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84546",
+            "text": "ふじそば"
+          }
+        }
+      ],
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69117",
+            "text": "まより"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "きゅいきゅいすたー"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "あでりーぬ"
+        }
+      }
+    ],
+    "design": [
+      {
+        "parts": [
+          {
+            "ref": "p:69120",
+            "text": "Smol Mochi"
+          },
+          " (Logo)"
+        ]
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：きゅいきゅいすたー\n作词：きゅいきゅいすたー(1)、×-×(byby)(2)、まより(3)、入夏えみりー(4)\n作曲：R1cefarm(1)、×-×(byby)(2)、Ray_Oh(3)、ふじそば(4)\n编曲：R1cefarm(1)、×-×(byby)(2)、Ray_Oh(3)、ふじそば(4)\n声乐：入夏えみりー(3)、まより(4)\n插图：あでりーぬ\n设计-Logo：Smol Mochi"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-22T17:18:20.333Z"
+  }
+}
