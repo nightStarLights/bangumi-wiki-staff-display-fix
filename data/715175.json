@@ -1,0 +1,397 @@
+{
+  "subjectId": 715175,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7253",
+            "text": "ななひら"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:28294",
+            "text": "ケリー"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:78907",
+            "text": "LiCu"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:78907",
+            "text": "LiCu"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "近藤圭司"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:78907",
+            "text": "LiCu"
+          },
+          "inst": "Violin"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:78907",
+            "text": "LiCu"
+          },
+          "inst": "Viola"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:78907",
+            "text": "LiCu"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:78907",
+            "text": "LiCu"
+          },
+          "inst": "All Other Instruments"
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "近藤圭司"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "サインサウンド中野坂下スタジオ"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ナツメイツキ"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:78907",
+            "text": "LiCu"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:78907",
+            "text": "LiCu"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:78907",
+            "text": "LiCu"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:78907",
+            "text": "LiCu"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:78907",
+            "text": "LiCu"
+          },
+          "inst": "All Other Instruments"
+        }
+      ]
+    },
+    "1.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:78907",
+            "text": "LiCu"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Tateshi Starwalker"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:78907",
+            "text": "LiCu"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Tateshi Starwalker"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Tateshi Starwalker"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:78907",
+            "text": "LiCu"
+          },
+          "inst": "Violin"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Tateshi Starwalker"
+          },
+          "inst": "All Other Instruments"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "津村友華"
+          },
+          "inst": "Piano"
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Tateshi Starwalker"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "林製作所"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Tateshi Starwalker"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Tateshi Starwalker"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:78907",
+            "text": "LiCu"
+          },
+          "inst": "Violin"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:78907",
+            "text": "LiCu"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Tateshi Starwalker"
+          },
+          "inst": "All Other Instruments"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "津村友華"
+          },
+          "inst": "Piano"
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Rintaro Nakahodo"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "卯月アキ"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Fratino"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "浅谷"
+        }
+      },
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "かくり"
+          },
+          " (CD Design)"
+        ]
+      }
+    ],
+    "custom-Scenario": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Rintaro Nakahodo"
+        }
+      }
+    ],
+    "custom-Comic": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "蓖楼イチ"
+        }
+      }
+    ],
+    "custom-Video": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "浅谷"
+        }
+      }
+    ],
+    "custom-XFD Video": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:78907",
+          "text": "LiCu"
+        }
+      }
+    ],
+    "custom-Production Coordinator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Kkyo"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：Rintaro Nakahodo\n艺术家：ななひら(1)、ナツメイツキ(3)\n作词：ケリー(1)、LiCu(3)\n作曲：LiCu(1-3)、Tateshi Starwalker(2,4)\n编曲：LiCu(1-3)、Tateshi Starwalker(2,4)\n混音：近藤圭司(1)、Tateshi Starwalker(2)\n插图：卯月アキ\n厂牌：Fratino\n设计：浅谷\ncustom-Scenario：Rintaro Nakahodo\ncustom-Comic：蓖楼イチ\ncustom-Video：浅谷\n设计-CD Design：かくり\ncustom-XFD Video：LiCu\ncustom-Production Coordinator：Kkyo\n乐器-Violin：LiCu(1,2,4)\n乐器-Viola：LiCu(1)\n乐器-Guitar：LiCu(1,3,4)\n乐器-All Other Instruments：LiCu(1,3)、Tateshi Starwalker(2,4)\n录音：近藤圭司(1)、サインサウンド中野坂下スタジオ(1)、Tateshi Starwalker(2)、林製作所(2)\n乐器-Piano：津村友華(2,4)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-22T14:51:22.237Z"
+  }
+}
