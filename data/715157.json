@@ -1,0 +1,55 @@
+{
+  "subjectId": 715157,
+  "trackCredits": {
+    "1.6": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ein"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ドラキーちゃん"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "monof"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "もちもちハウス"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：monof\n作曲：Ein(6)、ドラキーちゃん(9)\n厂牌：もちもちハウス"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-22T14:07:34.784Z"
+  }
+}
