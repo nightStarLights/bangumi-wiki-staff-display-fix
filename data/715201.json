@@ -1,0 +1,111 @@
+{
+  "subjectId": 715201,
+  "trackCredits": {
+    "1.5": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68679",
+            "text": "勿忘うた"
+          }
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68679",
+            "text": "勿忘うた"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "花響琴"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:47400",
+          "text": "Risen"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:47400",
+          "text": "Risen"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:47400",
+          "text": "Risen"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:47400",
+          "text": "Risen"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:67858",
+          "text": "コウ0000"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "夢想茶館"
+        }
+      }
+    ],
+    "design": [
+      {
+        "parts": [
+          {
+            "ref": "p:47400",
+            "text": "Risen"
+          },
+          " (Package Design)"
+        ]
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：Risen\n作词：勿忘うた(5)\n作曲：Risen\n编曲：Risen\n母带制作：Risen\n插图：コウ0000\n厂牌：夢想茶館\n客串：勿忘うた(5)、花響琴(10)\n设计-Package Design：Risen"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-22T17:34:37.414Z"
+  }
+}
