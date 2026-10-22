@@ -1,0 +1,97 @@
+{
+  "subjectId": 715160,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84055",
+            "text": "国士無双"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65556",
+            "text": "KBSNK"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55164",
+            "text": "icesawder"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84351",
+            "text": "hirihiri"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65821",
+            "text": "yuigot"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:71276",
+          "text": "LanPage"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "パンチ"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "somunia project"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：LanPage\n艺术家：国士無双(1)、KBSNK(2)、icesawder(3)、hirihiri(4)、yuigot(5)\n插图：パンチ\n厂牌：somunia project"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-22T14:13:59.849Z"
+  }
+}
