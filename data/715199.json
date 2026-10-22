@@ -1,0 +1,82 @@
+{
+  "subjectId": 715199,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Murase Kanji"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Murase Kanji"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Murase Kanji"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ゆきのそら"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ゆきのそら"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ゆきのそら"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:68938",
+          "text": "めぐ"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：めぐ\n作词：Murase Kanji(1)、ゆきのそら(2)\n作曲：Murase Kanji(1)、ゆきのそら(2)\n编曲：Murase Kanji(1)、ゆきのそら(2)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-22T17:25:44.124Z"
+  }
+}
