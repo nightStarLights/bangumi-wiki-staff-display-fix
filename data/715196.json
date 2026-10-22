@@ -1,0 +1,82 @@
+{
+  "subjectId": 715196,
+  "trackCredits": {
+    "1.1": {
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69117",
+            "text": "まより"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "vocal": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65215",
+            "text": "入夏えみりー"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "きゅいきゅいすたー"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:91489",
+          "text": "T-J"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:91489",
+          "text": "T-J"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "みをい"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69120",
+          "text": "Smol Mochi"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：きゅいきゅいすたー\n作曲：T-J\n编曲：T-J\n声乐：まより(1)、入夏えみりー(2)\n插图：みをい\n设计：Smol Mochi"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-22T17:13:51.312Z"
+  }
+}
