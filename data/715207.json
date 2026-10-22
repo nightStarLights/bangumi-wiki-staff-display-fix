@@ -1,0 +1,247 @@
+{
+  "subjectId": 715207,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "TAKU1175"
+            },
+            " (",
+            {
+              "ref": "p:29681",
+              "text": "山口たこ"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "TAKU1175"
+            },
+            " (",
+            {
+              "ref": "p:29681",
+              "text": "山口たこ"
+            },
+            ")"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "TAKU1175"
+            },
+            " (",
+            {
+              "ref": "p:29681",
+              "text": "山口たこ"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72362",
+            "text": "天海ちはま"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72362",
+            "text": "天海ちはま"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72362",
+            "text": "天海ちはま"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "ゆーじ"
+            },
+            " (",
+            {
+              "ref": "p:67614",
+              "text": "吉澤ゆーじ"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "ゆーじ"
+            },
+            " (",
+            {
+              "ref": "p:67614",
+              "text": "吉澤ゆーじ"
+            },
+            ")"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "ゆーじ"
+            },
+            " (",
+            {
+              "ref": "p:67614",
+              "text": "吉澤ゆーじ"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ms."
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ms."
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ms."
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:76983",
+            "text": "駄々子"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69497",
+            "text": "TAKIO"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69497",
+            "text": "TAKIO"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:76983",
+          "text": "駄々子"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:82105",
+          "text": "Ino"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "黒鉛"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "おばけの見る夢"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "yoshimo"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：駄々子\n作词：TAKU1175 (山口たこ)(1)、天海ちはま(2)、ゆーじ (吉澤ゆーじ)(3)、Ms.(4)、駄々子(5)\n作曲：TAKU1175 (山口たこ)(1)、天海ちはま(2)、ゆーじ (吉澤ゆーじ)(3)、Ms.(4)、TAKIO(5)\n编曲：TAKU1175 (山口たこ)(1)、天海ちはま(2)、ゆーじ (吉澤ゆーじ)(3)、Ms.(4)、TAKIO(5)\n母带制作：Ino\n插图：黒鉛\n厂牌：おばけの見る夢\n设计：yoshimo"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-22T17:49:17.063Z"
+  }
+}
