@@ -1,0 +1,146 @@
+{
+  "subjectId": 715210,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25690",
+            "text": "ちょこ"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:33595",
+            "text": "すずしろ"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65740",
+            "text": "桃寝ちのい"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:35279",
+            "text": "鳴紗"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47721",
+            "text": "EmoCosine"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9411",
+            "text": "U-ske"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:42190",
+            "text": "Kijibato"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "namigroove"
+            },
+            " (",
+            {
+              "ref": "p:65618",
+              "text": "なみぐる"
+            },
+            ")"
+          ]
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:25689",
+          "text": "立秋"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:25689",
+          "text": "立秋"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:25689",
+          "text": "立秋"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:25689",
+          "text": "立秋"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：立秋\n艺术家：ちょこ(1)、すずしろ(2)、桃寝ちのい(3)、鳴紗(4)\n作曲：立秋\n编曲：立秋、EmoCosine(5)、U-ske(6)、Kijibato(7)、namigroove (なみぐる)(8)\n母带制作：立秋"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-22T18:10:09.716Z"
+  }
+}
