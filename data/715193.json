@@ -1,0 +1,111 @@
+{
+  "subjectId": 715193,
+  "trackCredits": {
+    "1.2": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:12441",
+            "text": "effe"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "想起"
+          }
+        }
+      ]
+    },
+    "1.1": {
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "想起"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "想起"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:91753",
+          "text": "テカゼ"
+        }
+      }
+    ],
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:91754",
+          "text": "松浦眞那"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:91754",
+          "text": "松浦眞那"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:91754",
+          "text": "松浦眞那"
+        }
+      }
+    ],
+    "vocal": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:91755",
+          "text": "Rano"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ほそい"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：テカゼ\n作词：松浦眞那\n作曲：松浦眞那\n编曲：松浦眞那、effe(2)\n声乐：Rano\n混音：想起(1,2,4)\n设计：ほそい"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-22T16:47:10.371Z"
+  }
+}
