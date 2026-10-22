@@ -127,14 +127,23 @@
           "text": "momo3ilk"
         }
       }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ぎゃるろいど"
+        }
+      }
     ]
   },
   "rawPatches": {
-    "editor": "制作人：泡沫\n艺术家：泡沫\n作词：湯煎白雪(3)\n作曲：NEO-Kaishin(1)、TAKI(2)、湯煎白雪(3)、ほいっぷ(4)\n编曲：NEO-Kaishin(1)、TAKI(2)、湯煎白雪(3)、ほいっぷ(4)\n母带制作：むゆるん\n插图：momo3ilk"
+    "editor": "制作人：泡沫\n艺术家：泡沫\n作词：湯煎白雪(3)\n作曲：NEO-Kaishin(1)、TAKI(2)、湯煎白雪(3)、ほいっぷ(4)\n编曲：NEO-Kaishin(1)、TAKI(2)、湯煎白雪(3)、ほいっぷ(4)\n母带制作：むゆるん\n插图：momo3ilk\nlabel: ぎゃるろいど"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-22T18:20:54.100Z"
+    "submittedAt": "2026-10-22T18:21:05.040Z"
   }
 }
