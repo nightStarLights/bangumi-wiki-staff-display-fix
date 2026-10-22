@@ -1,0 +1,93 @@
+{
+  "subjectId": 715203,
+  "trackCredits": {
+    "1.1": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "うっちー"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.3": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "うっちー"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:68162",
+          "text": "フーリンキャットマーク"
+        }
+      }
+    ],
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:68163",
+          "text": "谷高マーク"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:68163",
+          "text": "谷高マーク"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:68163",
+          "text": "谷高マーク"
+        }
+      }
+    ],
+    "vocal": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:35279",
+          "text": "鳴紗"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:10725",
+          "text": "国道12号"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：フーリンキャットマーク\n作词：谷高マーク\n作曲：谷高マーク\n编曲：谷高マーク\n声乐：鳴紗\n插图：国道12号\n乐器-Guitar：うっちー(1,3)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-22T17:39:11.266Z"
+  }
+}
