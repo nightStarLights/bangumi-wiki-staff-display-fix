@@ -56,23 +56,14 @@
           "text": "Saidera Mastering & Recording (Mastered at)"
         }
       }
-    ],
-    "label": [
-      {
-        "type": "person",
-        "person": {
-          "ref": null,
-          "text": "pasmophobia"
-        }
-      }
     ]
   },
   "rawPatches": {
-    "editor": "制作人：pasmophobia\n作曲：pasmophobia\n编曲：pasmophobia、Yazavva(6)\n母带制作：Rei Taguchi\n厂牌：pasmophobia\n母带制作-Mastered at：《Saidera Mastering & Recording》"
+    "editor": "制作人：pasmophobia\n作曲：pasmophobia\n编曲：pasmophobia、Yazavva(6)\n母带制作：Rei Taguchi\n\n母带制作-Mastered at：《Saidera Mastering & Recording》"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-22T18:01:40.256Z"
+    "submittedAt": "2026-10-22T18:02:00.075Z"
   }
 }
