@@ -166,7 +166,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:105146",
             "text": "Tateshi Starwalker"
           }
         }
@@ -182,7 +182,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:105146",
             "text": "Tateshi Starwalker"
           }
         }
@@ -191,7 +191,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:105146",
             "text": "Tateshi Starwalker"
           }
         }
@@ -208,7 +208,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:105146",
             "text": "Tateshi Starwalker"
           },
           "inst": "All Other Instruments"
@@ -226,7 +226,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:105146",
             "text": "Tateshi Starwalker"
           }
         },
@@ -244,7 +244,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:105146",
             "text": "Tateshi Starwalker"
           }
         }
@@ -253,7 +253,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:105146",
             "text": "Tateshi Starwalker"
           }
         }
@@ -278,7 +278,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:105146",
             "text": "Tateshi Starwalker"
           },
           "inst": "All Other Instruments"
@@ -317,7 +317,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:105092",
           "text": "Fratino"
         }
       }
@@ -392,6 +392,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-22T14:51:22.237Z"
+    "submittedAt": "2026-10-23T18:43:04.193Z"
   }
 }
