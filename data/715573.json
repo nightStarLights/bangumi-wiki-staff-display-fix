@@ -1,0 +1,116 @@
+{
+  "subjectId": 715573,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "真白彩"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "なると"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "真白彩"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ニッキー𝕏"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ニッキー𝕏"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "なると"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ニッキー𝕏"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "ニッキー𝕏"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "なると"
+          },
+          "inst": "Keyboard"
+        }
+      ],
+      "custom-Programming": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "なると"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "真白彩"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：真白彩\n作词：真白彩(1,2)\n作曲：なると(1)、ニッキー𝕏(2)\n编曲：ニッキー𝕏(2)、なると(2)\n混音：ニッキー𝕏(2)\n乐器-Guitar：ニッキー𝕏(2)\ncustom-Programming：なると(2)\n乐器-Keyboard：なると(2)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-23T17:31:34.775Z"
+  }
+}
