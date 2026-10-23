@@ -42,7 +42,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:105145",
             "text": "symny"
           },
           "inst": "ギター"
@@ -331,6 +331,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-03T13:10:33.092Z"
+    "submittedAt": "2026-10-23T18:00:19.141Z"
   }
 }
