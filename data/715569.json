@@ -1,0 +1,62 @@
+{
+  "subjectId": 715569,
+  "trackCredits": {
+    "1.6": {
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81091",
+            "text": "YAMAKA"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "SW-SN"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "SW-SN"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "SW-SN"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Blue_Agate"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：SW-SN\n作曲：SW-SN\n编曲：SW-SN\n厂牌：Blue_Agate\n客串：YAMAKA(6)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-23T17:09:09.630Z"
+  }
+}
