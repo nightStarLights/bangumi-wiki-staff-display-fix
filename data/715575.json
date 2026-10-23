@@ -1,0 +1,146 @@
+{
+  "subjectId": 715575,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81489",
+            "text": "転寝こより"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69493",
+            "text": "kohai"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65036",
+            "text": "天秤ひなみ"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65036",
+            "text": "天秤ひなみ"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65762",
+            "text": "小鳥遊めぐみ"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "桑原渉"
+          },
+          "inst": "Flugel Horn"
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "アフリカンサマータイム"
+          },
+          " (",
+          {
+            "ref": "p:91854",
+            "text": "AFRICAN SUMMER TIME"
+          },
+          ")"
+        ]
+      }
+    ],
+    "composer": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "アフリカンサマータイム"
+          },
+          " (",
+          {
+            "ref": "p:91854",
+            "text": "AFRICAN SUMMER TIME"
+          },
+          ")"
+        ]
+      }
+    ],
+    "arranger": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "アフリカンサマータイム"
+          },
+          " (",
+          {
+            "ref": "p:91854",
+            "text": "AFRICAN SUMMER TIME"
+          },
+          ")"
+        ]
+      }
+    ],
+    "illustrator": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "アフリカンサマータイム"
+          },
+          " (",
+          {
+            "ref": "p:91854",
+            "text": "AFRICAN SUMMER TIME"
+          },
+          ")"
+        ]
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：アフリカンサマータイム (AFRICAN SUMMER TIME)\n艺术家：転寝こより(1)、kohai(2)、天秤ひなみ(3,5)、小鳥遊めぐみ(6)\n作曲：アフリカンサマータイム (AFRICAN SUMMER TIME)\n编曲：アフリカンサマータイム (AFRICAN SUMMER TIME)\n插图：アフリカンサマータイム (AFRICAN SUMMER TIME)\n乐器-Flugel Horn：桑原渉(4)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-23T17:35:04.341Z"
+  }
+}
