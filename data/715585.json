@@ -1,0 +1,107 @@
+{
+  "subjectId": 715585,
+  "trackCredits": {
+    "1.7": {
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68770",
+            "text": "むﾄ"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:92310",
+          "text": "HaLuna"
+        }
+      }
+    ],
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:92310",
+          "text": "HaLuna"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:92310",
+          "text": "HaLuna"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:92310",
+          "text": "HaLuna"
+        }
+      }
+    ],
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:92310",
+          "text": "HaLuna"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:92310",
+          "text": "HaLuna"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Nyx_E"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "purple of midnight"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:92310",
+          "text": "HaLuna"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：HaLuna\n作词：HaLuna\n作曲：HaLuna\n编曲：HaLuna\n混音：HaLuna\n母带制作：HaLuna\n插图：Nyx_E\n厂牌：purple of midnight\n客串：むﾄ(7)\n设计：HaLuna"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-23T18:29:24.413Z"
+  }
+}
