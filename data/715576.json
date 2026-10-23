@@ -1,0 +1,154 @@
+{
+  "subjectId": 715576,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Sunajiro"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Sunajiro"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Sunajiro"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Sunajiro"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Sunajiro"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Sunajiro"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Sunajiro Blueplanet"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "composer": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "すなじろ"
+          },
+          " (",
+          {
+            "ref": null,
+            "text": "Sunajiro"
+          },
+          ")"
+        ]
+      }
+    ],
+    "arranger": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "すなじろ"
+          },
+          " (",
+          {
+            "ref": null,
+            "text": "Sunajiro"
+          },
+          ")"
+        ]
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ししとう"
+        }
+      }
+    ],
+    "design": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "すなじろ"
+          },
+          " (",
+          {
+            "ref": null,
+            "text": "Sunajiro"
+          },
+          ")"
+        ]
+      },
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "ししとう"
+          },
+          " (Logo)"
+        ]
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：Sunajiro(1-6)、Sunajiro Blueplanet(6)\n作曲：すなじろ (Sunajiro)\n编曲：すなじろ (Sunajiro)\n插图：ししとう\n设计：すなじろ (Sunajiro)\n设计-Logo：ししとう"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-23T17:38:37.980Z"
+  }
+}
