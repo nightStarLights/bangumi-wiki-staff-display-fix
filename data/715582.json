@@ -148,7 +148,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:65540",
           "text": "Cosmo Burst"
         }
       }
@@ -157,7 +157,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:103912",
           "text": "はやうお"
         }
       }
@@ -169,6 +169,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-23T18:10:24.150Z"
+    "submittedAt": "2026-10-23T18:10:55.698Z"
   }
 }
