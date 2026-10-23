@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:69590",
             "text": "Sunajiro"
           }
         }
@@ -17,7 +17,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:69590",
             "text": "Sunajiro"
           }
         }
@@ -28,7 +28,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:69590",
             "text": "Sunajiro"
           }
         }
@@ -39,7 +39,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:69590",
             "text": "Sunajiro"
           }
         }
@@ -50,7 +50,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:69590",
             "text": "Sunajiro"
           }
         }
@@ -61,15 +61,19 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:69590",
             "text": "Sunajiro"
           }
-        },
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
         {
           "type": "person",
           "person": {
-            "ref": null,
-            "text": "Sunajiro Blueplanet"
+            "ref": "p:69590",
+            "text": "Sunajiro"
           }
         }
       ]
@@ -144,11 +148,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：Sunajiro(1-6)、Sunajiro Blueplanet(6)\n作曲：すなじろ (Sunajiro)\n编曲：すなじろ (Sunajiro)\n插图：ししとう\n设计：すなじろ (Sunajiro)\n设计-Logo：ししとう"
+    "editor": "艺术家：Sunajiro(1-7)\n作曲：すなじろ (Sunajiro)\n编曲：すなじろ (Sunajiro)\n插图：ししとう\n设计：すなじろ (Sunajiro)\n设计-Logo：ししとう"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-23T17:38:37.980Z"
+    "submittedAt": "2026-10-23T17:39:24.217Z"
   }
 }
