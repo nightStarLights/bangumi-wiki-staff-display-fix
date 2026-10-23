@@ -1,0 +1,195 @@
+{
+  "subjectId": 715568,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81531",
+            "text": "綿菓子かんろ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81531",
+            "text": "綿菓子かんろ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81531",
+            "text": "綿菓子かんろ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:88775",
+            "text": "今野耕輔"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81530",
+            "text": "Talich Helfen"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81530",
+            "text": "Talich Helfen"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81531",
+            "text": "綿菓子かんろ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81531",
+            "text": "綿菓子かんろ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81530",
+            "text": "Talich Helfen"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81530",
+            "text": "Talich Helfen"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "parts": [
+            {
+              "ref": "p:81530",
+              "text": "Talich Helfen"
+            },
+            " (Remastering)"
+          ]
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:81532",
+            "text": "ゐつぺゑ"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "相原一平"
+            },
+            " (",
+            {
+              "ref": "p:81532",
+              "text": "ゐつぺゑ"
+            },
+            ")",
+            " (Guitar)"
+          ]
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:81532",
+            "text": "ゐつぺゑ"
+          },
+          "inst": "Bass"
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "相原一平"
+            },
+            " (",
+            {
+              "ref": "p:81532",
+              "text": "ゐつぺゑ"
+            },
+            ")",
+            " (Bass)"
+          ]
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:81531",
+          "text": "綿菓子かんろ"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "JULLII"
+          },
+          " (Sticker Artworks)"
+        ]
+      }
+    ],
+    "custom-Executive Producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Yoshihiko Kawai"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：綿菓子かんろ\n作词：綿菓子かんろ(1,2)\n作曲：綿菓子かんろ(1,2)\n编曲：綿菓子かんろ(1)、今野耕輔(1)、Talich Helfen(2)\n混音：Talich Helfen(1,2)\n母带制作：Talich Helfen(1)\n插图-Sticker Artworks：JULLII\ncustom-Executive Producer：Yoshihiko Kawai\n母带制作-Remastering：Talich Helfen(2)\n乐器-Guitar：ゐつぺゑ(2)、相原一平 (ゐつぺゑ)(2)\n乐器-Bass：ゐつぺゑ(2)、相原一平 (ゐつぺゑ)(2)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-23T17:01:48.715Z"
+  }
+}
