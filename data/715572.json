@@ -1,0 +1,145 @@
+{
+  "subjectId": 715572,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:65618",
+              "text": "なみぐる"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "ずんだもん"
+            },
+            " & ",
+            {
+              "ref": null,
+              "text": "しぬしぬおじさん"
+            }
+          ]
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69023",
+            "text": "PRIDASK"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "parts": [
+            "uno (RoughSketch)",
+            " feat. ",
+            {
+              "ref": null,
+              "text": "ひやむぎこむぎ。"
+            }
+          ]
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:88268",
+              "text": "Ichii"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "音街ウナ"
+            }
+          ]
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "10den"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:10414",
+              "text": "D.watt"
+            },
+            " feat. ",
+            {
+              "ref": "p:66183",
+              "text": "ChumuNote"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:10414",
+          "text": "D.watt"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:66122",
+          "text": "はちぷよ"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:6398",
+          "text": "IOSYS"
+        }
+      }
+    ],
+    "design": [
+      {
+        "parts": [
+          {
+            "ref": "p:67616",
+            "text": "NC帝國"
+          },
+          " (Package Design)"
+        ]
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：D.watt\n艺术家：なみぐる feat. ずんだもん & しぬしぬおじさん(1)、PRIDASK(2)、《uno (RoughSketch)》 feat. ひやむぎこむぎ。(3)、Ichii feat. 音街ウナ(4)、10den(5)、D.watt feat. ChumuNote(6)\n插图：はちぷよ\n厂牌：IOSYS\n设计-Package Design：NC帝國"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-23T17:24:05.063Z"
+  }
+}
