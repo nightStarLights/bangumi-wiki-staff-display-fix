@@ -42,50 +42,29 @@
     "1.2": {
       "lyricist": [
         {
-          "parts": [
-            {
-              "ref": null,
-              "text": "iroha"
-            },
-            " (",
-            {
-              "ref": null,
-              "text": "sasaki"
-            },
-            ")"
-          ]
+          "type": "person",
+          "person": {
+            "ref": "p:8885",
+            "text": "iroha(sasaki)"
+          }
         }
       ],
       "composer": [
         {
-          "parts": [
-            {
-              "ref": null,
-              "text": "iroha"
-            },
-            " (",
-            {
-              "ref": null,
-              "text": "sasaki"
-            },
-            ")"
-          ]
+          "type": "person",
+          "person": {
+            "ref": "p:8885",
+            "text": "iroha(sasaki)"
+          }
         }
       ],
       "arranger": [
         {
-          "parts": [
-            {
-              "ref": null,
-              "text": "iroha"
-            },
-            " (",
-            {
-              "ref": null,
-              "text": "sasaki"
-            },
-            ")"
-          ]
+          "type": "person",
+          "person": {
+            "ref": "p:8885",
+            "text": "iroha(sasaki)"
+          }
         }
       ]
     },
@@ -145,15 +124,6 @@
             "text": "西島尊大"
           }
         }
-      ],
-      "mixing": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "taiyaki"
-          }
-        }
       ]
     }
   },
@@ -176,20 +146,31 @@
         }
       },
       {
+        "parts": [
+          {
+            "ref": null,
+            "text": "菊月"
+          },
+          " (小册子插图)"
+        ]
+      }
+    ],
+    "design": [
+      {
         "type": "person",
         "person": {
           "ref": null,
-          "text": "菊月"
+          "text": "ヤシロキラ"
         }
       }
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：凪乃ましろ\n插图：えと、菊月\n\n作词：木瀬のん(1)、iroha(sasaki)(2)、kidlit(3)、西島尊大(4)\n作曲：木瀬のん(1)、iroha(sasaki)(2)、m@sumi(3)、西島尊大(4)\n编曲：木瀬のん(1)、iroha(sasaki)(2)、m@sumi(3)、西島尊大(4)\n混音：taiyaki(1,4)"
+    "editor": "艺术家：凪乃ましろ\n作词：木瀬のん(1)、《iroha(sasaki)》(2)、kidlit(3)、西島尊大(4)\n作曲：木瀬のん(1)、《iroha(sasaki)》(2)、m@sumi(3)、西島尊大(4)\n编曲：木瀬のん(1)、《iroha(sasaki)》(2)、m@sumi(3)、西島尊大(4)\n混音：taiyaki(1)\n插图：えと\n设计：ヤシロキラ\n插图-小册子插图：菊月"
   },
   "_meta": {
-    "submittedBy": "809907",
+    "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-19T11:34:33.493Z"
+    "submittedAt": "2026-10-23T16:47:31.592Z"
   }
 }
