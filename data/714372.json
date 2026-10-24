@@ -231,14 +231,14 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:104983",
           "text": "y43"
         }
       },
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:104368",
           "text": "ゆーきん"
         }
       }
@@ -259,6 +259,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-24T16:16:47.769Z"
+    "submittedAt": "2026-10-24T16:52:12.826Z"
   }
 }
