@@ -1,0 +1,95 @@
+{
+  "subjectId": 716271,
+  "trackCredits": {
+    "1.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "0555"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "0555"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "0555"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "0555"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47337",
+            "text": "Kita-Kei"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47337",
+            "text": "Kita-Kei"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "0555"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:74090",
+          "text": "RockRiverRecords"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：0555\n作曲：0555(1,3)\n编曲：0555(1,3)、Kita-Kei(2,4)\n厂牌：RockRiverRecords"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-25T15:05:31.642Z"
+  }
+}
