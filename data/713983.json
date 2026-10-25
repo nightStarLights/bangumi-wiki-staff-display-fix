@@ -83,7 +83,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:73352",
             "text": "inaharu"
           }
         }
@@ -136,24 +136,17 @@
         "type": "person",
         "person": {
           "ref": null,
-          "text": "Signal"
-        }
-      },
-      {
-        "type": "person",
-        "person": {
-          "ref": null,
-          "text": "200X"
+          "text": "Signal:200X"
         }
       }
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：Yakumo(1-4,7)、Fortune Echo(5)、金子(6)、inaharu(8)、DJ Can't rip(9)、Tsushimada(10)\n编曲：Yakumo(10)\n插图：フリンマッハ\n厂牌：Signal、200X"
+    "editor": "艺术家：Yakumo(1-4,7)、Fortune Echo(5)、金子(6)、inaharu(8)、DJ Can't rip(9)、Tsushimada(10)\n编曲：Yakumo(10)\n插图：フリンマッハ\n厂牌：《Signal:200X》"
   },
   "_meta": {
-    "submittedBy": "459115",
+    "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-19T16:40:25.625Z"
+    "submittedAt": "2026-10-25T10:03:38.768Z"
   }
 }
