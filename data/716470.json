@@ -1,0 +1,141 @@
+{
+  "subjectId": 716470,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66086",
+            "text": "el ma Riu"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:66086",
+            "text": "el ma Riu"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "陽蒼空"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "陽蒼空"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73094",
+            "text": "ぎゅうたろす"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73094",
+            "text": "ぎゅうたろす"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69039",
+            "text": "エルム凪"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72344",
+            "text": "ザビエル.T"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67035",
+            "text": "たねまき"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:70843",
+          "text": "collt"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:70843",
+          "text": "collt"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Kalpanica"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "作曲：collt\n编曲：collt\n厂牌：Kalpanica\n\n艺术家：el ma Riu(1,2)、陽蒼空(3,11)、ぎゅうたろす(5,8)、エルム凪(6)、ザビエル.T(9)、たねまき(10)"
+  },
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-26T11:21:01.470Z"
+  }
+}
