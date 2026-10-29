@@ -1,0 +1,469 @@
+{
+  "subjectId": 709096,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "parts": [
+            "一ノ瀬梨音(CV:",
+            {
+              "ref": "p:66544",
+              "text": "はらもりよしな"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            "神崎花莉凪(CV:",
+            {
+              "ref": "p:73129",
+              "text": "かうざ"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73132",
+            "text": "蛯名めぐみ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            "神崎花莉凪(CV:",
+            {
+              "ref": "p:73129",
+              "text": "かうざ"
+            },
+            ")"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73131",
+            "text": "中川公輝"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73130",
+            "text": "ぶっさん"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "parts": [
+            "一ノ瀬梨音(CV:",
+            {
+              "ref": "p:66544",
+              "text": "はらもりよしな"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            "宇垣愛琉(CV:",
+            {
+              "ref": "p:68925",
+              "text": "キクチミユキ"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73132",
+            "text": "蛯名めぐみ"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:51901",
+            "text": "内田ましろ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            "宇垣愛琉(CV:",
+            {
+              "ref": "p:68925",
+              "text": "キクチミユキ"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73130",
+            "text": "ぶっさん"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73130",
+            "text": "ぶっさん"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "parts": [
+            "一ノ瀬梨音(CV:",
+            {
+              "ref": "p:66544",
+              "text": "はらもりよしな"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            "手島翠(CV:",
+            {
+              "ref": "p:73128",
+              "text": "nica"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "parts": [
+            "手島翠(CV:",
+            {
+              "ref": "p:73128",
+              "text": "nica"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73127",
+            "text": "meer"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73130",
+            "text": "ぶっさん"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73130",
+            "text": "ぶっさん"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "parts": [
+            "神崎花莉凪(CV:",
+            {
+              "ref": "p:73129",
+              "text": "かうざ"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            "宇垣愛琉(CV:",
+            {
+              "ref": "p:68925",
+              "text": "キクチミユキ"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "parts": [
+            "手島翠(CV:",
+            {
+              "ref": "p:73128",
+              "text": "nica"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73127",
+            "text": "meer"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73130",
+            "text": "ぶっさん"
+          }
+        },
+        {
+          "parts": [
+            "宇垣愛琉(CV:",
+            {
+              "ref": "p:68925",
+              "text": "キクチミユキ"
+            },
+            ")"
+          ]
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "parts": [
+            "神崎花莉凪(CV:",
+            {
+              "ref": "p:73129",
+              "text": "かうざ"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            "手島翠(CV:",
+            {
+              "ref": "p:73128",
+              "text": "nica"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "parts": [
+            "手島翠(CV:",
+            {
+              "ref": "p:73128",
+              "text": "nica"
+            },
+            ")"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:51901",
+            "text": "内田ましろ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            "宇垣愛琉(CV:",
+            {
+              "ref": "p:68925",
+              "text": "キクチミユキ"
+            },
+            ")"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73131",
+            "text": "中川公輝"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73130",
+            "text": "ぶっさん"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "parts": [
+            "手島翠(CV:",
+            {
+              "ref": "p:73128",
+              "text": "nica"
+            },
+            ")"
+          ]
+        },
+        {
+          "parts": [
+            "宇垣愛琉(CV:",
+            {
+              "ref": "p:68925",
+              "text": "キクチミユキ"
+            },
+            ")"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "parts": [
+            "宇垣愛琉(CV:",
+            {
+              "ref": "p:68925",
+              "text": "キクチミユキ"
+            },
+            ")"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            "宇垣愛琉(CV:",
+            {
+              "ref": "p:68925",
+              "text": "キクチミユキ"
+            },
+            ")"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            "宇垣愛琉(CV:",
+            {
+              "ref": "p:68925",
+              "text": "キクチミユキ"
+            },
+            ")"
+          ]
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "vocaledit": [
+      {
+        "parts": [
+          "宇垣愛琉(CV:",
+          {
+            "ref": "p:68925",
+            "text": "キクチミユキ"
+          },
+          ")"
+        ]
+      }
+    ],
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:73131",
+          "text": "中川公輝"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:73131",
+          "text": "中川公輝"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "大槻"
+        }
+      },
+      {
+        "parts": [
+          "宇垣愛琉 (背景)(CV:",
+          {
+            "ref": "p:68925",
+            "text": "キクチミユキ"
+          },
+          ")"
+        ]
+      }
+    ],
+    "design": [
+      {
+        "parts": [
+          {
+            "ref": "p:73127",
+            "text": "meer"
+          },
+          " (Jacket Design)"
+        ]
+      },
+      {
+        "parts": [
+          {
+            "ref": "p:73131",
+            "text": "中川公輝"
+          },
+          " (Jacket Design)"
+        ]
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：一ノ瀬梨音(CV.はらもりよしな)(1,4,6)、神崎花莉凪(CV.かうざ)(1,3,5)、手島翠(CV.nica)(2,5,6)、宇垣愛琉(CV.キクチミユキ)(2-4)\n作词：蛯名めぐみ(1,4)、宇垣愛琉(CV.キクチミユキ)(2)、手島翠(CV.nica)(3,5,6)、内田ましろ(4,5)\n作曲：神崎花莉凪(CV.かうざ)(1)、宇垣愛琉(CV.キクチミユキ)(2,4,5)、meer(3,6)、ぶっさん(4,6)\n编曲：中川公輝(1,5)、ぶっさん(1,3-6)、宇垣愛琉(CV.キクチミユキ)(2,3)\n混音：中川公輝\n母带制作：中川公輝\n插图：大槻\n人声编辑：宇垣愛琉(CV.キクチミユキ)\n设计-Jacket Design：meer、中川公輝\n插图-背景：宇垣愛琉(CV.キクチミユキ)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-29T17:51:10.076Z"
+  }
+}
