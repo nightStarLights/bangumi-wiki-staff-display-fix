@@ -311,12 +311,12 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:8014",
               "text": "kidlit"
             },
             " (",
             {
-              "ref": "p:8014",
+              "ref": null,
               "text": "深水チエ"
             },
             ")"
@@ -327,12 +327,12 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:8014",
               "text": "kidlit"
             },
             " (",
             {
-              "ref": "p:8014",
+              "ref": null,
               "text": "深水チエ"
             },
             ")"
@@ -530,7 +530,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:103960",
           "text": "JULLII"
         }
       }
@@ -557,7 +557,7 @@
       {
         "parts": [
           {
-            "ref": null,
+            "ref": "p:103960",
             "text": "JULLII"
           },
           " (Title Logo)"
@@ -580,6 +580,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-30T17:45:28.546Z"
+    "submittedAt": "2026-10-30T17:46:37.845Z"
   }
 }
