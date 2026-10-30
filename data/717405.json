@@ -42,20 +42,34 @@
       ],
       "lyricist": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:10606",
-            "text": "mo2"
-          }
+          "parts": [
+            {
+              "ref": "p:10606",
+              "text": "mo2"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "釼持昌義"
+            },
+            ")"
+          ]
         }
       ],
       "composer": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:10606",
-            "text": "mo2"
-          }
+          "parts": [
+            {
+              "ref": "p:10606",
+              "text": "mo2"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "釼持昌義"
+            },
+            ")"
+          ]
         }
       ]
     },
@@ -91,29 +105,50 @@
     "1.3": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:7190",
-            "text": "カヒーナ"
-          }
+          "parts": [
+            {
+              "ref": "p:7190",
+              "text": "カヒーナ"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "カヒーナ・ムジカ"
+            },
+            ")"
+          ]
         }
       ],
       "lyricist": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:10606",
-            "text": "mo2"
-          }
+          "parts": [
+            {
+              "ref": "p:10606",
+              "text": "mo2"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "釼持昌義"
+            },
+            ")"
+          ]
         }
       ],
       "composer": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:10606",
-            "text": "mo2"
-          }
+          "parts": [
+            {
+              "ref": "p:10606",
+              "text": "mo2"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "釼持昌義"
+            },
+            ")"
+          ]
         }
       ]
     },
@@ -275,6 +310,24 @@
     }
   },
   "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:5998",
+          "text": "Barbarian On The Groove"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "もりばやしまひる"
+        }
+      }
+    ],
     "custom-艺术指导": [
       {
         "type": "person",
@@ -288,29 +341,11 @@
       {
         "parts": [
           {
-            "ref": "p:18335",
+            "ref": null,
             "text": "AAA"
           },
           " (Cover Design)"
         ]
-      }
-    ],
-    "illustrator": [
-      {
-        "type": "person",
-        "person": {
-          "ref": null,
-          "text": "もりばやしまひる"
-        }
-      }
-    ],
-    "producer": [
-      {
-        "type": "person",
-        "person": {
-          "ref": "p:5998",
-          "text": "Barbarian On The Groove"
-        }
       }
     ],
     "instrument": [
@@ -338,6 +373,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-30T13:16:41.204Z"
+    "submittedAt": "2026-10-30T13:18:31.811Z"
   }
 }
