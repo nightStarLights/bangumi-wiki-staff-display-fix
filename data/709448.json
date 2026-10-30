@@ -1,7 +1,7 @@
 {
   "subjectId": 709448,
   "trackCredits": {
-    "1.2": {
+    "1.1": {
       "artist": [
         {
           "type": "person",
@@ -131,7 +131,7 @@
         }
       ]
     },
-    "1.3": {
+    "1.2": {
       "artist": [
         {
           "type": "person",
@@ -178,7 +178,7 @@
         }
       ]
     },
-    "1.4": {
+    "1.3": {
       "artist": [
         {
           "type": "person",
@@ -288,7 +288,7 @@
         }
       ]
     },
-    "1.5": {
+    "1.4": {
       "artist": [
         {
           "type": "person",
@@ -358,7 +358,7 @@
         }
       ]
     },
-    "1.6": {
+    "1.5": {
       "artist": [
         {
           "type": "person",
@@ -431,7 +431,7 @@
         }
       ]
     },
-    "1.7": {
+    "1.6": {
       "artist": [
         {
           "type": "person",
@@ -513,7 +513,7 @@
         }
       ]
     },
-    "1.1": {
+    "1.0": {
       "composer": [
         {
           "type": "person",
@@ -552,14 +552,34 @@
           "text": "うなみや"
         }
       }
+    ],
+    "design": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "JULLII"
+          },
+          " (Title Logo)"
+        ]
+      },
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "PMIY"
+          },
+          " (Tocal Degign)"
+        ]
+      }
     ]
   },
   "rawPatches": {
-    "editor": "制作人：JULLII\n艺术家：杏庫裡ジュリ(2)、JULLII(2-7)\n作词：JULLII(2-7)\n作曲：Talich Helfen(1,2)、aon(3)、蓮尾理之(4)、kidlit (深水チエ)(5)、JULLII(6)、Senaru(6)、瀬名水紀(7)\n编曲：Talich Helfen(2)、aon(3)、蓮尾理之(4)、kidlit (深水チエ)(5)、Senaru(6)、瀬名水紀(7)\n混音：Talich Helfen(2)、aon(3)、坂知学(4)、伊藤誠悟(5)、BCNO(6)、瀬名水紀(7)\n母带制作：Talich Helfen\n插图：うなみや\n客串：Annabel(4)、ななきなな(5)\n人声编辑：BCNO(7)\n设计-Title Logo：JULLII\n设计-Tocal Degign：PMIY\n乐器-Guitar：ゐつぺゑ(2)、照井順政(4)、Issei Katsunoil(6)\n乐器-Bass：ゐつぺゑ(2)\n乐器-Drums：シュウゴ(2)、樋口幸佑(4)\n乐器-Flute：嶋根颯汰(2)、柴音(7)\n乐器-Saxophone：嶋根颯汰(2)\n乐器-Flugelhorn：藤野拓人(2)\n乐器-Trombone：グリジエ(2)\ncustom-Vocal Recording：藤原暢之(2)\ncustom-Vocal Recording Studio：ブルーマウンテンスタジオ(2)\ncustom-Recording Engineer(Drums)：菅原直人(4)\ncustom-Recording Engineer(Vocals)：坂知学(4)\ncustom-Drums Recording：ORPhEUS RECORDING STUDIOS(4)\ncustom-Vocals Recording：hina studio(4)\ncustom-Movie(Vocaduo)：PMIY(6)\n乐器-Violin：舞弦ウラ(7)\n乐器-Violoncello：Wavfire(7)"
+    "editor": "制作人：JULLII\n艺术家：杏庫裡ジュリ(1)、JULLII(1-6)\n作词：JULLII(1-6)\n作曲：Talich Helfen(0,1)、aon(2)、蓮尾理之(3)、kidlit (深水チエ)(4)、JULLII(5)、Senaru(5)、瀬名水紀(6)\n编曲：Talich Helfen(1)、aon(2)、蓮尾理之(3)、kidlit (深水チエ)(4)、Senaru(5)、瀬名水紀(6)\n混音：Talich Helfen(1)、aon(2)、坂知学(3)、伊藤誠悟(4)、BCNO(5)、瀬名水紀(6)\n母带制作：Talich Helfen\n插图：うなみや\n客串：Annabel(3)、ななきなな(4)\n人声编辑：BCNO(6)\n设计-Title Logo：JULLII\n设计-Tocal Degign：PMIY\n乐器-Guitar：ゐつぺゑ(1)、照井順政(3)、Issei Katsunoil(5)\n乐器-Bass：ゐつぺゑ(1)\n乐器-Drums：シュウゴ(1)、樋口幸佑(3)\n乐器-Flute：嶋根颯汰(1)、柴音(6)\n乐器-Saxophone：嶋根颯汰(1)\n乐器-Flugelhorn：藤野拓人(1)\n乐器-Trombone：グリジエ(1)\ncustom-Vocal Recording：藤原暢之(1)\ncustom-Vocal Recording Studio：ブルーマウンテンスタジオ(1)\ncustom-Recording Engineer(Drums)：菅原直人(3)\ncustom-Recording Engineer(Vocals)：坂知学(3)\ncustom-Drums Recording：ORPhEUS RECORDING STUDIOS(3)\ncustom-Vocals Recording：hina studio(3)\ncustom-Movie(Vocaduo)：PMIY(5)\n乐器-Violin：舞弦ウラ(6)\n乐器-Violoncello：Wavfire(6)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-02T13:08:47.450Z"
+    "submittedAt": "2026-10-30T17:45:28.546Z"
   }
 }
