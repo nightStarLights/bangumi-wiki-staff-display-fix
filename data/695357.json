@@ -1,0 +1,276 @@
+{
+  "subjectId": 695357,
+  "trackCredits": {
+    "1.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91850",
+            "text": "*Yuu"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91850",
+            "text": "*Yuu"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69117",
+            "text": "まより"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69119",
+            "text": "YAMADA"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:32739",
+            "text": "しの"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:32739",
+            "text": "しの"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65419",
+            "text": "id.sh"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:66023",
+            "text": "上杉悟"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69497",
+            "text": "TAKIO"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69497",
+            "text": "TAKIO"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86879",
+            "text": "カシラテ"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84187",
+            "text": "Kumamin"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84187",
+            "text": "Kumamin"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86879",
+            "text": "カシラテ"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:86879",
+            "text": "カシラテ"
+          },
+          "inst": "Bass"
+        }
+      ]
+    },
+    "1.5": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:42103",
+            "text": "Jun Kuroda"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:42103",
+            "text": "Jun Kuroda"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:42103",
+            "text": "Jun Kuroda"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82118",
+            "text": "月城紅葉"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82118",
+            "text": "月城紅葉"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82118",
+            "text": "月城紅葉"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "parts": [
+            {
+              "ref": "p:82118",
+              "text": "月城紅葉"
+            },
+            " & ",
+            {
+              "ref": null,
+              "text": "Kocyamarü"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:82626",
+          "text": "巣鴨れいん"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:82626",
+          "text": "巣鴨れいん"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69120",
+          "text": "Smol Mochi"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:42103",
+          "text": "Jun Kuroda"
+        }
+      }
+    ],
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69117",
+          "text": "まより"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：まより\n作词：まより(1)、id.sh(2)、カシラテ(3,4)、Jun Kuroda(5)、月城紅葉(6)\n作曲：*Yuu(1)、しの (篠原瑞希)(2)、TAKIO(3)、Kumamin(4)、Jun Kuroda(5)、月城紅葉(6)\n编曲：*Yuu(1)、しの (篠原瑞希)(2)、TAKIO(3)、Kumamin(4)、Jun Kuroda(5)、月城紅葉(6)\n混音：YAMADA(1)、月城紅葉 & Kocyamarü(6)\n母带制作：Jun Kuroda\n插图：巣鴨れいん\n设计：巣鴨れいん、Smol Mochi\n乐器-Guitar：上杉悟(2)\n乐器-Bass：カシラテ(4)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-10-31T17:59:19.056Z"
+  }
+}
