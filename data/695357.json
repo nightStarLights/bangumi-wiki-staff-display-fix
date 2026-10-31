@@ -2,6 +2,15 @@
   "subjectId": 695357,
   "trackCredits": {
     "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69117",
+            "text": "まより"
+          }
+        }
+      ],
       "composer": [
         {
           "type": "person",
@@ -17,15 +26,6 @@
           "person": {
             "ref": "p:91850",
             "text": "*Yuu"
-          }
-        }
-      ],
-      "lyricist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:69117",
-            "text": "まより"
           }
         }
       ],
@@ -40,24 +40,6 @@
       ]
     },
     "1.2": {
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:32739",
-            "text": "しの"
-          }
-        }
-      ],
-      "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:32739",
-            "text": "しの"
-          }
-        }
-      ],
       "lyricist": [
         {
           "type": "person",
@@ -65,6 +47,38 @@
             "ref": "p:65419",
             "text": "id.sh"
           }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "しの"
+            },
+            " (",
+            {
+              "ref": "p:32739",
+              "text": "篠原瑞希"
+            },
+            ")"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "しの"
+            },
+            " (",
+            {
+              "ref": "p:32739",
+              "text": "篠原瑞希"
+            },
+            ")"
+          ]
         }
       ],
       "instrument": [
@@ -79,6 +93,15 @@
       ]
     },
     "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86879",
+            "text": "カシラテ"
+          }
+        }
+      ],
       "composer": [
         {
           "type": "person",
@@ -94,20 +117,20 @@
           "person": {
             "ref": "p:69497",
             "text": "TAKIO"
-          }
-        }
-      ],
-      "lyricist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:86879",
-            "text": "カシラテ"
           }
         }
       ]
     },
     "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86879",
+            "text": "カシラテ"
+          }
+        }
+      ],
       "composer": [
         {
           "type": "person",
@@ -123,15 +146,6 @@
           "person": {
             "ref": "p:84187",
             "text": "Kumamin"
-          }
-        }
-      ],
-      "lyricist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:86879",
-            "text": "カシラテ"
           }
         }
       ],
@@ -147,6 +161,15 @@
       ]
     },
     "1.5": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:42103",
+            "text": "Jun Kuroda"
+          }
+        }
+      ],
       "composer": [
         {
           "type": "person",
@@ -157,15 +180,6 @@
         }
       ],
       "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:42103",
-            "text": "Jun Kuroda"
-          }
-        }
-      ],
-      "lyricist": [
         {
           "type": "person",
           "person": {
@@ -176,6 +190,15 @@
       ]
     },
     "1.6": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82118",
+            "text": "月城紅葉"
+          }
+        }
+      ],
       "composer": [
         {
           "type": "person",
@@ -186,15 +209,6 @@
         }
       ],
       "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:82118",
-            "text": "月城紅葉"
-          }
-        }
-      ],
-      "lyricist": [
         {
           "type": "person",
           "person": {
@@ -221,6 +235,24 @@
     }
   },
   "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69117",
+          "text": "まより"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:42103",
+          "text": "Jun Kuroda"
+        }
+      }
+    ],
     "illustrator": [
       {
         "type": "person",
@@ -245,24 +277,6 @@
           "text": "Smol Mochi"
         }
       }
-    ],
-    "mastering": [
-      {
-        "type": "person",
-        "person": {
-          "ref": "p:42103",
-          "text": "Jun Kuroda"
-        }
-      }
-    ],
-    "artist": [
-      {
-        "type": "person",
-        "person": {
-          "ref": "p:69117",
-          "text": "まより"
-        }
-      }
     ]
   },
   "rawPatches": {
@@ -271,6 +285,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-31T17:59:19.056Z"
+    "submittedAt": "2026-10-31T17:59:22.777Z"
   }
 }
