@@ -62,7 +62,7 @@
       {
         "type": "person",
         "person": {
-          "ref": null,
+          "ref": "p:105522",
           "text": "兎角菫"
         }
       }
@@ -83,6 +83,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-10-23T13:08:33.340Z"
+    "submittedAt": "2026-11-01T18:09:46.800Z"
   }
 }
