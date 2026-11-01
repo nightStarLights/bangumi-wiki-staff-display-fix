@@ -1,0 +1,95 @@
+{
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:22572",
+            "text": "kyo"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "OBXR. (Oblongar)"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93011",
+            "text": "Jacotanu"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55204",
+            "text": "That Fancy I"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81555",
+            "text": "Genick"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:36653",
+            "text": "Nizikawa"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:81712",
+          "text": "SPRAYBOX"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:86943",
+          "text": "Oblongar"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：kyo(1)、OBXR. (Oblongar)(1)、Jacotanu(2)、That Fancy I (Tom-i)(3)、Genick(4)、Nizikawa(5)\n插图：Oblongar\n厂牌：SPRAYBOX"
+  },
+  "subjectId": 718049,
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-01T08:33:28.303Z"
+  }
+}
