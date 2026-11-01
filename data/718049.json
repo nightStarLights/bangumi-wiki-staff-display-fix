@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:22572",
             "text": "kyo"
           }
         },
@@ -104,6 +104,6 @@
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-11-01T08:34:45.266Z"
+    "submittedAt": "2026-11-01T08:34:48.488Z"
   }
 }
