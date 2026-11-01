@@ -1,0 +1,38 @@
+{
+  "trackCredits": {},
+  "epinfo": {
+    "artist": [
+      {
+        "parts": [
+          {
+            "ref": "p:70009",
+            "text": "____natural"
+          },
+          " feat. ",
+          {
+            "ref": null,
+            "text": "重音テト"
+          }
+        ]
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "_^^タラコおにぎり^^"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：____natural feat. 重音テト\n插图：_^^タラコおにぎり^^"
+  },
+  "subjectId": 718054,
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-01T08:53:38.352Z"
+  }
+}
