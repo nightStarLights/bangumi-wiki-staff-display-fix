@@ -1,0 +1,23 @@
+{
+  "trackCredits": {},
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:70009",
+          "text": "____natural"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：____natural"
+  },
+  "subjectId": 718055,
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-01T08:56:41.235Z"
+  }
+}
