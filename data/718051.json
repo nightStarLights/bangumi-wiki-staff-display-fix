@@ -1,0 +1,226 @@
+{
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Dimiu"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "somyu"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Areivi"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15809",
+            "text": "Shingo Nakamura"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Dazuma"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:15809",
+              "text": "Shingo Nakamura"
+            },
+            " & ",
+            {
+              "ref": null,
+              "text": "You Liang"
+            }
+          ]
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69502",
+            "text": "N-sKing"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:15809",
+              "text": "Shingo Nakamura"
+            },
+            " & ",
+            {
+              "ref": null,
+              "text": "w.ill"
+            }
+          ]
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:15809",
+              "text": "Shingo Nakamura"
+            },
+            " & ",
+            {
+              "ref": null,
+              "text": "Kaiyan"
+            }
+          ]
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:69083",
+              "text": "2bnsn"
+            },
+            " & ",
+            {
+              "ref": null,
+              "text": "SKAWZ"
+            }
+          ]
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:6366",
+            "text": "MK"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "TsuruSwing"
+            },
+            " & ",
+            {
+              "ref": null,
+              "text": "somyu"
+            }
+          ]
+        }
+      ]
+    },
+    "1.13": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "TsuruSwing"
+          }
+        }
+      ]
+    },
+    "1.14": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:72294",
+            "text": "Yusuke Teranishi"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "OHANAMI RECORDS"
+        }
+      }
+    ],
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:15809",
+          "text": "Shingo Nakamura"
+        }
+      }
+    ],
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:15809",
+          "text": "Shingo Nakamura"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：Shingo Nakamura\n艺术家：Dimiu(1)、somyu(2)、Areivi(3)、Shingo Nakamura(4)、Dazuma(5)、Shingo Nakamura & You Liang(6)、N-sKing(7)、Shingo Nakamura & w.ill(8)、Shingo Nakamura & Kaiyan(9)、2bnsn & SKAWZ(10)、MK(11)、TsuruSwing & somyu(12)、TsuruSwing(13)、Yusuke Teranishi(14)\n混音：Shingo Nakamura\n厂牌：OHANAMI RECORDS"
+  },
+  "subjectId": 718051,
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-01T08:42:08.726Z"
+  }
+}
