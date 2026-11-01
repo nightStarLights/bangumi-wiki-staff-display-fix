@@ -1,0 +1,171 @@
+{
+  "trackCredits": {
+    "1.1": {
+      "声乐": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "足立レイ"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "声乐": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "足立レイ"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "声乐": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "足立レイ"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "声乐": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "足立レイ"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "声乐": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "足立レイ"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "声乐": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "足立レイ"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "声乐": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "足立レイ"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "声乐": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "足立レイ"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:105522",
+          "text": "兎角菫"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:105522",
+          "text": "兎角菫"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:105522",
+          "text": "兎角菫"
+        }
+      }
+    ],
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:105522",
+          "text": "兎角菫"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "塩屋"
+        }
+      }
+    ],
+    "custom-致谢": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "おどたけ"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "作田恒星"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "吉田音楽製作所各位他"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：兎角菫\n作词：兎角菫\n作曲：兎角菫\n编曲：兎角菫\n声乐：足立レイ(1-3,5,6,8-10)\n插图：塩屋\ncustom-致谢：おどたけ、作田恒星、吉田音楽製作所各位他"
+  },
+  "subjectId": 718163,
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-01T16:53:13.287Z"
+  }
+}
