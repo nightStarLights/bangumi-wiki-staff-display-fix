@@ -29,7 +29,7 @@
           }
         }
       ],
-      "custom-程序编写": [
+      "custom-Programming": [
         {
           "type": "person",
           "person": {
@@ -108,7 +108,7 @@
           }
         }
       ],
-      "custom-程序编写": [
+      "custom-Programming": [
         {
           "type": "person",
           "person": {
@@ -155,7 +155,7 @@
           }
         }
       ],
-      "custom-程序编写": [
+      "custom-Programming": [
         {
           "type": "person",
           "person": {
@@ -211,7 +211,7 @@
           }
         }
       ],
-      "custom-程序编写": [
+      "custom-Programming": [
         {
           "type": "person",
           "person": {
@@ -267,7 +267,7 @@
           }
         }
       ],
-      "custom-程序编写": [
+      "custom-Programming": [
         {
           "type": "person",
           "person": {
@@ -375,7 +375,7 @@
           }
         }
       ],
-      "custom-程序编写": [
+      "custom-Programming": [
         {
           "type": "person",
           "person": {
@@ -456,7 +456,7 @@
           }
         }
       ],
-      "custom-程序编写": [
+      "custom-Programming": [
         {
           "type": "person",
           "person": {
@@ -519,7 +519,7 @@
           }
         }
       ],
-      "custom-程序编写": [
+      "custom-Programming": [
         {
           "type": "person",
           "person": {
@@ -593,7 +593,7 @@
           }
         }
       ],
-      "custom-程序编写": [
+      "custom-Programming": [
         {
           "type": "person",
           "person": {
@@ -670,11 +670,11 @@
     }
   },
   "rawPatches": {
-    "editor": "Lyrics: newfn (01); 丹下風 (02,04,05,06,07); 柑田夏芽 (02,03,08,09); 葉山結 (07,08,10)\n作曲: 葉山結 (01,03,05,07); newfn (02,09); 柑田夏芽 (04,08,10); 丹下風 (06)\nArrangement: newfn (01,02,03,04,05,06,07,08,09,10)\ncustom-Guitar: 柑田夏芽 (02,03,05,08,09,10); 丹下風 (02); 葉山結 (03)\ncustom-Bass: 丹下風 (02,03,07,10)\ncustom-Drums: 葉山結 (03,07,10)\ncustom-Synthesizer: 丹下風 (06)\ncustom-Acoustic Guitar: 葉山結 (07)\ncustom-Piano: 丹下風 (07,09)\ncustom-Electric Piano: 丹下風 (09)\ncustom-Hammond Organ: 丹下風 (07)\ncustom-Harmonica: 柑田夏芽 (07)\ncustom-All Instruments: newfn (01,04)\ncustom-程序编写: newfn (01,04)\ncustom-All Other Instruments：newfn (02,03,05,06,07,08,09)\ncustom-程序编写: newfn (02,03,05,06,07,08,09)\nMixing: 葉山結 (01,02,03,04,05,06,07,08,09); 柑田夏芽 (10)"
+    "editor": "Lyrics: newfn (01); 丹下風 (02,04,05,06,07); 柑田夏芽 (02,03,08,09); 葉山結 (07,08,10)\n作曲: 葉山結 (01,03,05,07); newfn (02,09); 柑田夏芽 (04,08,10); 丹下風 (06)\nArrangement: newfn (01,02,03,04,05,06,07,08,09,10)\ncustom-Guitar: 柑田夏芽 (02,03,05,08,09,10); 丹下風 (02); 葉山結 (03)\ncustom-Bass: 丹下風 (02,03,07,10)\ncustom-Drums: 葉山結 (03,07,10)\ncustom-Synthesizer: 丹下風 (06)\ncustom-Acoustic Guitar: 葉山結 (07)\ncustom-Piano: 丹下風 (07,09)\ncustom-Electric Piano: 丹下風 (09)\ncustom-Hammond Organ: 丹下風 (07)\ncustom-Harmonica: 柑田夏芽 (07)\ncustom-All Instruments: newfn (01,04)\ncustom-Programming: newfn (01,04)\ncustom-All Other Instruments：newfn (02,03,05,06,07,08,09)\ncustom-Programming: newfn (02,03,05,06,07,08,09)\nMixing: 葉山結 (01,02,03,04,05,06,07,08,09); 柑田夏芽 (10)"
   },
   "_meta": {
     "submittedBy": "809907",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-11-02T15:08:31.021Z"
+    "submittedAt": "2026-11-02T15:08:51.723Z"
   }
 }
