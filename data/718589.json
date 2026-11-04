@@ -1,0 +1,383 @@
+{
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68577",
+            "text": "MEDA"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hyth"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:88075",
+            "text": "吉岡大地"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68577",
+            "text": "MEDA"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "丸⽥凌央"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "丸⽥凌央"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9573",
+            "text": "Meis Clauson"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68577",
+            "text": "MEDA"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68577",
+            "text": "MEDA"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:68577",
+            "text": "MEDA"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hyth"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:88075",
+            "text": "吉岡大地"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:13127",
+            "text": "安藤紗々"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10391",
+            "text": "大和"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "嶌田顕一郎"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "嶌田顕一郎"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "素粒子アイドル 銀河ワプミ"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "素粒子アイドル 銀河ワプミ"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hiromu\"Cillian\" Yasumoto"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Takashi Saze"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:41035",
+            "text": "Shogo"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:41035",
+            "text": "Shogo"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56969",
+            "text": "Tsubasa"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:56969",
+            "text": "Tsubasa"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    },
+    "1.5": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:41035",
+            "text": "Shogo"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:41035",
+            "text": "Shogo"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56969",
+            "text": "Tsubasa"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "百田尚史"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "百田尚史"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91880",
+            "text": "山崎光"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91880",
+            "text": "山崎光"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9573",
+            "text": "Meis Clauson"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "中嶋康孝"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:91880",
+            "text": "山崎光"
+          },
+          "inst": "Bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "柴﨑洋輔"
+          },
+          "inst": "Piano"
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:68577",
+          "text": "MEDA"
+        }
+      }
+    ],
+    "声乐": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:68577",
+          "text": "MEDA"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:70877",
+          "text": "RK Music"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ホネピンク"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "BDesign"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：MEDA\n作词：MEDA(1,6,8,9)、Hyth(1,9)、安藤紗々 (ささかまリス子)(2)、《素粒子アイドル 銀河ワプミ》(3)、Shogo(4,5)、丸⽥凌央(6)、山崎光(7)\n作曲：吉岡大地(1,9)、大和(2)、《素粒子アイドル 銀河ワプミ》(3)、Shogo(4,5)、Tsubasa(4,5)、丸⽥凌央(6)、山崎光(7)、MEDA(8)\n声乐：MEDA\n混音：嶌田顕一郎(2)、Takashi Saze(3)、百田尚史(5)、Meis Clauson(6,7)\n插图：ホネピンク\n厂牌：《RK Music》\n设计：《BDesign》\n录音：嶌田顕一郎(2)、《Hiromu\"Cillian\" Yasumoto》(3)、百田尚史(5)\n乐器-Guitar：Tsubasa(4)、中嶋康孝(7)\n乐器-Bass：山崎光(7)\n乐器-Piano：柴﨑洋輔(7)"
+  },
+  "subjectId": 718589,
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-04T11:47:22.406Z"
+  }
+}
