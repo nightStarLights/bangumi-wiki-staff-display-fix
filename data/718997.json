@@ -1,0 +1,53 @@
+{
+  "trackCredits": {
+    "1.7": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "goropi"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "声乐": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ナースロボ＿タイプＴ"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "nerucamia"
+        }
+      }
+    ],
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:88094",
+          "text": "irukanotane"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：irukanotane\n编曲：goropi(7)\n声乐：ナースロボ＿タイプＴ\n插图：nerucamia"
+  },
+  "subjectId": 718997,
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-06T15:40:14.644Z"
+  }
+}
