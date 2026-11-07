@@ -1,4 +1,5 @@
 {
+  "subjectId": 719162,
   "trackCredits": {
     "1.1": {
       "artist": [
@@ -19,7 +20,7 @@
           }
         }
       ],
-      "声乐": [
+      "lyricist": [
         {
           "type": "person",
           "person": {
@@ -27,17 +28,77 @@
             "text": "椎名もた"
           }
         }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8345",
+            "text": "椎名もた"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7313",
+            "text": "acane_madder"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7313",
+            "text": "acane_madder"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7313",
+            "text": "acane_madder"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "alias_instrument_credit",
+          "alias": {
+            "ref": "p:7313",
+            "text": "acane_madder"
+          },
+          "person": {
+            "ref": "p:7313",
+            "text": "acane madder"
+          },
+          "inst": "Keyboard"
+        },
+        {
+          "type": "alias_instrument_credit",
+          "alias": {
+            "ref": "p:7313",
+            "text": "acane_madder"
+          },
+          "person": {
+            "ref": "p:7313",
+            "text": "acane madder"
+          },
+          "inst": "Synthesizer"
+        }
       ]
     }
   },
-  "epinfo": {},
   "rawPatches": {
-    "editor": "艺术家：acane_madder (acane madder)(1)\n编曲：acane_madder (acane madder)(1)\n声乐：椎名もた (ぽわぽわP)(1)"
+    "editor": "艺术家：acane_madder(1)\n作词：椎名もた (ぽわぽわP)(1)\n作曲：椎名もた (ぽわぽわP)(1)\n编曲：acane_madder(1)\n混音：acane_madder(1)\n母带制作：acane_madder(1)\n录音：acane_madder(1)\n乐器-Keyboard：acane_madder(1)\n乐器-Synthesizer：acane_madder(1)"
   },
-  "subjectId": 719162,
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-11-07T13:21:32.363Z"
+    "submittedAt": "2026-11-07T13:23:42.614Z"
   }
 }
