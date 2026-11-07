@@ -1,0 +1,38 @@
+{
+  "trackCredits": {},
+  "epinfo": {
+    "artist": [
+      {
+        "parts": [
+          {
+            "ref": "p:93801",
+            "text": "xeno(n)"
+          },
+          " feat. ",
+          {
+            "ref": "p:75749",
+            "text": "utumiyqcom"
+          }
+        ]
+      }
+    ],
+    "featured": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:75749",
+          "text": "utumiyqcom"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：xeno(n) feat. utumiyqcom\n客串：utumiyqcom"
+  },
+  "subjectId": 719036,
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-07T04:09:44.382Z"
+  }
+}
