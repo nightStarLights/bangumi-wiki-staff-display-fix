@@ -1,0 +1,41 @@
+{
+  "trackCredits": {},
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "もくろ"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Cinematographer：いろは / Illustrator: 見境ない"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "SwoN"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：もくろ\n插图：《Cinematographer：いろは / Illustrator: 見境ない》\n设计：SwoN"
+  },
+  "subjectId": 719038,
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-07T04:15:04.388Z"
+  }
+}
