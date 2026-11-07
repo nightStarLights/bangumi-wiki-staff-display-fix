@@ -1,0 +1,43 @@
+{
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7313",
+            "text": "acane_madder"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:7313",
+            "text": "acane_madder"
+          }
+        }
+      ],
+      "声乐": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8345",
+            "text": "椎名もた"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {},
+  "rawPatches": {
+    "editor": "艺术家：acane_madder (acane madder)(1)\n编曲：acane_madder (acane madder)(1)\n声乐：椎名もた (ぽわぽわP)(1)"
+  },
+  "subjectId": 719162,
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-07T13:21:32.363Z"
+  }
+}
