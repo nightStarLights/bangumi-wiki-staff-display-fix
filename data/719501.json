@@ -1,0 +1,423 @@
+{
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "EINN"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "TIDY"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "EINN"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "TIDY"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "EINN"
+          }
+        }
+      ],
+      "producer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "TIDY"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "辻中聡佑"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hiraku Someno"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Sincere"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Sincere"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67318",
+            "text": "Chocoholic"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Sincere"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67318",
+            "text": "Chocoholic"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "岡本司"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hiraku Someno"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:63717",
+            "text": "なとり"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:63717",
+            "text": "なとり"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:63717",
+            "text": "なとり"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "辻中聡佑"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "JUN OTAKE"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:79648",
+            "text": "NNZN"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "宮川当"
+          },
+          "inst": "Piano"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "宮川当"
+          },
+          "inst": "Organ"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "宮川当"
+          },
+          "inst": "Programming"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:21733",
+            "text": "TAKU INOUE"
+          },
+          "inst": "Electric Guitar"
+        }
+      ]
+    },
+    "1.4": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "アマアラシ（from ミセカイ）"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:74589",
+            "text": "A.G.O"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "アマアラシ（from ミセカイ）"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:74589",
+            "text": "A.G.O"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "アマアラシ（from ミセカイ）"
+          }
+        }
+      ],
+      "producer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:74589",
+            "text": "A.G.O"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "辻中聡佑"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hiraku Someno"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:53989",
+            "text": "ぷにぷに電機"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:53989",
+            "text": "ぷにぷに電機"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:53989",
+            "text": "ぷにぷに電機"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Taishi Sato"
+          }
+        }
+      ],
+      "producer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Taishi Sato"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "辻中聡佑"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "辻中聡佑"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "青山亮"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "コンノユウタ"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "GAL D"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "稀羽すう"
+        }
+      }
+    ],
+    "声乐": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "稀羽すう"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:76399",
+          "text": "Re:AcT"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：TIDY(1)、A.G.O(4)、Taishi Sato(5)\n艺术家：稀羽すう\n作词：EINN(1)、Sincere(2)、なとり(3)、《アマアラシ（from ミセカイ）》(4)、ぷにぷに電機(5)、青山亮(6)\n作曲：TIDY(1)、EINN(1)、Sincere(2)、Chocoholic(2)、なとり(3)、A.G.O(4)、《アマアラシ（from ミセカイ）》(4)、ぷにぷに電機(5)、コンノユウタ(6)\n编曲：TIDY(1)、EINN(1)、Sincere(2)、Chocoholic(2)、なとり(3)、A.G.O(4)、《アマアラシ（from ミセカイ）》(4)、ぷにぷに電機(5)、Taishi Sato(5)、GAL D(6)\n声乐：稀羽すう\n混音：Hiraku Someno(1,2,4)、NNZN (南前修司)(3)、辻中聡佑(5)\n厂牌：《Re:AcT》\n录音：辻中聡佑(1,3-5)、岡本司(2)、JUN OTAKE(3)\n乐器-Piano：宮川当(3)\n乐器-Organ：宮川当(3)\n乐器-Programming：宮川当(3)\n乐器-Electric Guitar：TAKU INOUE(3)"
+  },
+  "subjectId": 719501,
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-09T15:54:12.938Z"
+  }
+}
