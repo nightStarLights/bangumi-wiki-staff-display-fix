@@ -1,0 +1,59 @@
+{
+  "trackCredits": {},
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:89314",
+          "text": "THE LUV BUGS"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:55762",
+          "text": "椎乃味醂"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ROAR"
+        }
+      },
+      {
+        "parts": [
+          {
+            "ref": "p:41448",
+            "text": "4s4ki"
+          },
+          " feat. ",
+          {
+            "ref": null,
+            "text": "初音ミク"
+          }
+        ]
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:89314",
+          "text": "THE LUV BUGS"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：THE LUV BUGS、椎乃味醂、ROAR、4s4ki feat. 初音ミク\n厂牌：THE LUV BUGS"
+  },
+  "subjectId": 719427,
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-09T12:04:16.761Z"
+  }
+}
