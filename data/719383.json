@@ -1,0 +1,77 @@
+{
+  "trackCredits": {
+    "1.4": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "tamari"
+            },
+            " & ",
+            {
+              "ref": "p:68666",
+              "text": "瀬名"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:68666",
+          "text": "瀬名"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:68666",
+          "text": "瀬名"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:68666",
+          "text": "瀬名"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:68666",
+          "text": "瀬名"
+        }
+      }
+    ],
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:68666",
+          "text": "瀬名"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：瀬名 (瀬名水紀)\n艺术家：tamari & 瀬名 (瀬名水紀)(4)\n作曲：瀬名 (瀬名水紀)\n编曲：瀬名 (瀬名水紀)\n插图：瀬名 (瀬名水紀)\n设计：瀬名 (瀬名水紀)"
+  },
+  "subjectId": 719383,
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-09T02:50:34.893Z"
+  }
+}
