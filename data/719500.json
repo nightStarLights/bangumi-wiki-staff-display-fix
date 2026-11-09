@@ -1,0 +1,69 @@
+{
+  "trackCredits": {},
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "4nj"
+        }
+      }
+    ],
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "4nj"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "TaiyoMartinKohga"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:81509",
+          "text": "Uztama"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "There is a bus stop across the street,"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:82587",
+          "text": "vai5000"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "yo-ao"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：4nj\n艺术家：4nj、TaiyoMartinKohga、Uztama、There is a bus stop across the street,、vai5000\n插图：yo-ao"
+  },
+  "subjectId": 719500,
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-09T15:42:00.183Z"
+  }
+}
