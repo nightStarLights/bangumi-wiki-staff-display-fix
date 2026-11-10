@@ -1,0 +1,41 @@
+{
+  "trackCredits": {},
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:88577",
+          "text": "nagareyama righteye"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "め太郎"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "みぎめレコーズ"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：nagareyama righteye\n插图：め太郎\n厂牌：みぎめレコーズ"
+  },
+  "subjectId": 719618,
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-10T09:29:11.337Z"
+  }
+}
