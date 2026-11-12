@@ -1,0 +1,171 @@
+{
+  "subjectId": 579146,
+  "trackCredits": {
+    "1.1": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "島田葵"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9616",
+            "text": "ヘリP"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:74359",
+            "text": "下野隼"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9616",
+            "text": "ヘリP"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:74359",
+            "text": "下野隼"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "島田葵"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9616",
+            "text": "ヘリP"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:74359",
+            "text": "下野隼"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:9616",
+            "text": "ヘリP"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:74359",
+            "text": "下野隼"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Saku"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Saku"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Saku"
+          }
+        }
+      ],
+      "声乐": [
+        {
+          "parts": [
+            "水篠苑(CV:",
+            {
+              "ref": "p:33097",
+              "text": "篠原侑"
+            },
+            ")"
+          ]
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "アスタレーヴ"
+        }
+      },
+      {
+        "parts": [
+          "伊津村紫(CV:",
+          {
+            "ref": "p:15287",
+            "text": "小澤亜李"
+          },
+          ")"
+        ]
+      },
+      {
+        "parts": [
+          "水篠苑(CV:",
+          {
+            "ref": "p:33097",
+            "text": "篠原侑"
+          },
+          ")"
+        ]
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：アスタレーヴ、伊津村紫(CV.小澤亜李)、水篠苑(CV.篠原侑)\n作词：島田葵(1,2)、Saku(3)\n作曲：ヘリP(1,2)、下野隼 (J-shi)(1,2)、Saku(3)\n编曲：ヘリP(1,2)、下野隼 (J-shi)(1,2)、Saku(3)\n声乐：水篠苑(CV.篠原侑)(3)"
+  },
+  "_meta": {
+    "submittedBy": "sakarin",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-12T07:50:04.418Z"
+  }
+}
