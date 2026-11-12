@@ -6,7 +6,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:105974",
             "text": "kaokao"
           }
         },
@@ -115,8 +115,8 @@
     "editor": "厂牌：Nameless Catalogue\n母带制作：Ceru_\n插图：XxxxxG\n\n艺术家：kaokao(1)、RedCloud(1)、F3azor4_(2)、D.O.R.I.(3)、Dreamira(3)、Settled Edge(4)、Moonset(5)、RaiNElya(6)"
   },
   "_meta": {
-    "submittedBy": "809907",
+    "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-07-29T02:57:56.374Z"
+    "submittedAt": "2026-11-12T18:57:33.179Z"
   }
 }
