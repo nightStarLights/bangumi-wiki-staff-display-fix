@@ -1,0 +1,32 @@
+{
+  "trackCredits": {},
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:71402",
+          "text": "Unity of Raw"
+        }
+      }
+    ],
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:71406",
+          "text": "Overarchz"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：Overarchz\n厂牌：Unity of Raw"
+  },
+  "subjectId": 719957,
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-12T09:24:18.166Z"
+  }
+}
