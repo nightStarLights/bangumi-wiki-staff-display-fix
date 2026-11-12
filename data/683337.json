@@ -105,7 +105,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:105974",
             "text": "kaokao"
           }
         }
@@ -145,8 +145,8 @@
     "editor": "厂牌：Nameless Catalogue\n母带制作：Ceru_\n插图：XxxxxG\n\n艺术家：Aria Ashwood(1)、Tenssin97(2)、Dreamira(3,8)、YellowCheese(4)、LESSISLESS(5)、Settled Edge(6)、C1-02(7)、Moonset(9)、kaokao(10)"
   },
   "_meta": {
-    "submittedBy": "809907",
+    "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-07-27T07:17:41.154Z"
+    "submittedAt": "2026-11-12T18:57:19.028Z"
   }
 }
