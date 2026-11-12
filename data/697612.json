@@ -17,7 +17,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:105974",
             "text": "kaokao"
           }
         }
@@ -190,6 +190,6 @@
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-08-26T04:40:26.297Z"
+    "submittedAt": "2026-11-12T18:57:49.068Z"
   }
 }
