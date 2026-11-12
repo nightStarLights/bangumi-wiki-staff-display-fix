@@ -20,11 +20,18 @@
           }
         },
         {
-          "type": "person",
-          "person": {
-            "ref": "p:74359",
-            "text": "下野隼"
-          }
+          "parts": [
+            {
+              "ref": "p:74359",
+              "text": "下野隼"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "J-shi"
+            },
+            ")"
+          ]
         }
       ],
       "arranger": [
@@ -36,11 +43,18 @@
           }
         },
         {
-          "type": "person",
-          "person": {
-            "ref": "p:74359",
-            "text": "下野隼"
-          }
+          "parts": [
+            {
+              "ref": "p:74359",
+              "text": "下野隼"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "J-shi"
+            },
+            ")"
+          ]
         }
       ]
     },
@@ -63,11 +77,18 @@
           }
         },
         {
-          "type": "person",
-          "person": {
-            "ref": "p:74359",
-            "text": "下野隼"
-          }
+          "parts": [
+            {
+              "ref": "p:74359",
+              "text": "下野隼"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "J-shi"
+            },
+            ")"
+          ]
         }
       ],
       "arranger": [
@@ -79,11 +100,18 @@
           }
         },
         {
-          "type": "person",
-          "person": {
-            "ref": "p:74359",
-            "text": "下野隼"
-          }
+          "parts": [
+            {
+              "ref": "p:74359",
+              "text": "下野隼"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "J-shi"
+            },
+            ")"
+          ]
         }
       ]
     },
@@ -115,10 +143,10 @@
           }
         }
       ],
-      "声乐": [
+      "vocal": [
         {
           "parts": [
-            "水篠苑(CV:",
+            "水篠苑(CV.",
             {
               "ref": "p:33097",
               "text": "篠原侑"
@@ -132,40 +160,36 @@
   "epinfo": {
     "artist": [
       {
-        "type": "person",
-        "person": {
-          "ref": null,
-          "text": "アスタレーヴ"
-        }
-      },
-      {
         "parts": [
-          "伊津村紫(CV:",
+          {
+            "ref": null,
+            "text": "アスタレーヴ"
+          },
+          " [",
+          "伊津村紫(CV.",
           {
             "ref": "p:15287",
             "text": "小澤亜李"
           },
-          ")"
-        ]
-      },
-      {
-        "parts": [
-          "水篠苑(CV:",
+          ")",
+          "、",
+          "水篠苑(CV.",
           {
-            "ref": "p:33097",
+            "ref": null,
             "text": "篠原侑"
           },
-          ")"
+          ")",
+          "]"
         ]
       }
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：アスタレーヴ、伊津村紫(CV.小澤亜李)、水篠苑(CV.篠原侑)\n作词：島田葵(1,2)、Saku(3)\n作曲：ヘリP(1,2)、下野隼 (J-shi)(1,2)、Saku(3)\n编曲：ヘリP(1,2)、下野隼 (J-shi)(1,2)、Saku(3)\n声乐：水篠苑(CV.篠原侑)(3)"
+    "editor": "艺术家：アスタレーヴ [伊津村紫(CV.小澤亜李)、水篠苑(CV.篠原侑)]\n作词：島田葵(1,2)、Saku(3)\n作曲：ヘリP(1,2)、下野隼 (J-shi)(1,2)、Saku(3)\n编曲：ヘリP(1,2)、下野隼 (J-shi)(1,2)、Saku(3)\n声乐：水篠苑(CV.篠原侑)(3)"
   },
   "_meta": {
     "submittedBy": "sakarin",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-11-12T07:50:04.418Z"
+    "submittedAt": "2026-11-12T07:50:31.834Z"
   }
 }
