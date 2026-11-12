@@ -1,0 +1,46 @@
+{
+  "trackCredits": {},
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:71402",
+          "text": "Unity of Raw"
+        }
+      }
+    ],
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Corpse"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:71407",
+          "text": "pho"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:71404",
+          "text": "kamui.com"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：Corpse、pho、kamui.com\n厂牌：Unity of Raw"
+  },
+  "subjectId": 719959,
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-12T09:26:45.191Z"
+  }
+}
