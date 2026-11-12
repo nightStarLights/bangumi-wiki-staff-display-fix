@@ -1,12 +1,203 @@
 {
   "subjectId": 719500,
-  "trackCredits": {},
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "4nj"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "4nj"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "4nj"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "4nj"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "4nj"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "4nj"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "4nj"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "TaiyoMartinKohga"
+            }
+          ]
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "TaiyoMartinKohga"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "4nj"
+            },
+            " feat. ",
+            {
+              "ref": "p:81509",
+              "text": "Uztama"
+            }
+          ]
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81509",
+            "text": "Uztama"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "4nj"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "There is a bus stop across the street"
+            }
+          ]
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "There is a bus stop across the street"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "4nj"
+            },
+            " feat. ",
+            {
+              "ref": "p:82587",
+              "text": "vai5000"
+            }
+          ]
+        }
+      ],
+      "featured": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:82587",
+            "text": "vai5000"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "4nj"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "yo-ao"
+        }
+      }
+    ]
+  },
   "rawPatches": {
-    "editor": "制作人：4nj\n艺术家：4nj、TaiyoMartinKohga、Uztama、There is a bus stop across the street,、vai5000\n插图：yo-ao"
+    "editor": "制作人：4nj\n艺术家：4nj(1,2,5,7,8,10)、4nj feat. TaiyoMartinKohga(3)、4nj feat. Uztama(4)、4nj feat. There is a bus stop across the street(6)、4nj feat. vai5000(9)\n插图：yo-ao\n客串：TaiyoMartinKohga(3)、Uztama(4)、There is a bus stop across the street(6)、vai5000(9)"
   },
   "_meta": {
     "submittedBy": "459115",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-11-09T15:42:20.466Z"
+    "submittedAt": "2026-11-12T09:15:43.744Z"
   }
 }
