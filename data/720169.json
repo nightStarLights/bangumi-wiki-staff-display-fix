@@ -1,4 +1,5 @@
 {
+  "subjectId": 720169,
   "trackCredits": {
     "1.3": {
       "mixing": [
@@ -136,15 +137,13 @@
       ]
     },
     "1.1": {
-      "声乐": [
+      "vocal": [
         {
-          "parts": [
-            {
-              "ref": null,
-              "text": "黑鸭子合唱组"
-            },
-            " (人声)"
-          ]
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "黑鸭子合唱组 (人声)"
+          }
         }
       ],
       "instrument": [
@@ -269,26 +268,51 @@
         }
       },
       {
-        "type": "person",
-        "person": {
-          "ref": "p:46026",
-          "text": "HeartStrings"
-        }
+        "parts": [
+          {
+            "ref": "p:46026",
+            "text": "HeartStrings"
+          },
+          " (",
+          {
+            "ref": null,
+            "text": "曾怡"
+          },
+          ")"
+        ]
       }
     ],
     "composer": [
       {
-        "type": "person",
-        "person": {
-          "ref": null,
-          "text": "王者荣耀"
-        }
-      },
+        "parts": [
+          {
+            "ref": "p:46026",
+            "text": "HeartStrings"
+          },
+          " (",
+          {
+            "ref": null,
+            "text": "曾怡"
+          },
+          ")"
+        ]
+      }
+    ],
+    "mixing": [
       {
         "type": "person",
         "person": {
-          "ref": "p:46026",
-          "text": "HeartStrings"
+          "ref": null,
+          "text": "刘三斤"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "刘三斤"
         }
       }
     ],
@@ -312,7 +336,7 @@
       {
         "type": "person",
         "person": {
-          "ref": "p:90031",
+          "ref": null,
           "text": "张璟"
         }
       },
@@ -321,24 +345,6 @@
         "person": {
           "ref": null,
           "text": "黄原野@TiMi Audio"
-        }
-      }
-    ],
-    "mixing": [
-      {
-        "type": "person",
-        "person": {
-          "ref": null,
-          "text": "刘三斤"
-        }
-      }
-    ],
-    "mastering": [
-      {
-        "type": "person",
-        "person": {
-          "ref": null,
-          "text": "刘三斤"
         }
       }
     ],
@@ -364,19 +370,25 @@
       {
         "type": "person",
         "person": {
+          "ref": "p:101423",
+          "text": "TiMi Audio Lab"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
           "ref": null,
-          "text": "TiMi Audio Lab，天美L1工作室"
+          "text": "天美L1工作室"
         }
       }
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：王者荣耀、HeartStrings (曾怡)\n作曲：王者荣耀、HeartStrings (曾怡)\n混音：刘三斤、Joël Dollié(3)\n母带制作：刘三斤\ncustom-音乐设计：陆佩玥@TiMi Audio\ncustom-音乐监制：陆佩玥、张璟、黄原野@TiMi Audio\ncustom-专辑支持：梁韵迪@TiMi Audio\ncustom-专辑管理：张昭质@TiMi Audio\ncustom-出品：TiMi Audio Lab，天美L1工作室\n声乐-人声：《黑鸭子合唱组》(1)\n乐器-古筝：申依靖(1)\n乐器-古琴：孙莹(1)\n乐器-弦乐：辉音弦乐团(1,2)\n乐器-长笛：程晓华(1,2)\n乐器-双簧管：袁小钢(1,2)\n乐器-单簧管：吴丹(1,2)\n乐器-巴松：王昱苹(1,2)\n乐器-笙：米文鹏(2)\n乐器-管弦乐团：FAME’S Studio Orchestra(3)、Budapest Scoring Orchestra(3)\n乐器-大提琴独奏：Kristiyan Chernev(3)\n乐器-指挥：Oleg Kondratenko(3)、Dániel Erik Fülöp(3)\n录音-录音工程师：Arber Curri(3)、Marina Lefkova(3)、Viktor Szabó(3)\n乐器-萧：丁晓逵(3)\n录音-民乐录音：夏坚(3)\n录音-录音统筹：VNTA(3)\ncustom-制作协助：VNTA(3)\n录音-录音监制：ARMY CooKie(3)、Juan Forero(3)"
+    "editor": "艺术家：王者荣耀、HeartStrings (曾怡)\n作曲：HeartStrings (曾怡)\n混音：刘三斤、Joël Dollié(3)\n母带制作：刘三斤\ncustom-音乐设计：陆佩玥@TiMi Audio\ncustom-音乐监制：陆佩玥、张璟、黄原野@TiMi Audio\ncustom-专辑支持：梁韵迪@TiMi Audio\ncustom-专辑管理：张昭质@TiMi Audio\ncustom-出品：TiMi Audio Lab，天美L1工作室\n声乐-人声：《黑鸭子合唱组》(1)\n乐器-古筝：申依靖(1)\n乐器-古琴：孙莹(1)\n乐器-弦乐：辉音弦乐团(1,2)\n乐器-长笛：程晓华(1,2)\n乐器-双簧管：袁小钢(1,2)\n乐器-单簧管：吴丹(1,2)\n乐器-巴松：王昱苹(1,2)\n乐器-笙：米文鹏(2)\n乐器-管弦乐团：FAME’S Studio Orchestra(3)、Budapest Scoring Orchestra(3)\n乐器-大提琴独奏：Kristiyan Chernev(3)\n乐器-指挥：Oleg Kondratenko(3)、Dániel Erik Fülöp(3)\n录音-录音工程师：Arber Curri(3)、Marina Lefkova(3)、Viktor Szabó(3)\n乐器-萧：丁晓逵(3)\n录音-民乐录音：夏坚(3)\n录音-录音统筹：VNTA(3)\ncustom-制作协助：VNTA(3)\n录音-录音监制：ARMY CooKie(3)、Juan Forero(3)"
   },
-  "subjectId": 720169,
   "_meta": {
     "submittedBy": "781929",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-11-13T20:13:38.048Z"
+    "submittedAt": "2026-11-13T20:14:11.424Z"
   }
 }
