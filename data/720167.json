@@ -1,0 +1,77 @@
+{
+  "trackCredits": {},
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:100560",
+          "text": "STELLA SORA RECORDS"
+        }
+      }
+    ],
+    "声乐": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Madishu"
+        }
+      }
+    ],
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Kila"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:100567",
+          "text": "Redux"
+        }
+      }
+    ],
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:100567",
+          "text": "Redux"
+        }
+      }
+    ],
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:100567",
+          "text": "Redux"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:100567",
+          "text": "Redux"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：Redux\n作词：Kila\n作曲：Redux\n声乐：Madishu\n混音：Redux\n母带制作：Redux\n厂牌：STELLA SORA RECORDS"
+  },
+  "subjectId": 720167,
+  "_meta": {
+    "submittedBy": "781929",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-13T19:17:53.767Z"
+  }
+}
