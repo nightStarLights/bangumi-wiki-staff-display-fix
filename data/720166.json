@@ -1,0 +1,353 @@
+{
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10581",
+            "text": "小林未郁"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100567",
+            "text": "Redux"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100561",
+            "text": "VISION SOUND"
+          }
+        }
+      ],
+      "声乐": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10581",
+            "text": "小林未郁"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "情绪"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "情绪"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100561",
+            "text": "VISION SOUND"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100567",
+            "text": "Redux"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100561",
+            "text": "VISION SOUND"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106008",
+            "text": "Celesnica"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100561",
+            "text": "VISION SOUND"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106007",
+            "text": "Vencent-文森特"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100561",
+            "text": "VISION SOUND"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106009",
+            "text": "MatChA"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100562",
+            "text": "dDedalus"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106006",
+            "text": "星舟爱乐乐团"
+          }
+        }
+      ],
+      "custom-Music Production": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100562",
+            "text": "dDedalus"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "parts": [
+            {
+              "ref": "p:106006",
+              "text": "星舟爱乐乐团"
+            },
+            " (Orchestra Recording)"
+          ]
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100562",
+            "text": "dDedalus"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106006",
+            "text": "星舟爱乐乐团"
+          }
+        }
+      ],
+      "custom-Music Production": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100562",
+            "text": "dDedalus"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "parts": [
+            {
+              "ref": "p:106006",
+              "text": "星舟爱乐乐团"
+            },
+            " (Orchestra Recording)"
+          ]
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100562",
+            "text": "dDedalus"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100562",
+            "text": "dDedalus"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100562",
+            "text": "dDedalus"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106006",
+            "text": "星舟爱乐乐团"
+          }
+        }
+      ],
+      "custom-Music Production": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100562",
+            "text": "dDedalus"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "parts": [
+            {
+              "ref": "p:106006",
+              "text": "星舟爱乐乐团"
+            },
+            " (Orchestra Recording)"
+          ]
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:87441",
+              "text": "Estimate"
+            },
+            ", LLC."
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100847",
+            "text": "Nevia"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:87441",
+              "text": "Estimate"
+            },
+            ", LLC."
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100847",
+            "text": "Nevia"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:87441",
+              "text": "Estimate"
+            },
+            ", LLC."
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100847",
+            "text": "Nevia"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {},
+  "rawPatches": {
+    "editor": "艺术家：小林未郁(1)、Redux(1)、VISION SOUND(1,6,7,9)、dDedalus(2,8,10-12)、星舟爱乐乐团 (星舟爱乐团)(2,8,12)、《Estimate, LLC.》 (ESTIMATE)(3-5)、Nevia(3-5)、Dash Sound(3-5)、Celesnica(6)、Vencent-文森特(7)、MatChA(9)\n作词：情绪(1)\n作曲：情绪(1)\n编曲：VISION SOUND(1)、Redux(1)\n声乐：小林未郁(1)\ncustom-Music Production：dDedalus(2,8,12)\n录音-Orchestra Recording：星舟爱乐乐团 (星舟爱乐团)(2,8,12)"
+  },
+  "subjectId": 720166,
+  "_meta": {
+    "submittedBy": "781929",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-13T19:07:31.174Z"
+  }
+}
