@@ -135,12 +135,12 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:106006",
               "text": "星舟爱乐乐团"
             },
             " (",
             {
-              "ref": "p:106006",
+              "ref": null,
               "text": "星舟爱乐团"
             },
             ")"
@@ -160,12 +160,12 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:106006",
               "text": "星舟爱乐乐团"
             },
             " (",
             {
-              "ref": "p:106006",
+              "ref": null,
               "text": "星舟爱乐团"
             },
             ")",
@@ -186,12 +186,12 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:106006",
               "text": "星舟爱乐乐团"
             },
             " (",
             {
-              "ref": "p:106006",
+              "ref": null,
               "text": "星舟爱乐团"
             },
             ")"
@@ -211,12 +211,12 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:106006",
               "text": "星舟爱乐乐团"
             },
             " (",
             {
-              "ref": "p:106006",
+              "ref": null,
               "text": "星舟爱乐团"
             },
             ")",
@@ -259,12 +259,12 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:106006",
               "text": "星舟爱乐乐团"
             },
             " (",
             {
-              "ref": "p:106006",
+              "ref": null,
               "text": "星舟爱乐团"
             },
             ")"
@@ -284,12 +284,12 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:106006",
               "text": "星舟爱乐乐团"
             },
             " (",
             {
-              "ref": "p:106006",
+              "ref": null,
               "text": "星舟爱乐团"
             },
             ")",
@@ -386,12 +386,23 @@
       ]
     }
   },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:100560",
+          "text": "STELLA SORA RECORDS"
+        }
+      }
+    ]
+  },
   "rawPatches": {
-    "editor": "艺术家：小林未郁(1)、Redux(1)、VISION SOUND(1,6,7,9)、dDedalus(2,8,10-12)、星舟爱乐乐团 (星舟爱乐团)(2,8,12)、《Estimate, LLC.》 (ESTIMATE)(3-5)、Nevia(3-5)、Dash Sound(3-5)、Celesnica(6)、Vencent-文森特(7)、MatChA(9)\n作词：情绪(1)\n作曲：情绪(1)\n编曲：VISION SOUND(1)、Redux(1)\n声乐：小林未郁(1)\ncustom-Music Production：dDedalus(2,8,12)\n录音-Orchestra Recording：星舟爱乐乐团 (星舟爱乐团)(2,8,12)"
+    "editor": "厂牌: STELLA SORA RECORDS\n艺术家：小林未郁(1)、Redux(1)、VISION SOUND(1,6,7,9)、dDedalus(2,8,10-12)、星舟爱乐乐团 (星舟爱乐团)(2,8,12)、《Estimate, LLC.》 (ESTIMATE)(3-5)、Nevia(3-5)、Dash Sound(3-5)、Celesnica(6)、Vencent-文森特(7)、MatChA(9)\n作词：情绪(1)\n作曲：情绪(1)\n编曲：VISION SOUND(1)、Redux(1)\n声乐：小林未郁(1)\ncustom-Music Production：dDedalus(2,8,12)\n录音-Orchestra Recording：星舟爱乐乐团 (星舟爱乐团)(2,8,12)"
   },
   "_meta": {
     "submittedBy": "781929",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-11-13T19:08:33.258Z"
+    "submittedAt": "2026-11-13T19:08:41.051Z"
   }
 }
