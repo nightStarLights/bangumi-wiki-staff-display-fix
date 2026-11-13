@@ -4,18 +4,18 @@
     "1.1": {
       "artist": [
         {
-          "parts": [
-            {
-              "ref": "p:56423",
-              "text": "VeetaCrush"
-            },
-            " (",
-            {
-              "ref": null,
-              "text": "Dash Sound"
-            },
-            ")"
-          ]
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "VeetaCrush"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
         }
       ]
     },
@@ -54,11 +54,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：VeetaCrush (Dash Sound)(1)、dDedalus(3,4)\n厂牌：STELLA SORA RECORDS"
+    "editor": "艺术家：VeetaCrush(1) 、Dash Sound(1)、dDedalus(3,4)\n厂牌：STELLA SORA RECORDS"
   },
   "_meta": {
     "submittedBy": "781929",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-11-13T18:40:23.445Z"
+    "submittedAt": "2026-11-13T19:10:18.709Z"
   }
 }
