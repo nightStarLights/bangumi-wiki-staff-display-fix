@@ -1,0 +1,382 @@
+{
+  "trackCredits": {
+    "1.3": {
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Joël Dollié"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "FAME’S Studio Orchestra"
+          },
+          "inst": "管弦乐团"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:92107",
+            "text": "Budapest Scoring Orchestra"
+          },
+          "inst": "管弦乐团"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Kristiyan Chernev"
+          },
+          "inst": "大提琴独奏"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Oleg Kondratenko"
+          },
+          "inst": "指挥"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Dániel Erik Fülöp"
+          },
+          "inst": "指挥"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "丁晓逵"
+          },
+          "inst": "萧"
+        }
+      ],
+      "recording": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Arber Curri"
+            },
+            " (录音工程师)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Marina Lefkova"
+            },
+            " (录音工程师)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Viktor Szabó"
+            },
+            " (录音工程师)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "夏坚"
+            },
+            " (民乐录音)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "VNTA"
+            },
+            " (录音统筹)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "ARMY CooKie"
+            },
+            " (录音监制)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Juan Forero"
+            },
+            " (录音监制)"
+          ]
+        }
+      ],
+      "custom-制作协助": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "VNTA"
+          }
+        }
+      ]
+    },
+    "1.1": {
+      "声乐": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "黑鸭子合唱组"
+            },
+            " (人声)"
+          ]
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "申依靖"
+          },
+          "inst": "古筝"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "孙莹"
+          },
+          "inst": "古琴"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "辉音弦乐团"
+          },
+          "inst": "弦乐"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "程晓华"
+          },
+          "inst": "长笛"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "袁小钢"
+          },
+          "inst": "双簧管"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "吴丹"
+          },
+          "inst": "单簧管"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "王昱苹"
+          },
+          "inst": "巴松"
+        }
+      ]
+    },
+    "1.2": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "辉音弦乐团"
+          },
+          "inst": "弦乐"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "程晓华"
+          },
+          "inst": "长笛"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "袁小钢"
+          },
+          "inst": "双簧管"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "吴丹"
+          },
+          "inst": "单簧管"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "王昱苹"
+          },
+          "inst": "巴松"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "米文鹏"
+          },
+          "inst": "笙"
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "王者荣耀"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:46026",
+          "text": "HeartStrings"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "王者荣耀"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:46026",
+          "text": "HeartStrings"
+        }
+      }
+    ],
+    "custom-音乐设计": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "陆佩玥@TiMi Audio"
+        }
+      }
+    ],
+    "custom-音乐监制": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "陆佩玥"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:90031",
+          "text": "张璟"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "黄原野@TiMi Audio"
+        }
+      }
+    ],
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "刘三斤"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "刘三斤"
+        }
+      }
+    ],
+    "custom-专辑支持": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "梁韵迪@TiMi Audio"
+        }
+      }
+    ],
+    "custom-专辑管理": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "张昭质@TiMi Audio"
+        }
+      }
+    ],
+    "custom-出品": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "TiMi Audio Lab，天美L1工作室"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：王者荣耀、HeartStrings (曾怡)\n作曲：王者荣耀、HeartStrings (曾怡)\n混音：刘三斤、Joël Dollié(3)\n母带制作：刘三斤\ncustom-音乐设计：陆佩玥@TiMi Audio\ncustom-音乐监制：陆佩玥、张璟、黄原野@TiMi Audio\ncustom-专辑支持：梁韵迪@TiMi Audio\ncustom-专辑管理：张昭质@TiMi Audio\ncustom-出品：TiMi Audio Lab，天美L1工作室\n声乐-人声：《黑鸭子合唱组》(1)\n乐器-古筝：申依靖(1)\n乐器-古琴：孙莹(1)\n乐器-弦乐：辉音弦乐团(1,2)\n乐器-长笛：程晓华(1,2)\n乐器-双簧管：袁小钢(1,2)\n乐器-单簧管：吴丹(1,2)\n乐器-巴松：王昱苹(1,2)\n乐器-笙：米文鹏(2)\n乐器-管弦乐团：FAME’S Studio Orchestra(3)、Budapest Scoring Orchestra(3)\n乐器-大提琴独奏：Kristiyan Chernev(3)\n乐器-指挥：Oleg Kondratenko(3)、Dániel Erik Fülöp(3)\n录音-录音工程师：Arber Curri(3)、Marina Lefkova(3)、Viktor Szabó(3)\n乐器-萧：丁晓逵(3)\n录音-民乐录音：夏坚(3)\n录音-录音统筹：VNTA(3)\ncustom-制作协助：VNTA(3)\n录音-录音监制：ARMY CooKie(3)、Juan Forero(3)"
+  },
+  "subjectId": 720169,
+  "_meta": {
+    "submittedBy": "781929",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-13T20:13:38.048Z"
+  }
+}
