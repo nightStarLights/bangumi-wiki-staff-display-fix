@@ -45,8 +45,8 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:68136",
-            "text": "Take"
+            "ref": "p:69893",
+            "text": "Takh"
           }
         }
       ],
@@ -54,8 +54,8 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:68136",
-            "text": "Take"
+            "ref": "p:69893",
+            "text": "Takh"
           }
         }
       ],
@@ -63,8 +63,8 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:68136",
-            "text": "Take"
+            "ref": "p:69893",
+            "text": "Takh"
           }
         }
       ]
@@ -161,8 +161,8 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:68136",
-            "text": "Take"
+            "ref": "p:69893",
+            "text": "Takh"
           }
         }
       ],
@@ -170,8 +170,8 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:68136",
-            "text": "Take"
+            "ref": "p:69893",
+            "text": "Takh"
           }
         }
       ],
@@ -207,11 +207,11 @@
     }
   },
   "rawPatches": {
-    "editor": "作词：Nevylulu(1)、Take(2)、T-J(3)、勿忘うた(4,7)\n作曲：Nevylulu(1)、Take(2,6)、T-J(3)、オッカ(4)、Yu-dachi(5)、Fujiyori(7)\n编曲：Nevylulu(1)、Take(2,6)、T-J(3)、オッカ(4)、Yu-dachi(5)、Fujiyori(7)\n声乐：咲良ゆの(6)\n乐器-Guitar：だら(1)"
+    "editor": "作词：Nevylulu(1)、Takh(2)、T-J(3)、勿忘うた(4,7)\n作曲：Nevylulu(1)、Takh(2,6)、T-J(3)、オッカ(4)、Yu-dachi(5)、Fujiyori(7)\n编曲：Nevylulu(1)、Takh(2,6)、T-J(3)、オッカ(4)、Yu-dachi(5)、Fujiyori(7)\n声乐：咲良ゆの(6)\n乐器-Guitar：だら(1)"
   },
   "_meta": {
     "submittedBy": "781929",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-11-15T11:55:23.538Z"
+    "submittedAt": "2026-11-15T11:56:25.652Z"
   }
 }
