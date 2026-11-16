@@ -1,0 +1,50 @@
+{
+  "trackCredits": {},
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:74603",
+          "text": "inuha"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:74603",
+          "text": "inuha"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:74603",
+          "text": "inuha"
+        }
+      }
+    ],
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:74603",
+          "text": "inuha"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：inuha\n作词：inuha\n作曲：inuha\n编曲：inuha"
+  },
+  "subjectId": 720624,
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-16T11:42:01.352Z"
+  }
+}
