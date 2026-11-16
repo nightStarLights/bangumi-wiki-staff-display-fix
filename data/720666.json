@@ -1,0 +1,147 @@
+{
+  "trackCredits": {},
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:37816",
+          "text": "DUSTCELL"
+        }
+      }
+    ],
+    "声乐": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:41315",
+          "text": "EMA"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:84127",
+          "text": "Misumi"
+        }
+      }
+    ],
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:84127",
+          "text": "Misumi"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:84127",
+          "text": "Misumi"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Sosuke Oikawa"
+        }
+      },
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "Shoma Ito"
+          },
+          " & ",
+          {
+            "ref": null,
+            "text": "Takuto Unigame"
+          }
+        ]
+      }
+    ],
+    "instrument": [
+      {
+        "type": "instrument_credit",
+        "person": {
+          "ref": null,
+          "text": "Shoma Ito"
+        },
+        "inst": "Guitar"
+      },
+      {
+        "type": "instrument_credit",
+        "person": {
+          "ref": null,
+          "text": "Takuto Unigame"
+        },
+        "inst": "Bass"
+      },
+      {
+        "type": "instrument_credit",
+        "person": {
+          "ref": null,
+          "text": "Sosuke Oikawa"
+        },
+        "inst": "Piano"
+      },
+      {
+        "type": "instrument_credit",
+        "person": {
+          "ref": null,
+          "text": "Sosuke Oikawa"
+        },
+        "inst": "Synthesizer"
+      },
+      {
+        "type": "instrument_credit",
+        "person": {
+          "ref": null,
+          "text": "Sosuke Oikawa"
+        },
+        "inst": "Strings"
+      },
+      {
+        "type": "instrument_credit",
+        "person": {
+          "ref": null,
+          "text": "Sosuke Oikawa"
+        },
+        "inst": "Other Instruments"
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "海は広いな"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:77170",
+          "text": "ALLT RECORD"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：DUSTCELL\n作词：Misumi\n作曲：Misumi\n编曲：Misumi、Sosuke Oikawa、Shoma Ito & Takuto Unigame\n声乐：EMA\n插图：海は広いな\n厂牌：ALLT RECORD (ALLT STUDIO)\n乐器-Guitar：Shoma Ito\n乐器-Bass：Takuto Unigame\n乐器-Piano：Sosuke Oikawa\n乐器-Synthesizer：Sosuke Oikawa\n乐器-Strings：Sosuke Oikawa\n乐器-Other Instruments：Sosuke Oikawa"
+  },
+  "subjectId": 720666,
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-16T13:49:40.331Z"
+  }
+}
