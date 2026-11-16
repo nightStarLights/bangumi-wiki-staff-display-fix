@@ -1,0 +1,62 @@
+{
+  "trackCredits": {
+    "1.14": {
+      "instrument": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Omu"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:76543",
+          "text": "春浅葱"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:76543",
+          "text": "春浅葱"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:76543",
+          "text": "春浅葱"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:76543",
+          "text": "春浅葱"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：春浅葱\n作曲：春浅葱\n编曲：春浅葱\n乐器：Omu(14)\n插图：春浅葱"
+  },
+  "subjectId": 720620,
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-16T11:32:16.083Z"
+  }
+}
