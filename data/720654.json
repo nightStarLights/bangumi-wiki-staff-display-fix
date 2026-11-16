@@ -1,0 +1,136 @@
+{
+  "subjectId": 720654,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71673",
+            "text": "DenDora"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71673",
+            "text": "DenDora"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:80454",
+            "text": "ぼぉの"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:80454",
+            "text": "ぼぉの"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:80453",
+              "text": "joinT"
+            },
+            " & ",
+            {
+              "ref": "p:71299",
+              "text": "書店太郎"
+            }
+          ]
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71299",
+            "text": "書店太郎"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71299",
+            "text": "書店太郎"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:80453",
+            "text": "joinT"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "井川HiKARu"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Blatantly Emotional Records"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "にのみや"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：DenDora(1,6)、ぼぉの(2,7)、joinT & 書店太郎(3)、書店太郎(4,8)、joinT(5)\n插图：井川HiKARu\n厂牌：Blatantly Emotional Records\n设计：にのみや"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-16T13:33:08.260Z"
+  }
+}
