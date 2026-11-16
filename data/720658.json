@@ -1,0 +1,157 @@
+{
+  "subjectId": 720658,
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "ツヅルネ"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "初音ミク"
+            }
+          ]
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Rinri"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "重音テトSV"
+            }
+          ]
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "らのぴ△"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "宮舞モカ"
+            }
+          ]
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "phy"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "可不"
+            }
+          ]
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "藻塩"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "v flower"
+            }
+          ]
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "ひえき"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "初音ミク"
+            }
+          ]
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "parts": [
+            "菲海 巡",
+            " feat. ",
+            {
+              "ref": null,
+              "text": "可不"
+            }
+          ]
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "ゆうれい3"
+            },
+            " feat. ",
+            {
+              "ref": null,
+              "text": "可不"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "藻塩"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：ツヅルネ feat. 初音ミク(1)、Rinri feat. 重音テトSV(2)、らのぴ△ feat. 宮舞モカ(3)、phy feat. 可不(4)、藻塩 feat. v flower(5)、ひえき feat. 初音ミク(6)、《菲海 巡》 feat. 可不(7)、ゆうれい3 feat. 可不(8)\n插图：藻塩"
+  },
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-16T13:40:10.265Z"
+  }
+}
