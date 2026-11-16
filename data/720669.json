@@ -1,0 +1,59 @@
+{
+  "trackCredits": {},
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:48630",
+          "text": "ツミキ"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:48630",
+          "text": "ツミキ"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:48630",
+          "text": "ツミキ"
+        }
+      }
+    ],
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:48630",
+          "text": "ツミキ"
+        }
+      }
+    ],
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Tohru Takayama"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：ツミキ\n作词：ツミキ\n作曲：ツミキ\n编曲：ツミキ\n混音：Tohru Takayama"
+  },
+  "subjectId": 720669,
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-16T13:52:24.449Z"
+  }
+}
