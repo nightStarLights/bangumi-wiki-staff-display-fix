@@ -1,0 +1,23 @@
+{
+  "trackCredits": {},
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "お柴鉱脈"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：お柴鉱脈"
+  },
+  "subjectId": 720622,
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-16T11:35:06.589Z"
+  }
+}
