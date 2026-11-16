@@ -1,0 +1,32 @@
+{
+  "trackCredits": {},
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ナナツナツ"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ナナツナツ"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：ナナツナツ\n插图：ナナツナツ"
+  },
+  "subjectId": 720661,
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-16T13:42:47.311Z"
+  }
+}
