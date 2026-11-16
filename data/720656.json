@@ -1,0 +1,32 @@
+{
+  "trackCredits": {},
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Aseri"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:83350",
+          "text": "夜間同好会"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：Aseri\n厂牌：夜間同好会"
+  },
+  "subjectId": 720656,
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-16T13:37:19.795Z"
+  }
+}
