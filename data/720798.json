@@ -97,7 +97,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:106188",
             "text": "Neko on'Nanoko*emoji"
           }
         },
@@ -157,6 +157,6 @@
   "_meta": {
     "submittedBy": "781929",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-11-17T10:56:04.042Z"
+    "submittedAt": "2026-11-17T10:56:10.678Z"
   }
 }
