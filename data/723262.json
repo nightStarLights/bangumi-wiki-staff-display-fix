@@ -1,0 +1,57 @@
+{
+  "trackCredits": {},
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "夜桐蒼"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "夜桐蒼"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "夜桐蒼"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "陽裕"
+        }
+      }
+    ],
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "夜桐蒼"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：夜桐蒼\n作词：夜桐蒼\n作曲：夜桐蒼\n编曲：夜桐蒼、陽裕"
+  },
+  "subjectId": 723262,
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-18T13:50:31.857Z"
+  }
+}
