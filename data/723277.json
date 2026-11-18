@@ -1,0 +1,23 @@
+{
+  "trackCredits": {},
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "明日よりも遠い国"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：明日よりも遠い国"
+  },
+  "subjectId": 723277,
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-18T14:16:01.120Z"
+  }
+}
