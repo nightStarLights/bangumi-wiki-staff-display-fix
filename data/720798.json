@@ -120,22 +120,36 @@
           }
         },
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Shiroi-Ice"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "Shiroi-Ice"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Shiraikori.W"
+            },
+            ")"
+          ]
         }
       ]
     },
     "1.9": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Shiroi-Ice"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "Shiroi-Ice"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Shiraikori.W"
+            },
+            ")"
+          ]
         }
       ]
     }
@@ -152,11 +166,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "制作人：GayseHJLL\n艺术家：GayseHJLL(1-8,10)、Dyako(7), Neko on'Nanoko*emoji(8), Mirolke(8), Shiroi-Ice(9,10)"
+    "editor": "制作人：GayseHJLL\n艺术家：GayseHJLL(1-8,10)、Dyako(7), Neko on'Nanoko*emoji(8), Mirolke(8), Shiroi-Ice (Shiraikori.W)(9,10)"
   },
   "_meta": {
     "submittedBy": "781929",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-11-17T10:56:10.678Z"
+    "submittedAt": "2026-11-19T07:01:55.040Z"
   }
 }
