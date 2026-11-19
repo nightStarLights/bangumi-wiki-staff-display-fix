@@ -169,54 +169,82 @@
     "1.5": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Shiroi-Ice"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "Shiroi-Ice"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Shiraikori.W"
+            },
+            ")"
+          ]
         }
       ]
     },
     "1.9": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Shiroi-Ice"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "Shiroi-Ice"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Shiraikori.W"
+            },
+            ")"
+          ]
         }
       ]
     },
     "1.10": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Shiroi-Ice"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "Shiroi-Ice"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Shiraikori.W"
+            },
+            ")"
+          ]
         }
       ]
     },
     "1.18": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Shiroi-Ice"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "Shiroi-Ice"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Shiraikori.W"
+            },
+            ")"
+          ]
         }
       ]
     }
   },
   "rawPatches": {
-    "editor": "艺术家：叶韵逆溯(1,11-13)、浮云心丶(2)、HJLL(3,6-8,14-17,19)、Greyscale(4)、Shiroi-Ice(5,9,10,18)"
+    "editor": "艺术家：叶韵逆溯(1,11-13)、浮云心丶(2)、HJLL(3,6-8,14-17,19)、Greyscale(4)、Shiroi-Ice (Shiraikori.W)(5,9,10,18)"
   },
   "_meta": {
     "submittedBy": "781929",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-11-19T06:11:48.599Z"
+    "submittedAt": "2026-11-19T07:00:44.141Z"
   }
 }
