@@ -1,4 +1,5 @@
 {
+  "subjectId": 726648,
   "trackCredits": {
     "1.1": {
       "composer": [
@@ -80,6 +81,22 @@
           "inst": "String"
         }
       ],
+      "声乐": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Kang Yunjeong"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Direction Cosmograph"
+          }
+        }
+      ],
       "lyricist": [
         {
           "type": "person",
@@ -121,26 +138,8 @@
               "ref": null,
               "text": "Yoona Ch @SHIFTUPStudio"
             },
-            " (Vocal Rec)"
+            " (声乐 Rec)"
           ]
-        }
-      ],
-      "声乐": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Kang Yunjeong"
-          }
-        }
-      ],
-      "vocaldirection": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:69731",
-            "text": "Cosmograph"
-          }
         }
       ]
     },
@@ -186,7 +185,7 @@
           }
         }
       ],
-      "artist": [
+      "声乐": [
         {
           "type": "person",
           "person": {
@@ -518,7 +517,7 @@
           "inst": "Guitar"
         }
       ],
-      "artist": [
+      "声乐": [
         {
           "type": "person",
           "person": {
@@ -575,7 +574,7 @@
               "ref": null,
               "text": "Yoona Cho"
             },
-            " (Vocal REC)"
+            " (声乐 REC)"
           ]
         }
       ]
@@ -631,7 +630,7 @@
           }
         }
       ],
-      "artist": [
+      "声乐": [
         {
           "type": "person",
           "person": {
@@ -642,7 +641,7 @@
         {
           "type": "person",
           "person": {
-            "ref": null,
+            "ref": "p:85497",
             "text": "Laco (EOW)"
           }
         }
@@ -757,13 +756,22 @@
           }
         }
       ],
-      "artist": [
+      "声乐": [
         {
           "type": "person",
           "person": {
             "ref": null,
             "text": "AVOKID"
           }
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Whitney Sol"
+            },
+            " (Rap)"
+          ]
         }
       ],
       "lyricist": [
@@ -782,17 +790,6 @@
             "ref": null,
             "text": "Park Moonsoo"
           }
-        }
-      ],
-      "声乐": [
-        {
-          "parts": [
-            {
-              "ref": null,
-              "text": "Whitney Sol"
-            },
-            " (Rap)"
-          ]
         }
       ],
       "custom-Digital Edit": [
@@ -1105,12 +1102,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：KENON(2)、Ember(2,28)、AVOKID(5)、Kang Yunjeong(26)、Laco (EOW)(28)\n作词：N.U.(2,13,26)、Mori+(5)、Cosmograph(13,26,28)\n作曲：Nauts(1,12,13,24)、NieN(2,14,30)、Cosmograph(3,11,13,14,16,19,21-23,26-28,32-34)、Donghyun Go(4)、Mori+(5,6,9,20,31)、Corners Groove(7,10,20,22,29)、Moeki Harada (原田萌喜)(8)、DoubleTO(10,15)、Zekk(17,18)、Powerless(25)\n编曲：Donghyun Go(8,11,27)、Corners Groove(10,22,32)、Nauts(13,16,21,23,26)、Mori+(14)、Benicx(17,18)、wavSMiTH(19)、Cosmograph(26,28)\n声乐：Kang Yunjeong(13)\n混音：Motmercy(2)\n母带制作：Cosmograph(2)、Park Moonsoo(5)、Park moonsoo / U-il Soundworks(28)\n厂牌：LEVEL NINE\n人声指导：Cosmograph(13)\n乐器-String：JamString(1,8,10,12,13,15-19,21,23,24,26,27)\n声乐-Rap：Whitney Sol(5)\ncustom-Digital Edit：Cosmograph(5)\n录音-String Rec：Lee sangduk @Velvet Studio(8,10,12,13,15-19,21,23,24,26,27)\n录音-Vocal Rec：Yoona Ch @SHIFTUPStudio(13)\n乐器-Guitar：NieN(26,28)\n录音-Vocal REC：Yoona Cho(26)\n录音：Fumito Nakamura(Endhits Studio)(28)"
+    "editor": "作词：N.U.(2,13,26)、Mori+(5)、Cosmograph(13,26,28)\n作曲：Nauts(1,12,13,24)、NieN(2,14,30)、Cosmograph(3,11,13,14,16,19,21-23,26-28,32-34)、Donghyun Go(4)、Mori+(5,6,9,20,31)、Corners Groove(7,10,20,22,29)、Moeki Harada (原田萌喜)(8)、DoubleTO(10,15)、Zekk(17,18)、Powerless(25)\n编曲：Donghyun Go(8,11,27)、Corners Groove(10,22,32)、Nauts(13,16,21,23,26)、Mori+(14)、Benicx(17,18)、wavSMiTH(19)、Cosmograph(26,28)\n声乐：KENON(2)、Ember(2,28)、AVOKID(5)、Kang Yunjeong(13,26)、Direction Cosmograph(13)、Laco (EOW)(28)\n混音：Motmercy(2)\n母带制作：Cosmograph(2)、Park Moonsoo(5)、Park moonsoo / U-il Soundworks(28)\n厂牌：LEVEL NINE\n乐器-String：JamString(1,8,10,12,13,15-19,21,23,24,26,27)\n声乐-Rap：Whitney Sol(5)\ncustom-Digital Edit：Cosmograph(5)\n录音-String Rec：Lee sangduk @Velvet Studio(8,10,12,13,15-19,21,23,24,26,27)\n录音-声乐 Rec：Yoona Ch @SHIFTUPStudio(13)\n乐器-Guitar：NieN(26,28)\n录音-声乐 REC：Yoona Cho(26)\n录音：Fumito Nakamura(Endhits Studio)(28)"
   },
-  "subjectId": 726648,
   "_meta": {
     "submittedBy": "781929",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-11-19T17:42:37.487Z"
+    "submittedAt": "2026-11-19T17:43:35.157Z"
   }
 }
