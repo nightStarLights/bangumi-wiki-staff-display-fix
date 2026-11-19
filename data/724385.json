@@ -1,4 +1,5 @@
 {
+  "subjectId": 724385,
   "trackCredits": {
     "1.1": {
       "artist": [
@@ -210,14 +211,12 @@
       ]
     }
   },
-  "epinfo": {},
   "rawPatches": {
     "editor": "艺术家：叶韵逆溯(1,11-13)、浮云心丶(2)、HJLL(3,6-8,14-17,19)、Greyscale(4)、Shiroi-Ice(5,9,10,18)"
   },
-  "subjectId": 724385,
   "_meta": {
     "submittedBy": "781929",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-11-19T06:11:05.837Z"
+    "submittedAt": "2026-11-19T06:11:48.599Z"
   }
 }
