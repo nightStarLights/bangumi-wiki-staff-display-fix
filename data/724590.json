@@ -1,0 +1,39 @@
+{
+  "trackCredits": {},
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "NekoFamily Records"
+        }
+      },
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "SADRECORDS"
+        }
+      }
+    ],
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:106188",
+          "text": "Neko on'Nanoko*emoji"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：Neko on'Nanoko*emoji\n厂牌：NekoFamily Records、SADRECORDS"
+  },
+  "subjectId": 724590,
+  "_meta": {
+    "submittedBy": "781929",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-19T06:24:32.524Z"
+  }
+}
