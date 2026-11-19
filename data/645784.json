@@ -6,7 +6,7 @@
         {
           "parts": [
             {
-              "ref": null,
+              "ref": "p:73997",
               "text": "xaev"
             },
             " ft. ",
@@ -39,32 +39,45 @@
     "1.11": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Shiroi-Ice"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "Shiroi-Ice"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "Shiraikori.W"
+            },
+            ")"
+          ]
         }
       ]
     },
     "1.12": {
       "artist": [
         {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "AXURA × 星名はる"
-          }
+          "parts": [
+            {
+              "ref": "p:73996",
+              "text": "AXURA"
+            },
+            " × ",
+            {
+              "ref": "p:69027",
+              "text": "星名はる"
+            }
+          ]
         }
       ]
     }
   },
   "rawPatches": {
-    "editor": "艺术家：xaev ft. Alyx Trick(2)、Alyx Trick(2)、kioik(4)、Shiroi-Ice(11)、AXURA × 星名はる(12)"
+    "editor": "艺术家：xaev ft. Alyx Trick(2)、Alyx Trick(2)、kioik(4)、Shiroi-Ice (Shiraikori.W)(11)、AXURA × 星名はる(12)"
   },
   "_meta": {
-    "submittedBy": "459115",
+    "submittedBy": "781929",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-04-29T09:48:58.732Z"
+    "submittedAt": "2026-11-19T07:01:21.066Z"
   }
 }
