@@ -1,988 +1,6 @@
 {
   "subjectId": 713483,
   "trackCredits": {
-    "1.2": {
-      "lyricist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "生生"
-          }
-        }
-      ],
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "田汨 @Sound Growth Studios"
-          }
-        }
-      ],
-      "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "严俊 @Sonic Ruler Studio"
-          }
-        },
-        {
-          "parts": [
-            {
-              "ref": "p:100611",
-              "text": "田汨"
-            },
-            " (Strings Arranger)"
-          ]
-        },
-        {
-          "parts": [
-            {
-              "ref": "p:103269",
-              "text": "张羣"
-            },
-            " (Strings Arranger)"
-          ]
-        },
-        {
-          "parts": [
-            {
-              "ref": "p:24375",
-              "text": "lbg"
-            },
-            " (",
-            {
-              "ref": null,
-              "text": "罗赓"
-            },
-            ")",
-            " (和声编写)"
-          ]
-        }
-      ],
-      "vocal": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "花椒"
-          }
-        }
-      ],
-      "mixing": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "严俊"
-          }
-        }
-      ],
-      "mastering": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "严俊"
-          }
-        }
-      ],
-      "custom-制作": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:100611",
-            "text": "田汨"
-          }
-        }
-      ],
-      "custom-配唱制作": [
-        {
-          "parts": [
-            {
-              "ref": null,
-              "text": "lbg"
-            },
-            " (",
-            {
-              "ref": null,
-              "text": "罗赓"
-            },
-            ")"
-          ]
-        }
-      ],
-      "instrument": [
-        {
-          "type": "instrument_credit",
-          "person": {
-            "ref": "p:63070",
-            "text": "国际首席爱乐乐团"
-          },
-          "inst": "Orchestra"
-        }
-      ],
-      "recording": [
-        {
-          "parts": [
-            {
-              "ref": null,
-              "text": "李巍 @CHINA THEATRE STUDIO"
-            },
-            " (Orchestra Recording Engineer)"
-          ]
-        },
-        {
-          "parts": [
-            {
-              "ref": null,
-              "text": "袁雄宇 @Cashmere Studios"
-            },
-            " (Vocal Recording Engineer)"
-          ]
-        }
-      ]
-    },
-    "1.11": {
-      "lyricist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "泰然"
-          }
-        }
-      ],
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "泰然"
-          }
-        }
-      ],
-      "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "音速行星"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "MSR Studio"
-          }
-        }
-      ],
-      "vocal": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Sashenka"
-          }
-        }
-      ],
-      "mixing": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "王业鑫"
-          }
-        }
-      ],
-      "mastering": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "张步若"
-          }
-        }
-      ],
-      "choir": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "田凯文"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "范婷"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "史潇予"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "曾利"
-          }
-        }
-      ],
-      "custom-制作": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "音速行星"
-          }
-        }
-      ],
-      "instrument": [
-        {
-          "type": "instrument_credit",
-          "person": {
-            "ref": null,
-            "text": "沈肖萍"
-          },
-          "inst": "笛子"
-        },
-        {
-          "type": "instrument_credit",
-          "person": {
-            "ref": null,
-            "text": "段银莹"
-          },
-          "inst": "古筝"
-        }
-      ],
-      "recording": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "王业鑫"
-          }
-        }
-      ]
-    },
-    "1.14": {
-      "lyricist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:67685",
-            "text": "翟锦彦"
-          }
-        }
-      ],
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:67685",
-            "text": "翟锦彦"
-          }
-        }
-      ],
-      "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:67685",
-            "text": "翟锦彦"
-          }
-        }
-      ],
-      "vocal": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "村西"
-          }
-        }
-      ],
-      "mixing": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "赵亚楠"
-          }
-        }
-      ],
-      "mastering": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "赵亚楠"
-          }
-        }
-      ],
-      "custom-制作": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:67685",
-            "text": "翟锦彦"
-          }
-        }
-      ],
-      "recording": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "张凯博"
-          }
-        }
-      ]
-    },
-    "1.17": {
-      "lyricist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Hyunmin Cho"
-          }
-        }
-      ],
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Hyunmin Cho"
-          }
-        }
-      ],
-      "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Hyunmin Cho"
-          }
-        }
-      ],
-      "vocal": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:69133",
-            "text": "Pernelle"
-          }
-        }
-      ],
-      "mixing": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Hyunmin Cho"
-          }
-        }
-      ],
-      "custom-制作": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Hyunmin Cho"
-          }
-        }
-      ],
-      "recording": [
-        {
-          "parts": [
-            {
-              "ref": "p:69133",
-              "text": "Pernelle"
-            },
-            " (Acapella Recording)"
-          ]
-        }
-      ]
-    },
-    "1.18": {
-      "lyricist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "u32"
-          }
-        }
-      ],
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Hyunmin Cho"
-          }
-        }
-      ],
-      "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Hyunmin Cho"
-          }
-        }
-      ],
-      "vocal": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:13585",
-            "text": "Emi Evans"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:73942",
-            "text": "vally.exe"
-          }
-        }
-      ],
-      "mixing": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "赵亚楠"
-          }
-        }
-      ],
-      "mastering": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "赵亚楠"
-          }
-        }
-      ],
-      "custom-制作": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Hyunmin Cho"
-          }
-        }
-      ],
-      "recording": [
-        {
-          "parts": [
-            {
-              "ref": null,
-              "text": "宗田洋之"
-            },
-            " (Vocal Recording Engineer)"
-          ]
-        },
-        {
-          "parts": [
-            {
-              "ref": null,
-              "text": "Sangduk Lee @Velvet Studio"
-            },
-            " (Strings Recording Engineer)"
-          ]
-        }
-      ],
-      "instrument": [
-        {
-          "type": "instrument_credit",
-          "person": {
-            "ref": null,
-            "text": "王阳"
-          },
-          "inst": "二胡"
-        },
-        {
-          "type": "instrument_credit",
-          "person": {
-            "ref": null,
-            "text": "Jam Strings"
-          },
-          "inst": "弦乐"
-        }
-      ]
-    },
-    "1.20": {
-      "lyricist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "阿澜 @8:48"
-          }
-        }
-      ],
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "早餐 @A8RECORDS"
-          }
-        }
-      ],
-      "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "早餐 @A8RECORDS"
-          }
-        }
-      ],
-      "vocal": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "阿澜 @8:48"
-          }
-        }
-      ],
-      "mixing": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "早餐 @A8RECORDS"
-          }
-        }
-      ],
-      "mastering": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "早餐 @A8RECORDS"
-          }
-        }
-      ],
-      "custom-制作": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "早餐 @A8RECORDS"
-          }
-        }
-      ],
-      "recording": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "haoduoyun"
-          }
-        }
-      ],
-      "instrument": [
-        {
-          "type": "instrument_credit",
-          "person": {
-            "ref": null,
-            "text": "尤玥"
-          },
-          "inst": "小提琴"
-        }
-      ]
-    },
-    "1.21": {
-      "lyricist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Kkoori"
-          }
-        }
-      ],
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "早餐 @A8RECORDS"
-          }
-        }
-      ],
-      "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "早餐 @A8RECORDS"
-          }
-        }
-      ],
-      "vocal": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Kkoori"
-          }
-        }
-      ],
-      "mixing": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "早餐 @A8RECORDS"
-          }
-        }
-      ],
-      "mastering": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "早餐 @A8RECORDS"
-          }
-        }
-      ],
-      "custom-制作": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "早餐 @A8RECORDS"
-          }
-        }
-      ],
-      "recording": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Kkoori"
-          }
-        }
-      ],
-      "instrument": [
-        {
-          "type": "instrument_credit",
-          "person": {
-            "ref": null,
-            "text": "尤玥"
-          },
-          "inst": "小提琴"
-        }
-      ]
-    },
-    "1.22": {
-      "lyricist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Z:U"
-          }
-        }
-      ],
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "早餐 @A8RECORDS"
-          }
-        }
-      ],
-      "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "早餐 @A8RECORDS"
-          }
-        }
-      ],
-      "vocal": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "mill"
-          }
-        }
-      ],
-      "mixing": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "早餐 @A8RECORDS"
-          }
-        }
-      ],
-      "mastering": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "早餐 @A8RECORDS"
-          }
-        }
-      ],
-      "custom-制作": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "早餐 @A8RECORDS"
-          }
-        }
-      ],
-      "recording": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "mill"
-          }
-        }
-      ],
-      "instrument": [
-        {
-          "type": "instrument_credit",
-          "person": {
-            "ref": null,
-            "text": "尤玥"
-          },
-          "inst": "小提琴"
-        }
-      ]
-    },
-    "1.23": {
-      "lyricist": [
-        {
-          "parts": [
-            {
-              "ref": "p:41138",
-              "text": "kaztora"
-            },
-            " (",
-            {
-              "ref": null,
-              "text": "森羅万象"
-            },
-            ")"
-          ]
-        }
-      ],
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "早餐 @A8RECORDS"
-          }
-        }
-      ],
-      "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "早餐 @A8RECORDS"
-          }
-        }
-      ],
-      "vocal": [
-        {
-          "parts": [
-            {
-              "ref": "p:34905",
-              "text": "あよ"
-            },
-            " (",
-            {
-              "ref": null,
-              "text": "森羅万象"
-            },
-            ")"
-          ]
-        }
-      ],
-      "mixing": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "早餐 @A8RECORD"
-          }
-        }
-      ],
-      "mastering": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "早餐 @A8RECORD"
-          }
-        }
-      ],
-      "custom-制作": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "早餐 @A8RECORDS"
-          }
-        }
-      ],
-      "recording": [
-        {
-          "parts": [
-            {
-              "ref": "p:6372",
-              "text": "Hedonist"
-            },
-            " (",
-            {
-              "ref": null,
-              "text": "森羅万象"
-            },
-            ")"
-          ]
-        }
-      ],
-      "instrument": [
-        {
-          "type": "instrument_credit",
-          "person": {
-            "ref": null,
-            "text": "尤玥"
-          },
-          "inst": "小提琴"
-        }
-      ],
-      "custom-作词统筹": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:34904",
-            "text": "森羅万象"
-          }
-        }
-      ],
-      "custom-歌手统筹": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:34904",
-            "text": "森羅万象"
-          }
-        }
-      ]
-    },
-    "1.24": {
-      "lyricist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "EGGY"
-          }
-        }
-      ],
-      "composer": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Hyunmin Cho"
-          }
-        }
-      ],
-      "arranger": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Hyunmin Cho"
-          }
-        },
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:35341",
-            "text": "seibin"
-          }
-        }
-      ],
-      "mastering": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "张步若"
-          }
-        }
-      ],
-      "custom-制作": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "Hyunmin Cho"
-          }
-        }
-      ],
-      "vocal": [
-        {
-          "parts": [
-            {
-              "ref": null,
-              "text": "EGGY"
-            },
-            " (人声吟唱)"
-          ]
-        }
-      ],
-      "instrument": [
-        {
-          "type": "instrument_credit",
-          "person": {
-            "ref": null,
-            "text": "Jam strings"
-          },
-          "inst": "小提琴Solo"
-        },
-        {
-          "type": "instrument_credit",
-          "person": {
-            "ref": null,
-            "text": "Bae Shin Hee @Jam Strings"
-          },
-          "inst": "小提琴Solo"
-        }
-      ]
-    },
     "1.1": {
       "composer": [
         {
@@ -1011,7 +29,7 @@
           }
         }
       ],
-      "vocal": [
+      "声乐": [
         {
           "parts": [
             {
@@ -1057,6 +75,143 @@
         }
       ]
     },
+    "1.2": {
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:100611",
+              "text": "田汨"
+            },
+            " @Sound Growth Studios"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "严俊"
+            },
+            " @Sonic Ruler Studio"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:100611",
+              "text": "田汨"
+            },
+            " (Strings Arranger)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:103269",
+              "text": "张羣"
+            },
+            " (Strings Arranger)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:24375",
+              "text": "lbg"
+            },
+            " (和声编写)"
+          ]
+        }
+      ],
+      "custom-制作": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100611",
+            "text": "田汨"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "生生"
+          }
+        }
+      ],
+      "声乐": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "花椒"
+          }
+        }
+      ],
+      "custom-配唱制作": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:24375",
+            "text": "lbg"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:63070",
+            "text": "国际首席爱乐乐团"
+          },
+          "inst": "Orchestra"
+        }
+      ],
+      "recording": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "李巍"
+            },
+            " @CHINA THEATRE STUDIO",
+            " (Orchestra Recording Engineer)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "袁雄宇"
+            },
+            " @Cashmere Studios",
+            " (Vocal Recording Engineer)"
+          ]
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "严俊"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "严俊"
+          }
+        }
+      ]
+    },
     "1.3": {
       "composer": [
         {
@@ -1076,21 +231,21 @@
           }
         }
       ],
-      "mastering": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "张步若"
-          }
-        }
-      ],
       "custom-制作": [
         {
           "type": "person",
           "person": {
             "ref": "p:99620",
             "text": "Ceru_"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "张步若"
           }
         }
       ]
@@ -1123,7 +278,7 @@
           }
         }
       ],
-      "vocal": [
+      "声乐": [
         {
           "parts": [
             {
@@ -1138,34 +293,29 @@
     "1.4": {
       "composer": [
         {
-          "parts": [
-            {
-              "ref": "p:46026",
-              "text": "HeartStrings"
-            },
-            " (",
-            {
-              "ref": null,
-              "text": "曾怡"
-            },
-            ")"
-          ]
+          "type": "person",
+          "person": {
+            "ref": "p:46026",
+            "text": "HeartStrings"
+          }
         }
       ],
       "arranger": [
         {
-          "parts": [
-            {
-              "ref": "p:46026",
-              "text": "HeartStrings"
-            },
-            " (",
-            {
-              "ref": null,
-              "text": "曾怡"
-            },
-            ")"
-          ]
+          "type": "person",
+          "person": {
+            "ref": "p:46026",
+            "text": "HeartStrings"
+          }
+        }
+      ],
+      "custom-制作": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:46026",
+            "text": "HeartStrings"
+          }
         }
       ],
       "mastering": [
@@ -1175,22 +325,6 @@
             "ref": null,
             "text": "张步若"
           }
-        }
-      ],
-      "custom-制作": [
-        {
-          "parts": [
-            {
-              "ref": "p:46026",
-              "text": "HeartStrings"
-            },
-            " (",
-            {
-              "ref": null,
-              "text": "曾怡"
-            },
-            ")"
-          ]
         }
       ]
     },
@@ -1213,6 +347,15 @@
           }
         }
       ],
+      "custom-制作": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "WS MUSIC"
+          }
+        }
+      ],
       "mixing": [
         {
           "type": "person",
@@ -1228,15 +371,6 @@
           "person": {
             "ref": null,
             "text": "张步若"
-          }
-        }
-      ],
-      "custom-制作": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "WS MUSIC"
           }
         }
       ]
@@ -1331,6 +465,15 @@
           }
         }
       ],
+      "custom-制作": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
       "mixing": [
         {
           "type": "person",
@@ -1346,15 +489,6 @@
           "person": {
             "ref": "p:70690",
             "text": "S9ryne"
-          }
-        }
-      ],
-      "custom-制作": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:99375",
-            "text": "Dash Sound"
           }
         }
       ],
@@ -1397,7 +531,16 @@
           }
         }
       ],
-      "vocal": [
+      "custom-制作": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:103273",
+            "text": "赵亮棋"
+          }
+        }
+      ],
+      "声乐": [
         {
           "type": "person",
           "person": {
@@ -1421,15 +564,6 @@
           "person": {
             "ref": null,
             "text": "MSR Studio"
-          }
-        }
-      ],
-      "custom-制作": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:103273",
-            "text": "赵亮棋"
           }
         }
       ]
@@ -1494,6 +628,15 @@
           }
         }
       ],
+      "custom-制作": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
       "mixing": [
         {
           "type": "person",
@@ -1504,15 +647,6 @@
         }
       ],
       "mastering": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:99375",
-            "text": "Dash Sound"
-          }
-        }
-      ],
-      "custom-制作": [
         {
           "type": "person",
           "person": {
@@ -1557,6 +691,135 @@
         }
       ]
     },
+    "1.11": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "泰然"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "音速行星"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "MSR Studio"
+          }
+        }
+      ],
+      "custom-制作": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "音速行星"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "泰然"
+          }
+        }
+      ],
+      "声乐": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Sashenka"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "王业鑫"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "张步若"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "沈肖萍"
+          },
+          "inst": "笛子"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "段银莹"
+          },
+          "inst": "古筝"
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "王业鑫"
+          }
+        }
+      ],
+      "choir": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "田凯文"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "范婷"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "史潇予"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "曾利"
+          }
+        }
+      ]
+    },
     "1.12": {
       "composer": [
         {
@@ -1568,6 +831,15 @@
         }
       ],
       "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67685",
+            "text": "翟锦彦"
+          }
+        }
+      ],
+      "custom-制作": [
         {
           "type": "person",
           "person": {
@@ -1591,15 +863,6 @@
           "person": {
             "ref": null,
             "text": "赵亚楠"
-          }
-        }
-      ],
-      "custom-制作": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:67685",
-            "text": "翟锦彦"
           }
         }
       ],
@@ -1672,6 +935,15 @@
           }
         }
       ],
+      "custom-制作": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67685",
+            "text": "翟锦彦"
+          }
+        }
+      ],
       "mixing": [
         {
           "type": "person",
@@ -1687,15 +959,6 @@
           "person": {
             "ref": null,
             "text": "赵亚楠"
-          }
-        }
-      ],
-      "custom-制作": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:67685",
-            "text": "翟锦彦"
           }
         }
       ],
@@ -1741,6 +1004,80 @@
         }
       ]
     },
+    "1.14": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67685",
+            "text": "翟锦彦"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67685",
+            "text": "翟锦彦"
+          }
+        }
+      ],
+      "custom-制作": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67685",
+            "text": "翟锦彦"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67685",
+            "text": "翟锦彦"
+          }
+        }
+      ],
+      "声乐": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "村西"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "赵亚楠"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "赵亚楠"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "张凯博"
+          }
+        }
+      ]
+    },
     "1.15": {
       "composer": [
         {
@@ -1752,6 +1089,15 @@
         }
       ],
       "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100019",
+            "text": "刘冬"
+          }
+        }
+      ],
+      "custom-制作": [
         {
           "type": "person",
           "person": {
@@ -1775,15 +1121,6 @@
           "person": {
             "ref": null,
             "text": "张步若"
-          }
-        }
-      ],
-      "custom-制作": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:100019",
-            "text": "刘冬"
           }
         }
       ],
@@ -1842,6 +1179,15 @@
           }
         }
       ],
+      "custom-制作": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ludvig Forssell"
+          }
+        }
+      ],
       "mixing": [
         {
           "type": "person",
@@ -1859,13 +1205,671 @@
             "text": "Ludvig Forssell"
           }
         }
+      ]
+    },
+    "1.17": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hyunmin Cho"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hyunmin Cho"
+          }
+        }
       ],
       "custom-制作": [
         {
           "type": "person",
           "person": {
             "ref": null,
-            "text": "Ludvig Forssell"
+            "text": "Hyunmin Cho"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hyunmin Cho"
+          }
+        }
+      ],
+      "声乐": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69133",
+            "text": "Pernelle"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hyunmin Cho"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "parts": [
+            {
+              "ref": "p:69133",
+              "text": "Pernelle"
+            },
+            " (Acapella Recording)"
+          ]
+        }
+      ]
+    },
+    "1.18": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hyunmin Cho"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hyunmin Cho"
+          }
+        }
+      ],
+      "custom-制作": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hyunmin Cho"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "u32"
+          }
+        }
+      ],
+      "声乐": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:13585",
+            "text": "Emi Evans"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73942",
+            "text": "vally.exe"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "宗田洋之"
+            },
+            " (Vocal Recording Engineer)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Sangduk Lee"
+            },
+            " @Velvet Studio",
+            " (Strings Recording Engineer)"
+          ]
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "赵亚楠"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "赵亚楠"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "王阳"
+          },
+          "inst": "二胡"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Jam Strings"
+          },
+          "inst": "弦乐"
+        }
+      ]
+    },
+    "1.24": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hyunmin Cho"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hyunmin Cho"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:35341",
+            "text": "seibin"
+          }
+        }
+      ],
+      "custom-制作": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Hyunmin Cho"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "EGGY"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "张步若"
+          }
+        }
+      ],
+      "声乐": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "EGGY"
+            },
+            " (人声吟唱)"
+          ]
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Jam strings"
+          },
+          "inst": "小提琴Solo"
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Bae Shin Hee"
+            },
+            " @Jam Strings",
+            " (小提琴Solo)"
+          ]
+        }
+      ]
+    },
+    "1.20": {
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:99946",
+              "text": "早餐"
+            },
+            " @A8RECORDS"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": "p:99946",
+              "text": "早餐"
+            },
+            " @A8RECORDS"
+          ]
+        }
+      ],
+      "custom-制作": [
+        {
+          "parts": [
+            {
+              "ref": "p:99946",
+              "text": "早餐"
+            },
+            " @A8RECORDS"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": "p:99947",
+              "text": "阿澜"
+            },
+            " @8:48"
+          ]
+        }
+      ],
+      "声乐": [
+        {
+          "parts": [
+            {
+              "ref": "p:99947",
+              "text": "阿澜"
+            },
+            " @8:48"
+          ]
+        }
+      ],
+      "mixing": [
+        {
+          "parts": [
+            {
+              "ref": "p:99946",
+              "text": "早餐"
+            },
+            " @A8RECORDS"
+          ]
+        }
+      ],
+      "mastering": [
+        {
+          "parts": [
+            {
+              "ref": "p:99946",
+              "text": "早餐"
+            },
+            " @A8RECORDS"
+          ]
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "haoduoyun"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "尤玥"
+          },
+          "inst": "小提琴"
+        }
+      ]
+    },
+    "1.21": {
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:99946",
+              "text": "早餐"
+            },
+            " @A8RECORDS"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": "p:99946",
+              "text": "早餐"
+            },
+            " @A8RECORDS"
+          ]
+        }
+      ],
+      "custom-制作": [
+        {
+          "parts": [
+            {
+              "ref": "p:99946",
+              "text": "早餐"
+            },
+            " @A8RECORDS"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Kkoori"
+          }
+        }
+      ],
+      "声乐": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Kkoori"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "parts": [
+            {
+              "ref": "p:99946",
+              "text": "早餐"
+            },
+            " @A8RECORDS"
+          ]
+        }
+      ],
+      "mastering": [
+        {
+          "parts": [
+            {
+              "ref": "p:99946",
+              "text": "早餐"
+            },
+            " @A8RECORDS"
+          ]
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Kkoori"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "尤玥"
+          },
+          "inst": "小提琴"
+        }
+      ]
+    },
+    "1.22": {
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:99946",
+              "text": "早餐"
+            },
+            " @A8RECORDS"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": "p:99946",
+              "text": "早餐"
+            },
+            " @A8RECORDS"
+          ]
+        }
+      ],
+      "custom-制作": [
+        {
+          "parts": [
+            {
+              "ref": "p:99946",
+              "text": "早餐"
+            },
+            " @A8RECORDS"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Z:U"
+          }
+        }
+      ],
+      "声乐": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "mill"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "parts": [
+            {
+              "ref": "p:99946",
+              "text": "早餐"
+            },
+            " @A8RECORDS"
+          ]
+        }
+      ],
+      "mastering": [
+        {
+          "parts": [
+            {
+              "ref": "p:99946",
+              "text": "早餐"
+            },
+            " @A8RECORDS"
+          ]
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "mill"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "尤玥"
+          },
+          "inst": "小提琴"
+        }
+      ]
+    },
+    "1.23": {
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:99946",
+              "text": "早餐"
+            },
+            " @A8RECORDS"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": "p:99946",
+              "text": "早餐"
+            },
+            " @A8RECORDS"
+          ]
+        }
+      ],
+      "custom-制作": [
+        {
+          "parts": [
+            {
+              "ref": "p:99946",
+              "text": "早餐"
+            },
+            " @A8RECORDS"
+          ]
+        }
+      ],
+      "lyricist": [
+        {
+          "parts": [
+            {
+              "ref": "p:41138",
+              "text": "kaztora"
+            },
+            " (森羅万象)"
+          ]
+        }
+      ],
+      "声乐": [
+        {
+          "parts": [
+            {
+              "ref": "p:34905",
+              "text": "あよ"
+            },
+            " (森羅万象)"
+          ]
+        }
+      ],
+      "mixing": [
+        {
+          "parts": [
+            {
+              "ref": "p:99946",
+              "text": "早餐"
+            },
+            " @A8RECORD"
+          ]
+        }
+      ],
+      "mastering": [
+        {
+          "parts": [
+            {
+              "ref": "p:99946",
+              "text": "早餐"
+            },
+            " @A8RECORD"
+          ]
+        }
+      ],
+      "recording": [
+        {
+          "parts": [
+            {
+              "ref": "p:6372",
+              "text": "Hedonist"
+            },
+            " (森羅万象)"
+          ]
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "尤玥"
+          },
+          "inst": "小提琴"
+        }
+      ],
+      "custom-作词统筹": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:34904",
+            "text": "森羅万象"
+          }
+        }
+      ],
+      "custom-歌手统筹": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:34904",
+            "text": "森羅万象"
           }
         }
       ]
@@ -1916,21 +1920,21 @@
           }
         }
       ],
-      "vocal": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "明家歆"
-          }
-        }
-      ],
       "custom-制作": [
         {
           "type": "person",
           "person": {
             "ref": "p:88148",
             "text": "BLACK 0"
+          }
+        }
+      ],
+      "声乐": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "明家歆"
           }
         }
       ]
@@ -1966,6 +1970,6 @@
   "_meta": {
     "submittedBy": "781929",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-11-19T19:09:12.544Z"
+    "submittedAt": "2026-11-19T19:12:06.460Z"
   }
 }
