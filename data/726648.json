@@ -1,0 +1,1116 @@
+{
+  "trackCredits": {
+    "1.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71314",
+            "text": "Nauts"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:73717",
+            "text": "JamString"
+          },
+          "inst": "String"
+        }
+      ]
+    },
+    "1.12": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71314",
+            "text": "Nauts"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:73717",
+            "text": "JamString"
+          },
+          "inst": "String"
+        }
+      ],
+      "recording": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Lee sangduk @Velvet Studio"
+            },
+            " (String Rec)"
+          ]
+        }
+      ]
+    },
+    "1.13": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71314",
+            "text": "Nauts"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69731",
+            "text": "Cosmograph"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:73717",
+            "text": "JamString"
+          },
+          "inst": "String"
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73718",
+            "text": "N.U."
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69731",
+            "text": "Cosmograph"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71314",
+            "text": "Nauts"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Lee sangduk @Velvet Studio"
+            },
+            " (String Rec)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yoona Ch @SHIFTUPStudio"
+            },
+            " (Vocal Rec)"
+          ]
+        }
+      ],
+      "声乐": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Kang Yunjeong"
+          }
+        }
+      ],
+      "vocaldirection": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69731",
+            "text": "Cosmograph"
+          }
+        }
+      ]
+    },
+    "1.24": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71314",
+            "text": "Nauts"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:73717",
+            "text": "JamString"
+          },
+          "inst": "String"
+        }
+      ],
+      "recording": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Lee sangduk @Velvet Studio"
+            },
+            " (String Rec)"
+          ]
+        }
+      ]
+    },
+    "1.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65614",
+            "text": "NieN"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "KENON"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ember"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73718",
+            "text": "N.U."
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Motmercy"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69731",
+            "text": "Cosmograph"
+          }
+        }
+      ]
+    },
+    "1.14": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65614",
+            "text": "NieN"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69731",
+            "text": "Cosmograph"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Mori+"
+          }
+        }
+      ]
+    },
+    "1.30": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:65614",
+            "text": "NieN"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69731",
+            "text": "Cosmograph"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69731",
+            "text": "Cosmograph"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83130",
+            "text": "Donghyun Go"
+          }
+        }
+      ]
+    },
+    "1.16": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69731",
+            "text": "Cosmograph"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:73717",
+            "text": "JamString"
+          },
+          "inst": "String"
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71314",
+            "text": "Nauts"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Lee sangduk @Velvet Studio"
+            },
+            " (String Rec)"
+          ]
+        }
+      ]
+    },
+    "1.19": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69731",
+            "text": "Cosmograph"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:73717",
+            "text": "JamString"
+          },
+          "inst": "String"
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "wavSMiTH"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Lee sangduk @Velvet Studio"
+            },
+            " (String Rec)"
+          ]
+        }
+      ]
+    },
+    "1.21": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69731",
+            "text": "Cosmograph"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:73717",
+            "text": "JamString"
+          },
+          "inst": "String"
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71314",
+            "text": "Nauts"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Lee sangduk @Velvet Studio"
+            },
+            " (String Rec)"
+          ]
+        }
+      ]
+    },
+    "1.22": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69731",
+            "text": "Cosmograph"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71315",
+            "text": "Corners Groove"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71315",
+            "text": "Corners Groove"
+          }
+        }
+      ]
+    },
+    "1.23": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69731",
+            "text": "Cosmograph"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:73717",
+            "text": "JamString"
+          },
+          "inst": "String"
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71314",
+            "text": "Nauts"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Lee sangduk @Velvet Studio"
+            },
+            " (String Rec)"
+          ]
+        }
+      ]
+    },
+    "1.26": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69731",
+            "text": "Cosmograph"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:73717",
+            "text": "JamString"
+          },
+          "inst": "String"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:65614",
+            "text": "NieN"
+          },
+          "inst": "Guitar"
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Kang Yunjeong"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73718",
+            "text": "N.U."
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69731",
+            "text": "Cosmograph"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71314",
+            "text": "Nauts"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69731",
+            "text": "Cosmograph"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Lee sangduk @Velvet Studio"
+            },
+            " (String Rec)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yoona Cho"
+            },
+            " (Vocal REC)"
+          ]
+        }
+      ]
+    },
+    "1.27": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69731",
+            "text": "Cosmograph"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:73717",
+            "text": "JamString"
+          },
+          "inst": "String"
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83130",
+            "text": "Donghyun Go"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Lee sangduk @Velvet Studio"
+            },
+            " (String Rec)"
+          ]
+        }
+      ]
+    },
+    "1.28": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69731",
+            "text": "Cosmograph"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ember"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Laco (EOW)"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69731",
+            "text": "Cosmograph"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Park moonsoo / U-il Soundworks"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69731",
+            "text": "Cosmograph"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:65614",
+            "text": "NieN"
+          },
+          "inst": "Guitar"
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Fumito Nakamura(Endhits Studio)"
+          }
+        }
+      ]
+    },
+    "1.32": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69731",
+            "text": "Cosmograph"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71315",
+            "text": "Corners Groove"
+          }
+        }
+      ]
+    },
+    "1.33": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69731",
+            "text": "Cosmograph"
+          }
+        }
+      ]
+    },
+    "1.34": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69731",
+            "text": "Cosmograph"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83130",
+            "text": "Donghyun Go"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Mori+"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "AVOKID"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Mori+"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Park Moonsoo"
+          }
+        }
+      ],
+      "声乐": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Whitney Sol"
+            },
+            " (Rap)"
+          ]
+        }
+      ],
+      "custom-Digital Edit": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69731",
+            "text": "Cosmograph"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Mori+"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Mori+"
+          }
+        }
+      ]
+    },
+    "1.20": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Mori+"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71315",
+            "text": "Corners Groove"
+          }
+        }
+      ]
+    },
+    "1.31": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Mori+"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71315",
+            "text": "Corners Groove"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71315",
+            "text": "Corners Groove"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73715",
+            "text": "DoubleTO"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:73717",
+            "text": "JamString"
+          },
+          "inst": "String"
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71315",
+            "text": "Corners Groove"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Lee sangduk @Velvet Studio"
+            },
+            " (String Rec)"
+          ]
+        }
+      ]
+    },
+    "1.29": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71315",
+            "text": "Corners Groove"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71486",
+            "text": "Moeki Harada"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:73717",
+            "text": "JamString"
+          },
+          "inst": "String"
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83130",
+            "text": "Donghyun Go"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Lee sangduk @Velvet Studio"
+            },
+            " (String Rec)"
+          ]
+        }
+      ]
+    },
+    "1.15": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73715",
+            "text": "DoubleTO"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:73717",
+            "text": "JamString"
+          },
+          "inst": "String"
+        }
+      ],
+      "recording": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Lee sangduk @Velvet Studio"
+            },
+            " (String Rec)"
+          ]
+        }
+      ]
+    },
+    "1.17": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:42183",
+            "text": "Zekk"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:73717",
+            "text": "JamString"
+          },
+          "inst": "String"
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Benicx"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Lee sangduk @Velvet Studio"
+            },
+            " (String Rec)"
+          ]
+        }
+      ]
+    },
+    "1.18": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:42183",
+            "text": "Zekk"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:73717",
+            "text": "JamString"
+          },
+          "inst": "String"
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Benicx"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Lee sangduk @Velvet Studio"
+            },
+            " (String Rec)"
+          ]
+        }
+      ]
+    },
+    "1.25": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:8782",
+            "text": "Powerless"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:73713",
+          "text": "LEVEL NINE"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：KENON(2)、Ember(2,28)、AVOKID(5)、Kang Yunjeong(26)、Laco (EOW)(28)\n作词：N.U.(2,13,26)、Mori+(5)、Cosmograph(13,26,28)\n作曲：Nauts(1,12,13,24)、NieN(2,14,30)、Cosmograph(3,11,13,14,16,19,21-23,26-28,32-34)、Donghyun Go(4)、Mori+(5,6,9,20,31)、Corners Groove(7,10,20,22,29)、Moeki Harada (原田萌喜)(8)、DoubleTO(10,15)、Zekk(17,18)、Powerless(25)\n编曲：Donghyun Go(8,11,27)、Corners Groove(10,22,32)、Nauts(13,16,21,23,26)、Mori+(14)、Benicx(17,18)、wavSMiTH(19)、Cosmograph(26,28)\n声乐：Kang Yunjeong(13)\n混音：Motmercy(2)\n母带制作：Cosmograph(2)、Park Moonsoo(5)、Park moonsoo / U-il Soundworks(28)\n厂牌：LEVEL NINE\n人声指导：Cosmograph(13)\n乐器-String：JamString(1,8,10,12,13,15-19,21,23,24,26,27)\n声乐-Rap：Whitney Sol(5)\ncustom-Digital Edit：Cosmograph(5)\n录音-String Rec：Lee sangduk @Velvet Studio(8,10,12,13,15-19,21,23,24,26,27)\n录音-Vocal Rec：Yoona Ch @SHIFTUPStudio(13)\n乐器-Guitar：NieN(26,28)\n录音-Vocal REC：Yoona Cho(26)\n录音：Fumito Nakamura(Endhits Studio)(28)"
+  },
+  "subjectId": 726648,
+  "_meta": {
+    "submittedBy": "781929",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-19T17:42:37.487Z"
+  }
+}
