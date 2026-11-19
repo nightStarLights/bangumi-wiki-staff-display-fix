@@ -540,6 +540,15 @@
           }
         }
       ],
+      "声乐": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:103273",
+            "text": "赵亮棋"
+          }
+        }
+      ],
       "mixing": [
         {
           "type": "person",
@@ -555,15 +564,6 @@
           "person": {
             "ref": null,
             "text": "MSR Studio"
-          }
-        }
-      ],
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": "p:103273",
-            "text": "赵亮棋"
           }
         }
       ]
@@ -1327,6 +1327,27 @@
           }
         }
       ],
+      "recording": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "宗田洋之"
+            },
+            " (Vocal Recording Engineer)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Sangduk Lee"
+            },
+            " @Velvet Studio",
+            " (Strings Recording Engineer)"
+          ]
+        }
+      ],
       "mixing": [
         {
           "type": "person",
@@ -1342,34 +1363,6 @@
           "person": {
             "ref": null,
             "text": "赵亚楠"
-          }
-        }
-      ],
-      "recording": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "宗田洋之"
-          }
-        },
-        {
-          "parts": [
-            {
-              "ref": null,
-              "text": "Sangduk Lee"
-            },
-            " @Velvet Studio",
-            " (Strings Recording Engineer)"
-          ]
-        }
-      ],
-      "artist": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "宗田洋之"
           }
         }
       ],
@@ -1972,11 +1965,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：赵亮棋(8)、宗田洋之(18)\n作词：生生(2)、泰然(11)、翟锦彦(14)、Hyunmin Cho(17)、u32(18)、阿澜 @8:48(20)、Kkoori(21)、《Z:U》(22)、kaztora (森羅万象)(23)、EGGY(24)\n作曲：Salty Salt(1)、田汨 @Sound Growth Studios(2)、Ceru_(3,19)、HeartStrings (曾怡)(4)、茶叶(5)、z1on(6)、HJLL(7)、赵亮棋(8)、Visudy(9)、再定义Studio(9)、Dash Sound(10)、泰然(11)、翟锦彦(12-14)、刘冬(15)、Ludvig Forssell(16)、Hyunmin Cho(17,18,24)、早餐 @A8RECORDS(20-23)、动点(25)、《BLACK 0》(26)、明家歆(26)\n编曲：Salty Salt(1)、严俊 @Sonic Ruler Studio(2)、Ceru_(3,19)、HeartStrings (曾怡)(4)、茶叶(5)、z1on(6)、HJLL(7)、赵亮棋(8)、Visudy(9)、再定义Studio(9)、Koiflower(9)、Dash Sound(10)、音速行星(11)、MSR Studio(11)、翟锦彦(12-14)、刘冬(15)、Ludvig Forssell(16)、Hyunmin Cho(17,18,24)、早餐 @A8RECORDS(20-23)、seibin(24)、动点(25)、《BLACK 0》(26)\n声乐：花椒(2)、Sashenka(11)、村西(14)、Pernelle(17)、Emi Evans(18)、vally.exe(18)、阿澜 @8:48(20)、Kkoori(21)、mill(22)、あよ (森羅万象)(23)、明家歆(26)\n混音：严俊(2)、茶叶(5)、z1on(6)、再定义Studio(6)、HJLL(7)、MSR Studio(8)、Dash Sound(10)、王业鑫(11)、赵亚楠(12-14,18)、祝天涵(15)、Ludvig Forssell(16)、Hyunmin Cho(17)、早餐 @A8RECORDS(20-22)、早餐 @A8RECORD(23)\n母带制作：严俊(2)、张步若(3-5,11,15,24)、z1on(6)、再定义Studio(6)、S9ryne(7)、MSR Studio(8)、Dash Sound(10)、赵亚楠(12-14,18)、Ludvig Forssell(16)、早餐 @A8RECORDS(20-22)、早餐 @A8RECORD(23)\n合唱：田凯文(11)、范婷(11)、史潇予(11)、曾利(11)\n设计-音乐设计：MSR Studio\n制作人-监制：MSR Studio\n声乐-女声吟唱：Metablue赛博蓝(1)\n作曲-主题作曲：田汨(1)\n作词-主题作词：冉语优(1)\ncustom-制作：Salty Salt(1)、MSR Studio(1)、VISION SOUND(1)、田汨(2)、Ceru_(3,19)、HeartStrings (曾怡)(4)、《WS MUSIC》(5)、Dash Sound(7,10)、赵亮棋(8)、音速行星(11)、翟锦彦(12-14)、刘冬(15)、Ludvig Forssell(16)、Hyunmin Cho(17,18,24)、早餐 @A8RECORDS(20-23)、《BLACK 0》(26)\n编曲-Strings Arranger：田汨(2)、张羣(2)\n编曲-和声编写：lbg(2)\ncustom-配唱制作：lbg(2)\n乐器-Orchestra：国际首席爱乐乐团(2)\n录音-Orchestra Recording Engineer：李巍 @CHINA THEATRE STUDIO(2)\n录音-Vocal Recording Engineer：袁雄宇 @Cashmere Studios(2)\n乐器-笛子：丁晓逵(6)、沈肖萍(11)、褚天翱(15)\n录音：王鑫(6)、HJLL(7)、柴昀喆(10)、王业鑫(11)、张凯博(12-14)、滑馨(12,13)、李姣(12,13)、刘芃岑(15)、宗田洋之(18)、haoduoyun(20)、Kkoori(21)、mill(22)、Hedonist (森羅万象)(23)\n乐器-主要器乐演奏者：HJLL(7)\n乐器-曲笛：虞安琪(10)\n乐器-箫：虞安琪(10)、褚天翱(15)\n乐器-尼龙吉他：张八婆ZBP(10)\n乐器-古筝：段银莹(11)\n乐器-琵琶：孟霄(12,13)\n乐器-大笛：丁晓逵(12,13)\n乐器-电古琴：卓然(12)\n乐器-二胡：戴盛华(15)、王阳(18)\n录音-Acapella Recording：Pernelle(17)\n乐器-弦乐：Jam Strings(18)\n录音-Strings Recording Engineer：Sangduk Lee @Velvet Studio(18)\n声乐-人声吟唱：y7(19)、EGGY(24)\n乐器-小提琴：尤玥(20-23)\ncustom-作词统筹：森羅万象(23)\ncustom-歌手统筹：森羅万象(23)\n乐器-小提琴Solo：Jam strings(24)、Bae Shin Hee @Jam Strings(24)"
+    "editor": "作词：生生(2)、泰然(11)、翟锦彦(14)、Hyunmin Cho(17)、u32(18)、阿澜 @8:48(20)、Kkoori(21)、《Z:U》(22)、kaztora (森羅万象)(23)、EGGY(24)\n作曲：Salty Salt(1)、田汨 @Sound Growth Studios(2)、Ceru_(3,19)、HeartStrings (曾怡)(4)、茶叶(5)、z1on(6)、HJLL(7)、赵亮棋(8)、Visudy(9)、再定义Studio(9)、Dash Sound(10)、泰然(11)、翟锦彦(12-14)、刘冬(15)、Ludvig Forssell(16)、Hyunmin Cho(17,18,24)、早餐 @A8RECORDS(20-23)、动点(25)、《BLACK 0》(26)、明家歆(26)\n编曲：Salty Salt(1)、严俊 @Sonic Ruler Studio(2)、Ceru_(3,19)、HeartStrings (曾怡)(4)、茶叶(5)、z1on(6)、HJLL(7)、赵亮棋(8)、Visudy(9)、再定义Studio(9)、Koiflower(9)、Dash Sound(10)、音速行星(11)、MSR Studio(11)、翟锦彦(12-14)、刘冬(15)、Ludvig Forssell(16)、Hyunmin Cho(17,18,24)、早餐 @A8RECORDS(20-23)、seibin(24)、动点(25)、《BLACK 0》(26)\n声乐：花椒(2)、赵亮棋(8)、Sashenka(11)、村西(14)、Pernelle(17)、Emi Evans(18)、vally.exe(18)、阿澜 @8:48(20)、Kkoori(21)、mill(22)、あよ (森羅万象)(23)、明家歆(26)\n混音：严俊(2)、茶叶(5)、z1on(6)、再定义Studio(6)、HJLL(7)、MSR Studio(8)、Dash Sound(10)、王业鑫(11)、赵亚楠(12-14,18)、祝天涵(15)、Ludvig Forssell(16)、Hyunmin Cho(17)、早餐 @A8RECORDS(20-22)、早餐 @A8RECORD(23)\n母带制作：严俊(2)、张步若(3-5,11,15,24)、z1on(6)、再定义Studio(6)、S9ryne(7)、MSR Studio(8)、Dash Sound(10)、赵亚楠(12-14,18)、Ludvig Forssell(16)、早餐 @A8RECORDS(20-22)、早餐 @A8RECORD(23)\n合唱：田凯文(11)、范婷(11)、史潇予(11)、曾利(11)\n设计-音乐设计：MSR Studio\n制作人-监制：MSR Studio\n声乐-女声吟唱：Metablue赛博蓝(1)\n作曲-主题作曲：田汨(1)\n作词-主题作词：冉语优(1)\ncustom-制作：Salty Salt(1)、MSR Studio(1)、VISION SOUND(1)、田汨(2)、Ceru_(3,19)、HeartStrings (曾怡)(4)、《WS MUSIC》(5)、Dash Sound(7,10)、赵亮棋(8)、音速行星(11)、翟锦彦(12-14)、刘冬(15)、Ludvig Forssell(16)、Hyunmin Cho(17,18,24)、早餐 @A8RECORDS(20-23)、《BLACK 0》(26)\n编曲-Strings Arranger：田汨(2)、张羣(2)\n编曲-和声编写：lbg(2)\ncustom-配唱制作：lbg(2)\n乐器-Orchestra：国际首席爱乐乐团(2)\n录音-Orchestra Recording Engineer：李巍 @CHINA THEATRE STUDIO(2)\n录音-Vocal Recording Engineer：袁雄宇 @Cashmere Studios(2)、宗田洋之(18)\n乐器-笛子：丁晓逵(6)、沈肖萍(11)、褚天翱(15)\n录音：王鑫(6)、HJLL(7)、柴昀喆(10)、王业鑫(11)、张凯博(12-14)、滑馨(12,13)、李姣(12,13)、刘芃岑(15)、haoduoyun(20)、Kkoori(21)、mill(22)、Hedonist (森羅万象)(23)\n乐器-主要器乐演奏者：HJLL(7)\n乐器-曲笛：虞安琪(10)\n乐器-箫：虞安琪(10)、褚天翱(15)\n乐器-尼龙吉他：张八婆ZBP(10)\n乐器-古筝：段银莹(11)\n乐器-琵琶：孟霄(12,13)\n乐器-大笛：丁晓逵(12,13)\n乐器-电古琴：卓然(12)\n乐器-二胡：戴盛华(15)、王阳(18)\n录音-Acapella Recording：Pernelle(17)\n乐器-弦乐：Jam Strings(18)\n录音-Strings Recording Engineer：Sangduk Lee @Velvet Studio(18)\n声乐-人声吟唱：y7(19)、EGGY(24)\n乐器-小提琴：尤玥(20-23)\ncustom-作词统筹：森羅万象(23)\ncustom-歌手统筹：森羅万象(23)\n乐器-小提琴Solo：Jam strings(24)、Bae Shin Hee @Jam Strings(24)"
   },
   "_meta": {
     "submittedBy": "781929",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-11-19T19:03:36.698Z"
+    "submittedAt": "2026-11-19T19:04:40.212Z"
   }
 }
