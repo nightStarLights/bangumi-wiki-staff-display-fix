@@ -57,7 +57,7 @@
           "type": "person",
           "person": {
             "ref": null,
-            "text": "U-il"
+            "text": "Park moonsoo / U-il"
           }
         }
       ],
@@ -65,7 +65,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": "p:65614",
+            "ref": null,
             "text": "NieN"
           },
           "inst": "Guitar"
@@ -73,7 +73,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": "p:73717",
+            "ref": null,
             "text": "JamString"
           },
           "inst": "String"
@@ -388,31 +388,22 @@
     }
   },
   "epinfo": {
-    "mastering": [
-      {
-        "type": "person",
-        "person": {
-          "ref": null,
-          "text": "Park moonsoo"
-        }
-      }
-    ],
     "label": [
       {
         "type": "person",
         "person": {
-          "ref": "p:73713",
+          "ref": null,
           "text": "LEVEL NINE"
         }
       }
     ]
   },
   "rawPatches": {
-    "editor": "作词：Cosmograph(26)、N.U.(26)\n作曲：Cosmograph(1-11,14-16,21,23,25-27)、Mori+(12,20)、NieN(13,18,19,22,24)、Corners Groove(17)\n编曲：Cosmograph(26)、Nauts(26)\n声乐：Yoonjung Kang(26)\n母带制作：Park moonsoo / U-il(26)\n厂牌：LEVEL NINE\n乐器-Guitar：NieN(26)\n乐器-String：JamString(26)\n录音-Vocal REC：Yoona Cho @SHIFTUP Studio(26)\n录音-String REC：Lee Sangduk @Velvet Studio(26)"
+    "editor": "作词：Cosmograph(26)、N.U.(26)\n作曲：Cosmograph(1-11,14-16,21,23,25-27)、Mori+(12,20)、NieN(13,18,19,22,24)、Corners Groove(17)\n编曲：Cosmograph(26)、Nauts(26)\n声乐：Yoonjung Kang(26)\n母带制作：《Park moonsoo / U-il》(26)\n厂牌：LEVEL NINE\n乐器-Guitar：NieN(26)\n乐器-String：JamString(26)\n录音-Vocal REC：Yoona Cho @SHIFTUP Studio(26)\n录音-String REC：Lee Sangduk @Velvet Studio(26)"
   },
   "_meta": {
     "submittedBy": "781929",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-11-19T17:21:16.180Z"
+    "submittedAt": "2026-11-20T04:13:39.722Z"
   }
 }
