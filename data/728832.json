@@ -1,0 +1,3244 @@
+{
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70690",
+            "text": "S9ryne"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:70690",
+              "text": "S9ryne"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56423",
+            "text": "VeetaCrush"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:56423",
+              "text": "VeetaCrush"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70690",
+            "text": "S9ryne"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:70690",
+              "text": "S9ryne"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70682",
+            "text": "Rayven"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70690",
+            "text": "S9ryne"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:70682",
+              "text": "Rayven"
+            },
+            " (Dash Sound)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:70690",
+              "text": "S9ryne"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70682",
+            "text": "Rayven"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70690",
+            "text": "S9ryne"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:70682",
+              "text": "Rayven"
+            },
+            " (Dash Sound)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:70690",
+              "text": "S9ryne"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70690",
+            "text": "S9ryne"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70682",
+            "text": "Rayven"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56423",
+            "text": "VeetaCrush"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106407",
+            "text": "勇仕音频"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:70682",
+              "text": "Rayven"
+            },
+            " (Dash Sound)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:70690",
+              "text": "S9ryne"
+            },
+            " (Dash Sound)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:56423",
+              "text": "VeetaCrush"
+            },
+            " (Dash Sound)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:83769",
+              "text": "Polymath9"
+            },
+            " (勇仕音频)"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": "p:70682",
+              "text": "Rayven"
+            },
+            " (Dash Sound)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:70690",
+              "text": "S9ryne"
+            },
+            " (Dash Sound)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:56423",
+              "text": "VeetaCrush"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56423",
+            "text": "VeetaCrush"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70690",
+            "text": "S9ryne"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:56423",
+              "text": "VeetaCrush"
+            },
+            " (Dash Sound)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:70690",
+              "text": "S9ryne"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70690",
+            "text": "S9ryne"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70682",
+            "text": "Rayven"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:70690",
+              "text": "S9ryne"
+            },
+            " (Dash Sound)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:70682",
+              "text": "Rayven"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70682",
+            "text": "Rayven"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56423",
+            "text": "VeetaCrush"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106407",
+            "text": "勇仕音频"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83769",
+            "text": "Polymath9"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11210",
+            "text": "Vanguard Sound"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:70682",
+              "text": "Rayven"
+            },
+            "  (Dash Sound)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:83769",
+              "text": "Polymath9"
+            },
+            " (勇仕音频)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:83770",
+              "text": "CoyDe"
+            },
+            " (Vanguard Sound)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:106406",
+              "text": "Tony Yan"
+            },
+            " (Vanguard Sound)"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "雷声"
+          }
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:70690",
+              "text": "S9ryne"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:100847",
+              "text": "Nevia"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56423",
+            "text": "VeetaCrush"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:56423",
+              "text": "VeetaCrush"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:100847",
+              "text": "Nevia"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.13": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56423",
+            "text": "VeetaCrush"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:56423",
+              "text": "VeetaCrush"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.14": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56423",
+            "text": "VeetaCrush"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106407",
+            "text": "勇仕音频"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:56423",
+              "text": "VeetaCrush"
+            },
+            " (Dash Sound)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:83769",
+              "text": "Polymath9"
+            },
+            " (勇仕音频)"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": "p:56423",
+              "text": "VeetaCrush"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.15": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56423",
+            "text": "VeetaCrush"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:56423",
+              "text": "VeetaCrush"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.16": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56423",
+            "text": "VeetaCrush"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70690",
+            "text": "S9ryne"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:56423",
+              "text": "VeetaCrush"
+            },
+            "  (Dash Sound)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:70690",
+              "text": "S9ryne"
+            },
+            "  (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.17": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56423",
+            "text": "VeetaCrush"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:56423",
+              "text": "VeetaCrush"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.18": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:100847",
+              "text": "Nevia"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.19": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70690",
+            "text": "S9ryne"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:70690",
+              "text": "S9ryne"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.20": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70690",
+            "text": "S9ryne"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:70690",
+              "text": "S9ryne"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.21": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56423",
+            "text": "VeetaCrush"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:56423",
+              "text": "VeetaCrush"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.22": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56423",
+            "text": "VeetaCrush"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:56423",
+              "text": "VeetaCrush"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.23": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56423",
+            "text": "VeetaCrush"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:56423",
+              "text": "VeetaCrush"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.24": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:95559",
+            "text": "HJLL"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11210",
+            "text": "Vanguard Sound"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:95559",
+              "text": "HJLL"
+            },
+            " (Dash Sound)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:83770",
+              "text": "CoyDe"
+            },
+            " (Vanguard Sound)"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": "p:95559",
+              "text": "HJLL"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.25": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56423",
+            "text": "VeetaCrush"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70690",
+            "text": "S9ryne"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:56423",
+              "text": "VeetaCrush"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.26": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56423",
+            "text": "VeetaCrush"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:56423",
+              "text": "VeetaCrush"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.27": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56423",
+            "text": "VeetaCrush"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106407",
+            "text": "勇仕音频"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:56423",
+              "text": "VeetaCrush"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": "p:56423",
+              "text": "VeetaCrush"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.28": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56423",
+            "text": "VeetaCrush"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:56423",
+              "text": "VeetaCrush"
+            },
+            "  (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.29": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70690",
+            "text": "S9ryne"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:70690",
+              "text": "S9ryne"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.30": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56423",
+            "text": "VeetaCrush"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:56423",
+              "text": "VeetaCrush"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.31": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:100847",
+              "text": "Nevia"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.32": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56423",
+            "text": "VeetaCrush"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:56423",
+              "text": "VeetaCrush"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.33": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70690",
+            "text": "S9ryne"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:70690",
+              "text": "S9ryne"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.34": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70690",
+            "text": "S9ryne"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:95559",
+            "text": "HJLL"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106407",
+            "text": "勇仕音频"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83769",
+            "text": "Polymath9"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:70690",
+              "text": "S9ryne"
+            },
+            " (Dash Sound)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:100847",
+              "text": "Nevia"
+            },
+            " (Dash Sound)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:95559",
+              "text": "HJLL"
+            },
+            " (Dash Sound)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:83769",
+              "text": "Polymath9"
+            },
+            " (勇仕音频)"
+          ]
+        }
+      ]
+    },
+    "1.35": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:95559",
+            "text": "HJLL"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:95559",
+              "text": "HJLL"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.36": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:95559",
+            "text": "HJLL"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70690",
+            "text": "S9ryne"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106407",
+            "text": "勇仕音频"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83769",
+            "text": "Polymath9"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11210",
+            "text": "Vanguard Sound"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:70690",
+              "text": "S9ryne"
+            },
+            " (Dash Sound)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:83769",
+              "text": "Polymath9"
+            },
+            " (勇仕音频)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:106403",
+              "text": "LousikAEy"
+            },
+            " (勇仕音频)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:41972",
+              "text": "Melo"
+            },
+            " (Vanguard Sound)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:100847",
+              "text": "Nevia"
+            },
+            " (Dash Sound)"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:47640",
+            "text": "Street"
+          }
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:83770",
+              "text": "CoyDe"
+            },
+            " (Vanguard Sound)"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": "p:95559",
+              "text": "HJLL"
+            },
+            " (Dash Sound)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:70690",
+              "text": "S9ryne"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.37": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:95559",
+            "text": "HJLL"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106407",
+            "text": "勇仕音频"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:95559",
+              "text": "HJLL"
+            },
+            " (Dash Sound)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:83769",
+              "text": "Polymath9"
+            },
+            " (勇仕音频)"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": "p:95559",
+              "text": "HJLL"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.38": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:95559",
+            "text": "HJLL"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70690",
+            "text": "S9ryne"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:70690",
+              "text": "S9ryne"
+            },
+            " (Dash Sound)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:95559",
+              "text": "HJLL"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.39": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106407",
+            "text": "勇仕音频"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:100847",
+              "text": "Nevia"
+            },
+            " (Dash Sound)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:83769",
+              "text": "Polymath9"
+            },
+            " (勇仕音频)"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": "p:100847",
+              "text": "Nevia"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.40": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:100847",
+              "text": "Nevia"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.41": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56423",
+            "text": "VeetaCrush"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:56423",
+              "text": "VeetaCrush"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.42": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:100847",
+              "text": "Nevia"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.43": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:95559",
+            "text": "HJLL"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:95559",
+              "text": "HJLL"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.44": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:95559",
+            "text": "HJLL"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:95559",
+              "text": "HJLL"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.45": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:95559",
+            "text": "HJLL"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:95559",
+              "text": "HJLL"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.46": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56423",
+            "text": "VeetaCrush"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:56423",
+              "text": "VeetaCrush"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.47": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56423",
+            "text": "VeetaCrush"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:95559",
+            "text": "HJLL"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:56423",
+              "text": "VeetaCrush"
+            },
+            " (Dash Sound)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:95559",
+              "text": "HJLL"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.48": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56423",
+            "text": "VeetaCrush"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106407",
+            "text": "勇仕音频"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:56423",
+              "text": "VeetaCrush"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": "p:56423",
+              "text": "VeetaCrush"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.49": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:100847",
+              "text": "Nevia"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.50": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:100847",
+              "text": "Nevia"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.51": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:95559",
+            "text": "HJLL"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:95559",
+              "text": "HJLL"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.52": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:95559",
+            "text": "HJLL"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:95559",
+              "text": "HJLL"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.53": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:95559",
+            "text": "HJLL"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:95559",
+              "text": "HJLL"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.54": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:95559",
+            "text": "HJLL"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70690",
+            "text": "S9ryne"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56423",
+            "text": "VeetaCrush"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106407",
+            "text": "勇仕音频"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83769",
+            "text": "Polymath9"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11210",
+            "text": "Vanguard Sound"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:83769",
+              "text": "Polymath9"
+            },
+            " (勇仕音频)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:70690",
+              "text": "S9ryne"
+            },
+            " (Dash Sound)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:83770",
+              "text": "CoyDe"
+            },
+            " (Vanguard Sound)"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": "p:95559",
+              "text": "HJLL"
+            },
+            " (Dash Sound)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:100847",
+              "text": "Nevia"
+            },
+            " (Dash Sound)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:70690",
+              "text": "S9ryne"
+            },
+            " (Dash Sound)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:56423",
+              "text": "VeetaCrush"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.55": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56423",
+            "text": "VeetaCrush"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:56423",
+              "text": "VeetaCrush"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.56": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70690",
+            "text": "S9ryne"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "龟娘"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:70690",
+              "text": "S9ryne"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ],
+      "声乐": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "龟娘"
+          }
+        }
+      ]
+    },
+    "1.57": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:95559",
+            "text": "HJLL"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:95559",
+              "text": "HJLL"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.58": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56423",
+            "text": "VeetaCrush"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:56423",
+              "text": "VeetaCrush"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.59": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:100847",
+              "text": "Nevia"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.60": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:95559",
+            "text": "HJLL"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:95559",
+              "text": "HJLL"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.61": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:95559",
+            "text": "HJLL"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106407",
+            "text": "勇仕音频"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83769",
+            "text": "Polymath9"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:95559",
+              "text": "HJLL"
+            },
+            " (Dash Sound)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:83769",
+              "text": "Polymath9"
+            },
+            " (勇仕音频)"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": "p:95559",
+              "text": "HJLL"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.62": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70690",
+            "text": "S9ryne"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:70690",
+              "text": "S9ryne"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.63": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56423",
+            "text": "VeetaCrush"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:56423",
+              "text": "VeetaCrush"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.64": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:95559",
+            "text": "HJLL"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:95559",
+              "text": "HJLL"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.65": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56423",
+            "text": "VeetaCrush"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:56423",
+              "text": "VeetaCrush"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.66": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56423",
+            "text": "VeetaCrush"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:56423",
+              "text": "VeetaCrush"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.67": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106407",
+            "text": "勇仕音频"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83769",
+            "text": "Polymath9"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11210",
+            "text": "Vanguard Sound"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:83769",
+              "text": "Polymath9"
+            },
+            " (勇仕音频)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:95559",
+              "text": "HJLL"
+            },
+            " (Dash Sound)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:106403",
+              "text": "LousikAEy"
+            },
+            " (勇仕音频)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:100847",
+              "text": "Nevia"
+            },
+            " (Dash Sound)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:83770",
+              "text": "CoyDe"
+            },
+            " (Vanguard Sound)"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": "p:100847",
+              "text": "Nevia"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.68": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:95559",
+            "text": "HJLL"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106407",
+            "text": "勇仕音频"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83769",
+            "text": "Polymath9"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:95559",
+              "text": "HJLL"
+            },
+            " (Dash Sound)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:83769",
+              "text": "Polymath9"
+            },
+            " (勇仕音频)"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": "p:95559",
+              "text": "HJLL"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    },
+    "1.69": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56423",
+            "text": "VeetaCrush"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:56423",
+              "text": "VeetaCrush"
+            },
+            " (Dash Sound)"
+          ]
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "深空之眼"
+          },
+          " & ",
+          {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          },
+          " & ",
+          {
+            "ref": "p:106407",
+            "text": "勇仕音频"
+          }
+        ]
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：深空之眼 & Dash Sound & 勇仕音频\n艺术家：Dash Sound(1-69)、勇仕音频(6,9,14,27,34,36,37,39,48,54,61,67,68)、深空之眼(1-69)、S9ryne(1,3-8,16,19,20,25,29,33,34,36,38,54,56,62)、VeetaCrush(2,6,7,9,11,13-17,21-23,25-28,30,32,41,46-48,54,55,58,63,65,66,69)、Rayven(4-6,8,9)、Polymath9(9,34,36,54,61,67,68)、Vanguard Sound(9,24,36,54,67)、HJLL(24,34-38,43-45,47,51-54,57,60,61,64,68)、龟娘(56)\n作曲：S9ryne (Dash Sound)(1,3-9,19,20,29,33,34,36,38,54,56,62)、VeetaCrush (Dash Sound)(2,6,7,11,13-15,17,21-23,25-27,30,32,41,46-48,55,58,63,65,66,69)、Rayven (Dash Sound)(4-6,8)、Polymath9 (勇仕音频)(6,9,14,34,36,37,39,54,61,67,68)、Rayven  (Dash Sound)(9)、CoyDe (Coyde) (Vanguard Sound)(9,24,36,54,67)、Tony Yan (阎毅) (Vanguard Sound)(9)、雷声(9)、Nevia (Dash Sound)(10,12,18,31,34,36,39,40,42,49,50,59,67)、VeetaCrush  (Dash Sound)(16,28)、S9ryne  (Dash Sound)(16)、HJLL (Dash Sound)(24,34,35,37,38,43-45,47,51-53,57,60,61,64,67,68)、LousikAEy (勇仕音频)(36,67)、Melo (MeLo) (Vanguard Sound)(36)、Street(36)\n编曲：Rayven (Dash Sound)(6)、S9ryne (Dash Sound)(6,36,54)、VeetaCrush (Dash Sound)(6,14,27,48,54)、HJLL (Dash Sound)(24,36,37,54,61,68)、Nevia (Dash Sound)(39,54,67)\n声乐：龟娘(56)"
+  },
+  "subjectId": 728832,
+  "_meta": {
+    "submittedBy": "781929",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-20T13:49:55.623Z"
+  }
+}
