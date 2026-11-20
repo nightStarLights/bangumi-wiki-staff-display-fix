@@ -117,7 +117,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:73717",
             "text": "JamString"
           },
           "inst": "String"
@@ -139,7 +139,7 @@
               "ref": null,
               "text": "Yoona Ch @SHIFTUPStudio"
             },
-            " (声乐 Rec)"
+            " (Vocal Rec)"
           ]
         }
       ]
@@ -199,7 +199,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:73717",
             "text": "JamString"
           },
           "inst": "String"
@@ -207,7 +207,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:65614",
             "text": "NieN"
           },
           "inst": "Guitar"
@@ -229,7 +229,7 @@
               "ref": null,
               "text": "Yoona Ch @SHIFTUPStudio"
             },
-            " (声乐 Rec)"
+            " (Vocal Rec)"
           ]
         }
       ]
@@ -354,7 +354,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:65614",
             "text": "NieN"
           },
           "inst": "Guitar"
@@ -391,7 +391,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:73717",
             "text": "JamString"
           },
           "inst": "String"
@@ -412,7 +412,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:73717",
             "text": "JamString"
           },
           "inst": "String"
@@ -444,7 +444,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:73717",
             "text": "JamString"
           },
           "inst": "String"
@@ -554,7 +554,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:73717",
             "text": "JamString"
           },
           "inst": "String"
@@ -595,7 +595,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:73717",
             "text": "JamString"
           },
           "inst": "String"
@@ -636,7 +636,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:73717",
             "text": "JamString"
           },
           "inst": "String"
@@ -704,7 +704,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:73717",
             "text": "JamString"
           },
           "inst": "String"
@@ -745,7 +745,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:73717",
             "text": "JamString"
           },
           "inst": "String"
@@ -908,7 +908,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:73717",
             "text": "JamString"
           },
           "inst": "String"
@@ -942,12 +942,12 @@
         {
           "parts": [
             {
-              "ref": "p:71486",
+              "ref": null,
               "text": "Moeki Harada"
             },
             " (",
             {
-              "ref": null,
+              "ref": "p:71486",
               "text": "原田萌喜"
             },
             ")"
@@ -967,7 +967,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:73717",
             "text": "JamString"
           },
           "inst": "String"
@@ -999,7 +999,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:73717",
             "text": "JamString"
           },
           "inst": "String"
@@ -1040,7 +1040,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:73717",
             "text": "JamString"
           },
           "inst": "String"
@@ -1081,7 +1081,7 @@
         {
           "type": "instrument_credit",
           "person": {
-            "ref": null,
+            "ref": "p:73717",
             "text": "JamString"
           },
           "inst": "String"
@@ -1123,11 +1123,11 @@
     ]
   },
   "rawPatches": {
-    "editor": "作词：N.U.(2,13,26)、Mori+(5)、Cosmograph(13,26,28)\n作曲：Nauts(1,12,13,24)、NieN(2,14,30)、Cosmograph(3,11,13,14,16,19,21-23,26-28,32-34)、Donghyun Go(4)、Mori+(5,6,9,20,31)、Corners Groove(7,10,20,22,29)、Moeki Harada (原田萌喜)(8)、DoubleTO(10,15)、Zekk(17,18)、Powerless(25)\n编曲：Donghyun Go(8,11,27)、Corners Groove(10,22,32)、Nauts(13,16,21,23,26)、Mori+(14)、Benicx(17,18)、wavSMiTH(19)、Cosmograph(26,28)\n声乐：KENON(2)、Ember(2,28)、AVOKID(5)、Kang Yunjeong(13,26)、Direction Cosmograph(13)、Laco (EOW)(28)\n混音：Motmercy(2)\n母带制作：Cosmograph(2)、《Park moonsoo / U-il Soundworks》(5,28)\n厂牌：LEVEL NINE\n乐器-String：JamString(1,8,10,12,13,15-19,21,23,24,26,27)\n声乐-Rap：Whitney Sol(5)\ncustom-Digital Edit：Cosmograph(5)\n录音-String Rec：Lee sangduk @Velvet Studio(8,10,12,13,15-19,21,23,24,26,27)\n录音-声乐 Rec：Yoona Ch @SHIFTUPStudio(13, 26)\n乐器-Guitar：NieN(26,28)\n录音：Fumito Nakamura(Endhits Studio)(28)"
+    "editor": "作词：N.U.(2,13,26)、Mori+(5)、Cosmograph(13,26,28)\n作曲：Nauts(1,12,13,24)、NieN(2,14,30)、Cosmograph(3,11,13,14,16,19,21-23,26-28,32-34)、Donghyun Go(4)、Mori+(5,6,9,20,31)、Corners Groove(7,10,20,22,29)、Moeki Harada (原田萌喜)(8)、DoubleTO(10,15)、Zekk(17,18)、Powerless(25)\n编曲：Donghyun Go(8,11,27)、Corners Groove(10,22,32)、Nauts(13,16,21,23,26)、Mori+(14)、Benicx(17,18)、wavSMiTH(19)、Cosmograph(26,28)\n声乐：KENON(2)、Ember(2,28)、AVOKID(5)、Kang Yunjeong(13,26)、Direction Cosmograph(13)、Laco (EOW)(28)\n混音：Motmercy(2)\n母带制作：Cosmograph(2)、《Park moonsoo / U-il Soundworks》(5,28)\n厂牌：LEVEL NINE\n乐器-String：JamString(1,8,10,12,13,15-19,21,23,24,26,27)\n声乐-Rap：Whitney Sol(5)\ncustom-Digital Edit：Cosmograph(5)\n录音-String Rec：Lee sangduk @Velvet Studio(8,10,12,13,15-19,21,23,24,26,27)\n录音-Vocal Rec：Yoona Ch @SHIFTUPStudio(13, 26)\n乐器-Guitar：NieN(26,28)\n录音：Fumito Nakamura(Endhits Studio)(28)"
   },
   "_meta": {
     "submittedBy": "781929",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-11-20T03:44:18.048Z"
+    "submittedAt": "2026-11-20T03:44:58.708Z"
   }
 }
