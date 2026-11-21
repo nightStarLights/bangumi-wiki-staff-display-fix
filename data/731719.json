@@ -1,0 +1,86 @@
+{
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106407",
+            "text": "勇仕音频"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83769",
+            "text": "Polymath9"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106403",
+            "text": "LousikÆy"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:83769",
+              "text": "Polymath9"
+            },
+            "(勇仕音频)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:106403",
+              "text": "LousikAEy"
+            },
+            "(勇仕音频)"
+          ]
+        }
+      ],
+      "arranger": [
+        {
+          "parts": [
+            {
+              "ref": "p:106403",
+              "text": "LousikAEy"
+            },
+            "(勇仕音频)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:83769",
+              "text": "Polymath9"
+            },
+            "(勇仕音频)"
+          ]
+        }
+      ]
+    }
+  },
+  "epinfo": {},
+  "rawPatches": {
+    "editor": "艺术家：深空之眼(1)、勇仕音频(1)、Polymath9(1)、LousikÆy (LousikAEy)(1)\n作曲：Polymath9(勇仕音频)(1)、LousikAEy(勇仕音频)(1)\n编曲：LousikAEy(勇仕音频)(1)、Polymath9(勇仕音频)(1)"
+  },
+  "subjectId": 731719,
+  "_meta": {
+    "submittedBy": "781929",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-21T17:23:13.466Z"
+  }
+}
