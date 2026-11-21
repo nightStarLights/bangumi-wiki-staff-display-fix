@@ -1,0 +1,67 @@
+{
+  "trackCredits": {
+    "1.1": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:40339",
+            "text": "*Luna"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:40339",
+            "text": "*Luna"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:40339",
+              "text": "*Luna"
+            },
+            " feat. ",
+            {
+              "ref": "p:88747",
+              "text": "Hina"
+            }
+          ]
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:67542",
+            "text": "Haluo"
+          }
+        }
+      ],
+      "illustrator": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Parai"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {},
+  "rawPatches": {
+    "editor": "艺术家：*Luna feat. Hina(1)\n作曲：*Luna(1)\n编曲：*Luna(1)\n混音：Haluo (はるお)(1)\n插图：Parai(1)"
+  },
+  "subjectId": 731709,
+  "_meta": {
+    "submittedBy": "781929",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-21T16:13:57.170Z"
+  }
+}
