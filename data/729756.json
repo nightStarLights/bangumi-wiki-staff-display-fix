@@ -1,0 +1,268 @@
+{
+  "trackCredits": {
+    "1.1": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "柴昀喆"
+          },
+          "inst": "二胡"
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83769",
+            "text": "Polymath9"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83769",
+            "text": "Polymath9"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56423",
+            "text": "VeetaCrush"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106407",
+            "text": "勇仕音频"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56423",
+            "text": "VeetaCrush"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83769",
+            "text": "Polymath9"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83769",
+            "text": "Polymath9"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56423",
+            "text": "VeetaCrush"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106407",
+            "text": "勇仕音频"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56423",
+            "text": "VeetaCrush"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "勇仕文案"
+          }
+        }
+      ],
+      "choir": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "宁波呐豆少儿合唱团"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:95559",
+            "text": "HJLL"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:95559",
+            "text": "HJLL"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:95559",
+            "text": "HJLL"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:95559",
+            "text": "HJLL"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:95559",
+            "text": "HJLL"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:95559",
+            "text": "HJLL"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99375",
+            "text": "Dash Sound"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "深空之眼"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：Polymath9(1,2)、VeetaCrush(1,2)、Dash Sound(1-5)、勇仕音频(1,2)、深空之眼(1-5)、HJLL(3-5)\n作词：勇仕文案(2)\n作曲：Polymath9(1,2)、HJLL(3-5)\n编曲：VeetaCrush(1,2)\n厂牌：深空之眼\n合唱：《宁波呐豆少儿合唱团》(2)\n乐器-二胡：柴昀喆(1)"
+  },
+  "subjectId": 729756,
+  "_meta": {
+    "submittedBy": "781929",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-21T09:09:03.653Z"
+  }
+}
