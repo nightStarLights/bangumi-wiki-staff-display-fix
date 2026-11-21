@@ -1,4 +1,5 @@
 {
+  "subjectId": 731723,
   "trackCredits": {
     "1.1": {
       "artist": [
@@ -62,6 +63,15 @@
           "person": {
             "ref": "p:100847",
             "text": "Nevia"
+          }
+        }
+      ],
+      "声乐": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:40216",
+            "text": "皛四白"
           }
         }
       ],
@@ -158,6 +168,15 @@
           }
         }
       ],
+      "声乐": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:15988",
+            "text": "大和田仁美"
+          }
+        }
+      ],
       "instrument": [
         {
           "type": "instrument_credit",
@@ -219,14 +238,12 @@
       ]
     }
   },
-  "epinfo": {},
   "rawPatches": {
-    "editor": "艺术家：深空之眼(1-3)、皛四白(1)、Nevia(1-3)、Dash Sound(1-3)、扭蛋姬乐队(1-3)、大和田仁美(2)\n作词：MUE(1,2)\n作曲：Nevia(1,2)\n编曲：Nevia(1,2)\n乐器-吉他：扭蛋姬乐队-小加(1,2)\n乐器-贝斯：扭蛋姬乐队-小加(1,2)\n混音：Nevia(1,2)"
+    "editor": "艺术家：深空之眼(1-3)、皛四白(1)、Nevia(1-3)、Dash Sound(1-3)、扭蛋姬乐队(1-3)、大和田仁美(2)\n作词：MUE(1,2)\n作曲：Nevia(1,2)\n编曲：Nevia(1,2)\n声乐：皛四白(1)、大和田仁美(2)\n乐器-吉他：扭蛋姬乐队-小加(1,2)\n乐器-贝斯：扭蛋姬乐队-小加(1,2)\n混音：Nevia(1,2)"
   },
-  "subjectId": 731723,
   "_meta": {
     "submittedBy": "781929",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-11-21T17:42:17.468Z"
+    "submittedAt": "2026-11-21T17:43:57.765Z"
   }
 }
