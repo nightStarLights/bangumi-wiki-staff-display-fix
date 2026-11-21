@@ -1,0 +1,2232 @@
+{
+  "trackCredits": {
+    "1.1": {
+      "producer": [
+        {
+          "parts": [
+            {
+              "ref": "p:100102",
+              "text": "庄乐"
+            },
+            " (音乐制作人)"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99960",
+            "text": "铱铱"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86537",
+            "text": "盖盖Nyan"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "室屋光一郎ストリングス"
+          },
+          "inst": "弦乐"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:9911",
+            "text": "室屋光一郎"
+          },
+          "inst": "小提琴独奏"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "坂本圭"
+          },
+          "inst": "长笛"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "吉澤達彦"
+          },
+          "inst": "小号"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "古土井友輝"
+          },
+          "inst": "小号"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "半田信英"
+          },
+          "inst": "长号"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "鳥塚心輔"
+          },
+          "inst": "长号"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "庵原良司"
+          },
+          "inst": "萨克斯"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "竹野昌邦"
+          },
+          "inst": "萨克斯"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "佐藤雄大"
+          },
+          "inst": "钢琴"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "安達貴史"
+          },
+          "inst": "贝斯"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:34194",
+            "text": "山本真央樹"
+          },
+          "inst": "鼓"
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "立石佑太"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yadon Wong"
+            },
+            " @FoldEcho"
+          ]
+        }
+      ],
+      "recording": [
+        {
+          "parts": [
+            {
+              "ref": "p:86537",
+              "text": "盖盖Nyan"
+            },
+            " (录音统筹)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Victor Studio"
+            },
+            " (录音棚)"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "立石佑太"
+          }
+        }
+      ],
+      "custom-监制": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "撕弦"
+          }
+        }
+      ],
+      "custom-出品": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99955",
+            "text": "FoldEcho"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "producer": [
+        {
+          "parts": [
+            {
+              "ref": "p:100102",
+              "text": "庄乐"
+            },
+            " (音乐制作人)"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100102",
+            "text": "庄乐"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100102",
+            "text": "庄乐"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "室屋光一郎ストリングス"
+          },
+          "inst": "弦乐"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "坂本圭"
+          },
+          "inst": "长笛"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "金子亜未"
+          },
+          "inst": "双簧管"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "亀居優斗"
+          },
+          "inst": "单簧管"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "石川晃"
+          },
+          "inst": "巴松"
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "立石佑太"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yadon Wong"
+            },
+            " @FoldEcho"
+          ]
+        }
+      ],
+      "recording": [
+        {
+          "parts": [
+            {
+              "ref": "p:86537",
+              "text": "盖盖Nyan"
+            },
+            " (录音统筹)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Victor Studio"
+            },
+            " (录音棚)"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "立石佑太"
+          }
+        }
+      ],
+      "custom-监制": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "撕弦"
+          }
+        }
+      ],
+      "custom-出品": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99955",
+            "text": "FoldEcho"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "producer": [
+        {
+          "parts": [
+            {
+              "ref": "p:100102",
+              "text": "庄乐"
+            },
+            " (音乐制作人)"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86537",
+            "text": "盖盖Nyan"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100102",
+            "text": "庄乐"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86537",
+            "text": "盖盖Nyan"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "室屋光一郎ストリングス"
+          },
+          "inst": "弦乐"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "坂本圭"
+          },
+          "inst": "长笛"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "島田沙織"
+          },
+          "inst": "长笛"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "金子亜未"
+          },
+          "inst": "双簧管"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "沖響子"
+          },
+          "inst": "双簧管"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "亀居優斗"
+          },
+          "inst": "单簧管"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "安藤友香理"
+          },
+          "inst": "单簧管"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "石川晃"
+          },
+          "inst": "巴松"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "石井野乃香"
+          },
+          "inst": "巴松"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "嘟嘟明"
+          },
+          "inst": "吉他"
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "立石佑太"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yadon Wong"
+            },
+            " @FoldEcho"
+          ]
+        }
+      ],
+      "recording": [
+        {
+          "parts": [
+            {
+              "ref": "p:86537",
+              "text": "盖盖Nyan"
+            },
+            " (录音统筹)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Victor Studio"
+            },
+            " (录音棚)"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "立石佑太"
+          }
+        }
+      ],
+      "custom-监制": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "撕弦"
+          }
+        }
+      ],
+      "custom-出品": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99955",
+            "text": "FoldEcho"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "producer": [
+        {
+          "parts": [
+            {
+              "ref": "p:100102",
+              "text": "庄乐"
+            },
+            " (音乐制作人)"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86537",
+            "text": "盖盖Nyan"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100102",
+            "text": "庄乐"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86537",
+            "text": "盖盖Nyan"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "立石佑太"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yadon Wong"
+            },
+            " @FoldEcho"
+          ]
+        }
+      ],
+      "recording": [
+        {
+          "parts": [
+            {
+              "ref": "p:86537",
+              "text": "盖盖Nyan"
+            },
+            " (录音统筹)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Victor Studio"
+            },
+            " (录音棚)"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "立石佑太"
+          }
+        }
+      ],
+      "custom-监制": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "撕弦"
+          }
+        }
+      ],
+      "custom-出品": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99955",
+            "text": "FoldEcho"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:9911",
+            "text": "室屋光一郎"
+          },
+          "inst": "小提琴1"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "柳原有弥"
+          },
+          "inst": "小提琴2"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "馬渕昌子"
+          },
+          "inst": "中提琴"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "西方正輝"
+          },
+          "inst": "大提琴"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "嘟嘟明"
+          },
+          "inst": "吉他"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "嘟嘟明"
+          },
+          "inst": "班卓琴"
+        }
+      ]
+    },
+    "1.5": {
+      "producer": [
+        {
+          "parts": [
+            {
+              "ref": "p:100102",
+              "text": "庄乐"
+            },
+            " (音乐制作人)"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86537",
+            "text": "盖盖Nyan"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100102",
+            "text": "庄乐"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86537",
+            "text": "盖盖Nyan"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "立石佑太"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yadon Wong"
+            },
+            " @FoldEcho"
+          ]
+        }
+      ],
+      "recording": [
+        {
+          "parts": [
+            {
+              "ref": "p:86537",
+              "text": "盖盖Nyan"
+            },
+            " (录音统筹)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Victor Studio"
+            },
+            " (录音棚)"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "立石佑太"
+          }
+        }
+      ],
+      "custom-监制": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "撕弦"
+          }
+        }
+      ],
+      "custom-出品": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99955",
+            "text": "FoldEcho"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:9911",
+            "text": "室屋光一郎"
+          },
+          "inst": "小提琴1"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "柳原有弥"
+          },
+          "inst": "小提琴2"
+        }
+      ]
+    },
+    "1.6": {
+      "producer": [
+        {
+          "parts": [
+            {
+              "ref": "p:100102",
+              "text": "庄乐"
+            },
+            " (音乐制作人)"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86537",
+            "text": "盖盖Nyan"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100102",
+            "text": "庄乐"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86537",
+            "text": "盖盖Nyan"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "室屋光一郎ストリングス"
+          },
+          "inst": "弦乐"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "坂本圭"
+          },
+          "inst": "长笛"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "島田沙織"
+          },
+          "inst": "长笛"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "金子亜未"
+          },
+          "inst": "双簧管"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "沖響子"
+          },
+          "inst": "双簧管"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "亀居優斗"
+          },
+          "inst": "单簧管"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "安藤友香理"
+          },
+          "inst": "单簧管"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "石川晃"
+          },
+          "inst": "巴松"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "石井野乃香"
+          },
+          "inst": "巴松"
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "立石佑太"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yadon Wong"
+            },
+            " @FoldEcho"
+          ]
+        }
+      ],
+      "recording": [
+        {
+          "parts": [
+            {
+              "ref": "p:86537",
+              "text": "盖盖Nyan"
+            },
+            " (录音统筹)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Victor Studio"
+            },
+            " (录音棚)"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "立石佑太"
+          }
+        }
+      ],
+      "custom-监制": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "撕弦"
+          }
+        }
+      ],
+      "custom-出品": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99955",
+            "text": "FoldEcho"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "producer": [
+        {
+          "parts": [
+            {
+              "ref": "p:100102",
+              "text": "庄乐"
+            },
+            " (音乐制作人)"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "余金桥"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "余金桥"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "室屋光一郎ストリングス"
+          },
+          "inst": "弦乐"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "坂本圭"
+          },
+          "inst": "长笛"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "島田沙織"
+          },
+          "inst": "长笛"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "金子亜未"
+          },
+          "inst": "双簧管"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "沖響子"
+          },
+          "inst": "双簧管"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "亀居優斗"
+          },
+          "inst": "单簧管"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "安藤友香理"
+          },
+          "inst": "单簧管"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "石川晃"
+          },
+          "inst": "巴松"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "石井野乃香"
+          },
+          "inst": "巴松"
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "立石佑太"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yadon Wong"
+            },
+            " @FoldEcho"
+          ]
+        }
+      ],
+      "recording": [
+        {
+          "parts": [
+            {
+              "ref": "p:86537",
+              "text": "盖盖Nyan"
+            },
+            " (录音统筹)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Victor Studio"
+            },
+            " (录音棚)"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "立石佑太"
+          }
+        }
+      ],
+      "custom-监制": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "撕弦"
+          }
+        }
+      ],
+      "custom-出品": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99955",
+            "text": "FoldEcho"
+          }
+        }
+      ],
+      "custom-配器": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Norvin Tu-Wang"
+          }
+        }
+      ],
+      "custom-乐谱整理": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Norvin Tu-Wang"
+          }
+        }
+      ],
+      "custom-作曲助理": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "张铭宇"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "producer": [
+        {
+          "parts": [
+            {
+              "ref": "p:100102",
+              "text": "庄乐"
+            },
+            " (音乐制作人)"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "余金桥"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "余金桥"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "满家豪"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yadon Wong"
+            },
+            " @FoldEcho"
+          ]
+        }
+      ],
+      "custom-监制": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "撕弦"
+          }
+        }
+      ],
+      "custom-出品": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99955",
+            "text": "FoldEcho"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "陈磊"
+          },
+          "inst": "吉他"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "陈磊"
+          },
+          "inst": "尤克里里"
+        }
+      ]
+    },
+    "1.9": {
+      "producer": [
+        {
+          "parts": [
+            {
+              "ref": "p:100102",
+              "text": "庄乐"
+            },
+            " (音乐制作人)"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "余金桥"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "余金桥"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "王龙"
+          },
+          "inst": "单簧管"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "吴晓杰"
+          },
+          "inst": "口琴"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "王晨醒"
+          },
+          "inst": "小号"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "程锡峥"
+          },
+          "inst": "小号"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "花生米"
+          },
+          "inst": "长号"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "刘雄伯"
+          },
+          "inst": "大号"
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "满家豪"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yadon Wong"
+            },
+            " @FoldEcho"
+          ]
+        }
+      ],
+      "recording": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "RSS走起音频"
+            },
+            " (录音棚)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "北京唱片厂"
+            },
+            " (录音棚)"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "张梦涵"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "黄浩"
+          }
+        }
+      ],
+      "custom-监制": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "撕弦"
+          }
+        }
+      ],
+      "custom-出品": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99955",
+            "text": "FoldEcho"
+          }
+        }
+      ],
+      "custom-作曲助理": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "张铭宇"
+          }
+        }
+      ],
+      "custom-铜管监制": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "花生米"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "producer": [
+        {
+          "parts": [
+            {
+              "ref": "p:100102",
+              "text": "庄乐"
+            },
+            " (音乐制作人)"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Fuurai"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Fuurai"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Fuurai"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yadon Wong"
+            },
+            " @FoldEcho"
+          ]
+        }
+      ],
+      "custom-监制": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "撕弦"
+          }
+        }
+      ],
+      "custom-出品": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99955",
+            "text": "FoldEcho"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "producer": [
+        {
+          "parts": [
+            {
+              "ref": "p:100102",
+              "text": "庄乐"
+            },
+            " (音乐制作人)"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100078",
+            "text": "彭家兴"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100078",
+            "text": "彭家兴"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "室屋光一郎ストリングス"
+          },
+          "inst": "弦乐"
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100078",
+            "text": "彭家兴"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yadon Wong"
+            },
+            " @FoldEcho"
+          ]
+        }
+      ],
+      "recording": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Victor Studio"
+            },
+            " (录音棚)"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "立石佑太"
+          }
+        }
+      ],
+      "custom-监制": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "撕弦"
+          }
+        }
+      ],
+      "custom-出品": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99955",
+            "text": "FoldEcho"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "producer": [
+        {
+          "parts": [
+            {
+              "ref": "p:100102",
+              "text": "庄乐"
+            },
+            " (音乐制作人)"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Fuurai"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Fuurai"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "室屋光一郎ストリングス"
+          },
+          "inst": "弦乐"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "坂本圭"
+          },
+          "inst": "长笛"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "島田沙織"
+          },
+          "inst": "长笛"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "金子亜未"
+          },
+          "inst": "双簧管"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "沖響子"
+          },
+          "inst": "双簧管"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "亀居優斗"
+          },
+          "inst": "单簧管"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "安藤友香理"
+          },
+          "inst": "单簧管"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "石川晃"
+          },
+          "inst": "巴松"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "石井野乃香"
+          },
+          "inst": "巴松"
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "立石佑太"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yadon Wong"
+            },
+            " @FoldEcho"
+          ]
+        }
+      ],
+      "recording": [
+        {
+          "parts": [
+            {
+              "ref": "p:86537",
+              "text": "盖盖Nyan"
+            },
+            " (录音统筹)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Victor Studio"
+            },
+            " (录音棚)"
+          ]
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "立石佑太"
+          }
+        }
+      ],
+      "custom-监制": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "撕弦"
+          }
+        }
+      ],
+      "custom-出品": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99955",
+            "text": "FoldEcho"
+          }
+        }
+      ]
+    },
+    "1.13": {
+      "producer": [
+        {
+          "parts": [
+            {
+              "ref": "p:100102",
+              "text": "庄乐"
+            },
+            " (音乐制作人)"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100078",
+            "text": "彭家兴"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100078",
+            "text": "彭家兴"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100078",
+            "text": "彭家兴"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yadon Wong"
+            },
+            " @FoldEcho"
+          ]
+        }
+      ],
+      "custom-监制": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "撕弦"
+          }
+        }
+      ],
+      "custom-出品": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99955",
+            "text": "FoldEcho"
+          }
+        }
+      ]
+    },
+    "1.14": {
+      "producer": [
+        {
+          "parts": [
+            {
+              "ref": "p:100102",
+              "text": "庄乐"
+            },
+            " (音乐制作人)"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100078",
+            "text": "彭家兴"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100078",
+            "text": "彭家兴"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100078",
+            "text": "彭家兴"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yadon Wong"
+            },
+            " @FoldEcho"
+          ]
+        }
+      ],
+      "custom-监制": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "撕弦"
+          }
+        }
+      ],
+      "custom-出品": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99955",
+            "text": "FoldEcho"
+          }
+        }
+      ]
+    },
+    "1.15": {
+      "producer": [
+        {
+          "parts": [
+            {
+              "ref": "p:100102",
+              "text": "庄乐"
+            },
+            " (音乐制作人)"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100078",
+            "text": "彭家兴"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100078",
+            "text": "彭家兴"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100078",
+            "text": "彭家兴"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yadon Wong"
+            },
+            " @FoldEcho"
+          ]
+        }
+      ],
+      "custom-监制": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "撕弦"
+          }
+        }
+      ],
+      "custom-出品": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99955",
+            "text": "FoldEcho"
+          }
+        }
+      ]
+    },
+    "1.16": {
+      "producer": [
+        {
+          "parts": [
+            {
+              "ref": "p:99982",
+              "text": "狐狸球球"
+            },
+            " (音乐制作人)"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100556",
+            "text": "黄智骞"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100556",
+            "text": "黄智骞"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:63070",
+            "text": "国际首席爱乐乐团"
+          },
+          "inst": "弦乐"
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Heidi Wang"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yadon Wong"
+            },
+            " @FoldEcho"
+          ]
+        }
+      ],
+      "custom-监制": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "撕弦"
+          }
+        }
+      ],
+      "custom-出品": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99955",
+            "text": "FoldEcho"
+          }
+        }
+      ]
+    },
+    "1.17": {
+      "producer": [
+        {
+          "parts": [
+            {
+              "ref": "p:100080",
+              "text": "翟戈"
+            },
+            " (音乐制作人)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:99988",
+              "text": "李茜"
+            },
+            " (音乐制作人)"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "张涵修"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "张涵修"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "张涵修"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yadon Wong"
+            },
+            " @FoldEcho"
+          ]
+        }
+      ],
+      "custom-监制": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "撕弦"
+          }
+        }
+      ],
+      "custom-出品": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99955",
+            "text": "FoldEcho"
+          }
+        }
+      ]
+    },
+    "1.18": {
+      "producer": [
+        {
+          "parts": [
+            {
+              "ref": "p:100080",
+              "text": "翟戈"
+            },
+            " (音乐制作人)"
+          ]
+        },
+        {
+          "parts": [
+            {
+              "ref": "p:99988",
+              "text": "李茜"
+            },
+            " (音乐制作人)"
+          ]
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:100019",
+            "text": "刘冬"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93995",
+            "text": "Wayne Zhan"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93995",
+            "text": "Wayne Zhan"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:93995",
+            "text": "Wayne Zhan"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "parts": [
+            {
+              "ref": null,
+              "text": "Yadon Wong"
+            },
+            " @FoldEcho"
+          ]
+        }
+      ],
+      "custom-监制": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "撕弦"
+          }
+        }
+      ],
+      "custom-出品": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:99955",
+            "text": "FoldEcho"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:99955",
+          "text": "FoldEcho"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人-音乐制作人：庄乐(1-15)、狐狸球球(16)、翟戈(17,18)、李茜(17,18)\n艺术家：FoldEcho\n作曲：铱铱 (黑铱BlackIris)(1)、庄乐(2-6)、盖盖Nyan(3-6)、余金桥(7-9)、Fuurai(10,12)、彭家兴(11,13-15)、黄智骞(16)、张涵修(17)、刘冬(18)、Wayne Zhan (占伟帆)(18)\n编曲：盖盖Nyan(1,3-6)、庄乐(2)、余金桥(7-9)、Fuurai(10,12)、彭家兴(11,13-15)、黄智骞(16)、张涵修(17)、Wayne Zhan (占伟帆)(18)\n乐器-弦乐：室屋光一郎ストリングス(1-3,6,7,11,12)、国际首席爱乐乐团(16)\n乐器-小提琴独奏：室屋光一郎(1)\n乐器-长笛：坂本圭(1-3,6,7,12)、島田沙織(3,6,7,12)\n乐器-小号：吉澤達彦(1)、古土井友輝(1)、王晨醒(9)、程锡峥(9)\n乐器-长号：半田信英(1)、鳥塚心輔(1)、花生米(9)\n乐器-萨克斯：庵原良司(1)、竹野昌邦(1)\n乐器-钢琴：佐藤雄大(1)\n乐器-贝斯：安達貴史(1)\n乐器-鼓：山本真央樹(1)\n乐器-双簧管：金子亜未(2,3,6,7,12)、沖響子(3,6,7,12)\n乐器-单簧管：亀居優斗(2,3,6,7,12)、安藤友香理(3,6,7,12)、王龙(9)\n乐器-巴松：石川晃(2,3,6,7,12)、石井野乃香(3,6,7,12)\n乐器-吉他：嘟嘟明(3,4)、陈磊(8)\n乐器-小提琴1：室屋光一郎(4,5)\n乐器-小提琴2：柳原有弥(4,5)\n乐器-中提琴：馬渕昌子(4)\n乐器-大提琴：西方正輝(4)\n乐器-班卓琴：嘟嘟明(4)\n乐器-尤克里里：陈磊(8)\n乐器-口琴：吴晓杰(9)\n乐器-大号：刘雄伯(9)\n混音：立石佑太(1-7,12)、满家豪(8,9)、Fuurai(10)、彭家兴(11,13-15)、Heidi Wang(16)、张涵修(17)、Wayne Zhan (占伟帆)(18)\n母带制作：Yadon Wong @FoldEcho(1-18)\n录音-录音统筹：盖盖Nyan(1-7,12)\n录音-录音棚：Victor Studio(1-7,11,12)、RSS走起音频(9)、北京唱片厂(9)\n录音：立石佑太(1-7,11,12)、张梦涵(9)、黄浩(9)\ncustom-监制：撕弦(1-18)\ncustom-出品：FoldEcho(1-18)\ncustom-配器：Norvin Tu-Wang(7)\ncustom-乐谱整理：Norvin Tu-Wang(7)\ncustom-作曲助理：张铭宇(7,9)\ncustom-铜管监制：花生米(9)"
+  },
+  "subjectId": 731502,
+  "_meta": {
+    "submittedBy": "809907",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-21T14:42:11.951Z"
+  }
+}
