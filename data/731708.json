@@ -1,0 +1,138 @@
+{
+  "trackCredits": {
+    "1.1": {
+      "producer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10268",
+            "text": "篠崎あやと"
+          }
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10268",
+            "text": "篠崎あやと"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86723",
+            "text": "ファル公"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10409",
+            "text": "大瀬良あい"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86723",
+            "text": "ファル公"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10268",
+            "text": "篠崎あやと"
+          }
+        }
+      ],
+      "声乐": [
+        {
+          "parts": [
+            {
+              "ref": "p:10409",
+              "text": "大瀬良あい"
+            },
+            " (Vocals)"
+          ]
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "安島龍人"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:10268",
+            "text": "篠崎あやと"
+          },
+          "inst": "Bass Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:10268",
+            "text": "篠崎あやと"
+          },
+          "inst": "Synthesizer"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:10268",
+            "text": "篠崎あやと"
+          },
+          "inst": "Other Instruments"
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10268",
+            "text": "篠崎あやと"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:10268",
+            "text": "篠崎あやと"
+          }
+        }
+      ],
+      "custom-视频制作": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:86723",
+            "text": "ファル公"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {},
+  "rawPatches": {
+    "editor": "制作人：篠崎あやと(1)\n艺术家：篠崎あやと(1)、ファル公(1)、大瀬良あい(1)\n作词：ファル公(1)\n作曲：篠崎あやと(1)\n声乐-Vocals：大瀬良あい(1)\n乐器-Guitar：安島龍人(1)\n乐器-Bass Guitar：篠崎あやと(1)\n乐器-Synthesizer：篠崎あやと(1)\n乐器-Other Instruments：篠崎あやと(1)\n混音：篠崎あやと(1)\n母带制作：篠崎あやと(1)\ncustom-视频制作：ファル公(1)"
+  },
+  "subjectId": 731708,
+  "_meta": {
+    "submittedBy": "781929",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-21T16:06:30.315Z"
+  }
+}
