@@ -1,0 +1,176 @@
+{
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:80591",
+            "text": "熊竹英"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "勇仕文案"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:80591",
+            "text": "熊竹英"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "罗勇"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "罗勇"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:80591",
+            "text": "熊竹英"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "勇仕文案"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:80591",
+            "text": "熊竹英"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "罗勇"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "罗勇"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:80591",
+            "text": "熊竹英"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "勇仕文案"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:80591",
+            "text": "熊竹英"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "罗勇"
+          }
+        }
+      ],
+      "recording": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "罗勇"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {},
+  "rawPatches": {
+    "editor": "艺术家：深空之眼(1-3)、熊竹英(1-3)\n作词：勇仕文案(1-3)\n编曲：熊竹英(1-3)\n混音：罗勇(1-3)\n录音：罗勇(1-3)"
+  },
+  "subjectId": 731721,
+  "_meta": {
+    "submittedBy": "781929",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-21T17:33:31.920Z"
+  }
+}
