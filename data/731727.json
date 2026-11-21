@@ -1,0 +1,492 @@
+{
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11210",
+            "text": "Vanguard Sound"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83770",
+            "text": "CoyDe"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:83770",
+              "text": "CoyDe"
+            },
+            " (刘宇)"
+          ]
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11210",
+            "text": "Vanguard Sound"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83770",
+            "text": "CoyDe"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:83770",
+              "text": "CoyDe"
+            },
+            " (刘宇)"
+          ]
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11210",
+            "text": "Vanguard Sound"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:85790",
+            "text": "M€I"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:85790",
+              "text": "M€I"
+            },
+            " (李泽豪)"
+          ]
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11210",
+            "text": "Vanguard Sound"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83770",
+            "text": "CoyDe"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:83770",
+              "text": "CoyDe"
+            },
+            " (刘宇)"
+          ]
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11210",
+            "text": "Vanguard Sound"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:85785",
+            "text": "moto"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:85785",
+              "text": "moto"
+            },
+            " (陈晋升)"
+          ]
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11210",
+            "text": "Vanguard Sound"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83770",
+            "text": "CoyDe"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:83770",
+              "text": "CoyDe"
+            },
+            " (刘宇)"
+          ]
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11210",
+            "text": "Vanguard Sound"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:85790",
+            "text": "M€I"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:85790",
+              "text": "M€I"
+            },
+            " (李泽豪)"
+          ]
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11210",
+            "text": "Vanguard Sound"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83770",
+            "text": "CoyDe"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:83770",
+              "text": "CoyDe"
+            },
+            " (刘宇)"
+          ]
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11210",
+            "text": "Vanguard Sound"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:85790",
+            "text": "M€I"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:85790",
+              "text": "M€I"
+            },
+            " (李泽豪)"
+          ]
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11210",
+            "text": "Vanguard Sound"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83770",
+            "text": "CoyDe"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:83770",
+              "text": "CoyDe"
+            },
+            " (刘宇)"
+          ]
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11210",
+            "text": "Vanguard Sound"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83770",
+            "text": "CoyDe"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:83770",
+              "text": "CoyDe"
+            },
+            " (刘宇)"
+          ]
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11210",
+            "text": "Vanguard Sound"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83770",
+            "text": "CoyDe"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:83770",
+              "text": "CoyDe"
+            },
+            " (刘宇)"
+          ]
+        }
+      ]
+    },
+    "1.13": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:11210",
+            "text": "Vanguard Sound"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:85785",
+            "text": "moto"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "parts": [
+            {
+              "ref": "p:85785",
+              "text": "moto"
+            },
+            " (陈晋升)"
+          ]
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:11210",
+          "text": "Vanguard Sound"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：Vanguard Sound(1-13)、CoyDe (Coyde)(1,2,4,6,8,10-12)、深空之眼(1-13)、M€I(3,7,9)、moto(5,13)\n作曲：CoyDe (Coyde) (刘宇)(1,2,4,6,8,10-12)、M€I (李泽豪)(3,7,9)、moto (陈晋升)(5,13)\n厂牌：Vanguard Sound"
+  },
+  "subjectId": 731727,
+  "_meta": {
+    "submittedBy": "781929",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-21T18:10:10.446Z"
+  }
+}
