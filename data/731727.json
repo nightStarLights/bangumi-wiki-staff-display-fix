@@ -1,4 +1,5 @@
 {
+  "subjectId": 731727,
   "trackCredits": {
     "1.1": {
       "artist": [
@@ -156,7 +157,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:85785",
+            "ref": "p:70693",
             "text": "moto"
           }
         },
@@ -172,7 +173,7 @@
         {
           "parts": [
             {
-              "ref": "p:85785",
+              "ref": "p:70693",
               "text": "moto"
             },
             " (陈晋升)"
@@ -444,7 +445,7 @@
         {
           "type": "person",
           "person": {
-            "ref": "p:85785",
+            "ref": "p:70693",
             "text": "moto"
           }
         },
@@ -460,7 +461,7 @@
         {
           "parts": [
             {
-              "ref": "p:85785",
+              "ref": "p:70693",
               "text": "moto"
             },
             " (陈晋升)"
@@ -483,10 +484,9 @@
   "rawPatches": {
     "editor": "艺术家：Vanguard Sound(1-13)、CoyDe (Coyde)(1,2,4,6,8,10-12)、深空之眼(1-13)、M€I(3,7,9)、moto(5,13)\n作曲：CoyDe (Coyde) (刘宇)(1,2,4,6,8,10-12)、M€I (李泽豪)(3,7,9)、moto (陈晋升)(5,13)\n厂牌：Vanguard Sound"
   },
-  "subjectId": 731727,
   "_meta": {
     "submittedBy": "781929",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-11-21T18:10:10.446Z"
+    "submittedAt": "2026-11-21T18:12:17.258Z"
   }
 }
