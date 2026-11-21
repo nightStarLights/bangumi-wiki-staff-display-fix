@@ -1,0 +1,317 @@
+{
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83769",
+            "text": "Polymath9"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83769",
+            "text": "Polymath9"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "lssssss"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83769",
+            "text": "Polymath9"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83769",
+            "text": "Polymath9"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83769",
+            "text": "Polymath9"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83769",
+            "text": "Polymath9"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83769",
+            "text": "Polymath9"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83769",
+            "text": "Polymath9"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83769",
+            "text": "Polymath9"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83769",
+            "text": "Polymath9"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83769",
+            "text": "Polymath9"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83769",
+            "text": "Polymath9"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56423",
+            "text": "VeetaCrush"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56423",
+            "text": "VeetaCrush"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56423",
+            "text": "VeetaCrush"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56423",
+            "text": "VeetaCrush"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70690",
+            "text": "S9ryne"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56423",
+            "text": "VeetaCrush"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56423",
+            "text": "VeetaCrush"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56423",
+            "text": "VeetaCrush"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70690",
+            "text": "S9ryne"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56423",
+            "text": "VeetaCrush"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:56423",
+            "text": "VeetaCrush"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {},
+  "rawPatches": {
+    "editor": "艺术家：深空之眼(1-9)、VeetaCrush(7-9)、S9ryne(8,9)\n作曲：Polymath9(1-6)、VeetaCrush(7-9)\n编曲：Polymath9(1-6)、lssssss(1)、VeetaCrush(7-9)"
+  },
+  "subjectId": 731724,
+  "_meta": {
+    "submittedBy": "781929",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-21T17:49:27.550Z"
+  }
+}
