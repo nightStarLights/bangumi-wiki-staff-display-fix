@@ -1,0 +1,239 @@
+{
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106407",
+            "text": "勇仕音频"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106463",
+            "text": "Feather7"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106463",
+            "text": "Feather7"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106407",
+            "text": "勇仕音频"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106403",
+            "text": "LousikÆy"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106403",
+            "text": "LousikÆy"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106407",
+            "text": "勇仕音频"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106403",
+            "text": "LousikÆy"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106403",
+            "text": "LousikÆy"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106407",
+            "text": "勇仕音频"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106463",
+            "text": "Feather7"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106463",
+            "text": "Feather7"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106407",
+            "text": "勇仕音频"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106463",
+            "text": "Feather7"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106463",
+            "text": "Feather7"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:95559",
+            "text": "HJLL"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106407",
+            "text": "勇仕音频"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106403",
+            "text": "LousikÆy"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106403",
+            "text": "LousikÆy"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106463",
+            "text": "Feather7"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:95559",
+            "text": "HJLL"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {},
+  "rawPatches": {
+    "editor": "艺术家：深空之眼(1-6)、勇仕音频(1-6)、Feather7(1,4,5)、LousikÆy (LousikAEy)(2,3,6)\n作曲：Feather7(1,4-6)、LousikÆy (LousikAEy)(2,3,6)、HJLL(5,6)"
+  },
+  "subjectId": 731720,
+  "_meta": {
+    "submittedBy": "781929",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-21T17:30:49.006Z"
+  }
+}
