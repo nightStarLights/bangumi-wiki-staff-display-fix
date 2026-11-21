@@ -1,0 +1,731 @@
+{
+  "trackCredits": {
+    "1.1": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "柴昀喆"
+          },
+          "inst": "二胡"
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "柴昀喆"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83769",
+            "text": "Polymath9"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106407",
+            "text": "勇仕音频"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83769",
+            "text": "Polymath9"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106403",
+            "text": "LousikAEy"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "柴昀喆"
+          },
+          "inst": "二胡"
+        }
+      ],
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "柴昀喆"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106463",
+            "text": "Feather7"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106407",
+            "text": "勇仕音频"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106463",
+            "text": "Feather7"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106403",
+            "text": "LousikAEy"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83769",
+            "text": "Polymath9"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106407",
+            "text": "勇仕音频"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83769",
+            "text": "Polymath9"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83769",
+            "text": "Polymath9"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106403",
+            "text": "LousikÆy"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106407",
+            "text": "勇仕音频"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83769",
+            "text": "Polymath9"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106403",
+            "text": "LousikÆy"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83769",
+            "text": "Polymath9"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106403",
+            "text": "LousikÆy"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83769",
+            "text": "Polymath9"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106403",
+            "text": "LousikÆy"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106407",
+            "text": "勇仕音频"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83769",
+            "text": "Polymath9"
+          }
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106403",
+            "text": "LousikÆy"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83769",
+            "text": "Polymath9"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106403",
+            "text": "LousikÆy"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83769",
+            "text": "Polymath9"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106407",
+            "text": "勇仕音频"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83769",
+            "text": "Polymath9"
+          }
+        }
+      ]
+    },
+    "1.13": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83769",
+            "text": "Polymath9"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106407",
+            "text": "勇仕音频"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83769",
+            "text": "Polymath9"
+          }
+        }
+      ]
+    },
+    "1.15": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83769",
+            "text": "Polymath9"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106407",
+            "text": "勇仕音频"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83769",
+            "text": "Polymath9"
+          }
+        }
+      ]
+    },
+    "1.16": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83769",
+            "text": "Polymath9"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106407",
+            "text": "勇仕音频"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83769",
+            "text": "Polymath9"
+          }
+        }
+      ]
+    },
+    "1.17": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83769",
+            "text": "Polymath9"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106407",
+            "text": "勇仕音频"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83769",
+            "text": "Polymath9"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106463",
+            "text": "Feather7"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106407",
+            "text": "勇仕音频"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106463",
+            "text": "Feather7"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106403",
+            "text": "LousikÆy"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106407",
+            "text": "勇仕音频"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106403",
+            "text": "LousikÆy"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106463",
+            "text": "Feather7"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106407",
+            "text": "勇仕音频"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106463",
+            "text": "Feather7"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106403",
+            "text": "LousikÆy"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106407",
+            "text": "勇仕音频"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106403",
+            "text": "LousikÆy"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106403",
+            "text": "LousikÆy"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106407",
+            "text": "勇仕音频"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106403",
+            "text": "LousikÆy"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106403",
+            "text": "LousikÆy"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "任正委"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106407",
+            "text": "勇仕音频"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106403",
+            "text": "LousikÆy"
+          }
+        }
+      ]
+    },
+    "1.14": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106403",
+            "text": "LousikÆy"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106407",
+            "text": "勇仕音频"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "深空之眼"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:106403",
+            "text": "LousikÆy"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "producer": [
+      {
+        "parts": [
+          {
+            "ref": null,
+            "text": "深空之眼"
+          },
+          " & ",
+          {
+            "ref": "p:106407",
+            "text": "勇仕音频"
+          }
+        ]
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：深空之眼 & 勇仕音频\n艺术家：柴昀喆(1,7)、Polymath9(1-4,12,13,15-17)、勇仕音频(1-17)、深空之眼(1-17)、LousikÆy (LousikAEy)(3,4,6,9-11,14)、Feather7(5,7,8)、任正委(11)\n作曲：Polymath9(1-4,12,13,15-17)、Feather7(5,7,8)、LousikÆy (LousikAEy)(6,9-11,14)\n编曲：Polymath9(3,4)、LousikÆy (LousikAEy)(3,4)\n混音：LousikAEy(1,7)、LousikÆy (LousikAEy)(3,4)\n乐器-二胡：柴昀喆(1,7)"
+  },
+  "subjectId": 729973,
+  "_meta": {
+    "submittedBy": "781929",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-21T09:45:39.818Z"
+  }
+}
