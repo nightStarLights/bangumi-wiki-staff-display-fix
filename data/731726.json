@@ -1,0 +1,133 @@
+{
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25243",
+            "text": "祈Inory"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83769",
+            "text": "Polymath9"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83769",
+            "text": "Polymath9"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70690",
+            "text": "S9ryne"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:25243",
+            "text": "祈Inory"
+          }
+        }
+      ],
+      "composer": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83769",
+            "text": "Polymath9"
+          }
+        }
+      ],
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:83769",
+            "text": "Polymath9"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:70690",
+            "text": "S9ryne"
+          }
+        }
+      ],
+      "lyricist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:24993",
+            "text": "TetraCalyx"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "instrument": [
+      {
+        "type": "instrument_credit",
+        "person": {
+          "ref": "p:47211",
+          "text": "绛舞乱丸"
+        },
+        "inst": "吉他"
+      }
+    ],
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Mr_LTC"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "火花声影文化工作室"
+        }
+      }
+    ],
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:83769",
+          "text": "Polymath9"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：Polymath9\n艺术家：祈Inory(1,2)\n作词：TetraCalyx(2)\n作曲：Polymath9(1,2)\n编曲：Polymath9(1,2)、S9ryne(1,2)\n乐器-吉他：绛舞乱丸\n混音：Mr_LTC\n母带制作：火花声影文化工作室"
+  },
+  "subjectId": 731726,
+  "_meta": {
+    "submittedBy": "781929",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-21T18:01:09.620Z"
+  }
+}
