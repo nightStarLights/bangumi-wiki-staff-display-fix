@@ -1,4 +1,5 @@
 {
+  "subjectId": 733562,
   "trackCredits": {
     "1.1": {
       "artist": [
@@ -12,31 +13,44 @@
       ],
       "lyricist": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:9034",
-            "text": "にお"
-          }
+          "parts": [
+            {
+              "ref": "p:9034",
+              "text": "にお"
+            },
+            " (",
+            {
+              "ref": null,
+              "text": "におP"
+            },
+            ")"
+          ]
         }
       ],
       "composer": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:9034",
-            "text": "にお"
-          }
-        }
-      ],
-      "声乐": [
-        {
           "parts": [
             {
-              "ref": null,
-              "text": "あかつき るき"
+              "ref": "p:9034",
+              "text": "にお"
             },
-            " (Vocals)"
+            " (",
+            {
+              "ref": null,
+              "text": "におP"
+            },
+            ")"
           ]
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:82400",
+            "text": "gomez"
+          },
+          "inst": "Guitar"
         }
       ],
       "mixing": [
@@ -53,16 +67,6 @@
             "ref": null,
             "text": "中村涼真"
           }
-        }
-      ],
-      "instrument": [
-        {
-          "type": "instrument_credit",
-          "person": {
-            "ref": "p:82400",
-            "text": "gomez"
-          },
-          "inst": "Guitar"
         }
       ]
     },
@@ -94,15 +98,6 @@
           }
         }
       ],
-      "mixing": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "yamada"
-          }
-        }
-      ],
       "instrument": [
         {
           "type": "instrument_credit",
@@ -111,6 +106,15 @@
             "text": "yamada"
           },
           "inst": "Guitar"
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "yamada"
+          }
         }
       ],
       "mastering": [
@@ -151,15 +155,6 @@
           }
         }
       ],
-      "mixing": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "妃舞 ゆにこ"
-          }
-        }
-      ],
       "instrument": [
         {
           "type": "instrument_credit",
@@ -192,6 +187,15 @@
             "text": "STUDIO YAONG"
           },
           "inst": "Keyboards"
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "妃舞 ゆにこ"
+          }
         }
       ],
       "mastering": [
@@ -239,26 +243,6 @@
           }
         }
       ],
-      "声乐": [
-        {
-          "parts": [
-            {
-              "ref": null,
-              "text": "あかつき るき"
-            },
-            " (Vocals)"
-          ]
-        }
-      ],
-      "mixing": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "妃舞 ゆにこ"
-          }
-        }
-      ],
       "instrument": [
         {
           "type": "instrument_credit",
@@ -291,6 +275,15 @@
             "text": "STUDIO YAONG"
           },
           "inst": "Keyboards"
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "妃舞 ゆにこ"
+          }
         }
       ],
       "mastering": [
@@ -331,6 +324,16 @@
           }
         }
       ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "ひゅ～ぶ"
+          },
+          "inst": "Synthesizer"
+        }
+      ],
       "mixing": [
         {
           "type": "person",
@@ -347,16 +350,6 @@
             "ref": null,
             "text": "ひゅ～ぶ"
           }
-        }
-      ],
-      "instrument": [
-        {
-          "type": "instrument_credit",
-          "person": {
-            "ref": null,
-            "text": "ひゅ～ぶ"
-          },
-          "inst": "Synthesizer"
         }
       ]
     },
@@ -388,24 +381,6 @@
           }
         }
       ],
-      "mixing": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "sunny_go!!"
-          }
-        }
-      ],
-      "mastering": [
-        {
-          "type": "person",
-          "person": {
-            "ref": null,
-            "text": "sunny_go!!"
-          }
-        }
-      ],
       "instrument": [
         {
           "type": "instrument_credit",
@@ -422,6 +397,24 @@
             "text": "ユラメ"
           },
           "inst": "Synthesizer"
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "sunny_go!!"
+          }
+        }
+      ],
+      "mastering": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "sunny_go!!"
+          }
         }
       ]
     },
@@ -453,15 +446,14 @@
           }
         }
       ],
-      "声乐": [
+      "instrument": [
         {
-          "parts": [
-            {
-              "ref": null,
-              "text": "あかつき るき"
-            },
-            " (Vocals)"
-          ]
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "SO87"
+          },
+          "inst": "Synthesizer"
         }
       ],
       "mixing": [
@@ -480,16 +472,6 @@
             "ref": null,
             "text": "SO87"
           }
-        }
-      ],
-      "instrument": [
-        {
-          "type": "instrument_credit",
-          "person": {
-            "ref": null,
-            "text": "SO87"
-          },
-          "inst": "Synthesizer"
         }
       ]
     },
@@ -521,6 +503,16 @@
           }
         }
       ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:75253",
+            "text": "ひじり"
+          },
+          "inst": "Synthesizer"
+        }
+      ],
       "mixing": [
         {
           "type": "person",
@@ -537,16 +529,6 @@
             "ref": "p:75253",
             "text": "ひじり"
           }
-        }
-      ],
-      "instrument": [
-        {
-          "type": "instrument_credit",
-          "person": {
-            "ref": "p:75253",
-            "text": "ひじり"
-          },
-          "inst": "Synthesizer"
         }
       ],
       "recording": [
@@ -587,6 +569,16 @@
           }
         }
       ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:83161",
+            "text": "鹿あるく"
+          },
+          "inst": "Synthesizer"
+        }
+      ],
       "mixing": [
         {
           "type": "person",
@@ -604,20 +596,19 @@
             "text": "ひじり"
           }
         }
-      ],
-      "instrument": [
-        {
-          "type": "instrument_credit",
-          "person": {
-            "ref": "p:83161",
-            "text": "鹿あるく"
-          },
-          "inst": "Synthesizer"
-        }
       ]
     }
   },
   "epinfo": {
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "きう"
+        }
+      }
+    ],
     "design": [
       {
         "parts": [
@@ -637,24 +628,14 @@
           " (Jacket Design)"
         ]
       }
-    ],
-    "illustrator": [
-      {
-        "type": "person",
-        "person": {
-          "ref": null,
-          "text": "きう"
-        }
-      }
     ]
   },
   "rawPatches": {
-    "editor": "艺术家：《あかつき るき》(1-9)\n作词：にお (におP)(1)、yamada(2)、《あかつき るき》(3,4,7)、STUDIO YAONG(4)、ひゅ～ぶ(5)、ユラメ(6)、鹿あるく(8)、ひじり(9)\n作曲：にお (におP)(1)、yamada(2)、《あかつき るき》(3,4,7)、ひゅ～ぶ(5)、ユラメ(6)、ひじり(8,9)\n声乐-Vocals：《あかつき るき》(1,4,7)\n乐器-Guitar：gomez(1)、yamada(2)、STUDIO YAONG(3,4)\n乐器-Bass Guitar：STUDIO YAONG(3,4)\n乐器-Drums：STUDIO YAONG(3,4)、ユラメ(6)\n乐器-Keyboards：STUDIO YAONG(3,4)\n乐器-Synthesizer：ひゅ～ぶ(5)、ユラメ(6)、SO87(7)、ひじり(8)、鹿あるく(9)\n混音：ひじり(1,8,9)、中村涼真(1)、yamada(2)、《妃舞 ゆにこ》(3,4)、ひゅ～ぶ(5)、sunny_go!!(6)、SO87(7)\n母带制作：yamada(2)、《妃舞 ゆにこ》(3,4)、ひゅ～ぶ(5)、sunny_go!!(6)、SO87(7)、ひじり(8,9)\n插图：きう\n设计-Logo：esu_kichi\n设计-Jacket Design：esu_kichi\n录音：中村涼真(8)"
+    "editor": "艺术家：《あかつき るき》(1-9)\n作词：にお (におP)(1)、yamada(2)、《あかつき るき》(3,4,7)、STUDIO YAONG(4)、ひゅ～ぶ(5)、ユラメ(6)、鹿あるく(8)、ひじり(9)\n作曲：にお (におP)(1)、yamada(2)、《あかつき るき》(3,4,7)、ひゅ～ぶ(5)、ユラメ(6)、ひじり(8,9)\n乐器-Guitar：gomez(1)、yamada(2)、STUDIO YAONG(3,4)\n乐器-Bass Guitar：STUDIO YAONG(3,4)\n乐器-Drums：STUDIO YAONG(3,4)、ユラメ(6)\n乐器-Keyboards：STUDIO YAONG(3,4)\n乐器-Synthesizer：ひゅ～ぶ(5)、ユラメ(6)、SO87(7)、ひじり(8)、鹿あるく(9)\n混音：ひじり(1,8,9)、中村涼真(1)、yamada(2)、《妃舞 ゆにこ》(3,4)、ひゅ～ぶ(5)、sunny_go!!(6)、SO87(7)\n母带制作：yamada(2)、《妃舞 ゆにこ》(3,4)、ひゅ～ぶ(5)、sunny_go!!(6)、SO87(7)、ひじり(8,9)\n插图：きう\n设计-Logo：esu_kichi\n设计-Jacket Design：esu_kichi\n录音：中村涼真(8)"
   },
-  "subjectId": 733562,
   "_meta": {
     "submittedBy": "781929",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-11-22T16:50:29.399Z"
+    "submittedAt": "2026-11-22T16:50:57.250Z"
   }
 }
