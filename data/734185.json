@@ -1,0 +1,23 @@
+{
+  "trackCredits": {},
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69747",
+          "text": "Rafutsuri"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：Rafutsuri"
+  },
+  "subjectId": 734185,
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-24T13:42:16.910Z"
+  }
+}
