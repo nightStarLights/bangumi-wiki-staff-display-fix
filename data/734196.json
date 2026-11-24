@@ -1,0 +1,59 @@
+{
+  "trackCredits": {},
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:66181",
+          "text": "長瀬有花"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:66181",
+          "text": "長瀬有花"
+        }
+      }
+    ],
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:66181",
+          "text": "長瀬有花"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:75883",
+          "text": "矢口和弥"
+        }
+      }
+    ],
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:75883",
+          "text": "矢口和弥"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：矢口和弥\n艺术家：長瀬有花\n作词：長瀬有花\n作曲：長瀬有花\n编曲：矢口和弥"
+  },
+  "subjectId": 734196,
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-24T14:17:15.679Z"
+  }
+}
