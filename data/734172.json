@@ -1,0 +1,105 @@
+{
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84361",
+            "text": "K3nto"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84361",
+            "text": "K3nto"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84361",
+            "text": "K3nto"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84361",
+            "text": "K3nto"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:84361",
+            "text": "K3nto"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "parts": [
+            {
+              "ref": "p:84361",
+              "text": "K3nto"
+            },
+            " & ",
+            {
+              "ref": null,
+              "text": "Odeta"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:84361",
+          "text": "K3nto"
+        }
+      }
+    ],
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:84361",
+          "text": "K3nto"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：K3nto\n艺术家：K3nto(1,3-6)、K3nto & Odeta(2)\n厂牌：K3nto"
+  },
+  "subjectId": 734172,
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-24T12:37:53.578Z"
+  }
+}
