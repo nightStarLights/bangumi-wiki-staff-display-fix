@@ -1,0 +1,23 @@
+{
+  "trackCredits": {},
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:73601",
+          "text": "Aliey:S"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：《Aliey:S》"
+  },
+  "subjectId": 734193,
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-24T14:06:24.892Z"
+  }
+}
