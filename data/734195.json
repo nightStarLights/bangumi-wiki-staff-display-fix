@@ -1,0 +1,41 @@
+{
+  "trackCredits": {},
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:68919",
+          "text": "Adomiori"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:68919",
+          "text": "Adomiori"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "なご村"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：Adomiori\n插图：なご村\n设计：Adomiori"
+  },
+  "subjectId": 734195,
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-24T14:10:36.289Z"
+  }
+}
