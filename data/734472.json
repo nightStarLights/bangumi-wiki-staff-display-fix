@@ -1,0 +1,102 @@
+{
+  "trackCredits": {
+    "1.1": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "hitobana"
+          },
+          "inst": "Piano"
+        }
+      ]
+    },
+    "1.5": {
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": "p:75919",
+            "text": "落合一十"
+          },
+          "inst": "Guitar"
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ろん"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ろん"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ろん"
+        }
+      }
+    ],
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ろん"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:75918",
+          "text": "環田考"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "k.a.n.n.o.t"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "夜風を奏でたのに"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：ろん\n作词：ろん\n作曲：ろん\n编曲：ろん\n乐器-Piano：hitobana(1)\n乐器-Guitar：落合一十(5)\n母带制作：k.a.n.n.o.t\n插图：環田考\n厂牌：夜風を奏でたのに"
+  },
+  "subjectId": 734472,
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-26T12:42:45.273Z"
+  }
+}
