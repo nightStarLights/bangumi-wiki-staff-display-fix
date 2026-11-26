@@ -1,0 +1,23 @@
+{
+  "trackCredits": {},
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "園端石"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：園端石"
+  },
+  "subjectId": 734474,
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-26T12:45:23.443Z"
+  }
+}
