@@ -1,0 +1,32 @@
+{
+  "trackCredits": {},
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "Kono"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "まちこの"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：Kono\n厂牌：まちこの"
+  },
+  "subjectId": 734462,
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-26T12:31:22.708Z"
+  }
+}
