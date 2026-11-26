@@ -1,0 +1,32 @@
+{
+  "trackCredits": {},
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "夜風を奏でたのに"
+        }
+      }
+    ],
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "柚木みとり"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：柚木みとり\n厂牌：夜風を奏でたのに"
+  },
+  "subjectId": 734516,
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-26T13:53:18.565Z"
+  }
+}
