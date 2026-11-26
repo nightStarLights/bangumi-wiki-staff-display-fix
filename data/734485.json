@@ -1,0 +1,23 @@
+{
+  "trackCredits": {},
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "natsu"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：natsu"
+  },
+  "subjectId": 734485,
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-26T12:54:55.781Z"
+  }
+}
