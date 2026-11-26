@@ -1,0 +1,86 @@
+{
+  "trackCredits": {},
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:94115",
+          "text": "イマニシ"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:94115",
+          "text": "イマニシ"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:94115",
+          "text": "イマニシ"
+        }
+      }
+    ],
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:94115",
+          "text": "イマニシ"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "奈良瀬"
+        }
+      }
+    ],
+    "mixing": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "uHei"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "uHei"
+        }
+      }
+    ],
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "奈良瀬スペース"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：イマニシ\n作词：イマニシ\n作曲：イマニシ\n编曲：イマニシ\n混音：uHei\n母带制作：uHei\n插图：奈良瀬\n厂牌：奈良瀬スペース"
+  },
+  "subjectId": 734459,
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-26T12:24:33.075Z"
+  }
+}
