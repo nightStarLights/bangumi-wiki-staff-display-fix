@@ -1,0 +1,23 @@
+{
+  "trackCredits": {},
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:92952",
+          "text": "baku"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：baku"
+  },
+  "subjectId": 734477,
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-26T12:48:25.526Z"
+  }
+}
