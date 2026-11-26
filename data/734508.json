@@ -1,0 +1,32 @@
+{
+  "trackCredits": {},
+  "epinfo": {
+    "label": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "碧濁"
+        }
+      }
+    ],
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "空待澄人"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：空待澄人\n厂牌：碧濁"
+  },
+  "subjectId": 734508,
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-26T13:30:07.418Z"
+  }
+}
