@@ -1,0 +1,206 @@
+{
+  "trackCredits": {
+    "1.1": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "JB"
+          }
+        },
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "okoge"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "JB"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "JB"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "JB"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "Yuta Takashima"
+          },
+          "inst": "Guitar"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "okoge"
+          },
+          "inst": "Bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "あぢさゐ"
+          },
+          "inst": "Piano"
+        }
+      ],
+      "mixing": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "暖炉P"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "okoge"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:81088",
+            "text": "ヤミナベレコーズ"
+          }
+        }
+      ],
+      "instrument": [
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "okoge"
+          },
+          "inst": "Bass"
+        },
+        {
+          "type": "instrument_credit",
+          "person": {
+            "ref": null,
+            "text": "JB"
+          },
+          "inst": "Sax"
+        }
+      ]
+    },
+    "1.6": {
+      "arranger": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ユウキセイ"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "日々乃ねむり"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "深海せら"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "暖炉P"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "日々乃ねむり"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "日々乃ねむり"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "日々乃ねむり"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：日々乃ねむり\n作曲：日々乃ねむり\n编曲：日々乃ねむり、JB(1,3,4,7)、okoge(1,5)、ヤミナベレコーズ(2)、ユウキセイ(6)\n乐器-Guitar：Yuta Takashima(7)\n乐器-Bass：okoge(2,7)\n乐器-Piano：あぢさゐ(7)\n乐器-Sax：JB(2)\n混音：暖炉P(7)\n母带制作：暖炉P\n插图：深海せら\n设计：日々乃ねむり"
+  },
+  "subjectId": 734513,
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-26T13:43:06.859Z"
+  }
+}
