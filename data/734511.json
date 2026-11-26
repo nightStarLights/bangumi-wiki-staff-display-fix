@@ -1,0 +1,59 @@
+{
+  "trackCredits": {},
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:84536",
+          "text": "Mused"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:84536",
+          "text": "Mused"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:84536",
+          "text": "Mused"
+        }
+      }
+    ],
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:84536",
+          "text": "Mused"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "牛を食べる"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：Mused\n作词：Mused\n作曲：Mused\n编曲：Mused\n插图：牛を食べる"
+  },
+  "subjectId": 734511,
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-26T13:40:34.986Z"
+  }
+}
