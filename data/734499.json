@@ -1,0 +1,23 @@
+{
+  "trackCredits": {},
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "サタスコ"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：サタスコ"
+  },
+  "subjectId": 734499,
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-26T13:18:24.221Z"
+  }
+}
