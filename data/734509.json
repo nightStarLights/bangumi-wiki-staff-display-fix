@@ -1,0 +1,59 @@
+{
+  "trackCredits": {},
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69423",
+          "text": "巡巡"
+        }
+      }
+    ],
+    "composer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69423",
+          "text": "巡巡"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69423",
+          "text": "巡巡"
+        }
+      }
+    ],
+    "lyricist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69423",
+          "text": "巡巡"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "spice メガ"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：巡巡\n作词：巡巡\n作曲：巡巡\n编曲：巡巡\n插图：《spice メガ》"
+  },
+  "subjectId": 734509,
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-26T13:32:24.816Z"
+  }
+}
