@@ -1,0 +1,50 @@
+{
+  "trackCredits": {},
+  "epinfo": {
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "甲田たませ。"
+        }
+      }
+    ],
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "日々乃ねむり"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "暖炉P"
+        }
+      }
+    ],
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "JB"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：JB\n母带制作：暖炉P\n插图：甲田たませ。\n设计：日々乃ねむり"
+  },
+  "subjectId": 734460,
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-26T12:27:28.280Z"
+  }
+}
