@@ -1,4 +1,5 @@
 {
+  "subjectId": 734687,
   "trackCredits": {
     "1.1": {
       "artist": [
@@ -24,11 +25,18 @@
           }
         },
         {
-          "type": "person",
-          "person": {
-            "ref": "p:106403",
-            "text": "LousikÆy"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "LousikÆy"
+            },
+            " (",
+            {
+              "ref": "p:106403",
+              "text": "LousikAEy"
+            },
+            ")"
+          ]
         }
       ],
       "composer": [
@@ -42,11 +50,18 @@
       ],
       "arranger": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:106403",
-            "text": "LousikÆy"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "LousikÆy"
+            },
+            " (",
+            {
+              "ref": "p:106403",
+              "text": "LousikAEy"
+            },
+            ")"
+          ]
         },
         {
           "type": "person",
@@ -142,11 +157,18 @@
           }
         },
         {
-          "type": "person",
-          "person": {
-            "ref": "p:106403",
-            "text": "LousikÆy"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "LousikÆy"
+            },
+            " (",
+            {
+              "ref": "p:106403",
+              "text": "LousikAEy"
+            },
+            ")"
+          ]
         },
         {
           "type": "person",
@@ -167,11 +189,18 @@
       ],
       "arranger": [
         {
-          "type": "person",
-          "person": {
-            "ref": "p:106403",
-            "text": "LousikÆy"
-          }
+          "parts": [
+            {
+              "ref": null,
+              "text": "LousikÆy"
+            },
+            " (",
+            {
+              "ref": "p:106403",
+              "text": "LousikAEy"
+            },
+            ")"
+          ]
         },
         {
           "type": "person",
@@ -183,14 +212,12 @@
       ]
     }
   },
-  "epinfo": {},
   "rawPatches": {
     "editor": "艺术家：深空之眼(1-4)、勇仕音频(1-4)、Feather7(1)、LousikÆy (LousikAEy)(1,4)、Polymath9(2-4)\n作曲：Feather7(1)、Polymath9(2-4)\n编曲：LousikÆy (LousikAEy)(1,4)、Feather7(1)、Polymath9(4)"
   },
-  "subjectId": 734687,
   "_meta": {
     "submittedBy": "781929",
     "submittedUserGroup": 11,
-    "submittedAt": "2026-11-27T13:33:24.322Z"
+    "submittedAt": "2026-11-27T14:00:00.163Z"
   }
 }
