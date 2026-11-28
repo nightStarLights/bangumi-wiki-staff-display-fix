@@ -1,0 +1,337 @@
+{
+  "trackCredits": {
+    "1.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "園端石"
+          }
+        }
+      ]
+    },
+    "1.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "mucell"
+          }
+        }
+      ]
+    },
+    "1.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "赤坂んんん"
+          }
+        }
+      ]
+    },
+    "1.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "はやパン"
+          }
+        }
+      ]
+    },
+    "1.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "恋文"
+          }
+        }
+      ]
+    },
+    "1.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ro2noki"
+          }
+        }
+      ]
+    },
+    "1.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "水無月まーる"
+          }
+        }
+      ]
+    },
+    "1.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:73409",
+            "text": "稲むり"
+          }
+        }
+      ]
+    },
+    "1.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "いとーじ"
+          }
+        }
+      ]
+    },
+    "1.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "TENBIN"
+          }
+        }
+      ]
+    },
+    "1.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "ハサキトオル"
+          }
+        }
+      ]
+    },
+    "1.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Ninoni"
+          }
+        }
+      ]
+    },
+    "1.13": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "オヨイダキビス"
+          }
+        }
+      ]
+    },
+    "2.1": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:90398",
+            "text": "微円"
+          }
+        }
+      ]
+    },
+    "2.2": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "夜風見"
+          }
+        }
+      ]
+    },
+    "2.3": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:74207",
+            "text": "紅芽柏"
+          }
+        }
+      ]
+    },
+    "2.4": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "有部遼"
+          }
+        }
+      ]
+    },
+    "2.5": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "クシャミィ"
+          }
+        }
+      ]
+    },
+    "2.6": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:69418",
+            "text": "長谷川迷子"
+          }
+        }
+      ]
+    },
+    "2.7": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:71353",
+            "text": "おし怪"
+          }
+        }
+      ]
+    },
+    "2.8": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "空白void"
+          }
+        }
+      ]
+    },
+    "2.9": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:74175",
+            "text": "kawahaze"
+          }
+        }
+      ]
+    },
+    "2.10": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:55887",
+            "text": "音無あふ"
+          }
+        }
+      ]
+    },
+    "2.11": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:75895",
+            "text": "Aa"
+          }
+        }
+      ]
+    },
+    "2.12": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": "p:91389",
+            "text": "奏"
+          }
+        }
+      ]
+    },
+    "2.13": {
+      "artist": [
+        {
+          "type": "person",
+          "person": {
+            "ref": null,
+            "text": "Mealerrand"
+          }
+        }
+      ]
+    }
+  },
+  "epinfo": {
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "越前えだまろ"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "ぬんすけ"
+        }
+      }
+    ],
+    "mastering": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:71336",
+          "text": "Saku"
+        }
+      }
+    ],
+    "producer": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "TENBIN"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "制作人：TENBIN\n艺术家：園端石(1.1)、mucell(1.2)、赤坂んんん(1.3)、はやパン(1.4)、恋文(1.5)、Ro2noki(1.6)、水無月まーる(1.7)、稲むり(1.8)、いとーじ(1.9)、TENBIN(1.10)、ハサキトオル(1.11)、Ninoni(1.12)、オヨイダキビス(1.13)、微円(2.1)、夜風見(2.2)、紅芽柏(2.3)、有部遼(2.4)、クシャミィ(2.5)、長谷川迷子(2.6)、おし怪(2.7)、空白void(2.8)、kawahaze(2.9)、音無あふ(2.10)、Aa(2.11)、奏(2.12)、Mealerrand(2.13)\n母带制作：Saku\n插图：ぬんすけ\n设计：越前えだまろ"
+  },
+  "subjectId": 734987,
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-28T12:48:55.668Z"
+  }
+}
