@@ -1,0 +1,23 @@
+{
+  "trackCredits": {},
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "オヨイダキビス"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：オヨイダキビス"
+  },
+  "subjectId": 734978,
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-28T12:33:04.982Z"
+  }
+}
