@@ -1,0 +1,32 @@
+{
+  "trackCredits": {},
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69962",
+          "text": "KMNZ TINA"
+        }
+      }
+    ],
+    "arranger": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:65508",
+          "text": "ど～ぱみん"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：KMNZ TINA (ティナ)\n编曲：ど～ぱみん"
+  },
+  "subjectId": 734990,
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-28T13:10:18.865Z"
+  }
+}
