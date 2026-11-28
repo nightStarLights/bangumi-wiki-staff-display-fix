@@ -1,0 +1,47 @@
+{
+  "trackCredits": {},
+  "epinfo": {
+    "design": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "1106"
+        }
+      }
+    ],
+    "illustrator": [
+      {
+        "type": "person",
+        "person": {
+          "ref": null,
+          "text": "夏村"
+        }
+      }
+    ],
+    "artist": [
+      {
+        "parts": [
+          {
+            "ref": "p:82348",
+            "text": "Usagi3"
+          },
+          " & ",
+          {
+            "ref": null,
+            "text": "やまぐちより"
+          }
+        ]
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：《Usagi3 (うさぎ)》 & やまぐちより\n插图：夏村\n设计：1106"
+  },
+  "subjectId": 734979,
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-28T12:36:08.482Z"
+  }
+}
