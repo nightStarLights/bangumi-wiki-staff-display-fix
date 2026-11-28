@@ -1,0 +1,23 @@
+{
+  "trackCredits": {},
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:69020",
+          "text": "しいか"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：しいか"
+  },
+  "subjectId": 734977,
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-28T12:31:52.371Z"
+  }
+}
