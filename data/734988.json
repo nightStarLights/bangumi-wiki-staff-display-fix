@@ -1,0 +1,23 @@
+{
+  "trackCredits": {},
+  "epinfo": {
+    "artist": [
+      {
+        "type": "person",
+        "person": {
+          "ref": "p:91835",
+          "text": "miru"
+        }
+      }
+    ]
+  },
+  "rawPatches": {
+    "editor": "艺术家：miru"
+  },
+  "subjectId": 734988,
+  "_meta": {
+    "submittedBy": "459115",
+    "submittedUserGroup": 11,
+    "submittedAt": "2026-11-28T12:50:50.946Z"
+  }
+}
